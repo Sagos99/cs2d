@@ -1,0 +1,1056 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 12:23:17
+
+[12:23:17] UDP socket initialized using port 36963
+[12:23:17] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[12:23:17] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[12:23:17] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[12:23:17] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[12:23:18] Starting server...
+[12:23:18] load map 'de_dust2'
+[12:23:19] ----- Server started -----
+[12:23:19] Lua: Adding function 'teclas' to hook 'serveraction'
+[12:23:19] Lua: Adding function 'mile' to hook 'ms100'
+[12:23:19] U.S.G.N.: Serverlist entry updated
+[12:23:19] U.S.G.N.: Ping/State 'playing'
+[12:23:20] Sagos juntou-se a Countra-Terrorista Forças
+[12:24:05] U.S.G.N.: Serverlist entry updated
+[12:24:18] U.S.G.N.: null' (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[12:24:19] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[12:24:19] null' conectou-se
+[12:24:19] null' is using IP 177.185.53.199:57300 and U.S.G.N. ID #14465
+[12:24:20] U.S.G.N.: Ping/State 'playing'
+[12:24:22] null' juntou-se a Countra-Terrorista Forças
+[12:24:28] Sagos: tem uma q
+[12:24:36] Sagos: tenho q mata 1 player com essa arma aki
+[12:24:40] Error: player null' (#2) tries to select weapon which he does not own (wpn id 32)
+[12:24:44] Sagos killed null' with M249
+[12:24:48] Sagos: pronto 
+[12:24:51] U.S.G.N.: Serverlist entry updated
+[12:24:53] Sagos: vc ja fez essa?
+[12:24:57] null': qual ?
+[12:25:03] Sagos: matar alguem com a M249
+[12:25:14] null': ja em um GUN GAME
+[12:25:15] null': kkkkkkk
+[12:25:20] Sagos: kk
+[12:25:21] U.S.G.N.: Ping/State 'playing'
+[12:25:23] Sagos: vou ver outra
+[12:25:25] null': Cheguei la ja peguei lider
+[12:25:32] null': Level td mundo
+[12:25:36] U.S.G.N.: Serverlist entry updated
+[12:25:42] null': Eu consegui atigir nivel maximo
+[12:25:48] null': o server até deu Reset
+[12:25:49] null': kkkkk
+[12:26:03] Sagos: slk
+[12:26:21] U.S.G.N.: Ping/State 'playing'
+[12:26:21] U.S.G.N.: Serverlist entry updated
+[12:26:27] Sagos: tem uma izi 
+[12:26:30] Sagos: matar 666 zumbi
+[12:26:34] Sagos juntou-se a Survivors
+[12:26:34] null' juntou-se a Zombies
+[12:26:39] [b]Rob conectou-se
+[12:26:39] [b]Rob juntou-se a Zombies
+[12:26:39] [b]D0om conectou-se
+[12:26:39] [b]D0om juntou-se a Zombies
+[12:26:39] [b]Hacker_Little conectou-se
+[12:26:39] [b]Hacker_Little juntou-se a Zombies
+[12:26:39] [b]Stack Overflow conectou-se
+[12:26:39] [b]Stack Overflow juntou-se a Zombies
+[12:26:40] [b]Drone conectou-se
+[12:26:40] [b]Drone juntou-se a Zombies
+[12:26:40] [b]PlayWithWheel conectou-se
+[12:26:40] [b]PlayWithWheel juntou-se a Zombies
+[12:26:40] [b]pwn3d conectou-se
+[12:26:40] [b]pwn3d juntou-se a Zombies
+[12:26:40] [b]CS2D rocks! conectou-se
+[12:26:40] [b]CS2D rocks! juntou-se a Zombies
+[12:26:40] [b]LUL conectou-se
+[12:26:40] [b]LUL juntou-se a Zombies
+[12:26:41] [b]AgainstCheaters conectou-se
+[12:26:41] [b]AgainstCheaters juntou-se a Zombies
+[12:26:41] [b]Mac Man conectou-se
+[12:26:41] [b]Mac Man juntou-se a Zombies
+[12:26:41] [b]Jack conectou-se
+[12:26:41] [b]Jack juntou-se a Zombies
+[12:26:41] [b]WAR! conectou-se
+[12:26:41] [b]WAR! juntou-se a Zombies
+[12:26:41] [b]PlayWithOculusRift conectou-se
+[12:26:41] [b]PlayWithOculusRift juntou-se a Zombies
+[12:26:41] [b]Steve conectou-se
+[12:26:41] [b]Steve juntou-se a Zombies
+[12:26:41] [b]Ping of Death conectou-se
+[12:26:41] [b]Ping of Death juntou-se a Zombies
+[12:26:42] [b]0_o conectou-se
+[12:26:42] [b]0_o juntou-se a Zombies
+[12:26:42] [b]Infernal conectou-se
+[12:26:42] [b]Infernal juntou-se a Zombies
+[12:26:42] [b]Robo conectou-se
+[12:26:42] [b]Robo juntou-se a Zombies
+[12:26:42] [b]Uber AI conectou-se
+[12:26:42] [b]Uber AI juntou-se a Zombies
+[12:26:42] [b]CS2D.com conectou-se
+[12:26:42] [b]CS2D.com juntou-se a Zombies
+[12:26:43] [b]Rogue conectou-se
+[12:26:43] [b]Rogue juntou-se a Zombies
+[12:26:43] [b]Soldier conectou-se
+[12:26:43] [b]Soldier juntou-se a Zombies
+[12:26:43] [b]NoIntelligence conectou-se
+[12:26:43] [b]NoIntelligence juntou-se a Zombies
+[12:26:43] [b]ROFLCopter conectou-se
+[12:26:43] [b]ROFLCopter juntou-se a Zombies
+[12:26:43] [b]Executor conectou-se
+[12:26:43] [b]Executor juntou-se a Zombies
+[12:26:43] [b]HE Overkill conectou-se
+[12:26:43] [b]HE Overkill juntou-se a Zombies
+[12:26:44] [b]The Bullet conectou-se
+[12:26:44] [b]The Bullet juntou-se a Zombies
+[12:26:44] [b]fucktard conectou-se
+[12:26:44] [b]fucktard juntou-se a Zombies
+[12:26:44] [b]pwner0r conectou-se
+[12:26:44] [b]pwner0r juntou-se a Zombies
+[12:26:50] null' died
+[12:26:50] null' juntou-se a Survivors
+[12:26:53] Sagos killed [b]Rob with Conquista
+[12:26:53] Sagos killed [b]D0om with Conquista
+[12:26:53] Sagos killed [b]Hacker_Little with Conquista
+[12:26:53] Sagos killed [b]Stack Overflow with Conquista
+[12:26:53] Sagos killed [b]Drone with Conquista
+[12:26:53] Sagos killed [b]PlayWithWheel with Conquista
+[12:26:53] Sagos killed [b]pwn3d with Conquista
+[12:26:53] Sagos killed [b]CS2D rocks! with Conquista
+[12:26:53] Sagos killed [b]LUL with Conquista
+[12:26:53] Sagos killed [b]AgainstCheaters with Conquista
+[12:26:53] Sagos killed [b]Mac Man with Conquista
+[12:26:53] Sagos killed [b]Jack with Conquista
+[12:26:53] Sagos killed [b]WAR! with Conquista
+[12:26:53] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:26:53] Sagos killed [b]Steve with Conquista
+[12:26:53] Sagos killed [b]Ping of Death with Conquista
+[12:26:53] Sagos killed [b]0_o with Conquista
+[12:26:53] Sagos killed [b]Infernal with Conquista
+[12:26:53] Sagos killed [b]Robo with Conquista
+[12:26:53] Sagos killed [b]Uber AI with Conquista
+[12:26:53] Sagos killed [b]CS2D.com with Conquista
+[12:26:53] Sagos killed [b]Rogue with Conquista
+[12:26:53] Sagos killed [b]Soldier with Conquista
+[12:26:53] Sagos killed [b]NoIntelligence with Conquista
+[12:26:53] Sagos killed [b]ROFLCopter with Conquista
+[12:26:53] Sagos killed [b]Executor with Conquista
+[12:26:53] Sagos killed [b]HE Overkill with Conquista
+[12:26:53] Sagos killed [b]The Bullet with Conquista
+[12:26:53] Sagos killed [b]fucktard with Conquista
+[12:26:53] Sagos killed [b]pwner0r with Conquista
+[12:26:54] Sagos killed [b]Rob with Conquista
+[12:26:54] Sagos killed [b]D0om with Conquista
+[12:26:54] Sagos killed [b]Hacker_Little with Conquista
+[12:26:54] Sagos killed [b]Stack Overflow with Conquista
+[12:26:54] Sagos killed [b]Drone with Conquista
+[12:26:54] Sagos killed [b]PlayWithWheel with Conquista
+[12:26:54] Sagos killed [b]pwn3d with Conquista
+[12:26:54] Sagos killed [b]CS2D rocks! with Conquista
+[12:26:54] Sagos killed [b]LUL with Conquista
+[12:26:54] Sagos killed [b]AgainstCheaters with Conquista
+[12:26:54] Sagos killed [b]Mac Man with Conquista
+[12:26:54] Sagos killed [b]Jack with Conquista
+[12:26:54] Sagos killed [b]WAR! with Conquista
+[12:26:54] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:26:54] Sagos killed [b]Steve with Conquista
+[12:26:54] Sagos killed [b]Ping of Death with Conquista
+[12:26:54] Sagos killed [b]0_o with Conquista
+[12:26:54] Sagos killed [b]Infernal with Conquista
+[12:26:54] Sagos killed [b]Robo with Conquista
+[12:26:54] Sagos killed [b]Uber AI with Conquista
+[12:26:54] Sagos killed [b]CS2D.com with Conquista
+[12:26:54] Sagos killed [b]Rogue with Conquista
+[12:26:54] Sagos killed [b]Soldier with Conquista
+[12:26:54] Sagos killed [b]NoIntelligence with Conquista
+[12:26:54] Sagos killed [b]ROFLCopter with Conquista
+[12:26:54] Sagos killed [b]Executor with Conquista
+[12:26:54] Sagos killed [b]HE Overkill with Conquista
+[12:26:54] Sagos killed [b]The Bullet with Conquista
+[12:26:54] Sagos killed [b]fucktard with Conquista
+[12:26:54] Sagos killed [b]pwner0r with Conquista
+[12:26:55] Sagos killed [b]Rob with Conquista
+[12:26:55] Sagos killed [b]D0om with Conquista
+[12:26:55] Sagos killed [b]Hacker_Little with Conquista
+[12:26:55] Sagos killed [b]Stack Overflow with Conquista
+[12:26:55] Sagos killed [b]Drone with Conquista
+[12:26:55] Sagos killed [b]PlayWithWheel with Conquista
+[12:26:55] Sagos killed [b]pwn3d with Conquista
+[12:26:55] Sagos killed [b]CS2D rocks! with Conquista
+[12:26:55] Sagos killed [b]LUL with Conquista
+[12:26:55] Sagos killed [b]AgainstCheaters with Conquista
+[12:26:55] Sagos killed [b]Mac Man with Conquista
+[12:26:55] Sagos killed [b]Jack with Conquista
+[12:26:55] Sagos killed [b]WAR! with Conquista
+[12:26:55] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:26:55] Sagos killed [b]Steve with Conquista
+[12:26:55] Sagos killed [b]Ping of Death with Conquista
+[12:26:55] Sagos killed [b]0_o with Conquista
+[12:26:55] Sagos killed [b]Infernal with Conquista
+[12:26:55] Sagos killed [b]Robo with Conquista
+[12:26:55] Sagos killed [b]Uber AI with Conquista
+[12:26:55] Sagos killed [b]CS2D.com with Conquista
+[12:26:55] Sagos killed [b]Rogue with Conquista
+[12:26:55] Sagos killed [b]Soldier with Conquista
+[12:26:55] Sagos killed [b]NoIntelligence with Conquista
+[12:26:55] Sagos killed [b]ROFLCopter with Conquista
+[12:26:55] Sagos killed [b]Executor with Conquista
+[12:26:55] Sagos killed [b]HE Overkill with Conquista
+[12:26:55] Sagos killed [b]The Bullet with Conquista
+[12:26:55] Sagos killed [b]fucktard with Conquista
+[12:26:55] Sagos killed [b]pwner0r with Conquista
+[12:26:56] Sagos killed [b]Rob with Conquista
+[12:26:56] Sagos killed [b]D0om with Conquista
+[12:26:56] Sagos killed [b]Hacker_Little with Conquista
+[12:26:56] Sagos killed [b]Stack Overflow with Conquista
+[12:26:56] Sagos killed [b]Drone with Conquista
+[12:26:56] Sagos killed [b]PlayWithWheel with Conquista
+[12:26:56] Sagos killed [b]pwn3d with Conquista
+[12:26:56] Sagos killed [b]CS2D rocks! with Conquista
+[12:26:56] Sagos killed [b]LUL with Conquista
+[12:26:56] Sagos killed [b]AgainstCheaters with Conquista
+[12:26:56] Sagos killed [b]Mac Man with Conquista
+[12:26:56] Sagos killed [b]Jack with Conquista
+[12:26:56] Sagos killed [b]WAR! with Conquista
+[12:26:56] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:26:56] Sagos killed [b]Steve with Conquista
+[12:26:56] Sagos killed [b]Ping of Death with Conquista
+[12:26:56] Sagos killed [b]0_o with Conquista
+[12:26:56] Sagos killed [b]Infernal with Conquista
+[12:26:56] Sagos killed [b]Robo with Conquista
+[12:26:56] Sagos killed [b]Uber AI with Conquista
+[12:26:56] Sagos killed [b]CS2D.com with Conquista
+[12:26:56] Sagos killed [b]Rogue with Conquista
+[12:26:56] Sagos killed [b]Soldier with Conquista
+[12:26:56] Sagos killed [b]NoIntelligence with Conquista
+[12:26:56] Sagos killed [b]ROFLCopter with Conquista
+[12:26:56] Sagos killed [b]Executor with Conquista
+[12:26:56] Sagos killed [b]HE Overkill with Conquista
+[12:26:56] Sagos killed [b]The Bullet with Conquista
+[12:26:56] Sagos killed [b]fucktard with Conquista
+[12:26:56] Sagos killed [b]pwner0r with Conquista
+[12:26:57] Sagos killed [b]Rob with Conquista
+[12:26:57] Sagos killed [b]D0om with Conquista
+[12:26:57] Sagos killed [b]Hacker_Little with Conquista
+[12:26:57] Sagos killed [b]Stack Overflow with Conquista
+[12:26:57] Sagos killed [b]Drone with Conquista
+[12:26:57] Sagos killed [b]PlayWithWheel with Conquista
+[12:26:57] Sagos killed [b]pwn3d with Conquista
+[12:26:57] Sagos killed [b]CS2D rocks! with Conquista
+[12:26:57] Sagos killed [b]LUL with Conquista
+[12:26:57] Sagos killed [b]AgainstCheaters with Conquista
+[12:26:57] Sagos killed [b]Mac Man with Conquista
+[12:26:57] Sagos killed [b]Jack with Conquista
+[12:26:57] Sagos killed [b]WAR! with Conquista
+[12:26:57] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:26:57] Sagos killed [b]Steve with Conquista
+[12:26:57] Sagos killed [b]Ping of Death with Conquista
+[12:26:57] Sagos killed [b]0_o with Conquista
+[12:26:57] Sagos killed [b]Infernal with Conquista
+[12:26:57] Sagos killed [b]Robo with Conquista
+[12:26:57] Sagos killed [b]Uber AI with Conquista
+[12:26:57] Sagos killed [b]CS2D.com with Conquista
+[12:26:57] Sagos killed [b]Rogue with Conquista
+[12:26:57] Sagos killed [b]Soldier with Conquista
+[12:26:57] Sagos killed [b]NoIntelligence with Conquista
+[12:26:57] Sagos killed [b]ROFLCopter with Conquista
+[12:26:57] Sagos killed [b]Executor with Conquista
+[12:26:57] Sagos killed [b]HE Overkill with Conquista
+[12:26:57] Sagos killed [b]The Bullet with Conquista
+[12:26:57] Sagos killed [b]fucktard with Conquista
+[12:26:57] Sagos killed [b]pwner0r with Conquista
+[12:26:58] Sagos killed [b]Rob with Conquista
+[12:26:58] Sagos killed [b]D0om with Conquista
+[12:26:58] Sagos killed [b]Hacker_Little with Conquista
+[12:26:58] Sagos killed [b]Stack Overflow with Conquista
+[12:26:58] Sagos killed [b]Drone with Conquista
+[12:26:58] Sagos killed [b]PlayWithWheel with Conquista
+[12:26:58] Sagos killed [b]pwn3d with Conquista
+[12:26:58] Sagos killed [b]CS2D rocks! with Conquista
+[12:26:58] Sagos killed [b]LUL with Conquista
+[12:26:58] Sagos killed [b]AgainstCheaters with Conquista
+[12:26:58] Sagos killed [b]Mac Man with Conquista
+[12:26:58] Sagos killed [b]Jack with Conquista
+[12:26:58] Sagos killed [b]WAR! with Conquista
+[12:26:58] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:26:58] Sagos killed [b]Steve with Conquista
+[12:26:58] Sagos killed [b]Ping of Death with Conquista
+[12:26:58] Sagos killed [b]0_o with Conquista
+[12:26:58] Sagos killed [b]Infernal with Conquista
+[12:26:58] Sagos killed [b]Robo with Conquista
+[12:26:58] Sagos killed [b]Uber AI with Conquista
+[12:26:58] Sagos killed [b]CS2D.com with Conquista
+[12:26:58] Sagos killed [b]Rogue with Conquista
+[12:26:58] Sagos killed [b]Soldier with Conquista
+[12:26:58] Sagos killed [b]NoIntelligence with Conquista
+[12:26:58] Sagos killed [b]ROFLCopter with Conquista
+[12:26:58] Sagos killed [b]Executor with Conquista
+[12:26:58] Sagos killed [b]HE Overkill with Conquista
+[12:26:58] Sagos killed [b]The Bullet with Conquista
+[12:26:58] Sagos killed [b]fucktard with Conquista
+[12:26:58] Sagos killed [b]pwner0r with Conquista
+[12:26:59] Sagos killed [b]Rob with Conquista
+[12:26:59] Sagos killed [b]D0om with Conquista
+[12:26:59] Sagos killed [b]Hacker_Little with Conquista
+[12:26:59] Sagos killed [b]Stack Overflow with Conquista
+[12:26:59] Sagos killed [b]Drone with Conquista
+[12:26:59] Sagos killed [b]PlayWithWheel with Conquista
+[12:26:59] Sagos killed [b]pwn3d with Conquista
+[12:26:59] Sagos killed [b]CS2D rocks! with Conquista
+[12:26:59] Sagos killed [b]LUL with Conquista
+[12:26:59] Sagos killed [b]AgainstCheaters with Conquista
+[12:26:59] Sagos killed [b]Mac Man with Conquista
+[12:26:59] Sagos killed [b]Jack with Conquista
+[12:26:59] Sagos killed [b]WAR! with Conquista
+[12:26:59] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:26:59] Sagos killed [b]Steve with Conquista
+[12:26:59] Sagos killed [b]Ping of Death with Conquista
+[12:26:59] Sagos killed [b]0_o with Conquista
+[12:26:59] Sagos killed [b]Infernal with Conquista
+[12:26:59] Sagos killed [b]Robo with Conquista
+[12:26:59] Sagos killed [b]Uber AI with Conquista
+[12:26:59] Sagos killed [b]CS2D.com with Conquista
+[12:26:59] Sagos killed [b]Rogue with Conquista
+[12:26:59] Sagos killed [b]Soldier with Conquista
+[12:26:59] Sagos killed [b]NoIntelligence with Conquista
+[12:26:59] Sagos killed [b]ROFLCopter with Conquista
+[12:26:59] Sagos killed [b]Executor with Conquista
+[12:26:59] Sagos killed [b]HE Overkill with Conquista
+[12:26:59] Sagos killed [b]The Bullet with Conquista
+[12:26:59] Sagos killed [b]fucktard with Conquista
+[12:26:59] Sagos killed [b]pwner0r with Conquista
+[12:27:00] Sagos killed [b]Rob with Conquista
+[12:27:00] Sagos killed [b]D0om with Conquista
+[12:27:00] Sagos killed [b]Hacker_Little with Conquista
+[12:27:00] Sagos killed [b]Stack Overflow with Conquista
+[12:27:00] Sagos killed [b]Drone with Conquista
+[12:27:00] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:00] Sagos killed [b]pwn3d with Conquista
+[12:27:00] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:00] Sagos killed [b]LUL with Conquista
+[12:27:00] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:00] Sagos killed [b]Mac Man with Conquista
+[12:27:00] Sagos killed [b]Jack with Conquista
+[12:27:00] Sagos killed [b]WAR! with Conquista
+[12:27:00] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:00] Sagos killed [b]Steve with Conquista
+[12:27:00] Sagos killed [b]Ping of Death with Conquista
+[12:27:00] Sagos killed [b]0_o with Conquista
+[12:27:00] Sagos killed [b]Infernal with Conquista
+[12:27:00] Sagos killed [b]Robo with Conquista
+[12:27:00] Sagos killed [b]Uber AI with Conquista
+[12:27:00] Sagos killed [b]CS2D.com with Conquista
+[12:27:00] Sagos killed [b]Rogue with Conquista
+[12:27:00] Sagos killed [b]Soldier with Conquista
+[12:27:00] Sagos killed [b]NoIntelligence with Conquista
+[12:27:00] Sagos killed [b]ROFLCopter with Conquista
+[12:27:00] Sagos killed [b]Executor with Conquista
+[12:27:00] Sagos killed [b]HE Overkill with Conquista
+[12:27:00] Sagos killed [b]The Bullet with Conquista
+[12:27:00] Sagos killed [b]fucktard with Conquista
+[12:27:00] Sagos killed [b]pwner0r with Conquista
+[12:27:01] Sagos killed [b]Rob with Conquista
+[12:27:01] Sagos killed [b]D0om with Conquista
+[12:27:01] Sagos killed [b]Hacker_Little with Conquista
+[12:27:01] Sagos killed [b]Stack Overflow with Conquista
+[12:27:01] Sagos killed [b]Drone with Conquista
+[12:27:01] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:01] Sagos killed [b]pwn3d with Conquista
+[12:27:01] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:01] Sagos killed [b]LUL with Conquista
+[12:27:01] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:01] Sagos killed [b]Mac Man with Conquista
+[12:27:01] Sagos killed [b]Jack with Conquista
+[12:27:01] Sagos killed [b]WAR! with Conquista
+[12:27:01] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:01] Sagos killed [b]Steve with Conquista
+[12:27:01] Sagos killed [b]Ping of Death with Conquista
+[12:27:01] Sagos killed [b]0_o with Conquista
+[12:27:01] Sagos killed [b]Infernal with Conquista
+[12:27:01] Sagos killed [b]Robo with Conquista
+[12:27:01] Sagos killed [b]Uber AI with Conquista
+[12:27:01] Sagos killed [b]CS2D.com with Conquista
+[12:27:01] Sagos killed [b]Rogue with Conquista
+[12:27:01] Sagos killed [b]Soldier with Conquista
+[12:27:01] Sagos killed [b]NoIntelligence with Conquista
+[12:27:01] Sagos killed [b]ROFLCopter with Conquista
+[12:27:01] Sagos killed [b]Executor with Conquista
+[12:27:01] Sagos killed [b]HE Overkill with Conquista
+[12:27:01] Sagos killed [b]The Bullet with Conquista
+[12:27:01] Sagos killed [b]fucktard with Conquista
+[12:27:01] Sagos killed [b]pwner0r with Conquista
+[12:27:02] Sagos killed [b]Rob with Conquista
+[12:27:02] Sagos killed [b]D0om with Conquista
+[12:27:02] Sagos killed [b]Hacker_Little with Conquista
+[12:27:02] Sagos killed [b]Stack Overflow with Conquista
+[12:27:02] Sagos killed [b]Drone with Conquista
+[12:27:02] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:02] Sagos killed [b]pwn3d with Conquista
+[12:27:02] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:02] Sagos killed [b]LUL with Conquista
+[12:27:02] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:02] Sagos killed [b]Mac Man with Conquista
+[12:27:02] Sagos killed [b]Jack with Conquista
+[12:27:02] Sagos killed [b]WAR! with Conquista
+[12:27:02] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:02] Sagos killed [b]Steve with Conquista
+[12:27:02] Sagos killed [b]Ping of Death with Conquista
+[12:27:02] Sagos killed [b]0_o with Conquista
+[12:27:02] Sagos killed [b]Infernal with Conquista
+[12:27:02] Sagos killed [b]Robo with Conquista
+[12:27:02] Sagos killed [b]Uber AI with Conquista
+[12:27:02] Sagos killed [b]CS2D.com with Conquista
+[12:27:02] Sagos killed [b]Rogue with Conquista
+[12:27:02] Sagos killed [b]Soldier with Conquista
+[12:27:02] Sagos killed [b]NoIntelligence with Conquista
+[12:27:02] Sagos killed [b]ROFLCopter with Conquista
+[12:27:02] Sagos killed [b]Executor with Conquista
+[12:27:02] Sagos killed [b]HE Overkill with Conquista
+[12:27:02] Sagos killed [b]The Bullet with Conquista
+[12:27:02] Sagos killed [b]fucktard with Conquista
+[12:27:02] Sagos killed [b]pwner0r with Conquista
+[12:27:03] Sagos killed [b]Rob with Conquista
+[12:27:03] Sagos killed [b]D0om with Conquista
+[12:27:03] Sagos killed [b]Hacker_Little with Conquista
+[12:27:03] Sagos killed [b]Stack Overflow with Conquista
+[12:27:03] Sagos killed [b]Drone with Conquista
+[12:27:03] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:03] Sagos killed [b]pwn3d with Conquista
+[12:27:03] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:03] Sagos killed [b]LUL with Conquista
+[12:27:03] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:03] Sagos killed [b]Mac Man with Conquista
+[12:27:03] Sagos killed [b]Jack with Conquista
+[12:27:03] Sagos killed [b]WAR! with Conquista
+[12:27:03] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:03] Sagos killed [b]Steve with Conquista
+[12:27:03] Sagos killed [b]Ping of Death with Conquista
+[12:27:03] Sagos killed [b]0_o with Conquista
+[12:27:03] Sagos killed [b]Infernal with Conquista
+[12:27:03] Sagos killed [b]Robo with Conquista
+[12:27:03] Sagos killed [b]Uber AI with Conquista
+[12:27:03] Sagos killed [b]CS2D.com with Conquista
+[12:27:03] Sagos killed [b]Rogue with Conquista
+[12:27:03] Sagos killed [b]Soldier with Conquista
+[12:27:03] Sagos killed [b]NoIntelligence with Conquista
+[12:27:03] Sagos killed [b]ROFLCopter with Conquista
+[12:27:03] Sagos killed [b]Executor with Conquista
+[12:27:03] Sagos killed [b]HE Overkill with Conquista
+[12:27:03] Sagos killed [b]The Bullet with Conquista
+[12:27:03] Sagos killed [b]fucktard with Conquista
+[12:27:03] Sagos killed [b]pwner0r with Conquista
+[12:27:04] Sagos killed [b]Rob with Conquista
+[12:27:04] Sagos killed [b]D0om with Conquista
+[12:27:04] Sagos killed [b]Hacker_Little with Conquista
+[12:27:04] Sagos killed [b]Stack Overflow with Conquista
+[12:27:04] Sagos killed [b]Drone with Conquista
+[12:27:04] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:04] Sagos killed [b]pwn3d with Conquista
+[12:27:04] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:04] Sagos killed [b]LUL with Conquista
+[12:27:04] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:04] Sagos killed [b]Mac Man with Conquista
+[12:27:04] Sagos killed [b]Jack with Conquista
+[12:27:04] Sagos killed [b]WAR! with Conquista
+[12:27:04] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:04] Sagos killed [b]Steve with Conquista
+[12:27:04] Sagos killed [b]Ping of Death with Conquista
+[12:27:04] Sagos killed [b]0_o with Conquista
+[12:27:04] Sagos killed [b]Infernal with Conquista
+[12:27:04] Sagos killed [b]Robo with Conquista
+[12:27:04] Sagos killed [b]Uber AI with Conquista
+[12:27:04] Sagos killed [b]CS2D.com with Conquista
+[12:27:04] Sagos killed [b]Rogue with Conquista
+[12:27:04] Sagos killed [b]Soldier with Conquista
+[12:27:04] Sagos killed [b]NoIntelligence with Conquista
+[12:27:04] Sagos killed [b]ROFLCopter with Conquista
+[12:27:04] Sagos killed [b]Executor with Conquista
+[12:27:04] Sagos killed [b]HE Overkill with Conquista
+[12:27:04] Sagos killed [b]The Bullet with Conquista
+[12:27:04] Sagos killed [b]fucktard with Conquista
+[12:27:04] Sagos killed [b]pwner0r with Conquista
+[12:27:05] Sagos: kk
+[12:27:05] Sagos killed [b]Rob with Conquista
+[12:27:05] Sagos killed [b]D0om with Conquista
+[12:27:05] Sagos killed [b]Hacker_Little with Conquista
+[12:27:05] Sagos killed [b]Stack Overflow with Conquista
+[12:27:05] Sagos killed [b]Drone with Conquista
+[12:27:05] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:05] Sagos killed [b]pwn3d with Conquista
+[12:27:05] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:05] Sagos killed [b]LUL with Conquista
+[12:27:05] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:05] Sagos killed [b]Mac Man with Conquista
+[12:27:05] Sagos killed [b]Jack with Conquista
+[12:27:05] Sagos killed [b]WAR! with Conquista
+[12:27:05] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:05] Sagos killed [b]Steve with Conquista
+[12:27:05] Sagos killed [b]Ping of Death with Conquista
+[12:27:05] Sagos killed [b]0_o with Conquista
+[12:27:05] Sagos killed [b]Infernal with Conquista
+[12:27:05] Sagos killed [b]Robo with Conquista
+[12:27:05] Sagos killed [b]Uber AI with Conquista
+[12:27:05] Sagos killed [b]CS2D.com with Conquista
+[12:27:05] Sagos killed [b]Rogue with Conquista
+[12:27:05] Sagos killed [b]Soldier with Conquista
+[12:27:05] Sagos killed [b]NoIntelligence with Conquista
+[12:27:05] Sagos killed [b]ROFLCopter with Conquista
+[12:27:05] Sagos killed [b]Executor with Conquista
+[12:27:05] Sagos killed [b]HE Overkill with Conquista
+[12:27:05] Sagos killed [b]The Bullet with Conquista
+[12:27:05] Sagos killed [b]fucktard with Conquista
+[12:27:05] Sagos killed [b]pwner0r with Conquista
+[12:27:06] Sagos killed [b]Rob with Conquista
+[12:27:06] Sagos killed [b]D0om with Conquista
+[12:27:06] Sagos killed [b]Hacker_Little with Conquista
+[12:27:06] Sagos killed [b]Stack Overflow with Conquista
+[12:27:06] Sagos killed [b]Drone with Conquista
+[12:27:06] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:06] Sagos killed [b]pwn3d with Conquista
+[12:27:06] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:06] Sagos killed [b]LUL with Conquista
+[12:27:06] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:06] Sagos killed [b]Mac Man with Conquista
+[12:27:06] Sagos killed [b]Jack with Conquista
+[12:27:06] Sagos killed [b]WAR! with Conquista
+[12:27:06] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:06] Sagos killed [b]Steve with Conquista
+[12:27:06] Sagos killed [b]Ping of Death with Conquista
+[12:27:06] Sagos killed [b]0_o with Conquista
+[12:27:06] Sagos killed [b]Infernal with Conquista
+[12:27:06] Sagos killed [b]Robo with Conquista
+[12:27:06] Sagos killed [b]Uber AI with Conquista
+[12:27:06] Sagos killed [b]CS2D.com with Conquista
+[12:27:06] Sagos killed [b]Rogue with Conquista
+[12:27:06] Sagos killed [b]Soldier with Conquista
+[12:27:06] Sagos killed [b]NoIntelligence with Conquista
+[12:27:06] Sagos killed [b]ROFLCopter with Conquista
+[12:27:06] Sagos killed [b]Executor with Conquista
+[12:27:06] Sagos killed [b]HE Overkill with Conquista
+[12:27:06] Sagos killed [b]The Bullet with Conquista
+[12:27:06] Sagos killed [b]fucktard with Conquista
+[12:27:06] Sagos killed [b]pwner0r with Conquista
+[12:27:07] Sagos killed [b]Rob with Conquista
+[12:27:07] Sagos killed [b]D0om with Conquista
+[12:27:07] Sagos killed [b]Hacker_Little with Conquista
+[12:27:07] Sagos killed [b]Stack Overflow with Conquista
+[12:27:07] Sagos killed [b]Drone with Conquista
+[12:27:07] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:07] Sagos killed [b]pwn3d with Conquista
+[12:27:07] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:07] Sagos killed [b]LUL with Conquista
+[12:27:07] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:07] Sagos killed [b]Mac Man with Conquista
+[12:27:07] Sagos killed [b]Jack with Conquista
+[12:27:07] Sagos killed [b]WAR! with Conquista
+[12:27:07] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:07] Sagos killed [b]Steve with Conquista
+[12:27:07] Sagos killed [b]Ping of Death with Conquista
+[12:27:07] Sagos killed [b]0_o with Conquista
+[12:27:07] Sagos killed [b]Infernal with Conquista
+[12:27:07] Sagos killed [b]Robo with Conquista
+[12:27:07] Sagos killed [b]Uber AI with Conquista
+[12:27:07] Sagos killed [b]CS2D.com with Conquista
+[12:27:07] Sagos killed [b]Rogue with Conquista
+[12:27:07] Sagos killed [b]Soldier with Conquista
+[12:27:07] Sagos killed [b]NoIntelligence with Conquista
+[12:27:07] Sagos killed [b]ROFLCopter with Conquista
+[12:27:07] Sagos killed [b]Executor with Conquista
+[12:27:07] Sagos killed [b]HE Overkill with Conquista
+[12:27:07] Sagos killed [b]The Bullet with Conquista
+[12:27:07] Sagos killed [b]fucktard with Conquista
+[12:27:07] Sagos killed [b]pwner0r with Conquista
+[12:27:08] Sagos killed [b]Rob with Conquista
+[12:27:08] Sagos killed [b]D0om with Conquista
+[12:27:08] Sagos killed [b]Hacker_Little with Conquista
+[12:27:08] Sagos killed [b]Stack Overflow with Conquista
+[12:27:08] Sagos killed [b]Drone with Conquista
+[12:27:08] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:08] Sagos killed [b]pwn3d with Conquista
+[12:27:08] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:08] Sagos killed [b]LUL with Conquista
+[12:27:08] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:08] Sagos killed [b]Mac Man with Conquista
+[12:27:08] Sagos killed [b]Jack with Conquista
+[12:27:08] Sagos killed [b]WAR! with Conquista
+[12:27:08] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:08] Sagos killed [b]Steve with Conquista
+[12:27:08] Sagos killed [b]Ping of Death with Conquista
+[12:27:08] Sagos killed [b]0_o with Conquista
+[12:27:08] Sagos killed [b]Infernal with Conquista
+[12:27:08] Sagos killed [b]Robo with Conquista
+[12:27:08] Sagos killed [b]Uber AI with Conquista
+[12:27:08] Sagos killed [b]CS2D.com with Conquista
+[12:27:08] Sagos killed [b]Rogue with Conquista
+[12:27:08] Sagos killed [b]Soldier with Conquista
+[12:27:08] Sagos killed [b]NoIntelligence with Conquista
+[12:27:08] Sagos killed [b]ROFLCopter with Conquista
+[12:27:08] Sagos killed [b]Executor with Conquista
+[12:27:08] Sagos killed [b]HE Overkill with Conquista
+[12:27:08] Sagos killed [b]The Bullet with Conquista
+[12:27:08] Sagos killed [b]fucktard with Conquista
+[12:27:08] Sagos killed [b]pwner0r with Conquista
+[12:27:09] Sagos killed [b]Rob with Conquista
+[12:27:09] Sagos killed [b]D0om with Conquista
+[12:27:09] Sagos killed [b]Hacker_Little with Conquista
+[12:27:09] Sagos killed [b]Stack Overflow with Conquista
+[12:27:09] Sagos killed [b]Drone with Conquista
+[12:27:09] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:09] Sagos killed [b]pwn3d with Conquista
+[12:27:09] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:09] Sagos killed [b]LUL with Conquista
+[12:27:09] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:09] Sagos killed [b]Mac Man with Conquista
+[12:27:09] Sagos killed [b]Jack with Conquista
+[12:27:09] Sagos killed [b]WAR! with Conquista
+[12:27:09] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:09] Sagos killed [b]Steve with Conquista
+[12:27:09] Sagos killed [b]Ping of Death with Conquista
+[12:27:09] Sagos killed [b]0_o with Conquista
+[12:27:09] Sagos killed [b]Infernal with Conquista
+[12:27:09] Sagos killed [b]Robo with Conquista
+[12:27:09] Sagos killed [b]Uber AI with Conquista
+[12:27:09] Sagos killed [b]CS2D.com with Conquista
+[12:27:09] Sagos killed [b]Rogue with Conquista
+[12:27:09] Sagos killed [b]Soldier with Conquista
+[12:27:09] Sagos killed [b]NoIntelligence with Conquista
+[12:27:09] Sagos killed [b]ROFLCopter with Conquista
+[12:27:09] Sagos killed [b]Executor with Conquista
+[12:27:09] Sagos killed [b]HE Overkill with Conquista
+[12:27:09] Sagos killed [b]The Bullet with Conquista
+[12:27:09] Sagos killed [b]fucktard with Conquista
+[12:27:09] Sagos killed [b]pwner0r with Conquista
+[12:27:09] Sagos: daqui a pouco eu pego
+[12:27:10] Sagos killed [b]Rob with Conquista
+[12:27:10] Sagos killed [b]D0om with Conquista
+[12:27:10] Sagos killed [b]Hacker_Little with Conquista
+[12:27:10] Sagos killed [b]Stack Overflow with Conquista
+[12:27:10] Sagos killed [b]Drone with Conquista
+[12:27:10] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:10] Sagos killed [b]pwn3d with Conquista
+[12:27:10] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:10] Sagos killed [b]LUL with Conquista
+[12:27:10] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:10] Sagos killed [b]Mac Man with Conquista
+[12:27:10] Sagos killed [b]Jack with Conquista
+[12:27:10] Sagos killed [b]WAR! with Conquista
+[12:27:10] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:10] Sagos killed [b]Steve with Conquista
+[12:27:10] Sagos killed [b]Ping of Death with Conquista
+[12:27:10] Sagos killed [b]0_o with Conquista
+[12:27:10] Sagos killed [b]Infernal with Conquista
+[12:27:10] Sagos killed [b]Robo with Conquista
+[12:27:10] Sagos killed [b]Uber AI with Conquista
+[12:27:10] Sagos killed [b]CS2D.com with Conquista
+[12:27:10] Sagos killed [b]Rogue with Conquista
+[12:27:10] Sagos killed [b]Soldier with Conquista
+[12:27:10] Sagos killed [b]NoIntelligence with Conquista
+[12:27:10] Sagos killed [b]ROFLCopter with Conquista
+[12:27:10] Sagos killed [b]Executor with Conquista
+[12:27:10] Sagos killed [b]HE Overkill with Conquista
+[12:27:10] Sagos killed [b]The Bullet with Conquista
+[12:27:10] Sagos killed [b]fucktard with Conquista
+[12:27:10] Sagos killed [b]pwner0r with Conquista
+[12:27:11] Sagos killed [b]Rob with Conquista
+[12:27:11] Sagos killed [b]D0om with Conquista
+[12:27:11] Sagos killed [b]Hacker_Little with Conquista
+[12:27:11] Sagos killed [b]Stack Overflow with Conquista
+[12:27:11] Sagos killed [b]Drone with Conquista
+[12:27:11] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:11] Sagos killed [b]pwn3d with Conquista
+[12:27:11] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:11] Sagos killed [b]LUL with Conquista
+[12:27:11] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:11] Sagos killed [b]Mac Man with Conquista
+[12:27:11] Sagos killed [b]Jack with Conquista
+[12:27:11] Sagos killed [b]WAR! with Conquista
+[12:27:11] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:11] Sagos killed [b]Steve with Conquista
+[12:27:11] Sagos killed [b]Ping of Death with Conquista
+[12:27:11] Sagos killed [b]0_o with Conquista
+[12:27:11] Sagos killed [b]Infernal with Conquista
+[12:27:11] Sagos killed [b]Robo with Conquista
+[12:27:11] Sagos killed [b]Uber AI with Conquista
+[12:27:11] Sagos killed [b]CS2D.com with Conquista
+[12:27:11] Sagos killed [b]Rogue with Conquista
+[12:27:11] Sagos killed [b]Soldier with Conquista
+[12:27:11] Sagos killed [b]NoIntelligence with Conquista
+[12:27:11] Sagos killed [b]ROFLCopter with Conquista
+[12:27:11] Sagos killed [b]Executor with Conquista
+[12:27:11] Sagos killed [b]HE Overkill with Conquista
+[12:27:11] Sagos killed [b]The Bullet with Conquista
+[12:27:11] Sagos killed [b]fucktard with Conquista
+[12:27:11] Sagos killed [b]pwner0r with Conquista
+[12:27:12] Sagos killed [b]Rob with Conquista
+[12:27:12] Sagos killed [b]D0om with Conquista
+[12:27:12] Sagos killed [b]Hacker_Little with Conquista
+[12:27:12] Sagos killed [b]Stack Overflow with Conquista
+[12:27:12] Sagos killed [b]Drone with Conquista
+[12:27:12] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:12] Sagos killed [b]pwn3d with Conquista
+[12:27:12] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:12] Sagos killed [b]LUL with Conquista
+[12:27:12] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:12] Sagos killed [b]Mac Man with Conquista
+[12:27:12] Sagos killed [b]Jack with Conquista
+[12:27:12] Sagos killed [b]WAR! with Conquista
+[12:27:12] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:12] Sagos killed [b]Steve with Conquista
+[12:27:12] Sagos killed [b]Ping of Death with Conquista
+[12:27:12] Sagos killed [b]0_o with Conquista
+[12:27:12] Sagos killed [b]Infernal with Conquista
+[12:27:12] Sagos killed [b]Robo with Conquista
+[12:27:12] Sagos killed [b]Uber AI with Conquista
+[12:27:12] Sagos killed [b]CS2D.com with Conquista
+[12:27:12] Sagos killed [b]Rogue with Conquista
+[12:27:12] Sagos killed [b]Soldier with Conquista
+[12:27:12] Sagos killed [b]NoIntelligence with Conquista
+[12:27:12] Sagos killed [b]ROFLCopter with Conquista
+[12:27:12] Sagos killed [b]Executor with Conquista
+[12:27:12] Sagos killed [b]HE Overkill with Conquista
+[12:27:12] Sagos killed [b]The Bullet with Conquista
+[12:27:12] Sagos killed [b]fucktard with Conquista
+[12:27:12] Sagos killed [b]pwner0r with Conquista
+[12:27:13] Sagos killed [b]Rob with Conquista
+[12:27:13] Sagos killed [b]D0om with Conquista
+[12:27:13] Sagos killed [b]Hacker_Little with Conquista
+[12:27:13] Sagos killed [b]Stack Overflow with Conquista
+[12:27:13] Sagos killed [b]Drone with Conquista
+[12:27:13] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:13] Sagos killed [b]pwn3d with Conquista
+[12:27:13] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:13] Sagos killed [b]LUL with Conquista
+[12:27:13] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:13] Sagos killed [b]Mac Man with Conquista
+[12:27:13] Sagos killed [b]Jack with Conquista
+[12:27:13] Sagos killed [b]WAR! with Conquista
+[12:27:13] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:13] Sagos killed [b]Steve with Conquista
+[12:27:13] Sagos killed [b]Ping of Death with Conquista
+[12:27:13] Sagos killed [b]0_o with Conquista
+[12:27:13] Sagos killed [b]Infernal with Conquista
+[12:27:13] Sagos killed [b]Robo with Conquista
+[12:27:13] Sagos killed [b]Uber AI with Conquista
+[12:27:13] Sagos killed [b]CS2D.com with Conquista
+[12:27:13] Sagos killed [b]Rogue with Conquista
+[12:27:13] Sagos killed [b]Soldier with Conquista
+[12:27:13] Sagos killed [b]NoIntelligence with Conquista
+[12:27:13] Sagos killed [b]ROFLCopter with Conquista
+[12:27:13] Sagos killed [b]Executor with Conquista
+[12:27:13] Sagos killed [b]HE Overkill with Conquista
+[12:27:13] Sagos killed [b]The Bullet with Conquista
+[12:27:13] Sagos killed [b]fucktard with Conquista
+[12:27:13] Sagos killed [b]pwner0r with Conquista
+[12:27:14] Sagos killed [b]Rob with Conquista
+[12:27:14] Sagos killed [b]D0om with Conquista
+[12:27:14] Sagos killed [b]Hacker_Little with Conquista
+[12:27:14] Sagos killed [b]Stack Overflow with Conquista
+[12:27:14] Sagos killed [b]Drone with Conquista
+[12:27:14] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:14] Sagos killed [b]pwn3d with Conquista
+[12:27:14] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:14] Sagos killed [b]LUL with Conquista
+[12:27:14] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:14] Sagos killed [b]Mac Man with Conquista
+[12:27:14] Sagos killed [b]Jack with Conquista
+[12:27:14] Sagos killed [b]WAR! with Conquista
+[12:27:14] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:14] Sagos killed [b]Steve with Conquista
+[12:27:14] Sagos killed [b]Ping of Death with Conquista
+[12:27:14] Sagos killed [b]0_o with Conquista
+[12:27:14] Sagos killed [b]Infernal with Conquista
+[12:27:14] Sagos killed [b]Robo with Conquista
+[12:27:14] Sagos killed [b]Uber AI with Conquista
+[12:27:14] Sagos killed [b]CS2D.com with Conquista
+[12:27:14] Sagos killed [b]Rogue with Conquista
+[12:27:14] Sagos killed [b]Soldier with Conquista
+[12:27:14] Sagos killed [b]NoIntelligence with Conquista
+[12:27:14] Sagos killed [b]ROFLCopter with Conquista
+[12:27:14] Sagos killed [b]Executor with Conquista
+[12:27:14] Sagos killed [b]HE Overkill with Conquista
+[12:27:14] Sagos killed [b]The Bullet with Conquista
+[12:27:14] Sagos killed [b]fucktard with Conquista
+[12:27:14] Sagos killed [b]pwner0r with Conquista
+[12:27:15] Sagos killed [b]Rob with Conquista
+[12:27:15] Sagos killed [b]D0om with Conquista
+[12:27:15] Sagos killed [b]Hacker_Little with Conquista
+[12:27:15] Sagos killed [b]Stack Overflow with Conquista
+[12:27:15] Sagos killed [b]Drone with Conquista
+[12:27:15] Sagos killed [b]PlayWithWheel with Conquista
+[12:27:15] Sagos killed [b]pwn3d with Conquista
+[12:27:15] Sagos killed [b]CS2D rocks! with Conquista
+[12:27:15] Sagos killed [b]LUL with Conquista
+[12:27:15] Sagos killed [b]AgainstCheaters with Conquista
+[12:27:15] Sagos killed [b]Mac Man with Conquista
+[12:27:15] Sagos killed [b]Jack with Conquista
+[12:27:15] Sagos killed [b]WAR! with Conquista
+[12:27:15] Sagos killed [b]PlayWithOculusRift with Conquista
+[12:27:15] Sagos killed [b]Steve with Conquista
+[12:27:15] Sagos killed [b]Ping of Death with Conquista
+[12:27:15] Sagos killed [b]0_o with Conquista
+[12:27:15] Sagos killed [b]Infernal with Conquista
+[12:27:15] Sagos killed [b]Robo with Conquista
+[12:27:15] Sagos killed [b]Uber AI with Conquista
+[12:27:15] Sagos killed [b]CS2D.com with Conquista
+[12:27:15] Sagos killed [b]Rogue with Conquista
+[12:27:15] Sagos killed [b]Soldier with Conquista
+[12:27:15] Sagos killed [b]NoIntelligence with Conquista
+[12:27:15] Sagos killed [b]ROFLCopter with Conquista
+[12:27:15] Sagos killed [b]Executor with Conquista
+[12:27:15] Sagos killed [b]HE Overkill with Conquista
+[12:27:15] Sagos killed [b]The Bullet with Conquista
+[12:27:15] Sagos killed [b]fucktard with Conquista
+[12:27:15] Sagos killed [b]pwner0r with Conquista
+[12:27:18] Sagos: pronto kkk
+[12:27:22] U.S.G.N.: Ping/State 'playing'
+[12:27:23] [b]Rob deixou o jogo (kickado)
+[12:27:23] [b]D0om deixou o jogo (kickado)
+[12:27:23] [b]Hacker_Little deixou o jogo (kickado)
+[12:27:23] [b]Stack Overflow deixou o jogo (kickado)
+[12:27:23] [b]Drone deixou o jogo (kickado)
+[12:27:23] [b]PlayWithWheel deixou o jogo (kickado)
+[12:27:23] [b]pwn3d deixou o jogo (kickado)
+[12:27:23] [b]CS2D rocks! deixou o jogo (kickado)
+[12:27:23] [b]LUL deixou o jogo (kickado)
+[12:27:23] [b]AgainstCheaters deixou o jogo (kickado)
+[12:27:23] [b]Mac Man deixou o jogo (kickado)
+[12:27:23] [b]Jack deixou o jogo (kickado)
+[12:27:23] [b]WAR! deixou o jogo (kickado)
+[12:27:23] [b]PlayWithOculusRift deixou o jogo (kickado)
+[12:27:23] [b]Steve deixou o jogo (kickado)
+[12:27:23] [b]Ping of Death deixou o jogo (kickado)
+[12:27:23] [b]0_o deixou o jogo (kickado)
+[12:27:23] [b]Infernal deixou o jogo (kickado)
+[12:27:23] [b]Robo deixou o jogo (kickado)
+[12:27:23] [b]Uber AI deixou o jogo (kickado)
+[12:27:23] [b]CS2D.com deixou o jogo (kickado)
+[12:27:23] [b]Rogue deixou o jogo (kickado)
+[12:27:23] [b]Soldier deixou o jogo (kickado)
+[12:27:23] [b]NoIntelligence deixou o jogo (kickado)
+[12:27:23] [b]ROFLCopter deixou o jogo (kickado)
+[12:27:23] [b]Executor deixou o jogo (kickado)
+[12:27:23] [b]HE Overkill deixou o jogo (kickado)
+[12:27:23] [b]The Bullet deixou o jogo (kickado)
+[12:27:23] [b]fucktard deixou o jogo (kickado)
+[12:27:23] [b]pwner0r deixou o jogo (kickado)
+[12:27:52] U.S.G.N.: Serverlist entry updated
+[12:28:07] Sagos killed null' with Rocket Launcher
+[12:28:13] Sagos: ja fez essa?
+[12:28:16] generating stats...
+[12:28:16] stats generated in 10 ms!
+[12:28:19] Sagos: matar alguem com a rocket launcher
+[12:28:22] U.S.G.N.: Ping/State 'playing'
+[12:28:30] null' killed Sagos with Rocket Launcher
+[12:28:34] Sagos: pego?
+[12:28:35] null': s
+[12:29:14] Sagos: man
+[12:29:22] Sagos: tem umas aki q tem q matar com armas
+[12:29:23] U.S.G.N.: Ping/State 'playing'
+[12:29:23] U.S.G.N.: Serverlist entry updated
+[12:29:29] null': s
+[12:29:30] Sagos: vou fazer 1 script pra gente pegar essas
+[12:29:33] Sagos: calma ae
+[12:29:37] Sagos: 5 min
+[12:29:40] null': ok
+[12:30:09] U.S.G.N.: Serverlist entry updated
+[12:30:29] U.S.G.N.: Ping/State 'playing'
+[12:30:54] U.S.G.N.: Serverlist entry updated
+[12:31:29] U.S.G.N.: Ping/State 'playing'
+[12:31:39] U.S.G.N.: Serverlist entry updated
+[12:32:25] "  (1x)
+[12:32:30] U.S.G.N.: Ping/State 'playing'
+[12:33:10] U.S.G.N.: Serverlist entry updated
+[12:33:16] generating stats...
+[12:33:16] stats generated in 1 ms!
+[12:33:30] U.S.G.N.: Ping/State 'playing'
+[12:33:55] U.S.G.N.: Serverlist entry updated
+[12:34:29] ----- Mapchange -----
+[12:34:29] Starting server...
+[12:34:29] load map 'de_dust2'
+[12:34:30] ----- Server started -----
+[12:34:30] Lua: Adding function 'teclas' to hook 'serveraction'
+[12:34:30] Lua: Adding function 'mile' to hook 'ms100'
+[12:34:30] Lua: Adding function 'matar' to hook 'kill'
+[12:34:32] Sagos juntou-se a Countra-Terrorista Forças
+[12:34:35] U.S.G.N.: Ping/State 'playing'
+[12:34:35] Ativado
+[12:34:40] U.S.G.N.: null' (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[12:34:40] U.S.G.N.: Serverlist entry updated
+[12:34:41] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[12:34:41] null' conectou-se
+[12:34:41] null' is using IP 177.185.53.199:57300 and U.S.G.N. ID #14465
+[12:34:44] null' juntou-se a Terrorista Forças
+[12:34:47] null' died
+[12:34:47] null' juntou-se a Countra-Terrorista Forças
+[12:34:51] Sagos killed null' with Famas
+[12:34:53] Error: player null' (#2) tries to select weapon which he does not own (wpn id 50)
+[12:34:54] Sagos: fica parado
+[12:34:57] Sagos killed null' with Famas
+[12:34:59] "  (1x)
+[12:35:01] "  (1x)
+[12:35:02] "  (1x)
+[12:35:05] "  (1x)
+[12:35:07] "  (1x)
+[12:35:09] "  (1x)
+[12:35:11] "  (1x)
+[12:35:14] "  (1x)
+[12:35:17] Sagos: pronto
+[12:35:20] null': IXI
+[12:35:22] null': sagos
+[12:35:22] Sagos: mata ai
+[12:35:25] U.S.G.N.: Serverlist entry updated
+[12:35:31] Sagos: o q?
+[12:35:31] null': o lucas swat
+[12:35:33] null': kkkkkkkkkkkkk
+[12:35:35] U.S.G.N.: Ping/State 'playing'
+[12:35:39] null': ele me mandou um negoço
+[12:35:45] null': q pega todas as conquistas
+[12:35:47] null': em segundos
+[12:35:51] null': ele ta com todas
+[12:35:53] null': WTF
+[12:35:54] Sagos: kkkkk oloco kkk
+[12:36:11] U.S.G.N.: Serverlist entry updated
+[12:36:16] Sagos killed null' with AK-47
+[12:36:17] "  (1x)
+[12:36:19] "  (1x)
+[12:36:21] "  (1x)
+[12:36:23] "  (1x)
+[12:36:25] "  (1x)
+[12:36:26] "  (1x)
+[12:36:28] "  (1x)
+[12:36:30] "  (1x)
+[12:36:32] "  (1x)
+[12:36:33] "  (1x)
+[12:36:35] "  (1x)
+[12:36:36] U.S.G.N.: Ping/State 'playing'
+[12:36:36] Error: player null' (#2) tries to select weapon which he does not own (wpn id 50)
+[12:36:37] null' killed Sagos with USP
+[12:36:39] "  (1x)
+[12:36:42] "  (1x)
+[12:36:45] null' killed Sagos with M4A1
+[12:36:47] "  (1x)
+[12:36:48] "  (1x)
+[12:36:49] Sagos: vc n tem de m4?
+[12:36:50] null' killed Sagos with M4A1
+[12:36:52] "  (1x)
+[12:36:53] "  (1x)
+[12:36:56] U.S.G.N.: Serverlist entry updated
+[12:37:00] null': Tenho
+[12:37:05] null': tenho a maioria das armas
+[12:37:08] Sagos: e pq ta atirando com ela? kkkk
+[12:37:10] null': por causa do gun
+[12:37:17] null': n mata mais rapido ne?
+[12:37:18] null' killed Sagos with M4A1
+[12:37:19] "  (1x)
+[12:37:20] Sagos: qual vc n tem?
+[12:37:21] null' killed Sagos with M4A1
+[12:37:23] Sagos: n da =/
+[12:37:23] null' killed Sagos with M4A1
+[12:37:25] null' killed Sagos with USP
+[12:37:35] Sagos: precisava de mais player
+[12:37:36] U.S.G.N.: Ping/State 'playing'
+[12:37:41] null' killed Sagos with USP
+[12:37:41] U.S.G.N.: Serverlist entry updated
+[12:37:43] null' killed Sagos with USP
+[12:37:45] null': https://github.com/gibbed/SteamAchievementManager/
+[12:37:47] null': Ai
+[12:37:56] null': baixa q vc pega todas du nada
+[12:37:59] Sagos: vc ja pegou tds?
+[12:38:01] null': perai fica aqui
+[12:38:04] null': n vou baixar agr
+[12:38:08] null' deixou o jogo
+[12:38:16] generating stats...
+[12:38:16] stats generated in 1 ms!
+[12:38:24] U.S.G.N.: null' (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[12:38:25] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[12:38:25] null' conectou-se
+[12:38:25] null' is using IP 177.185.53.199:57300 and U.S.G.N. ID #14465
+[12:38:27] U.S.G.N.: Serverlist entry updated
+[12:38:28] null' juntou-se a Terrorista Forças
+[12:38:34] null' died
+[12:38:34] null' juntou-se a Countra-Terrorista Forças
+[12:38:35] Sagos: manda na steam
+[12:38:35] null' killed Sagos with USP
+[12:38:37] U.S.G.N.: Ping/State 'playing'
+[12:38:37] null' killed Sagos with USP
+[12:38:53] "  (1x)
+[12:38:56] "  (1x)
+[12:38:58] "  (1x)
+[12:39:00] "  (1x)
+[12:39:02] "  (1x)
+[12:39:04] "  (1x)
+[12:39:14] U.S.G.N.: Serverlist entry updated
+[12:39:39] U.S.G.N.: Ping/State 'playing'
+[12:39:41] Sagos killed null' with USP
+[12:39:43] "  (1x)
+[12:39:48] null' killed Sagos with USP
+[12:39:50] "  (1x)
+[12:39:52] "  (1x)
+[12:39:53] Sagos killed null' with AK-47
+[12:39:55] "  (1x)
+[12:39:57] "  (1x)
+[12:39:59] "  (1x)
+[12:39:59] U.S.G.N.: Serverlist entry updated
+[12:40:01] Sagos killed null' with AK-47
+[12:40:02] "  (1x)
+[12:40:04] "  (1x)
+[12:40:06] "  (1x)
+[12:40:08] "  (1x)
+[12:40:10] "  (1x)
+[12:40:22] "  (1x)
+[12:40:25] "  (1x)
+[12:40:26] "  (1x)
+[12:40:28] "  (1x)
+[12:40:31] "  (1x)
+[12:40:33] "  (1x)
+[12:40:38] "  (1x)
+[12:40:40] U.S.G.N.: Ping/State 'playing'
+[12:40:40] Sagos killed null' with AK-47
+[12:40:45] U.S.G.N.: Serverlist entry updated
+[12:41:25] Sagos killed null' with Aug
+[12:41:27] "  (1x)
+[12:41:29] "  (1x)
+[12:41:30] U.S.G.N.: Serverlist entry updated
+[12:41:30] Sagos killed null' with Aug
+[12:41:32] "  (1x)
+[12:41:34] "  (1x)
+[12:41:36] "  (1x)
+[12:41:37] "  (1x)
+[12:41:39] "  (1x)
+[12:41:40] U.S.G.N.: Ping/State 'playing'
+[12:41:42] Sagos killed null' with Aug
+[12:42:11] Sagos killed null' with Galil
+[12:42:13] "  (1x)
+[12:42:14] "  (1x)
+[12:42:15] U.S.G.N.: Serverlist entry updated
+[12:42:17] Sagos killed null' with Galil
+[12:42:27] "  (1x)
+[12:42:28] "  (1x)
+[12:42:30] "  (1x)
+[12:42:32] "  (1x)
+[12:42:33] "  (1x)
+[12:42:35] "  (1x)
+[12:42:41] U.S.G.N.: Ping/State 'playing'
+[12:42:41] Sagos killed null' with AWP
+[12:42:57] Sagos killed null' with G3SG1
+[12:42:58] "  (1x)
+[12:43:01] "  (1x)
+[12:43:01] U.S.G.N.: Serverlist entry updated
+[12:43:03] Sagos killed null' with G3SG1
+[12:43:05] "  (1x)
+[12:43:07] "  (1x)
+[12:43:09] "  (1x)
+[12:43:11] "  (1x)
+[12:43:13] "  (1x)
+[12:43:15] "  (1x)
+[12:43:16] generating stats...
+[12:43:16] stats generated in 1 ms!
+[12:43:34] Sagos killed null' with TMP
+[12:43:36] "  (1x)
+[12:43:38] "  (1x)
+[12:43:40] "  (1x)
+[12:43:43] "  (1x)
+[12:43:46] U.S.G.N.: Serverlist entry updated
+[12:43:46] U.S.G.N.: Ping/State 'playing'
+[12:43:48] null' killed Sagos with USP
+[12:43:50] "  (1x)

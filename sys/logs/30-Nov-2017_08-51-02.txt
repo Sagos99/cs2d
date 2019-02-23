@@ -1,0 +1,302 @@
+CS2D 1.0.0.5 Logfile - 30 Nov 2017, 08:51:02
+
+[08:51:02] UDP socket initialized using port 36963
+[08:51:02] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[08:51:02] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[08:51:02] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[08:51:02] U.S.G.N.: Ping/State 'playing'
+[08:51:02] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[08:51:09] U.S.G.N.: Received serverlist (servers: 63)
+[08:51:09] U.S.G.N.: Received serverlist (servers: 150)
+[08:51:19] "  (1x)
+[08:51:19] U.S.G.N.: Received serverlist (servers: 63)
+[08:51:51] Connecting to 152.254.175.143:36963 (using U.S.G.N. ID #15431) ...
+[08:51:52] U.S.G.N.: Ping/State 'idle' (272 ms)
+[08:51:52] "  (1x)
+[08:51:52] load map 'awp_grey'
+[08:51:52] ----- Server joined -----
+[08:51:52] U.S.G.N.: Ping/State 'playing'
+[08:51:53] Sagos juntou-se a Countra-Terrorista Forças
+[08:51:57] Sagos deixou o jogo
+[08:51:57] Disconnect Reason: Client request (Code 0)
+[08:51:57] ----- Disconnected -----
+[08:51:57] U.S.G.N.: Ping/State 'idle' (272 ms)
+[08:51:58] U.S.G.N.: Received serverlist (servers: 65)
+[08:51:58] U.S.G.N.: Received serverlist (servers: 150)
+[08:52:58] U.S.G.N.: Ping/State 'idle' (272 ms)
+[08:53:59] "  (1x)
+[08:54:59] "  (1x)
+[08:56:00] U.S.G.N.: Ping/State 'idle' (273 ms)
+[08:56:43] Connecting to 177.209.89.253:36963 (using U.S.G.N. ID #15431) ...
+[08:56:43] U.S.G.N.: Ping/State 'idle' (272 ms)
+[08:56:43] "  (1x)
+[08:56:44] Checking 'gfx/tiles/druglab.bmp': Already exists.
+[08:56:44] Checking 'sfx/bel2samp.wav': Does not exist. Request transfer!
+[08:56:44] Checking 'gfx/police.png': Already exists.
+[08:56:44] Checking 'gfx/cars/porshe.png': Already exists.
+[08:56:44] Checking 'gfx/bed.png': Already exists.
+[08:56:44] Checking 'gfx/(-{FØÐÁ$TÏiles/Agua 256x256.bmp': Already exists.
+[08:56:44] Checking 'gfx/block.png': Already exists.
+[08:56:44] Checking 'sfx/env/thunder.wav': Already exists.
+[08:56:44] Checking 'gfx/bodyparts.bmp': Already exists.
+[08:56:44] Checking 'sfx/blue.ogg': Already exists.
+[08:56:44] Checking 'sfx/mus1.ogg': Does not exist. Request transfer!
+[08:56:44] Checking 'sfx/mus3.ogg': Does not exist. Request transfer!
+[08:56:44] Checking 'maps/Construa Sua Casa OriginaL V18.map': Does not exist. Request transfer!
+[08:56:44] Requesting 4 files from server...
+[08:56:44] Downloading 'sfx/bel2samp.wav' from server...
+[08:56:46] Downloading 'sfx/mus1.ogg' from server...
+[08:56:49] Downloading 'sfx/mus3.ogg' from server...
+[08:56:50] Downloading 'maps/Construa Sua Casa OriginaL V18.map' from server...
+[08:56:51] load map 'Construa Sua Casa OriginaL V18'
+[08:56:51] ----- Server joined -----
+[08:56:51] [==*Acaba De Entrar: Sagos [USGN:15431]-[IP:201.93.79.231]*==]
+[08:56:51] [==*Bem Vindo Sagos Leia As Regras E Boa Sorte !*==]
+[08:56:51] [==*Servidor Oficial Militar Games*==]
+[08:56:53] U.S.G.N.: Ping/State 'playing'
+[08:56:54] Sagos juntou-se a Terrorista Forças
+[08:57:14] npcbrazil killed by Criatura
+[08:57:41] Por Favor leia as regras pressionando F1.
+[08:57:41] Comandos úteis: !rs !info e !track
+[08:57:41] Mapa oficial: Construa Sua Casa.
+[08:57:41] Kick players que violam as regras.
+[08:57:41] Saiba como usar apertando F1.
+[08:57:41] Please read the rules by pressing F1.
+[08:57:41] Useful commands:!rs !info and !track
+[08:57:41] Official Map: Build Your Home.
+[08:57:41] Kick players who violate the rules.
+[08:57:41] Learn how to use F1.
+[08:57:53] U.S.G.N.: Ping/State 'playing'
+[08:58:41] Por Favor leia as regras pressionando F1.
+[08:58:41] Comandos úteis: !rs !info e !track
+[08:58:41] Mapa oficial: Construa Sua Casa.
+[08:58:41] Kick players que violam as regras.
+[08:58:41] Saiba como usar apertando F1.
+[08:58:41] Please read the rules by pressing F1.
+[08:58:41] Useful commands:!rs !info and !track
+[08:58:41] Official Map: Build Your Home.
+[08:58:41] Kick players who violate the rules.
+[08:58:41] Learn how to use F1.
+[08:58:53] U.S.G.N.: Ping/State 'playing'
+[08:59:41] Por Favor leia as regras pressionando F1.
+[08:59:41] Comandos úteis: !rs !info e !track
+[08:59:41] Mapa oficial: Construa Sua Casa.
+[08:59:41] Kick players que violam as regras.
+[08:59:41] Saiba como usar apertando F1.
+[08:59:41] Please read the rules by pressing F1.
+[08:59:41] Useful commands:!rs !info and !track
+[08:59:41] Official Map: Build Your Home.
+[08:59:41] Kick players who violate the rules.
+[08:59:41] Learn how to use F1.
+[08:59:54] U.S.G.N.: Ping/State 'playing'
+[09:00:14] npcbrazil killed by Criatura
+[09:00:41] Por Favor leia as regras pressionando F1.
+[09:00:41] Comandos úteis: !rs !info e !track
+[09:00:41] Mapa oficial: Construa Sua Casa.
+[09:00:41] Kick players que violam as regras.
+[09:00:41] Saiba como usar apertando F1.
+[09:00:41] Please read the rules by pressing F1.
+[09:00:41] Useful commands:!rs !info and !track
+[09:00:41] Official Map: Build Your Home.
+[09:00:41] Kick players who violate the rules.
+[09:00:41] Learn how to use F1.
+[09:00:54] U.S.G.N.: Ping/State 'playing'
+[09:01:41] Por Favor leia as regras pressionando F1.
+[09:01:41] Comandos úteis: !rs !info e !track
+[09:01:41] Mapa oficial: Construa Sua Casa.
+[09:01:41] Kick players que violam as regras.
+[09:01:41] Saiba como usar apertando F1.
+[09:01:41] Please read the rules by pressing F1.
+[09:01:41] Useful commands:!rs !info and !track
+[09:01:41] Official Map: Build Your Home.
+[09:01:41] Kick players who violate the rules.
+[09:01:41] Learn how to use F1.
+[09:01:44] Sagos killed by Criatura
+[09:01:48] Ulfari_WOLF killed npcbrazil with G3SG1
+[09:01:55] U.S.G.N.: Ping/State 'playing'
+[09:02:04] Sagos killed by Criatura
+[09:02:33] ~oPExCaSTyXD conectou-se
+[09:02:41] Por Favor leia as regras pressionando F1.
+[09:02:41] Comandos úteis: !rs !info e !track
+[09:02:41] Mapa oficial: Construa Sua Casa.
+[09:02:41] Kick players que violam as regras.
+[09:02:41] Saiba como usar apertando F1.
+[09:02:41] Please read the rules by pressing F1.
+[09:02:41] Useful commands:!rs !info and !track
+[09:02:41] Official Map: Build Your Home.
+[09:02:41] Kick players who violate the rules.
+[09:02:41] Learn how to use F1.
+[09:02:42] [==*Acaba De Entrar: ~oPExCaSTyXD [USGN:0]-[IP:200.141.148.250]*==]
+[09:02:51] ~oPExCaSTyXD juntou-se a Terrorista Forças
+[09:02:55] U.S.G.N.: Ping/State 'playing'
+[09:03:41] Por Favor leia as regras pressionando F1.
+[09:03:41] Comandos úteis: !rs !info e !track
+[09:03:41] Mapa oficial: Construa Sua Casa.
+[09:03:41] Kick players que violam as regras.
+[09:03:41] Saiba como usar apertando F1.
+[09:03:41] Please read the rules by pressing F1.
+[09:03:41] Useful commands:!rs !info and !track
+[09:03:41] Official Map: Build Your Home.
+[09:03:41] Kick players who violate the rules.
+[09:03:41] Learn how to use F1.
+[09:03:56] U.S.G.N.: Ping/State 'playing'
+[09:04:25] Sagos killed npcbrazil with M4A1
+[09:04:41] Por Favor leia as regras pressionando F1.
+[09:04:41] Comandos úteis: !rs !info e !track
+[09:04:41] Mapa oficial: Construa Sua Casa.
+[09:04:41] Kick players que violam as regras.
+[09:04:41] Saiba como usar apertando F1.
+[09:04:41] Please read the rules by pressing F1.
+[09:04:41] Useful commands:!rs !info and !track
+[09:04:41] Official Map: Build Your Home.
+[09:04:41] Kick players who violate the rules.
+[09:04:41] Learn how to use F1.
+[09:04:53] npcbrazil killed by NPC
+[09:04:56] U.S.G.N.: Ping/State 'playing'
+[09:04:59] Ulfari_WOLF killed by NPC
+[09:05:02] npcbrazil died
+[09:05:25] ~oPExCaSTyXD killed by NPC
+[09:05:29] ~oPExCaSTyXD deixou o jogo
+[09:05:38] Ulfari_WOLF killed npcbrazil with G3SG1
+[09:05:41] Por Favor leia as regras pressionando F1.
+[09:05:41] Comandos úteis: !rs !info e !track
+[09:05:41] Mapa oficial: Construa Sua Casa.
+[09:05:41] Kick players que violam as regras.
+[09:05:41] Saiba como usar apertando F1.
+[09:05:41] Please read the rules by pressing F1.
+[09:05:41] Useful commands:!rs !info and !track
+[09:05:41] Official Map: Build Your Home.
+[09:05:41] Kick players who violate the rules.
+[09:05:41] Learn how to use F1.
+[09:05:49] Ulfari_WOLF: Entrou na frente :z
+[09:05:57] U.S.G.N.: Ping/State 'playing'
+[09:06:09] npcbrazil killed by NPC
+[09:06:41] Por Favor leia as regras pressionando F1.
+[09:06:41] Comandos úteis: !rs !info e !track
+[09:06:41] Mapa oficial: Construa Sua Casa.
+[09:06:41] Kick players que violam as regras.
+[09:06:41] Saiba como usar apertando F1.
+[09:06:41] Please read the rules by pressing F1.
+[09:06:41] Useful commands:!rs !info and !track
+[09:06:41] Official Map: Build Your Home.
+[09:06:41] Kick players who violate the rules.
+[09:06:41] Learn how to use F1.
+[09:06:57] U.S.G.N.: Ping/State 'playing'
+[09:07:41] Por Favor leia as regras pressionando F1.
+[09:07:41] Comandos úteis: !rs !info e !track
+[09:07:41] Mapa oficial: Construa Sua Casa.
+[09:07:41] Kick players que violam as regras.
+[09:07:41] Saiba como usar apertando F1.
+[09:07:41] Please read the rules by pressing F1.
+[09:07:41] Useful commands:!rs !info and !track
+[09:07:41] Official Map: Build Your Home.
+[09:07:41] Kick players who violate the rules.
+[09:07:41] Learn how to use F1.
+[09:07:47] npcbrazil killed Ulfari_WOLF with SG550
+[09:07:51] Ulfari_WOLF killed npcbrazil with Gate Field
+[09:07:58] U.S.G.N.: Ping/State 'playing'
+[09:08:13] Sagos killed Ulfari_WOLF with Turret
+[09:08:25] Ulfari_WOLF: É PROIBIDO ARMAS NA JANELA
+[09:08:30] Sagos: n sabia
+[09:08:31] Sagos: tirei
+[09:08:41] Ulfari_WOLF: aperta f1 e le as regras
+[09:08:41] Por Favor leia as regras pressionando F1.
+[09:08:41] Comandos úteis: !rs !info e !track
+[09:08:41] Mapa oficial: Construa Sua Casa.
+[09:08:41] Kick players que violam as regras.
+[09:08:41] Saiba como usar apertando F1.
+[09:08:41] Please read the rules by pressing F1.
+[09:08:41] Useful commands:!rs !info and !track
+[09:08:41] Official Map: Build Your Home.
+[09:08:41] Kick players who violate the rules.
+[09:08:41] Learn how to use F1.
+[09:08:58] U.S.G.N.: Ping/State 'playing'
+[09:09:05] npcbrazil deixou o jogo
+[09:09:41] Por Favor leia as regras pressionando F1.
+[09:09:41] Comandos úteis: !rs !info e !track
+[09:09:41] Mapa oficial: Construa Sua Casa.
+[09:09:41] Kick players que violam as regras.
+[09:09:41] Saiba como usar apertando F1.
+[09:09:41] Please read the rules by pressing F1.
+[09:09:41] Useful commands:!rs !info and !track
+[09:09:41] Official Map: Build Your Home.
+[09:09:41] Kick players who violate the rules.
+[09:09:41] Learn how to use F1.
+[09:09:59] U.S.G.N.: Ping/State 'playing'
+[09:10:41] Por Favor leia as regras pressionando F1.
+[09:10:41] Comandos úteis: !rs !info e !track
+[09:10:41] Mapa oficial: Construa Sua Casa.
+[09:10:41] Kick players que violam as regras.
+[09:10:41] Saiba como usar apertando F1.
+[09:10:41] Please read the rules by pressing F1.
+[09:10:41] Useful commands:!rs !info and !track
+[09:10:41] Official Map: Build Your Home.
+[09:10:41] Kick players who violate the rules.
+[09:10:41] Learn how to use F1.
+[09:10:59] U.S.G.N.: Ping/State 'playing'
+[09:11:41] Por Favor leia as regras pressionando F1.
+[09:11:41] Comandos úteis: !rs !info e !track
+[09:11:41] Mapa oficial: Construa Sua Casa.
+[09:11:41] Kick players que violam as regras.
+[09:11:41] Saiba como usar apertando F1.
+[09:11:41] Please read the rules by pressing F1.
+[09:11:41] Useful commands:!rs !info and !track
+[09:11:41] Official Map: Build Your Home.
+[09:11:41] Kick players who violate the rules.
+[09:11:41] Learn how to use F1.
+[09:12:00] U.S.G.N.: Ping/State 'playing'
+[09:12:41] Por Favor leia as regras pressionando F1.
+[09:12:41] Comandos úteis: !rs !info e !track
+[09:12:41] Mapa oficial: Construa Sua Casa.
+[09:12:41] Kick players que violam as regras.
+[09:12:41] Saiba como usar apertando F1.
+[09:12:41] Please read the rules by pressing F1.
+[09:12:41] Useful commands:!rs !info and !track
+[09:12:41] Official Map: Build Your Home.
+[09:12:41] Kick players who violate the rules.
+[09:12:41] Learn how to use F1.
+[09:13:00] U.S.G.N.: Ping/State 'playing'
+[09:13:05] Raulzinn conectou-se
+[09:13:07] [==*Acaba De Entrar: Raulzinn [USGN:76584]-[IP:189.61.168.151]*==]
+[09:13:17] Raulzinn juntou-se a Terrorista Forças
+[09:13:41] Por Favor leia as regras pressionando F1.
+[09:13:41] Comandos úteis: !rs !info e !track
+[09:13:41] Mapa oficial: Construa Sua Casa.
+[09:13:41] Kick players que violam as regras.
+[09:13:41] Saiba como usar apertando F1.
+[09:13:41] Please read the rules by pressing F1.
+[09:13:41] Useful commands:!rs !info and !track
+[09:13:41] Official Map: Build Your Home.
+[09:13:41] Kick players who violate the rules.
+[09:13:41] Learn how to use F1.
+[09:14:01] U.S.G.N.: Ping/State 'playing'
+[09:14:41] Por Favor leia as regras pressionando F1.
+[09:14:41] Comandos úteis: !rs !info e !track
+[09:14:41] Mapa oficial: Construa Sua Casa.
+[09:14:41] Kick players que violam as regras.
+[09:14:41] Saiba como usar apertando F1.
+[09:14:41] Please read the rules by pressing F1.
+[09:14:41] Useful commands:!rs !info and !track
+[09:14:41] Official Map: Build Your Home.
+[09:14:41] Kick players who violate the rules.
+[09:14:41] Learn how to use F1.
+[09:14:45] Serjão Berranteiro conectou-se
+[09:15:01] U.S.G.N.: Ping/State 'playing'
+[09:15:02] [==*Acaba De Entrar: Serjão Berranteiro [USGN:0]-[IP:177.93.169.71]*==]
+[09:15:04] Sagos killed Raulzinn with M4A1
+[09:15:09] Serjão Berranteiro juntou-se a Countra-Terrorista Forças
+[09:15:41] Por Favor leia as regras pressionando F1.
+[09:15:41] Comandos úteis: !rs !info e !track
+[09:15:41] Mapa oficial: Construa Sua Casa.
+[09:15:41] Kick players que violam as regras.
+[09:15:41] Saiba como usar apertando F1.
+[09:15:41] Please read the rules by pressing F1.
+[09:15:41] Useful commands:!rs !info and !track
+[09:15:41] Official Map: Build Your Home.
+[09:15:41] Kick players who violate the rules.
+[09:15:41] Learn how to use F1.
+[09:16:02] U.S.G.N.: Ping/State 'playing'
+[09:16:41] Por Favor leia as regras pressionando F1.
+[09:16:41] Comandos úteis: !rs !info e !track
+[09:16:41] Mapa oficial: Construa Sua Casa.
+[09:16:41] Kick players que violam as regras.

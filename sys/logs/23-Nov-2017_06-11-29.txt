@@ -1,0 +1,42 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 06:11:29
+
+[06:11:29] UDP socket initialized using port 36963
+[06:11:30] U.S.G.N.: Your game version is up to date!
+[06:11:33] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[06:11:35] Starting server...
+[06:11:35] load map 'Battle Royale'
+[06:11:36] ----- Server started -----
+[06:11:36] Lua: Adding function 'falar' to hook 'say'
+[06:11:36] Lua: Adding function 'segundos' to hook 'second'
+[06:11:36] Lua: Adding function 'coletar' to hook 'walkover'
+[06:11:36] Lua: Adding function 'atacar' to hook 'attack'
+[06:11:36] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:11:36] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:11:36] Lua: Adding function 'mymenu' to hook 'menu'
+[06:11:36] Lua: Adding function 'ataque' to hook 'hit'
+[06:11:36] Lua: Adding function 'dropar' to hook 'drop'
+[06:11:36] Lua: Adding function 'mover' to hook 'movetile'
+[06:11:37] U.S.G.N.: Ping/State 'playing'
+[06:11:37] U.S.G.N.: Server added to serverlist
+[06:11:39] Sagos juntou-se a Countra-Terrorista Forças
+[06:11:40] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[06:12:22] U.S.G.N.: Serverlist entry updated
+[06:12:42] U.S.G.N.: Ping/State 'playing'
+[06:13:07] [Info] Você pegou Analgésico
+[06:13:08] U.S.G.N.: Serverlist entry updated
+[06:13:09] [Info] Você pegou Analgésico
+[06:13:19] "  (1x)
+[06:13:26] [Info] Aguarde 6 segundos para usar Analgésico
+[06:13:32] [Info] Você usou Analgésico
+[06:13:36] [Info] Aguarde 6 segundos para usar Analgésico
+[06:13:42] [Info] Você usou Analgésico
+[06:13:43] U.S.G.N.: Ping/State 'playing'
+[06:13:45] [Info] Você não tem Analgésico
+[06:13:53] U.S.G.N.: Serverlist entry updated
+[06:14:34] Servidor Desligado
+[06:14:35] U.S.G.N.: Server removed from serverlist
+[06:14:35] ----- Disconnected -----
+[06:14:37] U.S.G.N.: Ping/State 'idle' (1024 ms)
+[06:14:42] Cached servers added to list: 15
+[06:14:43] U.S.G.N.: Received serverlist (servers: 31)
+[06:14:43] U.S.G.N.: Received serverlist (servers: 150)

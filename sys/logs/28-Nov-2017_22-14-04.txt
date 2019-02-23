@@ -1,0 +1,696 @@
+CS2D 1.0.0.5 Logfile - 28 Nov 2017, 22:14:04
+
+[22:14:04] UDP socket initialized using port 36963
+[22:14:04] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[22:14:04] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[22:14:04] U.S.G.N.: Ping/State 'playing'
+[22:14:10] Starting server...
+[22:14:10] load map 'Battle Royale'
+[22:14:10] ----- Server started -----
+[22:14:10] Lua: Adding function 'falar' to hook 'say'
+[22:14:10] Lua: Adding function 'segundos' to hook 'second'
+[22:14:10] Lua: Adding function 'coletar' to hook 'walkover'
+[22:14:10] Lua: Adding function 'atacar' to hook 'attack'
+[22:14:10] Lua: Adding function 'atacar2' to hook 'attack2'
+[22:14:10] Lua: Adding function 'teclas' to hook 'serveraction'
+[22:14:10] Lua: Adding function 'mymenu' to hook 'menu'
+[22:14:10] Lua: Adding function 'ataque' to hook 'hit'
+[22:14:10] Lua: Adding function 'dropar' to hook 'drop'
+[22:14:10] Lua: Adding function 'mover' to hook 'movetile'
+[22:14:10] Lua: Adding function 'sempre' to hook 'always'
+[22:14:11] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[22:14:11] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[22:14:11] U.S.G.N.: Server added to serverlist
+[22:14:11] Sagos juntou-se a Countra-Terrorista Forças
+[22:15:12] U.S.G.N.: Ping/State 'playing'
+[22:15:50] Servidor Desligado
+[22:15:52] U.S.G.N.: Server removed from serverlist
+[22:15:52] ----- Disconnected -----
+[22:15:53] U.S.G.N.: Ping/State 'idle' (288 ms)
+[22:15:58] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[22:16:58] U.S.G.N.: Ping/State 'idle' (272 ms)
+[22:17:35] Starting server...
+[22:17:35] load map 'Battle Royale'
+[22:17:35] ----- Server started -----
+[22:17:35] Lua: Adding function 'falar' to hook 'say'
+[22:17:35] Lua: Adding function 'segundos' to hook 'second'
+[22:17:35] Lua: Adding function 'coletar' to hook 'walkover'
+[22:17:35] Lua: Adding function 'atacar' to hook 'attack'
+[22:17:35] Lua: Adding function 'atacar2' to hook 'attack2'
+[22:17:35] Lua: Adding function 'teclas' to hook 'serveraction'
+[22:17:35] Lua: Adding function 'mymenu' to hook 'menu'
+[22:17:35] Lua: Adding function 'ataque' to hook 'hit'
+[22:17:35] Lua: Adding function 'dropar' to hook 'drop'
+[22:17:35] Lua: Adding function 'mover' to hook 'movetile'
+[22:17:35] Lua: Adding function 'sempre' to hook 'always'
+[22:17:36] U.S.G.N.: Server added to serverlist
+[22:17:36] U.S.G.N.: Ping/State 'playing'
+[22:17:36] Sagos juntou-se a Countra-Terrorista Forças
+[22:17:40] [Info] Você equipou Colete 3
+[22:17:43] [Info] Você pegou 30 Balas de Rifle
+[22:18:21] U.S.G.N.: Serverlist entry updated
+[22:18:25] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[22:18:26] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[22:18:26] rM | null! conectou-se
+[22:18:26] rM | null! is using IP 177.185.53.199:51840 and U.S.G.N. ID #14465
+[22:18:26] JOIN FAILURE: rM | null! (177.185.53.199:51840) can't join (map differs)
+[22:18:28] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[22:18:28] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[22:18:28] rM | null! conectou-se
+[22:18:28] rM | null! is using IP 177.185.53.199:51840 and U.S.G.N. ID #14465
+[22:18:28] Starting transfer to rM | null! (files: 2) ...
+[22:18:28] rM | null! needs 1 file. Starting to send file...
+[22:18:28] Sending 'maps/Battle Royale.map' to rM | null!...
+[22:18:31] rM | null! juntou-se a Countra-Terrorista Forças
+[22:18:36] U.S.G.N.: Ping/State 'playing'
+[22:19:10] Sagos: ta certo?
+[22:19:21] rM | null!: ta de 5 em 5?
+[22:19:26] Sagos: 15 em 15
+[22:19:31] rM | null!: MEE
+[22:19:34] rM | null!: Ta bom
+[22:19:37] U.S.G.N.: Ping/State 'playing'
+[22:19:39] [Info] Você pegou Analgésico
+[22:19:40] [Info] Você pegou Energético
+[22:19:42] [Info] Aguarde 6 segundos para usar Analgésico
+[22:19:48] [Info] Você usou Analgésico
+[22:19:52] U.S.G.N.: Serverlist entry updated
+[22:19:56] rM | null!: ta td certo
+[22:20:21] rM | null!: agr e so o carro
+[22:20:23] rM | null!: aviao
+[22:20:32] rM | null!: random bomb
+[22:20:37] rM | null!: minimapa
+[22:20:42] U.S.G.N.: Ping/State 'playing'
+[22:20:43] Sagos: eu tavafazendo o avião ontem
+[22:20:51] Sagos: mas ai deu sono
+[22:20:53] Sagos: e fui dormir
+[22:21:03] generating stats...
+[22:21:03] stats generated in 1 ms!
+[22:21:03] rM | null!: Aqui a força caiu
+[22:21:08] rM | null!: Ai fiquei sem energia
+[22:21:11] rM | null!: ai fui durmir
+[22:21:23] U.S.G.N.: Serverlist entry updated
+[22:21:43] U.S.G.N.: Ping/State 'playing'
+[22:22:04] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[22:22:05] rM | null! killed Sagos with USP
+[22:22:05] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[22:22:06] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[22:22:06] MethødMan conectou-se
+[22:22:06] MethødMan is using IP 191.43.71.50:13677 and U.S.G.N. ID #21825
+[22:22:07] rM | null!: asdiasjkda
+[22:22:08] U.S.G.N.: Serverlist entry updated
+[22:22:08] MethødMan juntou-se a Countra-Terrorista Forças
+[22:22:09] Sagos: acabo as bala
+[22:22:11] MethødMan: eae bandi cu
+[22:22:12] rM | null!: aqui tbm
+[22:22:14] [Info] Você pegou 30 Balas de Rifle
+[22:22:14] [Info] Você equipou Famas
+[22:22:16] MethødMan: o mlk ta on man
+[22:22:20] [Info] Você pegou 30 Balas de Rifle
+[22:22:20] MethødMan: quer falar com ele?
+[22:22:26] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[22:22:26] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[22:22:29] rM | null! killed Sagos with USP
+[22:22:31] Sagos: wtf n morre
+[22:22:32] [Info] Você já tem USP no inventário
+[22:22:33] MethødMan: quer?
+[22:22:34] rM | null!: 1hp
+[22:22:37] [Info] Você pegou 30 Balas de Rifle
+[22:22:37] [Info] Você equipou Famas
+[22:22:42] Sagos killed rM | null! with Famas
+[22:22:42] MethødMan: ?????
+[22:22:43] U.S.G.N.: Ping/State 'playing'
+[22:22:43] rM | null! *Morto*: A
+[22:22:45] rM | null! *Morto*: kkkkkkkkkkkk
+[22:22:46] Sagos: quer o q?
+[22:22:50] MethødMan: falar com o gui
+[22:22:51] MethødMan: mapper
+[22:22:53] U.S.G.N.: Serverlist entry updated
+[22:22:57] rM | null!: O fus ja ta fazendo
+[22:23:01] rM | null!: mais se ele quizer
+[22:23:01] MethødMan: de boa entao
+[22:23:03] rM | null!: quiser
+[22:23:06] rM | null!: ajudar
+[22:23:08] Sagos: se ele quiser fala com o Fus
+[22:23:11] Sagos: ai os 2 faz  junto
+[22:23:16] rM | null!: S
+[22:23:19] Sagos: pra continuar com o script agr eu preciso do mapa
+[22:23:25] rM | null!: o fus falou q ta muito grande
+[22:23:38] rM | null!: pra colocar os loot
+[22:23:39] U.S.G.N.: Serverlist entry updated
+[22:23:40] rM | null!: carro
+[22:23:44] U.S.G.N.: Ping/State 'playing'
+[22:23:56] rM | null!: os lugares randomizados q saira o avião
+[22:24:04] rM | null!: random bomb
+[22:24:12] Sagos: 4 HP
+[22:24:17] [Info] Você pegou Kit Full
+[22:24:19] [Info] Aguarde 8 segundos para usar Kit Full
+[22:24:24] U.S.G.N.: Serverlist entry updated
+[22:24:27] [Info] Você usou Kit Full
+[22:24:29] [Info] Você pegou Analgésico
+[22:24:29] [Info] Você pegou Energético
+[22:24:29] MethødMan: krl
+[22:24:31] [Info] Aguarde 4 segundos para usar Energético
+[22:24:35] MethødMan: lembrei do sv 
+[22:24:35] [Info] Você usou Energético
+[22:24:39] MethødMan: aim_shotgun
+[22:24:39] [Info] Aguarde 6 segundos para usar Analgésico
+[22:24:43] MethødMan: de um boludo
+[22:24:44] U.S.G.N.: Ping/State 'playing'
+[22:24:45] [Info] Você usou Analgésico
+[22:24:49] MethødMan: q tinha coin
+[22:24:52] MethødMan: era divertido pra krl
+[22:25:09] U.S.G.N.: Serverlist entry updated
+[22:25:16] MethødMan: descobri todas as passagens secretas do califoria 
+[22:25:18] MethødMan: jail
+[22:25:21] MethødMan: ce joga la?
+[22:25:23] MethødMan killed rM | null! with Knife
+[22:25:45] U.S.G.N.: Ping/State 'playing'
+[22:25:55] U.S.G.N.: Serverlist entry updated
+[22:26:02] Sagos killed rM | null! with Knife
+[22:26:03] generating stats...
+[22:26:03] stats generated in 1 ms!
+[22:26:40] U.S.G.N.: Serverlist entry updated
+[22:26:45] U.S.G.N.: Ping/State 'playing'
+[22:27:02] Error: player MethødMan (#3) tries to select weapon which he does not own (wpn id 10)
+[22:27:25] U.S.G.N.: Serverlist entry updated
+[22:27:46] U.S.G.N.: Ping/State 'playing'
+[22:27:46] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[22:27:56] MethødMan: 1
+[22:27:57] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[22:28:00] MethødMan: hp
+[22:28:00] Sagos: kkk
+[22:28:03] [Info] Você equipou: Famas
+[22:28:04] [Info] Você equipou: USP
+[22:28:06] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[22:28:06] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[22:28:09] MethødMan killed Sagos with Deagle
+[22:28:12] U.S.G.N.: Serverlist entry updated
+[22:28:12] MethødMan: kek
+[22:28:13] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[22:28:24] [Info] Você pegou 15 Balas de Pistola
+[22:28:25] [Info] Você pegou 30 Balas de Rifle
+[22:28:28] Sagos killed MethødMan with Deagle
+[22:28:33] MethødMan killed Sagos with USP
+[22:28:46] U.S.G.N.: Ping/State 'playing'
+[22:28:57] MethødMan: nice
+[22:28:57] U.S.G.N.: Serverlist entry updated
+[22:29:06] MethødMan killed by Morreu afogado
+[22:29:06] MethødMan *Morto*: poe o numero pra ficar vermelh
+[22:29:12] MethødMan: qnd tiver chegando no final
+[22:29:17] MethødMan: tipo no 5
+[22:29:23] Sagos: ok
+[22:29:25] MethødMan: uma claresa
+[22:29:27] MethødMan: clareza
+[22:29:29] MethødMan: clareça
+[22:29:32] MethødMan: claressa
+[22:29:38] MethødMan: pro cara ve q ele ta se fodendo
+[22:29:42] MethødMan: algo pra destacar ta ligado?
+[22:29:43] U.S.G.N.: Serverlist entry updated
+[22:29:43] Sagos: kkkkkkkkkk
+[22:29:46] Sagos: s
+[22:29:47] U.S.G.N.: Ping/State 'playing'
+[22:29:53] Sagos: dps que levar dano vou colocar um som tbm
+[22:29:54] MethødMan: 5 4 3 2 1 piscando
+[22:30:01] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[22:30:04] MethødMan: poe o gemidao do zap ziparozomba
+[22:30:06] MethødMan: cada tiro
+[22:30:07] MethødMan: vai ser oh 
+[22:30:09] MethødMan: oh
+[22:30:14] [Info] Você já tem USP no inventário
+[22:30:14] [Info] Sem balas de shotgun, sua M3 foi guardada no inventário
+[22:30:16] [Info] Você pegou 10 Balas de Shotgun
+[22:30:16] [Info] Você equipou M3
+[22:30:16] Sagos killed MethødMan with M3
+[22:30:18] Sagos killed rM | null! with M3
+[22:30:22] Sagos killed MethødMan with M3
+[22:30:22] [Info] Você já tem USP no inventário
+[22:30:24] MethødMan: eita
+[22:30:28] U.S.G.N.: Serverlist entry updated
+[22:30:41] rM | null!: Testa o random bom
+[22:30:43] rM | null!: b
+[22:30:47] U.S.G.N.: Ping/State 'playing'
+[22:30:48] MethødMan: como assim?
+[22:30:49] rM | null!: Enquanto ele n v
+[22:30:55] rM | null!: Chamei ele no wpp
+[22:31:03] generating stats...
+[22:31:03] stats generated in 1 ms!
+[22:31:13] U.S.G.N.: Serverlist entry updated
+[22:31:20] MethødMan killed Sagos with Knife
+[22:31:21] MethødMan killed rM | null! with Knife
+[22:31:36] MethødMan: o jogo ira começar
+[22:31:39] rM | null! killed MethødMan with M3
+[22:31:46] MethødMan: ele via por uma sombra
+[22:31:48] U.S.G.N.: Ping/State 'playing'
+[22:31:48] MethødMan: nas letras?
+[22:31:50] rM | null! killed MethødMan with M3
+[22:31:59] U.S.G.N.: Serverlist entry updated
+[22:32:15] rM | null! killed MethødMan with M3
+[22:32:36] "  (1x)
+[22:32:44] U.S.G.N.: Serverlist entry updated
+[22:32:48] U.S.G.N.: Ping/State 'playing'
+[22:33:00] rM | null! killed MethødMan with M3
+[22:33:03] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[22:33:05] [Info] Você pegou 10 Balas de Shotgun
+[22:33:07] [Info] Você pegou 15 Balas de Pistola
+[22:33:07] [Info] Você equipou USP
+[22:33:09] Sagos killed rM | null! with USP
+[22:33:17] MethødMan killed Sagos with M3
+[22:33:20] MethødMan killed rM | null! with M3
+[22:33:24] "  (1x)
+[22:33:25] Sagos killed MethødMan with USP
+[22:33:29] U.S.G.N.: Serverlist entry updated
+[22:33:35] rM | null! killed MethødMan with M3
+[22:33:38] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[22:33:40] Sagos killed rM | null! with M3
+[22:33:41] [Info] Você já tem USP no inventário
+[22:33:44] [Info] Você pegou 30 Balas de SMG
+[22:33:45] [Info] Você pegou 10 Balas de Shotgun
+[22:33:45] [Info] Você já tem USP no inventário
+[22:33:49] U.S.G.N.: Ping/State 'playing'
+[22:33:50] rM | null! killed Sagos with M3
+[22:33:55] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[22:34:11] MethødMan: eita
+[22:34:14] MethødMan: q porra foi essa?
+[22:34:15] U.S.G.N.: Serverlist entry updated
+[22:34:27] Sagos killed rM | null! with Knife
+[22:34:27] [Info] Você já tem USP no inventário
+[22:34:29] Sagos killed MethødMan with Knife
+[22:34:31] Sagos: kkkkkkk
+[22:34:32] [Info] Você já tem USP no inventário
+[22:34:34] rM | null!: sdsa
+[22:34:42] rM | null! killed Sagos with M3
+[22:34:49] U.S.G.N.: Ping/State 'playing'
+[22:34:52] MethødMan: ai
+[22:34:58] MethødMan: vai ser esse meno mesmo q tu vai usar no sv?
+[22:35:00] U.S.G.N.: Serverlist entry updated
+[22:35:04] MethødMan: ou pretende mudar?
+[22:35:12] rM | null!: oq ?
+[22:35:16] MethødMan: o f2
+[22:35:17] Sagos: só se alguem mudar
+[22:35:19] Sagos: pq eu n sei
+[22:35:24] MethødMan: tipo
+[22:35:34] MethødMan: etm como por escrito meio q por baixo
+[22:35:36] MethødMan: tem*
+[22:35:39] rM | null! killed MethødMan with M3
+[22:35:41] MethødMan *Morto*: os item q tu tem?
+[22:35:42] rM | null!: sagos
+[22:35:45] U.S.G.N.: Serverlist entry updated
+[22:35:50] U.S.G.N.: Ping/State 'playing'
+[22:35:52] rM | null!: vamo no pubg do boludo
+[22:35:54] rM | null!: ele atualizo
+[22:36:03] generating stats...
+[22:36:03] stats generated in 1 ms!
+[22:36:07] Sagos: qual nome?
+[22:36:14] MethødMan: em man
+[22:36:21] MethødMan: vai ficar escrito no menuw
+[22:36:21] rM | null!: _________________BATLLE ROYALE
+[22:36:25] rM | null! killed MethødMan with M3
+[22:36:25] MethødMan *Morto*: a quantidade de item q tu tem
+[22:36:31] U.S.G.N.: Serverlist entry updated
+[22:36:42] Sagos: colocar aonde?
+[22:36:42] Error: player rM | null! (#2) tries to select weapon which he does not own (wpn id 32)
+[22:36:43] MethødMan: um amg meu da estonia é top 1
+[22:36:45] MethødMan: nesse sv
+[22:36:49] MethødMan: ping 30
+[22:36:50] U.S.G.N.: Ping/State 'playing'
+[22:36:54] MethødMan: sabe no f2
+[22:36:58] Sagos: hm
+[22:37:00] rM | null! killed MethødMan with M4A1
+[22:37:00] MethødMan *Morto*: no hc qnd tu da vote kick
+[22:37:05] rM | null! killed MethødMan with M4A1
+[22:37:07] MethødMan *Morto*: fica esrito na direita
+[22:37:13] MethødMan *Morto*: o nome do cara q tu votou
+[22:37:16] U.S.G.N.: Serverlist entry updated
+[22:37:17] MethødMan *Morto*: soq meio claro
+[22:37:27] MethødMan *Morto*: dai tu coloca a quantidade de item q tem
+[22:37:29] MethødMan *Morto*: e so uma ideia
+[22:37:36] rM | null! killed MethødMan with Knife
+[22:37:37] MethødMan *Morto*: mas acho q ficaria zika
+[22:37:42] rM | null!: sagos
+[22:37:43] [Info] Aguarde 4 segundos para usar Energético
+[22:37:43] rM | null!: vamo la
+[22:37:46] MethødMan *Morto*: pq as vezes o cara n lembra o tant ode item q ele 
+[22:37:46] [Info] Você usou Energético
+[22:37:47] Sagos: vms
+[22:37:47] MethødMan *Morto*: pegou
+[22:37:49] MethødMan *Morto*: bora la
+[22:37:49] rM | null!: vamo la method
+[22:37:51] U.S.G.N.: Ping/State 'playing'
+[22:37:51] MethødMan deixou o jogo
+[22:37:52] Servidor Desligado
+[22:37:53] U.S.G.N.: Server removed from serverlist
+[22:37:53] ----- Disconnected -----
+[22:37:54] U.S.G.N.: Ping/State 'idle' (288 ms)
+[22:37:54] Cached servers added to list: 153
+[22:37:55] U.S.G.N.: Received serverlist (servers: 32)
+[22:37:55] U.S.G.N.: Received serverlist (servers: 150)
+[22:38:45] Cached servers added to list: 153
+[22:38:46] U.S.G.N.: Received serverlist (servers: 29)
+[22:38:46] U.S.G.N.: Received serverlist (servers: 150)
+[22:38:54] U.S.G.N.: Ping/State 'idle' (272 ms)
+[22:39:05] Connecting to 31.202.128.250:36963 (using U.S.G.N. ID #15431) ...
+[22:39:05] U.S.G.N.: Ping/State 'idle' (288 ms)
+[22:39:05] "  (1x)
+[22:39:06] Checking 'maps/bg_foes_v4.2.txt': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/tiles/best2.png': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/sprites/de_vantage/humvee.png': Already exists.
+[22:39:06] Checking 'gfx/sprites/de_vantage/umbrella1.png': Already exists.
+[22:39:06] Checking 'gfx/sprites/de_vantage/umbrella2.png': Already exists.
+[22:39:06] Checking 'gfx/weapons/satchelcharge.bmp': Already exists.
+[22:39:06] Checking 'gfx/weapons/ak47_d.bmp': Already exists.
+[22:39:06] Checking 'gfx/sprites/table.png': Already exists.
+[22:39:06] Checking 'gfx/sprites/table3.png': Already exists.
+[22:39:06] Checking 'gfx/sprites/pizza.png': Already exists.
+[22:39:06] Checking 'gfx/sprites/newstand.png': Already exists.
+[22:39:06] Checking 'gfx/sprites/car.png': Already exists.
+[22:39:06] Checking 'gfx/sprites/bench_shadow.png': Already exists.
+[22:39:06] Checking 'gfx/sprites/bench.png': Already exists.
+[22:39:06] Checking 'sfx/env/click2.wav': Already exists.
+[22:39:06] Checking 'sfx/doors/doormove5.wav': Already exists.
+[22:39:06] Checking 'gfx/sprites/tree01.bmp': Already exists.
+[22:39:06] Checking 'sfx/env/fire_medium_loop1.wav': Already exists.
+[22:39:06] Checking 'gfx/sprites/truck.bmp': Already exists.
+[22:39:06] Checking 'gfx/sprites/de_vantage/roof2.png': Already exists.
+[22:39:06] Checking 'gfx/blood.bmp': Already exists.
+[22:39:06] Checking 'gfx/br/c1.png': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/br/c0.png': Does not exist. Request transfer!
+[22:39:06] Checking 'sfx/br/ds.ogg': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/br/c4.png': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/br/c3.png': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/br/c5.png': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/br/c2.png': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/br/fn2.png': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/br/dz2.png': Does not exist. Request transfer!
+[22:39:06] Checking 'gfx/sprites/flare4.bmp': Already exists.
+[22:39:06] Checking 'maps/bg_foes_v4.2.map': Does not exist. Request transfer!
+[22:39:06] Requesting 12 files from server...
+[22:39:06] Downloading 'maps/bg_foes_v4.2.txt' from server...
+[22:39:06] Downloading 'gfx/tiles/best2.png' from server...
+[22:39:11] Downloading 'gfx/br/c1.png' from server...
+[22:39:11] Created directory 'gfx/br' for received files
+[22:39:11] Downloading 'gfx/br/c0.png' from server...
+[22:39:11] Downloading 'sfx/br/ds.ogg' from server...
+[22:39:12] Created directory 'sfx/br' for received files
+[22:39:12] Downloading 'gfx/br/c4.png' from server...
+[22:39:12] Downloading 'gfx/br/c3.png' from server...
+[22:39:12] Downloading 'gfx/br/c5.png' from server...
+[22:39:12] Downloading 'gfx/br/c2.png' from server...
+[22:39:12] Downloading 'gfx/br/fn2.png' from server...
+[22:39:13] Downloading 'gfx/br/dz2.png' from server...
+[22:39:14] Downloading 'maps/bg_foes_v4.2.map' from server...
+[22:39:15] load map 'bg_foes_v4.2'
+[22:39:16] ----- Server joined -----
+[22:39:16] MethødMan: achei q atravessava
+[22:39:17] U.S.G.N.: Ping/State 'playing'
+[22:39:19] Sagos juntou-se a Countra-Terrorista Forças
+[22:39:21] lidian lima conectou-se
+[22:39:30] lidian lima juntou-se a Countra-Terrorista Forças
+[22:40:17] U.S.G.N.: Ping/State 'playing'
+[22:40:31] MethødMan killed rM | null! with Glock
+[22:40:31] MethødMan has WON the game! 
+[22:40:31] MethødMan has WON the game!  
+[22:40:31] MethødMan has WON the game!   
+[22:40:31] MethødMan has WON the game!    
+[22:40:31] MethødMan has WON the game!     
+[22:40:35] rM | null!: morre n
+[22:40:39] Item(s) found: M4A1
+[22:40:40] MethødMan: 12 de hp sla
+[22:40:44] MethødMan: aq e lagado man
+[22:41:00] Item(s) found: Smoke Grenade
+[22:41:01] Item(s) found: USP and UMP45
+[22:41:06] rM | null! killed MethødMan with P228
+[22:41:07] Item(s) found: XM1014
+[22:41:09] MethødMan *DEAD*: krl 
+[22:41:12] MethødMan *DEAD*: q isso
+[22:41:14] rM | null!: asdl
+[22:41:18] U.S.G.N.: Ping/State 'playing'
+[22:41:21] rM | null! killed lidian lima with P228
+[22:41:26] Item(s) found: RPG Launcher and Flamethrower
+[22:41:41] Sagos killed rM | null! with RPG Launcher
+[22:41:41] Sagos had advanced to level 2!
+[22:41:41] Sagos had advanced to level 3!
+[22:41:41] Sagos has WON the game! 
+[22:41:41] Sagos has WON the game!  
+[22:41:41] Sagos has WON the game!   
+[22:41:41] Sagos has WON the game!    
+[22:41:41] Sagos has WON the game!     
+[22:41:44] MethødMan *DEAD*: KSAOPYSAKOPYSAP
+[22:41:47] rM | null!: Fdp
+[22:41:48] Sagos: kkkkkkkk
+[22:41:57] Item(s) found: UMP45
+[22:42:05] Item(s) found: Bandage and Kevlar+Helm
+[22:42:08] Item(s) found: Medikit
+[22:42:08] Item(s) found: Primary Ammo
+[22:42:14] Item(s) found: Elite
+[22:42:18] U.S.G.N.: Ping/State 'playing'
+[22:42:18] Item(s) found: Medikit and Kevlar+Helm
+[22:42:23] Item(s) found: Deagle
+[22:42:34] Sagos killed rM | null! with UMP45
+[22:42:47] Item(s) found: Bandage
+[22:42:51] Item(s) found: TMP
+[22:42:54] rM | null! *DEAD*: Ta melhor n ta sagos ?
+[22:42:58] rM | null! *DEAD*: So ta meio sem ideia
+[22:42:59] Sagos killed MethødMan with UMP45
+[22:42:59] Item(s) found: Mac 10
+[22:43:02] Sagos killed lidian lima with Elite
+[22:43:02] Sagos had advanced to level 4!
+[22:43:02] Sagos has WON the game! 
+[22:43:02] Sagos has WON the game!  
+[22:43:02] Sagos has WON the game!   
+[22:43:02] Sagos has WON the game!    
+[22:43:02] Sagos has WON the game!     
+[22:43:02] MethødMan *DEAD*: ai n
+[22:43:04] MethødMan *DEAD*: kkkkkkkkkkkkkkkkkkkk
+[22:43:07] Item(s) found: Smoke Grenade
+[22:43:12] Item(s) found: Light Armor
+[22:43:17] Sagos: ta melhorzinho
+[22:43:19] U.S.G.N.: Ping/State 'playing'
+[22:43:19] Item(s) found: Kevlar
+[22:43:48] "  (1x)
+[22:44:01] Item(s) found: Snowball
+[22:44:07] MethødMan killed Sagos with Deagle
+[22:44:07] k¦MethødMan¦55¦65
+[22:44:12] rM | null! killed lidian lima with USP
+[22:44:13] Sagos *DEAD*: ah man eu n tinha arma
+[22:44:16] Sagos *DEAD*: kkkkkkkk
+[22:44:19] U.S.G.N.: Ping/State 'playing'
+[22:44:19] lidian lima *DEAD*: nem eu
+[22:44:23] MethødMan killed rM | null! with Deagle
+[22:44:23] MethødMan had advanced to level 6!
+[22:44:23] MethødMan has WON the game! 
+[22:44:23] MethødMan has WON the game!  
+[22:44:23] MethødMan has WON the game!   
+[22:44:23] MethødMan has WON the game!    
+[22:44:23] MethødMan has WON the game!     
+[22:44:26] Sagos *DEAD*: kkkkkkkkkkkkk
+[22:44:27] rM | null!: asdsad
+[22:44:30] Item(s) found: P228
+[22:44:50] Item(s) found: Armor
+[22:44:50] Item(s) found: Mac 10
+[22:44:55] NÃo sei jogar cs conectou-se
+[22:45:08] rM | null! killed lidian lima with M3
+[22:45:14] NÃo sei jogar cs juntou-se a Countra-Terrorista Forças
+[22:45:20] U.S.G.N.: Ping/State 'playing'
+[22:45:23] MethødMan killed Sagos with Deagle
+[22:45:23] k¦MethødMan¦68¦56
+[22:45:30] Sagos *DEAD*: dnv n achei arma
+[22:45:33] Ruivo Forete conectou-se
+[22:45:39] Sagos *DEAD*: ta zuado d+ o mapa
+[22:45:44] rM | null! killed MethødMan with M3
+[22:45:44] rM | null! had advanced to level 5!
+[22:45:44] rM | null! has WON the game! 
+[22:45:44] rM | null! has WON the game!  
+[22:45:44] rM | null! has WON the game!   
+[22:45:44] rM | null! has WON the game!    
+[22:45:44] rM | null! has WON the game!     
+[22:45:49] MethødMan: tudo sem bala
+[22:45:50] Ruivo Forete juntou-se a Terrorista Forças
+[22:45:54] rM | null!: a m
+[22:45:56] rM | null!: isso 
+[22:46:02] rM | null!: aqui n e igual battlegrounds
+[22:46:07] rM | null!: esse e tipo o Fortnite
+[22:46:11] rM | null!: agr q eu percebi
+[22:46:12] rM | null!: kkkkkk
+[22:46:17] rM | null!: por causa das caixa
+[22:46:20] U.S.G.N.: Ping/State 'playing'
+[22:46:22] Sagos: s foi o que falei
+[22:46:23] Item(s) found: Medikit
+[22:46:31] Item(s) found: XM1014
+[22:46:31] You can really taste the conectou-se
+[22:46:39] NÃo sei jogar cs killed Sagos with Five-Seven
+[22:46:39] k¦NÃo sei jogar cs¦16¦0
+[22:46:43] MethødMan killed NÃo sei jogar cs with USP
+[22:46:44] rM | null! killed lidian lima with SG552
+[22:47:01] You can really taste the juntou-se a Countra-Terrorista Forças
+[22:47:05] MethødMan killed by danger zone
+[22:47:05] rM | null! has WON the game! 
+[22:47:05] rM | null! has WON the game!  
+[22:47:05] rM | null! has WON the game!   
+[22:47:05] rM | null! has WON the game!    
+[22:47:05] rM | null! has WON the game!     
+[22:47:07] MethødMan *DEAD*: pqp
+[22:47:09] rM | null!: KKKKKKKKKKKKKKKK
+[22:47:11] Sagos: no PUBG as partida dura meia hr
+[22:47:16] Sagos: aki dura 1 min '-'
+[22:47:19] Item(s) found: Bandage
+[22:47:20] U.S.G.N.: Ping/State 'playing'
+[22:47:21] rM | null! killed Ruivo Forete with Knife
+[22:47:27] Item(s) found: Secondary Ammo
+[22:47:33] Item(s) found: Chainsaw
+[22:47:33] Item(s) found: Elite
+[22:47:34] Item(s) found: Claw and Primary Ammo
+[22:47:36] Item(s) found: Five-Seven
+[22:47:40] Item(s) found: Satchel Charge
+[22:47:42] Item(s) found: Mine
+[22:48:05] Sagos killed himself with Mine
+[22:48:07] MethødMan killed lidian lima with Molotov Cocktail
+[22:48:16] rM | null! killed NÃo sei jogar cs with Knife
+[22:48:17] MethødMan killed rM | null! with TMP
+[22:48:19] rM | null! *DEAD*: asdkasdkaskdsakd
+[22:48:21] U.S.G.N.: Ping/State 'playing'
+[22:48:35] MethødMan killed You can really taste the with TMP
+[22:48:35] MethødMan has WON the game! 
+[22:48:35] MethødMan has WON the game!  
+[22:48:35] MethødMan has WON the game!   
+[22:48:35] MethødMan has WON the game!    
+[22:48:35] MethødMan has WON the game!     
+[22:48:41] Item(s) found: M3
+[22:48:48] Item(s) found: Kevlar
+[22:48:55] MethødMan killed lidian lima with Knife
+[22:48:59] MethødMan: kkkkkkkkkkkkk
+[22:48:59] Sagos killed rM | null! with M3
+[22:49:02] rM | null! *DEAD*: SAI
+[22:49:03] rM | null! *DEAD*: kkkkkkkkkkk
+[22:49:05] Item(s) found: Kevlar
+[22:49:08] lidian lima *DEAD*: me matou com faca?
+[22:49:21] U.S.G.N.: Ping/State 'playing'
+[22:49:42] Sagos killed Ruivo Forete with M3
+[22:49:50] MethødMan killed Sagos with MP5
+[22:49:50] MethødMan had advanced to level 7!
+[22:49:50] k¦MethødMan¦100¦65
+[22:49:54] You can really taste the killed by danger zone
+[22:50:00] MethødMan killed NÃo sei jogar cs with MP5
+[22:50:00] MethødMan has WON the game! 
+[22:50:00] MethødMan has WON the game!  
+[22:50:00] MethødMan has WON the game!   
+[22:50:00] MethødMan has WON the game!    
+[22:50:00] MethødMan has WON the game!     
+[22:50:04] MethødMan: essa foi facil
+[22:50:06] Item(s) found: HE
+[22:50:07] Item(s) found: Medikit
+[22:50:18] MethødMan killed lidian lima with Five-Seven
+[22:50:22] U.S.G.N.: Ping/State 'playing'
+[22:50:27] Item(s) found: Medikit
+[22:50:30] lidian lima *DEAD*: n acredito
+[22:50:39] rM | null! killed Ruivo Forete with MP5
+[22:50:43] MethødMan killed You can really taste the with Deagle
+[22:50:58] lidian lima *DEAD*: quando a gente se encontrar nao vamos nos matar 
+[22:51:14] lidian lima *DEAD*: methodman ok?
+[22:51:15] Sagos killed NÃo sei jogar cs with MP5
+[22:51:20] MethødMan killed Sagos with M3
+[22:51:20] k¦MethødMan¦60¦3
+[22:51:22] U.S.G.N.: Ping/State 'playing'
+[22:51:32] rM | null! killed MethødMan with MP5
+[22:51:32] rM | null! had advanced to level 6!
+[22:51:32] rM | null! has WON the game! 
+[22:51:32] rM | null! has WON the game!  
+[22:51:32] rM | null! has WON the game!   
+[22:51:32] rM | null! has WON the game!    
+[22:51:32] rM | null! has WON the game!     
+[22:51:35] MethødMan *DEAD*: really
+[22:51:37] rM | null!: :D
+[22:51:47] Item(s) found: Medikit and M4A1
+[22:51:49] Item(s) found: Five-Seven
+[22:51:55] Sagos killed MethødMan with M4A1
+[22:51:58] MethødMan *DEAD*: cuzao camper
+[22:51:59] Item(s) found: Mac 10
+[22:52:08] MethødMan *Morto*: rank
+[22:52:08] r¦MethødMan¦253 of 6744¦21,21,12,1.75,24 m 49 s
+[22:52:10] rM | null!: Dando rage
+[22:52:11] rM | null!: rank
+[22:52:11] r¦rM | null!¦4433 of 6744¦16,16,18,0.88,33 m 53 s
+[22:52:14] Ruivo Forete killed NÃo sei jogar cs with Knife
+[22:52:15] rM | null!: ME
+[22:52:15] Ruivo Forete killed Sagos with XM1014
+[22:52:15] k¦Ruivo Forete¦12¦0
+[22:52:19] Ruivo Forete killed by danger zone
+[22:52:20] rM | null! killed lidian lima with Flamethrower
+[22:52:21] Sagos *DEAD*: '-'
+[22:52:23] U.S.G.N.: Ping/State 'playing'
+[22:52:42] lidian lima *DEAD*: n vou mais jogar so me esconder
+[22:53:00] rM | null! killed You can really taste the with Deagle
+[22:53:00] rM | null! has WON the game! 
+[22:53:00] rM | null! has WON the game!  
+[22:53:00] rM | null! has WON the game!   
+[22:53:00] rM | null! has WON the game!    
+[22:53:00] rM | null! has WON the game!     
+[22:53:05] Item(s) found: USP
+[22:53:06] Item(s) found: Kevlar
+[22:53:19] Item(s) found: AK-47 and Scout
+[22:53:23] U.S.G.N.: Ping/State 'playing'
+[22:53:24] Nightblue3 conectou-se
+[22:53:30] Item(s) found: Kevlar
+[22:53:31] Nightblue3 juntou-se a Terrorista Forças
+[22:53:37] Sagos killed Ruivo Forete with AK-47
+[22:53:57] Sagos killed rM | null! with AK-47
+[22:53:57] Sagos had advanced to level 5!
+[22:54:05] NÃo sei jogar cs killed lidian lima with MP5
+[22:54:05] NÃo sei jogar cs had advanced to level 3!
+[22:54:12] MethødMan killed by danger zone
+[22:54:14] Item(s) found: Kevlar
+[22:54:19] NÃo sei jogar cs killed Sagos with MP5
+[22:54:19] k¦NÃo sei jogar cs¦28¦0
+[22:54:21] rM | null! *DEAD*: kaskdsa
+[22:54:24] U.S.G.N.: Ping/State 'playing'
+[22:54:25] You can really taste the killed NÃo sei jogar cs with Scout
+[22:54:25] You can really taste the had advanced to level 2!
+[22:54:25] You can really taste the had advanced to level 3!
+[22:54:25] You can really taste the has WON the game! 
+[22:54:25] You can really taste the has WON the game!  
+[22:54:25] You can really taste the has WON the game!   
+[22:54:25] You can really taste the has WON the game!    
+[22:54:25] You can really taste the has WON the game!     
+[22:54:27] MooDaCow conectou-se
+[22:54:28] rM | null!: Morreu mizeravelmente
+[22:54:28] Sagos: kkkkk o cara atirando no nada
+[22:54:41] lidian lima: mentira
+[22:54:43] Item(s) found: Medikit and Bandage
+[22:54:44] Item(s) found: Kevlar+Helm
+[22:54:46] rM | null! killed MethødMan with TMP
+[22:54:47] Nightblue3 killed Sagos with Glock
+[22:54:47] k¦Nightblue3¦100¦202
+[22:54:51] lidian lima: evc night blu3?
+[22:54:53] MooDaCow juntou-se a Terrorista Forças
+[22:54:59] Nightblue3 killed You can really taste the with TMP
+[22:55:09] Nightblue3 killed NÃo sei jogar cs with Glock
+[22:55:24] U.S.G.N.: Ping/State 'playing'
+[22:55:30] Nightblue3 killed Ruivo Forete with Galil
+[22:55:37] lidian lima killed rM | null! with SG552
+[22:55:39] rM | null! *DEAD*: a 
+[22:55:44] Nightblue3 killed lidian lima with Galil
+[22:55:44] Nightblue3 has WON the game! 
+[22:55:44] Nightblue3 has WON the game!  
+[22:55:44] Nightblue3 has WON the game!   
+[22:55:44] Nightblue3 has WON the game!    
+[22:55:44] Nightblue3 has WON the game!     
+[22:55:47] Nightblue3: rank
+[22:55:47] r¦Nightblue3¦8 of 6745¦666,666,328,2.03,10 h 7 m
+[22:56:25] U.S.G.N.: Ping/State 'playing'
+[22:56:27] Sagos: ou
+[22:56:30] rM | null!: ?
+[22:56:32] Sagos: vou joga pubg
+[22:56:34] Nightblue3 killed You can really taste the with P228
+[22:56:37] MethødMan killed by danger zone
+[22:56:39] lidian lima killed rM | null! with MP5
+[22:56:41] NÃo sei jogar cs killed lidian lima with M4A1
+[22:56:42] rM | null! *DEAD*: a
+[22:56:46] rM | null! *DEAD*: Blz 
+[22:56:49] Ruivo Forete killed Sagos with MP5
+[22:56:49] k¦Ruivo Forete¦90¦65
+[22:56:52] Nightblue3 killed MooDaCow with M3
+[22:56:53] MethødMan *DEAD*: teu pc roda pub?
+[22:56:56] Nightblue3 killed Ruivo Forete with Five-Seven
+[22:56:57] Sagos *DEAD*: s
+[22:57:01] MethødMan *DEAD*: lol
+[22:57:01] 360Great conectou-se
+[22:57:03] Sagos *DEAD*: dps eu volto ai

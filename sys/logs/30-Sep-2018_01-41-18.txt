@@ -1,0 +1,136 @@
+CS2D 1.0.0.7 Logfile - 30 Sep 2018, 01:41:18
+
+[01:41:18] Steam: Logged in as #76561198077078199
+[01:41:18] UDP socket initialized using port 53918
+[01:41:18] U.S.G.N.: Your game version is up to date!
+[01:41:20] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[01:41:29] Cached servers added to list: 102
+[01:41:30] U.S.G.N.: Received serverlist (servers: 111)
+[01:41:46] Connecting to 165.227.222.200:36966 (using U.S.G.N. ID #15431) ...
+[01:41:47] U.S.G.N.: Ping/State 'idle' (288 ms)
+[01:41:47] U.S.G.N.: Ping/State 'idle' (304 ms)
+[01:41:50] Connecting to 165.227.222.200:36966 (using U.S.G.N. ID #15431) ...
+[01:41:50] U.S.G.N.: Ping/State 'idle' (288 ms)
+[01:41:50] "  (1x)
+[01:41:52] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[01:41:52] Checking 'gfx/hc/editor_form.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/angel.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/devil.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/gandalf_hat.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/graduation_hat.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/metal_helmet_adm.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/metal_helmet_mod.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/metal_helmet_vip.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/party_hat.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/pirate_hat.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/pumpkin_head.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/santa_hat.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/snowman.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/spear.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/umbrella_ct.png': Already exists.
+[01:41:52] Checking 'gfx/hc/attribs/umbrella_t.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/angry.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/cheeky.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/crying.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/cursing.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/evil.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/frowning.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/heart.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/laughing.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/skeptical.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/smiling.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/smiling_big.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/speechbubble.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/surprised.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/uneasy.png': Already exists.
+[01:41:52] Checking 'gfx/hc/emoticons/winking.png': Already exists.
+[01:41:52] Checking 'sfx/pvp/join.ogg': Does not exist. Request transfer!
+[01:41:52] Checking 'maps/awp_grey.map': Already exists. Request transfer (overwrite)!
+[01:41:52] Requesting 2 files from server...
+[01:41:52] Downloading 'sfx/pvp/join.ogg' from server...
+[01:42:01] Created directory 'sfx/pvp' for received files
+[01:42:01] Downloading 'maps/awp_grey.map' from server...
+[01:42:02] load map 'awp_grey'
+[01:42:02] ----- Server joined -----
+[01:42:02] [SERVER]: Welcome to Awp Grey server. Sagos!
+[01:42:02] [SERVER]: Your user level is: USER.
+[01:42:02] F.E.A.RlLay_Der@ killed LIL PEEP with AWP
+[01:42:02] Veenuz: pep
+[01:42:03] U.S.G.N.: Ping/State 'playing'
+[01:42:09] Sagos aliou-se a Equipe Contra-Terrorista
+[01:42:10] Dora La Drogadicta killed Veenuz with AWP
+[01:42:14] Dora La Drogadicta: :,v
+[01:42:15] LIL PEEP *MORTO*: khe verga pinche morro lagger
+[01:42:22] [SERVER]: F2 for command menu.
+[01:42:29] õ *MORTO*: si we y qso v:
+[01:42:33] Dora La Drogadicta: hey
+[01:42:38] Dora La Drogadicta: Say P e p
+[01:42:38] Veenuz *MORTO*: y yo que? :'v
+[01:42:39] F.E.A.RlLay_Der@: ?
+[01:42:41] õ *MORTO*: but tu no lo matas
+[01:42:45] F.E.A.RlLay_Der@: kinife??
+[01:42:51] Dora La Drogadicta: say Pep Pls
+[01:42:53] õ *MORTO*: se te borro la sonrisa :v
+[01:42:55] Dora La Drogadicta mudou de nome para [NJ]Pep Jr.
+[01:43:03] U.S.G.N.: Ping/State 'playing'
+[01:43:10] [NJ]Pep Jr.: SAy Pep!! >:v
+[01:43:10] F.E.A.RlLay_Der@: yo no hablo espanhol mui bien.
+[01:43:16] [NJ]Pep Jr.: fala
+[01:43:19] [NJ]Pep Jr.: Pep
+[01:43:22] [SERVER]: F2 for command menu.
+[01:43:27] F.E.A.RlLay_Der@: pep
+[01:43:30] [NJ]Pep Jr. killed F.E.A.RlLay_Der@ with AWP
+[01:43:31] F.E.A.RlLay_Der@ *MORTO*: w
+[01:43:36] õ mudou de nome para ~Jeancarlo~
+[01:43:37] Veenuz: nomames
+[01:43:38] Veenuz: :v
+[01:43:40] [NJ] Not Joseph.: morirais
+[01:43:43] ~Jeancarlo~: ^
+[01:43:43] [NJ]Pep Jr.: say pep = die?
+[01:43:47] Veenuz killed LIL PEEP with AWP
+[01:43:47] Sagos killed Veenuz with AWP
+[01:43:49] F.E.A.RlLay_Der@: haha
+[01:43:49] ~Jeancarlo~ killed [NJ]Pep Jr. with AWP
+[01:43:59] Sagos killed ~Jeancarlo~ with AWP
+[01:43:59] Sagos Reached 2 KpD!
+[01:44:04] U.S.G.N.: Ping/State 'playing'
+[01:44:22] [SERVER]: F2 for command menu.
+[01:44:23] Sagos killed F.E.A.RlLay_Der@ with AWP
+[01:44:23] Sagos Reached 3 KpD!
+[01:44:26] [NJ] Not Joseph.: xd
+[01:44:28] [NJ]Pep Jr. mudou de nome para Pep La Drogadicta
+[01:44:33] Sagos killed ~Jeancarlo~ with AWP
+[01:44:33] Sagos Reached 4 KpD!
+[01:44:38] Sagos killed F.E.A.RlLay_Der@ with Knife
+[01:44:38] Sagos Reached 5 KpD!
+[01:44:43] LIL PEEP killed Veenuz with AWP
+[01:44:47] Pep La Drogadicta: :,v
+[01:44:54] Pep La Drogadicta mudou de nome para Pep Jr. La Drogadicta
+[01:44:56] ~Jeancarlo~: vamos al sexy?
+[01:44:59] Veenuz: alguien me enseña a jugar
+[01:44:59] Pep Jr. La Drogadicta killed F.E.A.RlLay_Der@ with AWP
+[01:45:00] ~Jeancarlo~ killed Sagos with AWP
+[01:45:00] k¦~Jeancarlo~¦100¦100
+[01:45:04] ~Jeancarlo~: a que los abuse
+[01:45:04] U.S.G.N.: Ping/State 'playing'
+[01:45:05] F.E.A.RlLay_Der@ *MORTO*: DeSGRAÇAAAAAA
+[01:45:09] Pep Jr. La Drogadicta: Pera
+[01:45:13] F.E.A.RlLay_Der@ *MORTO*: seus filho da putaaaa
+[01:45:14] Pep Jr. La Drogadicta: juguemos esta
+[01:45:14] ~Jeancarlo~: manzana
+[01:45:15] LIL PEEP killed Veenuz with AWP
+[01:45:18] ~Jeancarlo~ killed [NJ] Not Joseph. with AWP
+[01:45:19] F.E.A.RlLay_Der@ *MORTO*: poraaaaaaaaa
+[01:45:20] ~Jeancarlo~ killed LIL PEEP with AWP
+[01:45:22] [SERVER]: F2 for command menu.
+[01:45:22] ~Jeancarlo~: pep
+[01:45:23] F.E.A.RlLay_Der@ *MORTO*: ronto
+[01:45:26] Pep Jr. La Drogadicta: Pero no me Puedo quedar mucho time
+[01:45:28] [NJ] Not Joseph. deixou o servidor
+[01:45:32] ~Jeancarlo~: focus? :v
+[01:45:33] [NJ] Not Joseph. conectou-se ao servidor
+[01:45:39] ~Jeancarlo~: este pep
+[01:45:41] [NJ] Not Joseph. aliou-se a Equipe Contra-Terrorista
+[01:45:47] Pep Jr. La Drogadicta: say pep
+[01:45:49] F.E.A.RlLay_Der@ *MORTO*: Pep=Fudidooo filho da putaaaa
+[01:45:50] ~Jeancarlo~: V DOWN}

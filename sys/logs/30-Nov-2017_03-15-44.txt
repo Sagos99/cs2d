@@ -1,0 +1,982 @@
+CS2D 1.0.0.5 Logfile - 30 Nov 2017, 03:15:44
+
+[03:15:44] UDP socket initialized using port 36963
+[03:15:44] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[03:15:44] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[03:15:44] U.S.G.N.: Ping/State 'playing'
+[03:15:44] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[03:15:44] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[03:15:45] U.S.G.N.: Received serverlist (servers: 24)
+[03:15:45] U.S.G.N.: Received serverlist (servers: 150)
+[03:15:49] Connecting to 89.40.113.103:20000 (using U.S.G.N. ID #15431) ...
+[03:15:50] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:15:50] "  (1x)
+[03:15:50] Checking 'gfx/tiles/Jail tile GO.bmp': Already exists.
+[03:15:50] Checking 'maps/California jail v2.0.1.lua': Does not exist and does not fit conditions! Do not request!
+[03:15:50] Checking 'gfx/!jail by lubo!/bed1.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/3.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/4.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/5.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/10.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/8.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/7.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/9.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/2.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/jail chair.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/book closed.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/book opend.png': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/book open.wav': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/door sound.wav': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/part 2.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/part 1.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/fake wall.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/block.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/SHADOW.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/light.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/camera.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/camera2.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/apache_heli.png': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/helirotor.ogg': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Map poiter.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/C4.png': Already exists.
+[03:15:50] Checking 'sfx/radio/bombpl.ogg': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/fake wall 2.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/light.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/apache_rotor.bmp': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/door-lock-1-1.wav': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/sound1.wav': Already exists.
+[03:15:50] Checking 'gfx/weapons/rocketlauncher.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/6.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/TRASH.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Danger.png': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/Weapons_ON.wav': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/Weapons_OFF.wav': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/fake sofa.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/teleport.bmp': Already exists.
+[03:15:50] "  (1x)
+[03:15:50] Checking 'sfx/!jail sounds/Teleport.ogg': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Box.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Box_open.png': Already exists.
+[03:15:50] Checking 'sfx/materials/burstwood.wav': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/Box_sound.ogg': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/Plane.ogg': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/Radio.ogg': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/block.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/leader.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/web.png': Already exists.
+[03:15:50] Checking 'sfx/player/die_abyss.ogg': Already exists.
+[03:15:50] Checking 'sfx/materials/metal2.wav': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Expload_box.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Shadow.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/grid.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Radio supply.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Control panel 2.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Control panel 1.png': Already exists.
+[03:15:50] Checking 'sfx/player/die2.wav': Already exists.
+[03:15:50] Checking 'gfx/blood.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/0.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/1.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/2.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/3.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/4.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/5.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/6.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/7.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/8.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/code/9.png': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/Code sound.wav': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Guard.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Shadow2.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/BrickObstacle.png': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/Beehive.ogg': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Dif1.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Dif2.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Dif3.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Dif4.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Dif5.png': Already exists.
+[03:15:50] Checking 'gfx/weapons/galil_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/p90_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/mp5_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/xm1014_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/famas_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Denied.png': Already exists.
+[03:15:50] Checking 'gfx/weapons/airstrike.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/chainsaw_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Gut Machine OFF.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Gut Machine ON.png': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Cables.png': Already exists.
+[03:15:50] Checking 'gfx/weapons/p228_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/fiveseven_d.bmp': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/1.6/RespawnSFX.ogg': Already exists.
+[03:15:50] Checking 'sfx/!jail sounds/California free day.ogg': Does not exist. Request transfer!
+[03:15:50] Checking 'sfx/env/thunder.wav': Already exists.
+[03:15:50] Checking 'gfx/weapons/m4a1_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/ak47_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/awp_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/tacticalshield_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/laser_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/scout_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/m3_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/grenadelauncher_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/rocketlauncher_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/rpglauncher_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/deagle_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/usp_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/glock_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/elite_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/he.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/flashbang.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/smokegrenade.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/snowball.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/mine.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/satchelcharge.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/lasermine.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/gasgrenade.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/machete.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/kevlar+helm_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/lightarmor_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/armor_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/heavyarmor_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/weapons/stealthsuit_d.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Doormat.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Cables 2.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Gut Machine Broken.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/SignUp.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Spray.bmp': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Brick.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/export.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/Screen.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/Gas sign.png': Does not exist. Request transfer!
+[03:15:50] Checking 'sfx/!jail sounds/1.6/Psycho_Cough.ogg': Does not exist. Request transfer!
+[03:15:50] Checking 'sfx/!jail sounds/1.6/PsychoLaughterSFX.ogg': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Battle Icon.png': Does not exist. Request transfer!
+[03:15:50] Checking 'sfx/!jail sounds/1.6/RespawnPlayerSFX.ogg': Does not exist. Request transfer!
+[03:15:50] Checking 'sfx/!jail sounds/1.6/PsychoWinSong.ogg': Does not exist. Request transfer!
+[03:15:50] Checking 'sfx/!jail sounds/1.6/ChainLock.wav': Does not exist. Request transfer!
+[03:15:50] Checking 'sfx/!jail sounds/1.6/ChainHit.wav': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/handcuffs_on.png': Does not exist. Request transfer!
+[03:15:50] Checking 'sfx/!jail sounds/1.6/ChainBreak.wav': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Dice_Icon.bmp': Does not exist. Request transfer!
+[03:15:50] "  (1x)
+[03:15:50] Checking 'gfx/!jail by lubo!/1.6/Carpet.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/pizza.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/Burger.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/Airplane shadow.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/!jail by lubo!/jail cheff.png': Already exists.
+[03:15:50] Checking 'gfx/weapons/gutbomb.bmp': Already exists.
+[03:15:50] Checking 'gfx/!jail by lubo!/Pizza.png': Does not exist. Request transfer!
+[03:15:50] Checking 'gfx/hc/emoticons/speechbubble.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/laughing.png': Already exists.
+[03:15:50] Checking 'gfx/block.bmp': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/cursing.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/smiling_big.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/skeptical.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/smiling.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/spear.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/snowman.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/frowning.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/black_beret.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/umbrella_ct.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/devil.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/santa_hat.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/gandalf_hat.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/heart.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/umbrella_t.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/angel.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/scarlet_beret.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/surprised.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/crying.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/cheeky.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/green_beret.png': Already exists.
+[03:15:50] Checking 'gfx/hc/editor_form.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/winking.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/pirate_hat.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/uneasy.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/angry.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/blue_beret.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/graduation_hat.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/metal_helmet_vip.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/maroon_beret.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/tan_beret.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/party_hat.png': Already exists.
+[03:15:50] Checking 'gfx/hc/attribs/pumpkin_head.png': Already exists.
+[03:15:50] Checking 'gfx/hc/emoticons/evil.png': Already exists.
+[03:15:50] Checking 'maps/California jail v2.0.1.map': Does not exist. Request transfer!
+[03:15:50] Requesting 27 files from server...
+[03:15:51] Downloading 'sfx/!jail sounds/California free day.ogg' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/1.6/Doormat.png' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/1.6/Cables 2.png' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/1.6/Gut Machine Broken.png' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/1.6/SignUp.png' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/1.6/Spray.bmp' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/1.6/Brick.png' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/1.6/export.png' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/Screen.png' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/Gas sign.png' from server...
+[03:15:59] Downloading 'sfx/!jail sounds/1.6/Psycho_Cough.ogg' from server...
+[03:15:59] Downloading 'sfx/!jail sounds/1.6/PsychoLaughterSFX.ogg' from server...
+[03:15:59] Downloading 'gfx/!jail by lubo!/1.6/Battle Icon.png' from server...
+[03:15:59] Downloading 'sfx/!jail sounds/1.6/RespawnPlayerSFX.ogg' from server...
+[03:16:23] U.S.G.N.: Received serverlist (servers: 29)
+[03:16:23] U.S.G.N.: Received serverlist (servers: 150)
+[03:16:23] Connecting to 89.40.113.103:20000 (using U.S.G.N. ID #15431) ...
+[03:16:23] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:16:23] "  (1x)
+[03:16:55] U.S.G.N.: Received serverlist (servers: 29)
+[03:16:55] U.S.G.N.: Received serverlist (servers: 150)
+[03:16:55] Connecting to 89.40.113.103:20000 (using U.S.G.N. ID #15431) ...
+[03:16:56] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:16:56] "  (1x)
+[03:16:57] Checking 'gfx/tiles/Jail tile GO.bmp': Already exists.
+[03:16:57] Checking 'maps/California jail v2.0.1.lua': Does not exist and does not fit conditions! Do not request!
+[03:16:57] Checking 'gfx/!jail by lubo!/bed1.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/3.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/4.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/5.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/10.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/8.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/7.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/9.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/2.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/jail chair.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/book closed.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/book opend.png': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/book open.wav': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/door sound.wav': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/part 2.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/part 1.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/fake wall.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/block.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/SHADOW.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/light.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/camera.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/camera2.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/apache_heli.png': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/helirotor.ogg': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Map poiter.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/C4.png': Already exists.
+[03:16:57] Checking 'sfx/radio/bombpl.ogg': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/fake wall 2.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/light.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/apache_rotor.bmp': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/door-lock-1-1.wav': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/sound1.wav': Already exists.
+[03:16:57] Checking 'gfx/weapons/rocketlauncher.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/6.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/TRASH.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Danger.png': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/Weapons_ON.wav': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/Weapons_OFF.wav': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/fake sofa.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/teleport.bmp': Already exists.
+[03:16:57] "  (1x)
+[03:16:57] Checking 'sfx/!jail sounds/Teleport.ogg': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Box.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Box_open.png': Already exists.
+[03:16:57] Checking 'sfx/materials/burstwood.wav': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/Box_sound.ogg': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/Plane.ogg': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/Radio.ogg': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/block.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/leader.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/web.png': Already exists.
+[03:16:57] Checking 'sfx/player/die_abyss.ogg': Already exists.
+[03:16:57] Checking 'sfx/materials/metal2.wav': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Expload_box.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Shadow.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/grid.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Radio supply.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Control panel 2.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Control panel 1.png': Already exists.
+[03:16:57] Checking 'sfx/player/die2.wav': Already exists.
+[03:16:57] Checking 'gfx/blood.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/0.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/1.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/2.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/3.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/4.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/5.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/6.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/7.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/8.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/code/9.png': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/Code sound.wav': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Guard.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Shadow2.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/BrickObstacle.png': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/Beehive.ogg': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Dif1.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Dif2.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Dif3.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Dif4.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Dif5.png': Already exists.
+[03:16:57] Checking 'gfx/weapons/galil_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/p90_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/mp5_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/xm1014_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/famas_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Denied.png': Already exists.
+[03:16:57] Checking 'gfx/weapons/airstrike.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/chainsaw_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Gut Machine OFF.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Gut Machine ON.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Cables.png': Already exists.
+[03:16:57] Checking 'gfx/weapons/p228_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/fiveseven_d.bmp': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/1.6/RespawnSFX.ogg': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/California free day.ogg': Already exists.
+[03:16:57] Checking 'sfx/env/thunder.wav': Already exists.
+[03:16:57] Checking 'gfx/weapons/m4a1_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/ak47_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/awp_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/tacticalshield_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/laser_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/scout_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/m3_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/grenadelauncher_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/rocketlauncher_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/rpglauncher_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/deagle_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/usp_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/glock_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/elite_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/he.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/flashbang.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/smokegrenade.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/snowball.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/mine.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/satchelcharge.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/lasermine.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/gasgrenade.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/machete.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/kevlar+helm_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/lightarmor_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/armor_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/heavyarmor_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/weapons/stealthsuit_d.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Doormat.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Cables 2.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Gut Machine Broken.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/SignUp.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Spray.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Brick.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/export.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Screen.png': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Gas sign.png': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/1.6/Psycho_Cough.ogg': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/1.6/PsychoLaughterSFX.ogg': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Battle Icon.png': Already exists.
+[03:16:57] Checking 'sfx/!jail sounds/1.6/RespawnPlayerSFX.ogg': Does not exist. Request transfer!
+[03:16:57] Checking 'sfx/!jail sounds/1.6/PsychoWinSong.ogg': Does not exist. Request transfer!
+[03:16:57] Checking 'sfx/!jail sounds/1.6/ChainLock.wav': Does not exist. Request transfer!
+[03:16:57] Checking 'sfx/!jail sounds/1.6/ChainHit.wav': Does not exist. Request transfer!
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/handcuffs_on.png': Does not exist. Request transfer!
+[03:16:57] Checking 'sfx/!jail sounds/1.6/ChainBreak.wav': Does not exist. Request transfer!
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Dice_Icon.bmp': Does not exist. Request transfer!
+[03:16:57] "  (1x)
+[03:16:57] Checking 'gfx/!jail by lubo!/1.6/Carpet.png': Does not exist. Request transfer!
+[03:16:57] Checking 'gfx/!jail by lubo!/pizza.png': Does not exist. Request transfer!
+[03:16:57] Checking 'gfx/!jail by lubo!/Burger.png': Does not exist. Request transfer!
+[03:16:57] Checking 'gfx/!jail by lubo!/Airplane shadow.png': Does not exist. Request transfer!
+[03:16:57] Checking 'gfx/!jail by lubo!/jail cheff.png': Already exists.
+[03:16:57] Checking 'gfx/weapons/gutbomb.bmp': Already exists.
+[03:16:57] Checking 'gfx/!jail by lubo!/Pizza.png': Does not exist. Request transfer!
+[03:16:57] Checking 'gfx/hc/emoticons/speechbubble.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/laughing.png': Already exists.
+[03:16:57] Checking 'gfx/block.bmp': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/cursing.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/smiling_big.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/skeptical.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/smiling.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/spear.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/snowman.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/frowning.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/black_beret.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/umbrella_ct.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/devil.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/santa_hat.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/gandalf_hat.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/heart.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/umbrella_t.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/angel.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/scarlet_beret.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/surprised.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/crying.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/cheeky.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/green_beret.png': Already exists.
+[03:16:57] Checking 'gfx/hc/editor_form.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/winking.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/pirate_hat.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/uneasy.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/angry.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/blue_beret.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/graduation_hat.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/metal_helmet_vip.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/maroon_beret.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/tan_beret.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/party_hat.png': Already exists.
+[03:16:57] Checking 'gfx/hc/attribs/pumpkin_head.png': Already exists.
+[03:16:57] Checking 'gfx/hc/emoticons/evil.png': Already exists.
+[03:16:57] Checking 'maps/California jail v2.0.1.map': Does not exist. Request transfer!
+[03:16:57] Requesting 14 files from server...
+[03:16:57] Downloading 'sfx/!jail sounds/1.6/RespawnPlayerSFX.ogg' from server...
+[03:17:03] Downloading 'sfx/!jail sounds/1.6/PsychoWinSong.ogg' from server...
+[03:17:05] Downloading 'sfx/!jail sounds/1.6/ChainLock.wav' from server...
+[03:17:56] U.S.G.N.: Received serverlist (servers: 31)
+[03:17:56] Connecting to 89.40.113.103:20000 (using U.S.G.N. ID #15431) ...
+[03:17:56] U.S.G.N.: Ping/State 'idle' (288 ms)
+[03:17:56] U.S.G.N.: Received serverlist (servers: 150)
+[03:17:56] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:17:56] "  (1x)
+[03:17:57] Checking 'gfx/tiles/Jail tile GO.bmp': Already exists.
+[03:17:57] Checking 'maps/California jail v2.0.1.lua': Does not exist and does not fit conditions! Do not request!
+[03:17:57] Checking 'gfx/!jail by lubo!/bed1.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/3.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/4.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/5.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/10.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/8.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/7.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/9.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/2.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/jail chair.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/book closed.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/book opend.png': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/book open.wav': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/door sound.wav': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/part 2.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/part 1.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/fake wall.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/block.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/SHADOW.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/light.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/camera.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/camera2.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/apache_heli.png': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/helirotor.ogg': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Map poiter.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/C4.png': Already exists.
+[03:17:57] Checking 'sfx/radio/bombpl.ogg': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/fake wall 2.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/light.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/apache_rotor.bmp': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/door-lock-1-1.wav': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/sound1.wav': Already exists.
+[03:17:57] Checking 'gfx/weapons/rocketlauncher.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/6.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/TRASH.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Danger.png': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/Weapons_ON.wav': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/Weapons_OFF.wav': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/fake sofa.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/teleport.bmp': Already exists.
+[03:17:57] "  (1x)
+[03:17:57] Checking 'sfx/!jail sounds/Teleport.ogg': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Box.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Box_open.png': Already exists.
+[03:17:57] Checking 'sfx/materials/burstwood.wav': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/Box_sound.ogg': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/Plane.ogg': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/Radio.ogg': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/block.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/leader.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/web.png': Already exists.
+[03:17:57] Checking 'sfx/player/die_abyss.ogg': Already exists.
+[03:17:57] Checking 'sfx/materials/metal2.wav': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Expload_box.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Shadow.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/grid.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Radio supply.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Control panel 2.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Control panel 1.png': Already exists.
+[03:17:57] Checking 'sfx/player/die2.wav': Already exists.
+[03:17:57] Checking 'gfx/blood.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/0.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/1.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/2.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/3.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/4.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/5.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/6.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/7.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/8.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/code/9.png': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/Code sound.wav': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Guard.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Shadow2.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/BrickObstacle.png': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/Beehive.ogg': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Dif1.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Dif2.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Dif3.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Dif4.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Dif5.png': Already exists.
+[03:17:57] Checking 'gfx/weapons/galil_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/p90_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/mp5_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/xm1014_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/famas_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Denied.png': Already exists.
+[03:17:57] Checking 'gfx/weapons/airstrike.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/chainsaw_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Gut Machine OFF.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Gut Machine ON.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Cables.png': Already exists.
+[03:17:57] Checking 'gfx/weapons/p228_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/fiveseven_d.bmp': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/1.6/RespawnSFX.ogg': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/California free day.ogg': Already exists.
+[03:17:57] Checking 'sfx/env/thunder.wav': Already exists.
+[03:17:57] Checking 'gfx/weapons/m4a1_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/ak47_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/awp_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/tacticalshield_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/laser_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/scout_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/m3_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/grenadelauncher_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/rocketlauncher_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/rpglauncher_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/deagle_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/usp_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/glock_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/elite_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/he.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/flashbang.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/smokegrenade.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/snowball.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/mine.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/satchelcharge.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/lasermine.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/gasgrenade.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/machete.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/kevlar+helm_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/lightarmor_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/armor_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/heavyarmor_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/weapons/stealthsuit_d.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Doormat.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Cables 2.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Gut Machine Broken.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/SignUp.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Spray.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Brick.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/export.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Screen.png': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Gas sign.png': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/1.6/Psycho_Cough.ogg': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/1.6/PsychoLaughterSFX.ogg': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Battle Icon.png': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/1.6/RespawnPlayerSFX.ogg': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/1.6/PsychoWinSong.ogg': Already exists.
+[03:17:57] Checking 'sfx/!jail sounds/1.6/ChainLock.wav': Does not exist. Request transfer!
+[03:17:57] Checking 'sfx/!jail sounds/1.6/ChainHit.wav': Does not exist. Request transfer!
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/handcuffs_on.png': Does not exist. Request transfer!
+[03:17:57] Checking 'sfx/!jail sounds/1.6/ChainBreak.wav': Does not exist. Request transfer!
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Dice_Icon.bmp': Does not exist. Request transfer!
+[03:17:57] "  (1x)
+[03:17:57] Checking 'gfx/!jail by lubo!/1.6/Carpet.png': Does not exist. Request transfer!
+[03:17:57] Checking 'gfx/!jail by lubo!/pizza.png': Does not exist. Request transfer!
+[03:17:57] Checking 'gfx/!jail by lubo!/Burger.png': Does not exist. Request transfer!
+[03:17:57] Checking 'gfx/!jail by lubo!/Airplane shadow.png': Does not exist. Request transfer!
+[03:17:57] Checking 'gfx/!jail by lubo!/jail cheff.png': Already exists.
+[03:17:57] Checking 'gfx/weapons/gutbomb.bmp': Already exists.
+[03:17:57] Checking 'gfx/!jail by lubo!/Pizza.png': Does not exist. Request transfer!
+[03:17:57] Checking 'gfx/hc/emoticons/speechbubble.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/laughing.png': Already exists.
+[03:17:57] Checking 'gfx/block.bmp': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/cursing.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/smiling_big.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/skeptical.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/smiling.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/spear.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/snowman.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/frowning.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/black_beret.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/umbrella_ct.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/devil.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/santa_hat.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/gandalf_hat.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/heart.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/umbrella_t.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/angel.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/scarlet_beret.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/surprised.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/crying.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/cheeky.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/green_beret.png': Already exists.
+[03:17:57] Checking 'gfx/hc/editor_form.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/winking.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/pirate_hat.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/uneasy.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/angry.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/blue_beret.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/graduation_hat.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/metal_helmet_vip.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/maroon_beret.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/tan_beret.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/party_hat.png': Already exists.
+[03:17:57] Checking 'gfx/hc/attribs/pumpkin_head.png': Already exists.
+[03:17:57] Checking 'gfx/hc/emoticons/evil.png': Already exists.
+[03:17:57] Checking 'maps/California jail v2.0.1.map': Does not exist. Request transfer!
+[03:17:57] Requesting 12 files from server...
+[03:17:58] Downloading 'sfx/!jail sounds/1.6/ChainLock.wav' from server...
+[03:18:00] Downloading 'sfx/!jail sounds/1.6/ChainHit.wav' from server...
+[03:18:01] Downloading 'gfx/!jail by lubo!/1.6/handcuffs_on.png' from server...
+[03:18:01] Downloading 'sfx/!jail sounds/1.6/ChainBreak.wav' from server...
+[03:18:12] Connecting to 89.40.113.103:20000 (using U.S.G.N. ID #15431) ...
+[03:18:12] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:18:12] "  (1x)
+[03:18:13] Checking 'gfx/tiles/Jail tile GO.bmp': Already exists.
+[03:18:13] Checking 'maps/California jail v2.0.1.lua': Does not exist and does not fit conditions! Do not request!
+[03:18:13] Checking 'gfx/!jail by lubo!/bed1.png': Already exists.
+[03:18:13] Checking 'gfx/!jail by lubo!/1.bmp': Already exists.
+[03:18:13] Checking 'gfx/!jail by lubo!/3.bmp': Already exists.
+[03:18:13] Checking 'gfx/!jail by lubo!/4.bmp': Already exists.
+[03:18:13] Checking 'gfx/!jail by lubo!/5.bmp': Already exists.
+[03:18:13] Checking 'gfx/!jail by lubo!/10.bmp': Already exists.
+[03:18:13] Checking 'gfx/!jail by lubo!/8.bmp': Already exists.
+[03:18:13] Checking 'gfx/!jail by lubo!/7.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/9.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/2.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/jail chair.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/book closed.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/book opend.png': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/book open.wav': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/door sound.wav': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/part 2.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/part 1.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/fake wall.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/block.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/SHADOW.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/light.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/camera.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/camera2.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/apache_heli.png': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/helirotor.ogg': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Map poiter.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/C4.png': Already exists.
+[03:18:14] Checking 'sfx/radio/bombpl.ogg': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/fake wall 2.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/light.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/apache_rotor.bmp': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/door-lock-1-1.wav': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/sound1.wav': Already exists.
+[03:18:14] Checking 'gfx/weapons/rocketlauncher.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/6.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/TRASH.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Danger.png': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/Weapons_ON.wav': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/Weapons_OFF.wav': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/fake sofa.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/teleport.bmp': Already exists.
+[03:18:14] "  (1x)
+[03:18:14] Checking 'sfx/!jail sounds/Teleport.ogg': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Box.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Box_open.png': Already exists.
+[03:18:14] Checking 'sfx/materials/burstwood.wav': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/Box_sound.ogg': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/Plane.ogg': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/Radio.ogg': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/block.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/leader.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/web.png': Already exists.
+[03:18:14] Checking 'sfx/player/die_abyss.ogg': Already exists.
+[03:18:14] Checking 'sfx/materials/metal2.wav': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Expload_box.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Shadow.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/grid.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Radio supply.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Control panel 2.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Control panel 1.png': Already exists.
+[03:18:14] Checking 'sfx/player/die2.wav': Already exists.
+[03:18:14] Checking 'gfx/blood.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/0.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/1.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/2.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/3.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/4.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/5.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/6.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/7.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/8.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/code/9.png': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/Code sound.wav': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Guard.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Shadow2.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/BrickObstacle.png': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/Beehive.ogg': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Dif1.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Dif2.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Dif3.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Dif4.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Dif5.png': Already exists.
+[03:18:14] Checking 'gfx/weapons/galil_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/p90_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/mp5_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/xm1014_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/famas_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Denied.png': Already exists.
+[03:18:14] Checking 'gfx/weapons/airstrike.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/chainsaw_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Gut Machine OFF.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Gut Machine ON.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Cables.png': Already exists.
+[03:18:14] Checking 'gfx/weapons/p228_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/fiveseven_d.bmp': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/1.6/RespawnSFX.ogg': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/California free day.ogg': Already exists.
+[03:18:14] Checking 'sfx/env/thunder.wav': Already exists.
+[03:18:14] Checking 'gfx/weapons/m4a1_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/ak47_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/awp_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/tacticalshield_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/laser_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/scout_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/m3_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/grenadelauncher_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/rocketlauncher_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/rpglauncher_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/deagle_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/usp_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/glock_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/elite_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/he.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/flashbang.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/smokegrenade.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/snowball.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/mine.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/satchelcharge.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/lasermine.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/gasgrenade.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/machete.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/kevlar+helm_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/lightarmor_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/armor_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/heavyarmor_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/weapons/stealthsuit_d.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Doormat.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Cables 2.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Gut Machine Broken.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/SignUp.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Spray.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Brick.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/export.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Screen.png': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Gas sign.png': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/1.6/Psycho_Cough.ogg': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/1.6/PsychoLaughterSFX.ogg': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Battle Icon.png': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/1.6/RespawnPlayerSFX.ogg': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/1.6/PsychoWinSong.ogg': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/1.6/ChainLock.wav': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/1.6/ChainHit.wav': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/handcuffs_on.png': Already exists.
+[03:18:14] Checking 'sfx/!jail sounds/1.6/ChainBreak.wav': Does not exist. Request transfer!
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Dice_Icon.bmp': Does not exist. Request transfer!
+[03:18:14] "  (1x)
+[03:18:14] Checking 'gfx/!jail by lubo!/1.6/Carpet.png': Does not exist. Request transfer!
+[03:18:14] Checking 'gfx/!jail by lubo!/pizza.png': Does not exist. Request transfer!
+[03:18:14] Checking 'gfx/!jail by lubo!/Burger.png': Does not exist. Request transfer!
+[03:18:14] Checking 'gfx/!jail by lubo!/Airplane shadow.png': Does not exist. Request transfer!
+[03:18:14] Checking 'gfx/!jail by lubo!/jail cheff.png': Already exists.
+[03:18:14] Checking 'gfx/weapons/gutbomb.bmp': Already exists.
+[03:18:14] Checking 'gfx/!jail by lubo!/Pizza.png': Does not exist. Request transfer!
+[03:18:14] Checking 'gfx/hc/emoticons/speechbubble.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/laughing.png': Already exists.
+[03:18:14] Checking 'gfx/block.bmp': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/cursing.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/smiling_big.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/skeptical.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/smiling.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/spear.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/snowman.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/frowning.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/black_beret.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/umbrella_ct.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/devil.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/santa_hat.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/gandalf_hat.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/heart.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/umbrella_t.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/angel.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/scarlet_beret.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/surprised.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/crying.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/cheeky.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/green_beret.png': Already exists.
+[03:18:14] Checking 'gfx/hc/editor_form.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/winking.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/pirate_hat.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/uneasy.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/angry.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/blue_beret.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/graduation_hat.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/metal_helmet_vip.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/maroon_beret.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/tan_beret.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/party_hat.png': Already exists.
+[03:18:14] Checking 'gfx/hc/attribs/pumpkin_head.png': Already exists.
+[03:18:14] Checking 'gfx/hc/emoticons/evil.png': Already exists.
+[03:18:14] Checking 'maps/California jail v2.0.1.map': Does not exist. Request transfer!
+[03:18:14] Requesting 9 files from server...
+[03:18:14] Downloading 'sfx/!jail sounds/1.6/ChainBreak.wav' from server...
+[03:18:17] Downloading 'gfx/!jail by lubo!/1.6/Dice_Icon.bmp' from server...
+[03:18:17] Downloading 'gfx/!jail by lubo!/1.6/Carpet.png' from server...
+[03:18:17] Downloading 'gfx/!jail by lubo!/pizza.png' from server...
+[03:18:17] Downloading 'gfx/!jail by lubo!/Burger.png' from server...
+[03:18:17] Downloading 'gfx/!jail by lubo!/Airplane shadow.png' from server...
+[03:18:17] Downloading 'gfx/!jail by lubo!/Pizza.png' from server...
+[03:18:17] Downloading 'maps/California jail v2.0.1.map' from server...
+[03:18:18] load map 'California jail v2.0.1'
+[03:18:19] ----- Server joined -----
+[03:18:19] Welcome Sagos!
+[03:18:19] Say !help for a list of commands.
+[03:18:19] F1 - Server information and rules.
+[03:18:19] F2 - Command menu.
+[03:18:19] Your user level is: Guest.
+[03:18:19] U.S.G.N.: Ping/State 'playing'
+[03:18:22] Sagos juntou-se a Countra-Terrorista Forças
+[03:18:23] estguy killed Ski with Five-Seven
+[03:18:26] yuri *DEAD*: se es muy complego y complicado crear un map en 
+[03:18:26] L.R Spag *DEAD*: ?
+[03:18:29] Killstreak is now: On.
+[03:18:29] oreyumahc Alterou seu nome para Redman
+[03:18:29] yuri: este juego, xd
+[03:18:32] L.R Spag: wtf
+[03:18:34] Report abusive VIP and staff members! Read F1
+[03:18:51] yuri: ah por cierto
+[03:18:56] yuri: con las flares creas torretas
+[03:19:20] U.S.G.N.: Ping/State 'playing'
+[03:19:28] you know killed Hide on Bush with M4A1
+[03:19:28] you know sheds First Blood!
+[03:19:32] L.R Spag: ;o
+[03:19:33] Redman: open the door 
+[03:19:34] Press E 2x for quick messages
+[03:19:49] Redman: im trapped
+[03:19:50] L.R Spag: alv
+[03:19:57] Redman: abri la puerta la concha de tu madre
+[03:20:05] yuri: xDDDD
+[03:20:05] denis_raputa died
+[03:20:06] L.R Spag: lpm
+[03:20:08] Redman: jajaja
+[03:20:10] L.R Spag: te mereces castigo
+[03:20:16] Redman: pero que cts mas pelotudos
+[03:20:20] U.S.G.N.: Ping/State 'playing'
+[03:20:22] L.R Spag: veni
+[03:20:30] L.R Spag: entra
+[03:20:34] Press E 2x for quick messages
+[03:20:47] L.R Spag: entra la cocnah de tu hermana
+[03:21:11] Redman: no
+[03:21:12] L.R Spag: quieto
+[03:21:16] L.R Spag: vamo
+[03:21:21] U.S.G.N.: Ping/State 'playing'
+[03:21:23] Redman: hp
+[03:21:31] lybdw has joined the arena queue 1/8
+[03:21:33] lybdw has left the arena queue 0/8
+[03:21:34] Report abusive VIP and staff members! Read F1
+[03:21:35] lybdw has joined the arena queue 1/8
+[03:21:42] L.R Spag: wtf
+[03:21:43] Redman: hp
+[03:21:52] L.R Spag: cambio mucho este sv
+[03:21:57] yuri: see
+[03:22:17] you know: 3
+[03:22:20] you know: 2
+[03:22:20] Redman: whats that?
+[03:22:21] you know: 1
+[03:22:21] U.S.G.N.: Ping/State 'playing'
+[03:22:24] lybdw killed Redman with XM1014
+[03:22:29] denis_raputa deixou o jogo
+[03:22:30] yuri killed Sagos with Gas Grenade
+[03:22:30] k¦yuri¦100¦206
+[03:22:34] Report abusive VIP and staff members! Read F1
+[03:22:35] Redman *DEAD*: fk
+[03:22:54] Sagos deixou o jogo
+[03:22:54] Disconnect Reason: Client request (Code 0)
+[03:22:54] ----- Disconnected -----
+[03:22:54] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:22:57] U.S.G.N.: Received serverlist (servers: 22)
+[03:22:58] U.S.G.N.: Received serverlist (servers: 150)
+[03:23:42] Connecting to 152.254.175.143:36963 (using U.S.G.N. ID #15431) ...
+[03:23:42] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:23:42] "  (1x)
+[03:23:43] load map 'awp_grey'
+[03:23:43] ----- Server joined -----
+[03:23:44] U.S.G.N.: Ping/State 'playing'
+[03:23:47] Sagos deixou o jogo
+[03:23:47] Disconnect Reason: Client request (Code 0)
+[03:23:47] ----- Disconnected -----
+[03:23:48] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:23:50] U.S.G.N.: Received serverlist (servers: 20)
+[03:23:50] U.S.G.N.: Received serverlist (servers: 150)
+[03:23:59] Connecting to 152.254.175.143:36963 (using U.S.G.N. ID #15431) ...
+[03:24:00] load map 'awp_grey'
+[03:24:00] ----- Server joined -----
+[03:24:01] U.S.G.N.: Ping/State 'playing'
+[03:24:05] Sagos juntou-se a Countra-Terrorista Forças
+[03:25:02] U.S.G.N.: Ping/State 'playing'
+[03:26:02] "  (1x)
+[03:26:27] Sagos deixou o jogo
+[03:26:27] Disconnect Reason: Client request (Code 0)
+[03:26:27] ----- Disconnected -----
+[03:26:27] U.S.G.N.: Ping/State 'idle' (288 ms)
+[03:26:29] Starting server...
+[03:26:29] load map 'Battle Royale'
+[03:26:29] ----- Server started -----
+[03:26:29] Lua: Adding function 'falar' to hook 'say'
+[03:26:29] Lua: Adding function 'segundos' to hook 'second'
+[03:26:29] Lua: Adding function 'coletar' to hook 'walkover'
+[03:26:29] Lua: Adding function 'atacar' to hook 'attack'
+[03:26:29] Lua: Adding function 'atacar2' to hook 'attack2'
+[03:26:29] Lua: Adding function 'teclas' to hook 'serveraction'
+[03:26:29] Lua: Adding function 'mymenu' to hook 'menu'
+[03:26:29] Lua: Adding function 'ataque' to hook 'hit'
+[03:26:29] Lua: Adding function 'dropar' to hook 'drop'
+[03:26:29] Lua: Adding function 'mover' to hook 'movetile'
+[03:26:29] Lua: Adding function 'sempre' to hook 'always'
+[03:26:29] U.S.G.N.: Server added to serverlist
+[03:26:29] U.S.G.N.: Ping/State 'playing'
+[03:26:30] Sagos juntou-se a Countra-Terrorista Forças
+[03:27:15] U.S.G.N.: Serverlist entry updated
+[03:27:30] U.S.G.N.: Ping/State 'playing'
+[03:27:43] [Info] Sem balas de rifle, sua AWP foi guardada no inventário
+[03:27:52] [Info] Você pegou 30 Balas de Rifle
+[03:27:52] [Info] Você equipou AWP
+[03:28:00] U.S.G.N.: Serverlist entry updated
+[03:28:31] U.S.G.N.: Ping/State 'playing'
+[03:28:46] U.S.G.N.: Serverlist entry updated
+[03:29:15] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[03:29:20] [Info] Você pegou 15 Balas de Pistola
+[03:29:20] [Info] Você equipou USP
+[03:29:30] [b]Supreme conectou-se
+[03:29:30] [b]Supreme juntou-se a Terrorista Forças
+[03:29:31] U.S.G.N.: Serverlist entry updated
+[03:29:31] U.S.G.N.: Ping/State 'playing'
+[03:30:11] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[03:30:16] U.S.G.N.: Serverlist entry updated
+[03:30:21] [Info] Sem balas de rifle, sua M4A1 foi guardada no inventário
+[03:30:26] [Info] Você já tem M4A1 no inventário
+[03:30:32] U.S.G.N.: Ping/State 'playing'
+[03:30:37] LUA ERROR: bots/includes/collect.lua:22: attempt to call global 'item' (a table value)
+[03:30:37]  -> bots/includes/collect.lua:22: in function 'fai_collect'
+[03:30:37]  -> bots/Standard AI.lua:108: in function <bots/Standard AI.lua:83>
+[03:30:37] Freezing bots to stop Lua error msg flood! Use 'bot_freeze 0' to unfreeze bots!
+[03:30:43] generating stats...
+[03:30:43] stats generated in 1 ms!
+[03:30:48] [Info] Sem balas de rifle, sua AWP foi guardada no inventário
+[03:30:52] [Info] Você pegou 30 Balas de Rifle
+[03:30:52] [Info] Você equipou AWP
+[03:31:02] U.S.G.N.: Serverlist entry updated
+[03:31:32] U.S.G.N.: Ping/State 'playing'
+[03:31:36] Sagos killed [b]Supreme with AWP
+[03:31:47] U.S.G.N.: Serverlist entry updated
+[03:31:48] Sagos killed [b]Supreme with AWP
+[03:32:06] Sagos killed [b]Supreme with Knife
+[03:32:10] [Info] Você pegou Energético
+[03:32:10] [Info] Você pegou Analgésico
+[03:32:11] [Info] Você pegou Kit Médico
+[03:32:11] [Info] Você pegou Kit Full
+[03:32:16] Servidor Desligado

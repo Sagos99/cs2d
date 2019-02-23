@@ -1,0 +1,255 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 09:40:21
+
+[09:40:21] UDP socket initialized using port 36963
+[09:40:21] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[09:40:21] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[09:40:21] U.S.G.N.: Ping/State 'playing'
+[09:40:22] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[09:40:23] Cached servers added to list: 141
+[09:40:24] U.S.G.N.: Received serverlist (servers: 55)
+[09:40:24] U.S.G.N.: Received serverlist (servers: 150)
+[09:40:29] Connecting to 177.45.57.30:27200...
+[09:40:29] load map 'de_dust2'
+[09:40:29] ----- Server joined -----
+[09:40:30] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[09:40:31] SK l kNigtTV killed zarubin-06 with USP
+[09:40:32] Hayran killed SK l kNigtTV with AK-47
+[09:40:36] Sagos juntou-se a Countra-Terrorista Forças
+[09:40:36] SK l kNigtTV (Time): ba
+[09:40:40] rM.awp | tnr! conectou-se
+[09:40:43] rM.awp | tnr! juntou-se a Terrorista Forças
+[09:40:48] Leuuh killed Botzinho with TMP
+[09:41:03] DiegoalphaBRG killed zarubin-06 with Aug
+[09:41:04] Hayran killed SK l kNigtTV with AK-47
+[09:41:04] Hayran killed DiegoalphaBRG with AK-47
+[09:41:04] Blade_Might killed Medusa with M4A1
+[09:41:08] Leuuh killed Sr_Rayner with TMP
+[09:41:12] Sagos killed Blade_Might with M4A1
+[09:41:14] Medusa deixou o jogo
+[09:41:20] ChinaDD95 conectou-se
+[09:41:28] ChinaDD95 juntou-se a Countra-Terrorista Forças
+[09:41:28] Hayran killed Leuuh with AK-47
+[09:41:29] U.S.G.N.: Ping/State 'playing'
+[09:41:43] Sagos killed rM.awp | tnr! with M4A1
+[09:41:45] countergo conectou-se
+[09:41:54] countergo juntou-se a Terrorista Forças
+[09:42:30] U.S.G.N.: Ping/State 'playing'
+[09:42:34] Sagos killed Hayran with M4A1
+[09:42:39] * Auto Teambalance *
+[09:42:39] countergo juntou-se a Countra-Terrorista Forças
+[09:42:39] Leuuh: boa
+[09:42:50] rM.awp | tnr! killed Leuuh with AWP
+[09:43:01] Botzinho killed ChinaDD95 with P90
+[09:43:02] Botzinho killed SK l kNigtTV with P90
+[09:43:08] Sagos killed Botzinho with M4A1
+[09:43:09] DiegoalphaBRG killed rM.awp | tnr! with M4A1
+[09:43:14] rM.awp | tnr! deixou o jogo
+[09:43:15] DiegoalphaBRG killed zarubin-06 with M4A1
+[09:43:16] âï¸LiL PEEPâ conectou-se
+[09:43:20] rM.awp | tnr! conectou-se
+[09:43:23] rM.awp | tnr! juntou-se a Terrorista Forças
+[09:43:27] âï¸LiL PEEPâ juntou-se a Terrorista Forças
+[09:43:27] Hayran killed countergo with AK-47
+[09:43:30] U.S.G.N.: Ping/State 'playing'
+[09:43:32] rody96gamer conectou-se
+[09:43:32] countergo deixou o jogo
+[09:43:33] zarubin-06 deixou o jogo
+[09:43:39] Sagos killed Sr_Rayner with M4A1
+[09:43:45] rody96gamer juntou-se a Countra-Terrorista Forças
+[09:43:46] Sagos killed Hayran with M4A1
+[09:43:53] Blade_Might killed Sagos with AK-47
+[09:43:53] k¦Blade_Might¦84¦78
+[09:43:54] rody96gamer *Morto*: aaa
+[09:43:56] Sagos *Morto*: mds
+[09:44:00] rody96gamer *Morto*: hahahaha
+[09:44:03] ChinaDD95 deixou o jogo
+[09:44:04] Leuuh *Morto*: suausausuahuhsa
+[09:44:10] SK l kNigtTV *Morto*: mdksjncjkb afsd
+[09:44:13] Mika conectou-se
+[09:44:21] Sr_Rayner *Morto*: haushauh
+[09:44:21] Mika juntou-se a Countra-Terrorista Forças
+[09:44:31] U.S.G.N.: Ping/State 'playing'
+[09:44:34] Sr_Rayner: b
+[09:44:37] Sagos: ok
+[09:44:43] Botzinho killed Mika with AK-47
+[09:44:44] DiegoalphaBRG killed Sr_Rayner with M4A1
+[09:44:48] SK l kNigtTV killed Botzinho with MP5
+[09:45:08] rody96gamer killed âï¸LiL PEEPâ with M4A1
+[09:45:16] âï¸LiL PEEPâ deixou o jogo
+[09:45:18] Sagos killed Hayran with M4A1
+[09:45:29] Blade_Might killed SK l kNigtTV with M4A1
+[09:45:29] Blade_Might killed rody96gamer with M4A1
+[09:45:30] Leuuh killed Blade_Might with AK-47
+[09:45:31] U.S.G.N.: Ping/State 'playing'
+[09:45:36] Sagos killed rM.awp | tnr! with M4A1
+[09:45:57] Leuuh killed Botzinho with AK-47
+[09:46:08] Mika killed Hayran with M4A1
+[09:46:08] Sagos killed rM.awp | tnr! with M4A1
+[09:46:11] rM.awp | tnr! deixou o jogo
+[09:46:14] Mika killed Sr_Rayner with M4A1
+[09:46:15] SK l kNigtTV killed Blade_Might with AK-47
+[09:46:20] * Auto Teambalance *
+[09:46:20] Mika juntou-se a Terrorista Forças
+[09:46:32] Sagos: rnak
+[09:46:32] U.S.G.N.: Ping/State 'playing'
+[09:46:38] Sagos: rank
+[09:46:38] Sagos is unranked (no U.S.G.N. login)
+[09:46:40] Sagos: wtf
+[09:46:59] Botzinho killed SK l kNigtTV with SG552
+[09:47:04] Botzinho killed Leuuh with SG552
+[09:47:06] Sagos killed Hayran with M4A1
+[09:47:11] Botzinho killed rody96gamer with SG552
+[09:47:19] DiegoalphaBRG killed Botzinho with USP
+[09:47:23] Blade_Might killed Sagos with AK-47
+[09:47:23] k¦Blade_Might¦84¦78
+[09:47:25] Mika killed DiegoalphaBRG with AK-47
+[09:47:27] Sagos: -.-'
+[09:47:33] U.S.G.N.: Ping/State 'playing'
+[09:47:33] Mika: kkk
+[09:47:49] Sagos: mano meu pai me lagando kk
+[09:47:58] Hayran killed DiegoalphaBRG with AK-47
+[09:48:04] Botzinho killed rody96gamer with SG552
+[09:48:09] rody96gamer deixou o jogo
+[09:48:12] Botzinho killed Leuuh with SG552
+[09:48:18] Sagos (Time): vai ser A
+[09:48:20] Botzinho killed SK l kNigtTV with SG552
+[09:48:29] Sagos killed Botzinho with M4A1
+[09:48:33] U.S.G.N.: Ping/State 'playing'
+[09:48:48] Sagos killed Blade_Might with M4A1
+[09:48:58] Hayran killed Sagos with AK-47
+[09:48:58] k¦Hayran¦17¦0
+[09:49:06] rM.awp | tnr! conectou-se
+[09:49:13] rM.awp | tnr! juntou-se a Terrorista Forças
+[09:49:19] Sagos killed Botzinho with M4A1
+[09:49:27] Sr_Rayner conectou-se
+[09:49:33] U.S.G.N.: Ping/State 'playing'
+[09:49:38] Sr_Rayner juntou-se a Countra-Terrorista Forças
+[09:49:47] Sagos killed Blade_Might with HE
+[09:49:49] Sagos killed Mika with M4A1
+[09:49:51] Hayran killed Sagos with AK-47
+[09:49:51] k¦Hayran¦17¦0
+[09:49:54] Sagos *Morto*: ala '-'
+[09:49:54] rM.awp | tnr! killed SK l kNigtTV with Glock
+[09:49:55] viniciussilva19828 conectou-se
+[09:49:57] Leuuh killed Hayran with M4A1
+[09:50:02] DiegoalphaBRG killed rM.awp | tnr! with M4A1
+[09:50:06] Sagos *Morto*: a vey
+[09:50:14] viniciussilva19828 juntou-se a Terrorista Forças
+[09:50:31] Leuuh killed Botzinho with M4A1
+[09:50:34] U.S.G.N.: Ping/State 'playing'
+[09:50:37] DiegoalphaBRG killed Hayran with M4A1
+[09:50:39] Sagos killed rM.awp | tnr! with M4A1
+[09:50:44] Blade_Might killed DiegoalphaBRG with P228
+[09:50:46] rM.awp | tnr! deixou o jogo
+[09:50:51] DiegoalphaBRG deixou o jogo
+[09:50:52] rM.awp | tnr! conectou-se
+[09:50:54] rM.awp | tnr! juntou-se a Countra-Terrorista Forças
+[09:51:00] rM.awp | tnr! deixou o jogo
+[09:51:10] Leuuh killed Blade_Might with M4A1
+[09:51:16] Leuuh killed viniciussilva19828 with M4A1
+[09:51:17] Leuuh killed Mika with M4A1
+[09:51:22] Mika deixou o jogo
+[09:51:25] viniciussilva19828 deixou o jogo
+[09:51:25] rM.awp | tnr! conectou-se
+[09:51:27] rM.awp | tnr! juntou-se a Terrorista Forças
+[09:51:34] U.S.G.N.: Ping/State 'playing'
+[09:51:40] Leuuh killed Botzinho with M4A1
+[09:51:51] rM.awp | tnr! killed SK l kNigtTV with AWP
+[09:51:55] Hayran killed Leuuh with AK-47
+[09:52:02] Sagos killed Hayran with M4A1
+[09:52:30] rM.awp | tnr! killed Sagos with AWP
+[09:52:30] k¦rM.awp | tnr!¦17¦0
+[09:52:35] U.S.G.N.: Ping/State 'playing'
+[09:52:35] Sagos *Morto*: mds
+[09:52:38] Sagos *Morto*: minha net caiu
+[09:52:47] Blade_Might killed Sr_Rayner with M4A1
+[09:52:51] SK l kNigtTV *Morto*: ggvgfvmjnm gycnjk
+[09:52:57] Monkey conectou-se
+[09:53:00] Monkey juntou-se a Terrorista Forças
+[09:53:10] Botzinho killed Sagos with M4A1
+[09:53:10] k¦Botzinho¦12¦0
+[09:53:16] Blade_Might killed Sr_Rayner with M4A1
+[09:53:35] U.S.G.N.: Ping/State 'playing'
+[09:53:36] Monkey killed Leuuh with AK-47
+[09:53:49] SK l kNigtTV killed Botzinho with USP
+[09:54:03] Monkey killed SK l kNigtTV with M4A1
+[09:54:05] DiegoalphaBRG conectou-se
+[09:54:08] Leuuh: asaa
+[09:54:12] DiegoalphaBRG juntou-se a Terrorista Forças
+[09:54:12] DiegoalphaBRG juntou-se a Countra-Terrorista Forças
+[09:54:28] SK l kNigtTV killed Botzinho with Deagle
+[09:54:36] U.S.G.N.: Ping/State 'playing'
+[09:54:48] Sr_Rayner killed Monkey with M4A1
+[09:54:54] DiegoalphaBRG killed Hayran with M4A1
+[09:54:59] Leuuh killed Blade_Might with M4A1
+[09:55:15] rM.awp | tnr! killed Sr_Rayner with AWP
+[09:55:17] hybaba conectou-se
+[09:55:21] Sagos killed rM.awp | tnr! with M4A1
+[09:55:24] hybaba juntou-se a Countra-Terrorista Forças
+[09:55:36] U.S.G.N.: Ping/State 'playing'
+[09:55:50] rM.awp | tnr! killed DiegoalphaBRG with AK-47
+[09:55:54] Botzinho killed hybaba with SG552
+[09:55:56] rM.awp | tnr! killed SK l kNigtTV with AK-47
+[09:56:05] Leuuh killed Botzinho with Deagle
+[09:56:22] Sagos killed Hayran with M4A1
+[09:56:23] rM.awp | tnr! killed Sr_Rayner with AK-47
+[09:56:26] Leuuh killed rM.awp | tnr! with AK-47
+[09:56:28] Sagos killed Blade_Might with M4A1
+[09:56:36] Sr_Rayner deixou o jogo
+[09:56:40] Blade_Might deixou o jogo
+[09:56:42] U.S.G.N.: Ping/State 'playing'
+[09:56:54] Monkey killed Leuuh with AK-47
+[09:57:00] Sr_Rayner conectou-se
+[09:57:06] Monkey killed Sagos with AK-47
+[09:57:06] k¦Monkey¦84¦78
+[09:57:07] Sr_Rayner juntou-se a Terrorista Forças
+[09:57:38] Sagos killed Monkey with M4A1
+[09:57:41] Hayran killed hybaba with AK-47
+[09:57:42] U.S.G.N.: Ping/State 'playing'
+[09:57:46] Hayran killed DiegoalphaBRG with AK-47
+[09:57:50] hybaba deixou o jogo
+[09:57:56] SK l kNigtTV killed Botzinho with Deagle
+[09:57:58] rM.awp | tnr! killed Leuuh with AK-47
+[09:57:59] Sr_Rayner killed SK l kNigtTV with AK-47
+[09:58:18] rM.awp | tnr! killed Sagos with AK-47
+[09:58:18] k¦rM.awp | tnr!¦84¦78
+[09:58:21] Monkey *Morto*: KK
+[09:58:22] vali_luk01 conectou-se
+[09:58:27] vali_luk01 juntou-se a Terrorista Forças
+[09:58:27] vali_luk01 juntou-se a Countra-Terrorista Forças
+[09:58:43] U.S.G.N.: Ping/State 'playing'
+[09:58:55] Botzinho killed Leuuh with AK-47
+[09:58:57] Sagos killed Botzinho with USP
+[09:59:07] Monkey killed Sagos with AK-47
+[09:59:07] k¦Monkey¦100¦100
+[09:59:09] Monkey killed SK l kNigtTV with AK-47
+[09:59:09] Monkey killed vali_luk01 with AK-47
+[09:59:10] Monkey killed DiegoalphaBRG with AK-47
+[09:59:12] Monkey: HHA
+[09:59:15] vali_luk01: Nooo
+[09:59:15] SK l kNigtTV: mal
+[09:59:34] SK l kNigtTV: to sem grana
+[09:59:36] Sagos killed Botzinho with M4A1
+[09:59:43] U.S.G.N.: Ping/State 'playing'
+[09:59:58] Monkey killed vali_luk01 with AK-47
+[10:00:01] Monkey killed Sagos with AK-47
+[10:00:01] k¦Monkey¦100¦12
+[10:00:03] vali_luk01 (Time) *Morto*: WHAT
+[10:00:06] rM.awp | tnr! killed SK l kNigtTV with AK-47
+[10:00:06] DiegoalphaBRG killed rM.awp | tnr! with M4A1
+[10:00:07] vali_luk01 (Time) *Morto*: FUCK YOU
+[10:00:32] vali_luk01 *Morto*: KICK VOTE MONKEY!
+[10:00:38] Sagos *Morto*: why?
+[10:00:44] U.S.G.N.: Ping/State 'playing'
+[10:00:46] vali_luk01 *Morto*: it Hacker!
+[10:01:14] Monkey killed DiegoalphaBRG with AK-47
+[10:01:17] Botzinho killed Sagos with SG552
+[10:01:17] k¦Botzinho¦34¦0
+[10:01:21] rM.awp | tnr! killed vali_luk01 with AK-47
+[10:01:23] Sagos deixou o jogo
+[10:01:23] Disconnect Reason: Client request (Code 0)
+[10:01:23] ----- Disconnected -----
+[10:01:24] U.S.G.N.: Ping/State 'idle' (752 ms)
+[10:01:29] Cached servers added to list: 141
+[10:01:30] U.S.G.N.: Received serverlist (servers: 63)
+[10:01:30] U.S.G.N.: Received serverlist (servers: 150)

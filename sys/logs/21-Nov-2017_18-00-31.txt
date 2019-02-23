@@ -1,0 +1,25 @@
+CS2D 1.0.0.5 Logfile - 21 Nov 2017, 18:00:31
+
+[18:00:31] UDP socket initialized using port 0
+[18:00:31] U.S.G.N.: Your game version is up to date!
+[18:00:32] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[18:00:33] Cached servers added to list: 50
+[18:00:34] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:00:35] U.S.G.N.: Ping/State 'idle' (388 ms)
+[18:00:35] "  (1x)
+[18:00:37] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:00:37] U.S.G.N.: Ping/State 'idle' (372 ms)
+[18:00:37] "  (1x)
+[18:00:40] Checking 'gfx/tiles/besto2.bmp': Already exists.
+[18:00:40] Checking 'gfx/sagoswins/bomba.png': Already exists.
+[18:00:40] Requesting 0 files from server...
+[18:00:40] load map 'Battle Royale'
+[18:00:40] ----- Server joined -----
+[18:00:41] U.S.G.N.: Ping/State 'playing'
+[18:00:41] Sagos 2 juntou-se a Countra-Terrorista Forças
+[18:01:46] U.S.G.N.: Ping/State 'playing'
+[18:02:47] "  (1x)
+[18:03:21] Sagos 2 deixou o jogo
+[18:03:21] Disconnect Reason: Client request (Code 0)
+[18:03:21] ----- Disconnected -----
+[18:03:21] U.S.G.N.: Ping/State 'idle' (272 ms)

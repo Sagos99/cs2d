@@ -1,0 +1,152 @@
+CS2D 1.0.0.5 Logfile - 24 Nov 2017, 05:19:48
+
+[05:19:48] UDP socket initialized using port 36963
+[05:19:48] U.S.G.N.: Your game version is up to date!
+[05:19:48] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[05:19:50] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[05:19:50] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[05:19:53] Cached servers added to list: 121
+[05:19:54] U.S.G.N.: Received serverlist (servers: 26)
+[05:19:54] U.S.G.N.: Received serverlist (servers: 150)
+[05:20:18] Connecting to 177.54.147.20:36963 (using U.S.G.N. ID #15431) ...
+[05:20:18] load map 'de_dust2'
+[05:20:18] ----- Server joined -----
+[05:20:18] U.S.G.N.: Ping/State 'playing' (219 ms)
+[05:20:18] "  (1x)
+[05:20:29] ll Simoes ll killed BadSom with AWP
+[05:20:33] BadSom *Morto*: nossa
+[05:20:34] ll Simoes ll: uma soh na carea
+[05:20:34] Sagos juntou-se a Countra-Terrorista Forças
+[05:20:40] BadSom: ou awp
+[05:20:44] ll Simoes ll: ja to
+[05:20:47] BadSom: eu sempre tenho que acerta 2
+[05:20:54] ll Simoes ll: tem que mira 2 vezes
+[05:20:56] Sagos: com zoom x2 é 1 tiro só
+[05:20:56] Aperte [F1] e visite nossas redes sociais!
+[05:20:57] ll Simoes ll killed BadSom with AWP
+[05:20:59] ll Simoes ll: viu
+[05:21:06] Sagos killed ll Simoes ll with M4A1
+[05:21:13] ll Simoes ll: sagos
+[05:21:16] Sagos: ?
+[05:21:18] U.S.G.N.: Ping/State 'playing'
+[05:21:28] ll Simoes ll: responde a pergunta pablo vitar eh homem ou mulher
+[05:21:35] Sagos: sla
+[05:21:37] ll Simoes ll: res
+[05:21:38] BadSom killed ll Simoes ll with M4A1
+[05:21:39] NCM conectou-se
+[05:21:39] Shenkoff conectou-se
+[05:21:43] BadSom: jureg
+[05:21:45] ll Simoes ll: responde tu tem 5 segundos
+[05:21:46] Shenkoff juntou-se a Countra-Terrorista Forças
+[05:21:46] Shenkoff juntou-se a Terrorista Forças
+[05:21:46] nahue â¹ conectou-se
+[05:21:48] NCM juntou-se a Terrorista Forças
+[05:21:52] nahue â¹ juntou-se a Terrorista Forças
+[05:21:53] Sagos: e se eu n responder?
+[05:21:57] BadSom: é homem que gosta de homem
+[05:21:57] Aperte [F1] e visite nossas redes sociais!
+[05:22:04] Shenkoff: negros putos
+[05:22:09] ll Simoes ll votos para kickar Shenkoff
+[05:22:12] Sagos killed ll Simoes ll with M4A1
+[05:22:17] Shenkoff killed Sagos with AK-47
+[05:22:17] k¦Shenkoff¦17¦0
+[05:22:19] U.S.G.N.: Ping/State 'playing'
+[05:22:24] ll Simoes ll deixou o jogo
+[05:22:57] Aperte [F1] e visite nossas redes sociais!
+[05:23:19] BadSom killed Shenkoff with M4A1
+[05:23:19] U.S.G.N.: Ping/State 'playing'
+[05:24:00] Aperte [F1] e visite nossas redes sociais!
+[05:24:14] Sagos killed nahue â¹ with M4A1
+[05:24:15] Sagos killed NCM with M4A1
+[05:24:20] U.S.G.N.: Ping/State 'playing'
+[05:24:28] BadSom: joga mt oloo
+[05:24:30] Gallaxy conectou-se
+[05:24:36] Kenji conectou-se
+[05:24:36] Gallaxy juntou-se a Terrorista Forças
+[05:24:48] vaaxx conectou-se
+[05:24:49] Sagos: qm?
+[05:24:49] Kenji juntou-se a Terrorista Forças
+[05:24:52] BadSom: vc
+[05:24:56] vaaxx juntou-se a Countra-Terrorista Forças
+[05:24:57] Aperte [F1] e visite nossas redes sociais!
+[05:24:59] Sagos: tbm kk
+[05:25:03] Sagos: 8 anos jogando isso
+[05:25:17] Sagos (Time): eles ta no A
+[05:25:19] BadSom (Time): ss
+[05:25:20] U.S.G.N.: Ping/State 'playing'
+[05:25:36] Sagos (Time): BN
+[05:25:39] Sagos (Time): B*
+[05:25:56] BadSom killed NCM with M4A1
+[05:25:57] Aperte [F1] e visite nossas redes sociais!
+[05:26:03] BadSom: oloco trabalho em equipe
+[05:26:21] U.S.G.N.: Ping/State 'playing'
+[05:26:31] Sagos killed nahue â¹ with M4A1
+[05:26:33] Sagos killed NCM with M4A1
+[05:26:57] Aperte [F1] e visite nossas redes sociais!
+[05:26:59] Sagos killed Gallaxy with M4A1
+[05:27:00] Sagos killed Kenji with M4A1
+[05:27:10] Shenkoff conectou-se
+[05:27:10] Sagos: rank
+[05:27:10] Stats are disabled on this server
+[05:27:20] Shenkoff juntou-se a Countra-Terrorista Forças
+[05:27:21] U.S.G.N.: Ping/State 'playing'
+[05:27:56] Gallaxy killed vaaxx with AK-47
+[05:27:57] BadSom killed Kenji with M4A1
+[05:27:57] Aperte [F1] e visite nossas redes sociais!
+[05:28:00] Sagos killed Gallaxy with M4A1
+[05:28:02] nahue â¹ killed Sagos with AK-47
+[05:28:02] k¦nahue â¹¦100¦100
+[05:28:04] BadSom killed NCM with M4A1
+[05:28:17] BadSom killed nahue â¹ with M4A1
+[05:28:32] U.S.G.N.: Ping/State 'playing'
+[05:28:45] nahue â¹ killed vaaxx with AK-47
+[05:28:49] Shenkoff killed nahue â¹ with M4A1
+[05:28:55] NCM killed Shenkoff with Glock
+[05:28:58] Aperte [F1] e visite nossas redes sociais!
+[05:29:07] BadSom killed Gallaxy with M4A1
+[05:29:22] Shenkoff juntou-se a Terrorista Forças
+[05:29:28] BadSom (Time): vou b
+[05:29:31] Sagos (Time): ok
+[05:29:32] U.S.G.N.: Ping/State 'playing'
+[05:29:42] Sagos (Time): 1 ta aki
+[05:29:50] BadSom (Time): ninguem b
+[05:29:57] Aperte [F1] e visite nossas redes sociais!
+[05:29:59] BadSom (Time): meio
+[05:30:32] BadSom killed NCM with M4A1
+[05:30:33] U.S.G.N.: Ping/State 'playing'
+[05:30:41] Kenji killed BadSom with AK-47
+[05:30:57] * Auto Teambalance *
+[05:30:57] Shenkoff juntou-se a Countra-Terrorista Forças
+[05:30:58] Aperte [F1] e visite nossas redes sociais!
+[05:30:59] BadSom: GOD
+[05:31:27] Kenji killed Sagos with AK-47
+[05:31:27] k¦Kenji¦52¦34
+[05:31:32] BadSom killed Kenji with HE
+[05:31:33] U.S.G.N.: Ping/State 'playing'
+[05:31:57] Aperte [F1] e visite nossas redes sociais!
+[05:32:11] NCM killed Shenkoff with AK-47
+[05:32:33] nahue â¹ killed BadSom with AK-47
+[05:32:34] U.S.G.N.: Ping/State 'playing'
+[05:32:38] BadSom: péssima posição
+[05:32:57] Aperte [F1] e visite nossas redes sociais!
+[05:32:59] Sagos killed Kenji with M4A1
+[05:33:10] NCM killed Sagos with AK-47
+[05:33:10] k¦NCM¦29¦2
+[05:33:13] nahue â¹ killed BadSom with AK-47
+[05:33:20] Kenji deixou o jogo
+[05:33:34] U.S.G.N.: Ping/State 'playing'
+[05:33:35] Shenkoff killed Gallaxy with Aug
+[05:33:41] Gallaxy deixou o jogo
+[05:33:44] Shenkoff killed nahue â¹ with Aug
+[05:33:57] Aperte [F1] e visite nossas redes sociais!
+[05:34:35] NCM killed Shenkoff with M4A1
+[05:34:35] U.S.G.N.: Ping/State 'playing'
+[05:34:48] Sagos (Time): pq vc ficou olhando pra caixa? kk
+[05:34:57] Aperte [F1] e visite nossas redes sociais!
+[05:35:26] BadSom killed nahue â¹ with AWP
+[05:35:32] Shenkoff killed NCM with M4A1
+[05:35:35] U.S.G.N.: Ping/State 'playing'
+[05:35:53] Sagos killed NCM with M4A1
+[05:35:56] nahue â¹ killed Sagos with AK-47
+[05:35:56] k¦nahue â¹¦52¦34
+[05:35:57] Aperte [F1] e visite nossas redes sociais!

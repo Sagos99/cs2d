@@ -1,0 +1,4 @@
+©255255000 Servidor do player : Morte !
+
+©000128128 Scripts :  @ResetScore 
+©255100000   Comando : !rs

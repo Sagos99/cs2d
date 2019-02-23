@@ -1,0 +1,190 @@
+CS2D 1.0.0.5 Logfile - 16 Nov 2017, 00:37:53
+
+[00:37:53] UDP socket initialized using port 50216
+[00:37:53] U.S.G.N.: Your game version is up to date!
+[00:37:59] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[00:38:00] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[00:38:02] U.S.G.N.: Received serverlist (servers: 139)
+[00:38:20] Connecting to 179.228.124.22:27015 (using U.S.G.N. ID #15431) ...
+[00:38:21] U.S.G.N.: Ping/State 'idle' (272 ms)
+[00:38:21] "  (1x)
+[00:38:22] load map 'de_dust2'
+[00:38:22] ----- Server joined -----
+[00:38:22] U.S.G.N.: Ping/State 'playing' (251 ms)
+[00:38:23] Player 13 killed Player 7 with M4A1
+[00:38:23] FacuCh killed Player 13 with SG552
+[00:38:23] MI_Makati killed YOLO with M4A1
+[00:38:25] leo killed BR BR BR BR BR BR BR BR B with HE
+[00:38:28] fz InSane killed Player 8 with AK-47
+[00:38:29] Pablo :P killed fz InSane with Scout
+[00:38:30] MI_Makati killed FacuCh with M4A1
+[00:38:30] MI_Makati killed Player with M4A1
+[00:38:33] FabianZx_ deixou o jogo
+[00:38:33] Player 2 juntou-se a Countra-Terrorista Forças
+[00:38:34] _rIPCORD juntou-se a Terrorista Forças
+[00:38:34] Sagos juntou-se a Countra-Terrorista Forças
+[00:38:40] El rikolino Dan conectou-se
+[00:38:45] Botzinho killed Alan with M4A1
+[00:38:48] Player 5 conectou-se
+[00:38:48] Player 7 killed Botzinho with AK-47
+[00:38:48] Warning: Restart Game To Apply Graphics Driver Changes!
+[00:38:50] El rikolino Dan juntou-se a Countra-Terrorista Forças
+[00:38:53] Player 9 killed _rIPCORD with Famas
+[00:38:54] Player 3 killed Player 7 with USP
+[00:38:55] EndGame killed sky with AK-47
+[00:38:55] Player 14 killed BR BR BR BR BR BR BR BR B with G3SG1
+[00:38:56] FacuCh killed Player 3 with AK-47
+[00:38:57] leo killed Totocarballo with HE
+[00:38:57] leo killed fz InSane with HE
+[00:38:58] EndGame killed Silasgil with AK-47
+[00:38:58] EndGame killed Player 4 with AK-47
+[00:38:58] Player 14 killed Player 17 with USP
+[00:38:59] MI_Makati killed Player with M4A1
+[00:39:00] EndGame killed FacuCh with AK-47
+[00:39:00] Player 14 killed Free to die with USP
+[00:39:01] YOLO killed Player 14 with AK-47
+[00:39:02] EndGame killed YOLO with AK-47
+[00:39:08] EndGame killed Player 6 with AK-47
+[00:39:08] Player 14 deixou o jogo
+[00:39:13] Player 7 Alterou seu nome para joshuahienreed
+[00:39:21] Player 7 conectou-se
+[00:39:24] U.S.G.N.: Ping/State 'playing'
+[00:39:26] leo killed YOLO with M4A1
+[00:39:31] Sagos killed Player 17 with HE
+[00:39:31] YOLO deixou o jogo
+[00:39:33] Player 13 killed joshuahienreed with M4A1
+[00:39:33] Player 13 killed FacuCh with M4A1
+[00:39:34] Player 7 juntou-se a Terrorista Forças
+[00:39:40] leo killed fz InSane with M4A1
+[00:39:42] Player 13 killed Player 6 with M4A1
+[00:39:42] Player 5 juntou-se a Countra-Terrorista Forças
+[00:39:44] BR BR BR BR BR BR BR BR B killed Botzinho with AK-47
+[00:39:44] Deda conectou-se
+[00:39:44] Alan killed Player 3 with AK-47
+[00:39:45] BR BR BR BR BR BR BR BR B killed EndGame with AK-47
+[00:39:45] Player 15 killed Alan with M4A1
+[00:39:46] El rikolino Dan killed BR BR BR BR BR BR BR BR B with M4A1
+[00:39:46] El rikolino Dan killed Free to die with M4A1
+[00:39:48] sky killed MI_Makati with AK-47
+[00:39:50] BR BR BR BR BR BR BR BR B juntou-se a Countra-Terrorista Forças
+[00:39:52] Sagos killed Silasgil with M4A1
+[00:39:56] Sagos: rank
+[00:39:56] Sagos is on rank 14 of 32
+[00:40:00] Deda juntou-se a Terrorista Forças
+[00:40:02] Player 8 killed Player with M4A1
+[00:40:02] Player 12 killed Player 4 with M4A1
+[00:40:03] Totocarballo killed Player 15 with AK-47
+[00:40:04] _rIPCORD killed Pablo :P with Galil
+[00:40:05] _rIPCORD killed Player 12 with Galil
+[00:40:05] Totocarballo killed Player 8 with AK-47
+[00:40:06] Player 11 killed sky with Famas
+[00:40:09] Totocarballo killed Player 2 with AK-47
+[00:40:09] Player 12 deixou o jogo
+[00:40:10] Sagos killed Totocarballo with M4A1
+[00:40:10] leo killed _rIPCORD with M4A1
+[00:40:12] El rikolino Dan died
+[00:40:12] El rikolino Dan juntou-se a Terrorista Forças
+[00:40:14] Player 9 Alterou seu nome para VZPsyker
+[00:40:16] BR BR BR BR BR BR BR BR B Alterou seu nome para BRASIL
+[00:40:16] Player 5 Alterou seu nome para Thy
+[00:40:24] U.S.G.N.: Ping/State 'playing'
+[00:40:30] Sagos killed Player with M4A1
+[00:40:34] leo killed joshuahienreed with M4A1
+[00:40:36] zFeikG conectou-se
+[00:40:37] EndGame killed Player 6 with M4A1
+[00:40:39] leo killed Player 17 with M4A1
+[00:40:39] Deda killed leo with AK-47
+[00:40:45] Player 2 killed Totocarballo with M4A1
+[00:40:47] Player deixou o jogo
+[00:40:49] BRASIL killed Player 7 with M4A1
+[00:40:51] EndGame killed Alan with M4A1
+[00:40:52] EndGame killed Player 4 with M4A1
+[00:40:52] Pablo :P killed fz InSane with M249
+[00:40:53] Pablo :P killed Free to die with M249
+[00:40:53] Alan deixou o jogo
+[00:40:53] Deda killed Pablo :P with AK-47
+[00:40:54] El rikolino Dan killed Botzinho with AK-47
+[00:40:55] Player 15 killed Deda with M4A1
+[00:40:57] Player 15 killed FacuCh with M4A1
+[00:40:58] zFeikG juntou-se a Terrorista Forças
+[00:41:06] Player 11 killed El rikolino Dan with Famas
+[00:41:07] Player 7 deixou o jogo
+[00:41:08] _rIPCORD killed EndGame with AK-47
+[00:41:09] BRASIL killed _rIPCORD with M4A1
+[00:41:12] Darklordz conectou-se
+[00:41:13] Sagos killed sky with M4A1
+[00:41:15] Sagos killed Silasgil with M4A1
+[00:41:20] Sagos died
+[00:41:20] Sagos juntou-se a Terrorista Forças
+[00:41:22] Darklordz juntou-se a Terrorista Forças
+[00:41:22] Darklordz juntou-se a Countra-Terrorista Forças
+[00:41:25] U.S.G.N.: Ping/State 'playing'
+[00:41:30] Thy killed Player 4 with AWP
+[00:41:33] Player conectou-se
+[00:41:37] Player 17 killed Player 3 with SG552
+[00:41:37] leo killed Player 6 with M4A1
+[00:41:38] MI_Makati killed Totocarballo with HE
+[00:41:40] Player 17 killed Botzinho with SG552
+[00:41:40] Sagos killed EndGame with AK-47
+[00:41:42] Player 6 deixou o jogo
+[00:41:44] leo killed El rikolino Dan with HE
+[00:41:48] Player 13 killed fz InSane with M4A1
+[00:41:49] Sagos killed Darklordz with AK-47
+[00:41:50] you conectou-se
+[00:41:51] Player 17 killed Player 15 with SG552
+[00:41:51] Thy killed _rIPCORD with AWP
+[00:41:56] VZPsyker killed Silasgil with Famas
+[00:41:57] Player 11 killed FacuCh with M4A1
+[00:41:58] Player 2 killed zFeikG with AK-47
+[00:41:59] you juntou-se a Terrorista Forças
+[00:42:00] joshuahienreed killed Player 8 with SG552
+[00:42:01] Player 2 killed Deda with AK-47
+[00:42:01] Player 15 deixou o jogo
+[00:42:02] zFeikG deixou o jogo
+[00:42:03] VZPsyker killed sky with Famas
+[00:42:04] FacuCh deixou o jogo
+[00:42:05] Player 2 killed joshuahienreed with AK-47
+[00:42:05] ExoZasa conectou-se
+[00:42:06] Free to die killed Player 13 with AK-47
+[00:42:10] Deda deixou o jogo
+[00:42:10] Player 5 conectou-se
+[00:42:10] ExoZasa juntou-se a Terrorista Forças
+[00:42:11] BRASIL killed Free to die with M4A1
+[00:42:17] ExoZasa deixou o jogo
+[00:42:24] Player 6 conectou-se
+[00:42:25] U.S.G.N.: Ping/State 'playing'
+[00:42:26] Player 5 juntou-se a Terrorista Forças
+[00:42:27] MI_Makati killed Player 17 with M4A1
+[00:42:32] Thy killed Sagos with AWP
+[00:42:32] k¦Thy¦60¦45
+[00:42:40] Player 7 conectou-se
+[00:43:01] Player 7 juntou-se a Countra-Terrorista Forças
+[00:43:01] Player 7 juntou-se a Terrorista Forças
+[00:43:02] Thy killed El rikolino Dan with AWP
+[00:43:03] Player 6 juntou-se a Terrorista Forças
+[00:43:05] Thy killed Totocarballo with AWP
+[00:43:07] Sagos killed leo with AK-47
+[00:43:08] VZPsyker killed Sagos with Famas
+[00:43:08] k¦VZPsyker¦88¦67
+[00:43:09] fz InSane killed Botzinho with AK-47
+[00:43:14] Player 7 killed VZPsyker with AK-47
+[00:43:15] fz InSane killed Player 8 with AK-47
+[00:43:15] MI_Makati killed Player 7 with M4A1
+[00:43:18] Player 2: n sei tou jogando a arma fora G
+[00:43:18] Player 11 killed Free to die with M4A1
+[00:43:21] Player 9 conectou-se
+[00:43:22] Player 10 conectou-se
+[00:43:24] MI_Makati killed sky with USP
+[00:43:26] U.S.G.N.: Ping/State 'playing'
+[00:43:26] Player 9 juntou-se a Countra-Terrorista Forças
+[00:43:27] EndGame killed Player 5 with M4A1
+[00:43:28] EndGame killed you with M4A1
+[00:43:28] Thy killed joshuahienreed with AWP
+[00:43:31] EndGame killed Silasgil with M4A1
+[00:43:32] fz InSane killed EndGame with AK-47
+[00:43:34] Thy killed Player 4 with AWP
+[00:43:35] sky deixou o jogo
+[00:43:35] Sagos deixou o jogo
+[00:43:35] Disconnect Reason: Client request (Code 0)
+[00:43:35] ----- Disconnected -----
+[00:43:36] U.S.G.N.: Ping/State 'idle' (256 ms)

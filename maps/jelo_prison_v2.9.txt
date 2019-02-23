@@ -1,0 +1,41 @@
+©255255255Prison Escape
+
+©255255000Map by ZomplantJelo (ZJ = U.S.G.N.)
+
+
+
+©255000255Rules: Freekillers and teamkillers don't have friends so get a life!
+-No Freekilling
+-No Teamkilling
+-No Cheating
+
+©250128000THERE'S A LOT OF SECRETS IN THIS MAP!
+
+
+©125125255Gaurds (CT):
+©000000255* Don't kill prisoners without a reason. Only kill him if he kills another Gaurd or when he won't follow commands.
+©000000255* Say Halt, Drop or Follow.
+©000000255* If a prisoner is running away, say "Halt!", if he still don't stop, kill him.
+©000000255* If you wan't a prisoner to follow you, say "Follow!", if he don't, shoot him once, if still he don't, kill him.
+©000000255* If you saw a prisoner carrying a weapons say "Drop!", if he don't, fight him until he dies or surrenders.
+©000000255* If a prisoner carrying a weapon and about to attack you or your teamates, fight him until he dies or drops his weapon.
+©000000255* Open cells in 1-2 minutes or else.
+©000000255* After releasing a prisoner take him to the Working Area or Torture Room.
+©000000255* You may take them in the Gun Training Area, Canteen or Comfort Room.
+
+©255125125Prisoner (T):
+©255000000* Follow gaurds or if you feel lucky... run away!
+©255000000* Don't kill other prisoners with or without reasons.
+©255000000* OPTIONAL: (Escape the Prison)
+You are lucky if you're in Cell #1, Cell #2, Cell #5 and Cell#6. Break some walls until you get out. Go downwards and open the Security Room, then press the glass covered button that will open the Inner Gate, then go to the gate, then open a glass gate and a metal gate then kill the 4 gaurds then press the green button. Go back to the Security Room then press another glass covered button and you might wan't some weapon, then go to gate again the kill the 2 gaurds in the 2 bunkers and disable the blue laser so you can pull the lever and get snowballs. Go back to Security Room and press another glass covered button and you may pick up some weapons. Go to the Bridge Security then press the two button and go down to the wooden bridge and go straight to left until you reach the car then start the engine with the use button (E) and you have successfully escaped.
+©255000000* OPTIONAL: (Bomb the Prison)
+If you have the bomb, get out of your cell, then go downwards until you see a green laser, disable it then break the wall in the bottom left corner and some explosives (won't hurt you.) and another wall until you reach the stair with the nuclear sign. You will next find some weapons, press the glass covered button and plant the bomb in the anthrax room. Make sure nobody will come and defuse the bomb.
+©255000000* OPTIONAL: Kill all gaurds so you shall win.
+
+
+Note:
+©255255000-Prisoner skins created by me. (If you downloaded it.)
+©255255000-Tilesets by Nameless. (Nameless is the name.)
+©255255000-Some sprites are downloaded and some are edited by me.
+©255255000-Controllable Turrets by Factis699.
+I don't own the Downloaded Sprites except some not downloaded sprites like food.bmp,chef.png,prisoner.png,redguy.png,etc.

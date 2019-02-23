@@ -1,0 +1,129 @@
+CS2D 1.0.0.5 Logfile - 17 Nov 2017, 07:25:28
+
+[07:25:28] UDP socket initialized using port 36963
+[07:25:28] U.S.G.N.: Your game version is up to date!
+[07:25:31] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[07:25:32] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[07:25:36] U.S.G.N.: Received serverlist (servers: 14)
+[07:25:36] U.S.G.N.: Received serverlist (servers: 150)
+[07:25:58] Connecting to 93.188.161.115:36963 (using U.S.G.N. ID #15431) ...
+[07:25:59] U.S.G.N.: Ping/State 'idle' (320 ms)
+[07:25:59] "  (1x)
+[07:25:59] load map 'de_cs2d'
+[07:26:00] ----- Server joined -----
+[07:26:01] U.S.G.N.: Ping/State 'playing'
+[07:26:03] Sagos juntou-se a Terrorista Forças
+[07:26:04] Paulo Henrique: ai vc se vc acha
+[07:26:06] Paulo Henrique: mt lag
+[07:26:18] Sagos killed Paulo Henrique with M3
+[07:26:21] Sagos: tem s
+[07:26:26] Sagos: 1 seg de atraso
+[07:26:38] Sagos killed Paulo Henrique with M3
+[07:26:48] Sagos: eu n me importo
+[07:27:01] U.S.G.N.: Ping/State 'playing'
+[07:27:05] Paulo Henrique: ai e foda
+[07:27:09] Paulo Henrique: pq so tem
+[07:27:11] Paulo Henrique: eua singapura
+[07:27:18] Paulo Henrique: e reino unido
+[07:27:21] Paulo Henrique: ai eu botei eua
+[07:27:26] Paulo Henrique: a outra e brasileira
+[07:27:29] Paulo Henrique: so q ela n segura mt
+[07:27:33] Sagos: tem ctz q n tem nenhuma aki ?
+[07:27:38] Paulo Henrique: nao
+[07:27:56] Paulo Henrique: e tipo
+[07:27:59] Paulo Henrique: essa é 30 reais
+[07:28:00] Paulo Henrique: e 
+[07:28:01] U.S.G.N.: Ping/State 'playing'
+[07:28:03] Paulo Henrique: é melhot q a outra
+[07:28:07] Paulo Henrique: segura mais
+[07:28:09] Paulo Henrique: e tem 2gb
+[07:28:10] Sagos killed Paulo Henrique with AWP
+[07:28:37] Sagos: q droga só faltou um server deles aki no
+[07:28:39] Sagos: brasil
+[07:28:52] Paulo Henrique: é
+[07:28:54] Paulo Henrique: e o unico q presta no br
+[07:28:57] Paulo Henrique: nao aguenta nada
+[07:28:57] Sagos killed Paulo Henrique with HE
+[07:29:05] Paulo Henrique: essa tem ate desktop
+[07:29:07] U.S.G.N.: Ping/State 'playing'
+[07:29:41] Sagos killed Paulo Henrique with HE
+[07:29:50] Paulo Henrique: eae ta mt lag
+[07:30:02] Sagos: n te matei
+[07:30:04] Sagos: por causa do lag agr
+[07:30:07] U.S.G.N.: Ping/State 'playing'
+[07:30:19] Sagos killed Paulo Henrique with USP
+[07:30:22] Sagos: mas da pra joga
+[07:30:44] Paulo Henrique: unica vps
+[07:30:47] Paulo Henrique: boa no br
+[07:30:51] Paulo Henrique: custa 50 reais por mes
+[07:30:55] Paulo Henrique: e nao tem nem 1gb de ram
+[07:31:01] Paulo Henrique: nao vai seguar tbm
+[07:31:08] U.S.G.N.: Ping/State 'playing'
+[07:31:16] Sagos: essa tem quantos de ram?
+[07:31:19] Paulo Henrique: 2
+[07:31:28] Paulo Henrique: a minhya outra
+[07:31:30] Paulo Henrique: tinha 500
+[07:31:32] Paulo Henrique: 500mb
+[07:31:37] Paulo Henrique: e era 40 raeis
+[07:31:39] Paulo Henrique: essa é 30
+[07:31:49] Paulo Henrique: procesador 2.4
+[07:31:51] Paulo Henrique: essa
+[07:31:54] Sagos killed Paulo Henrique with AWP
+[07:32:08] U.S.G.N.: Ping/State 'playing'
+[07:32:12] Sagos killed Paulo Henrique with AWP
+[07:32:32] "  (1x)
+[07:32:39] Paulo Henrique: ei o que é ip reverso?
+[07:32:47] Sagos: n lembro
+[07:33:09] U.S.G.N.: Ping/State 'playing'
+[07:33:15] Sagos killed Paulo Henrique with AWP
+[07:33:29] Paulo Henrique: vo madnar um email
+[07:33:30] Paulo Henrique: para vps
+[07:33:33] Paulo Henrique: para ve se els tem como
+[07:33:36] Paulo Henrique: muda pra sv br
+[07:33:38] Paulo Henrique: pq tipo
+[07:33:41] Paulo Henrique: aqui maraca q tem
+[07:33:43] Sagos: kkk
+[07:33:43] Paulo Henrique: so q nao apareceu la
+[07:34:01] Sagos: ai vai sair os cara la dos EUA
+[07:34:05] Sagos: só pra instalar um sv aki
+[07:34:07] Paulo Henrique: kkkkkkk
+[07:34:09] U.S.G.N.: Ping/State 'playing'
+[07:34:14] Paulo Henrique: e claro
+[07:34:18] Paulo Henrique: so consumidor kkkkkk
+[07:34:22] Sagos: kkkkk
+[07:35:10] U.S.G.N.: Ping/State 'playing'
+[07:35:26] Sagos killed Paulo Henrique with USP
+[07:36:10] "  (1x)
+[07:36:10] U.S.G.N.: Ping/State 'playing'
+[07:36:29] Paulo Henrique: vo bota num scren
+[07:36:30] Paulo Henrique: o sv pra ve
+[07:36:33] Paulo Henrique: vai q [e o screen
+[07:36:35] Paulo Henrique: q fica derrubando tbm
+[07:36:36] Paulo Henrique: n testei 
+[07:36:37] Paulo Henrique: vo bota nesse
+[07:37:11] U.S.G.N.: Ping/State 'playing'
+[07:37:29] ----- Disconnected -----
+[07:37:30] U.S.G.N.: Ping/State 'idle' (256 ms)
+[07:38:30] U.S.G.N.: Ping/State 'idle' (272 ms)
+[07:39:31] U.S.G.N.: Ping/State 'idle' (304 ms)
+[07:40:32] U.S.G.N.: Ping/State 'idle' (368 ms)
+[07:41:32] U.S.G.N.: Ping/State 'idle' (352 ms)
+[07:42:32] U.S.G.N.: Ping/State 'idle' (320 ms)
+[07:43:33] U.S.G.N.: Ping/State 'idle' (272 ms)
+[07:44:33] U.S.G.N.: Ping/State 'idle' (288 ms)
+[07:45:34] U.S.G.N.: Ping/State 'idle' (272 ms)
+[07:46:34] U.S.G.N.: Ping/State 'idle' (288 ms)
+[07:47:35] U.S.G.N.: Ping/State 'idle' (273 ms)
+[07:48:35] U.S.G.N.: Ping/State 'idle' (320 ms)
+[07:49:36] U.S.G.N.: Ping/State 'idle' (272 ms)
+[07:50:36] "  (1x)
+[07:51:37] U.S.G.N.: Ping/State 'idle' (336 ms)
+[07:52:37] U.S.G.N.: Ping/State 'idle' (288 ms)
+[07:53:38] U.S.G.N.: Ping/State 'idle' (304 ms)
+[07:54:38] "  (1x)
+[07:55:39] U.S.G.N.: Ping/State 'idle' (336 ms)
+[07:56:39] U.S.G.N.: Ping/State 'idle' (272 ms)
+[07:57:40] "  (1x)
+[07:58:40] "  (1x)
+[07:59:41] U.S.G.N.: Ping/State 'idle' (256 ms)
+[08:00:41] U.S.G.N.: Ping/State 'idle' (272 ms)

@@ -1,0 +1,35 @@
+CS2D 1.0.0.7 Logfile - 06 May 2018, 23:16:49
+
+[23:16:49] Steam: Logged in as #76561198077078199
+[23:16:49] UDP socket initialized using port 36963
+[23:16:51] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[23:17:17] TSocket: 'api.steampowered.com' Time Out (stage: 1)
+[23:17:17] Steam: Failed to get user name for user ID #76561198077078199 (stage: 1)
+[23:17:19] Cached servers added to list: 164
+[23:17:40] Starting server...
+[23:17:40] load map 'de_dust2_classic'
+[23:17:41] ----- Server started -----
+[23:17:44] Sagos aliou-se a Equipe Contra-Terrorista
+[23:20:12] ----- Mapchange -----
+[23:20:12] Starting server...
+[23:20:12] load map 'awp_grey Natal by SagosWins'
+[23:20:12] LOAD RES.: failed to load image 'gfx/SagosWins.png'
+[23:20:12] ----- Server started -----
+[23:20:14] Sagos aliou-se a Equipe Contra-Terrorista
+[23:21:13] [b]ROFLCopter conectou-se ao servidor
+[23:21:13] [b]ROFLCopter aliou-se a Equipe Terrorista
+[23:21:13] [b]ZOMG conectou-se ao servidor
+[23:21:13] [b]ZOMG aliou-se a Equipe Terrorista
+[23:21:31] Sagos killed [b]ZOMG with AWP
+[23:21:49] Sagos killed [b]ROFLCopter with AWP
+[23:22:10] generating stats...
+[23:22:10] stats generated in 1 ms!
+[23:22:32] Sagos killed [b]ZOMG with Knife
+[23:22:38] [b]ROFLCopter killed Sagos with AWP
+[23:22:51] Sagos killed [b]ROFLCopter with AWP
+[23:23:07] Sagos killed [b]ZOMG with AWP
+[23:23:15] Sagos killed [b]ROFLCopter with AWP
+[23:23:19] Sagos killed [b]ZOMG with AWP
+[23:23:32] Sagos killed [b]ROFLCopter with AWP
+[23:23:36] Sagos killed [b]ZOMG with AWP
+[23:23:45] Desligamento

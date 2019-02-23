@@ -1,0 +1,464 @@
+CS2D 1.0.0.5 Logfile - 15 Nov 2017, 19:32:42
+
+[19:32:42] UDP socket initialized using port 63126
+[19:32:42] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[19:32:43] U.S.G.N.: Ping/State 'playing'
+[19:32:43] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[19:33:13] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[19:33:43] U.S.G.N.: Ping/State 'idle' (288 ms)
+[19:34:14] "  (1x)
+[19:34:44] "  (1x)
+[19:35:15] "  (1x)
+[19:35:45] U.S.G.N.: Ping/State 'idle' (304 ms)
+[19:36:15] U.S.G.N.: Ping/State 'idle' (288 ms)
+[19:36:45] "  (1x)
+[19:37:16] "  (1x)
+[19:37:46] "  (1x)
+[19:38:16] "  (1x)
+[19:38:47] U.S.G.N.: Ping/State 'idle' (320 ms)
+[19:39:17] U.S.G.N.: Ping/State 'idle' (288 ms)
+[19:39:47] U.S.G.N.: Ping/State 'idle' (336 ms)
+[19:40:17] U.S.G.N.: Ping/State 'idle' (288 ms)
+[19:40:48] U.S.G.N.: Ping/State 'idle' (304 ms)
+[19:41:18] "  (1x)
+[19:41:48] U.S.G.N.: Ping/State 'idle' (288 ms)
+[19:42:18] "  (1x)
+[19:42:49] "  (1x)
+[19:43:19] U.S.G.N.: Ping/State 'idle' (320 ms)
+[19:43:49] U.S.G.N.: Ping/State 'idle' (384 ms)
+[19:44:20] U.S.G.N.: Ping/State 'idle' (400 ms)
+[19:44:50] U.S.G.N.: Ping/State 'idle' (288 ms)
+[19:45:20] "  (1x)
+[19:45:50] "  (1x)
+[19:46:21] U.S.G.N.: Ping/State 'idle' (688 ms)
+[19:46:51] U.S.G.N.: Ping/State 'idle' (720 ms)
+[19:47:21] U.S.G.N.: Ping/State 'idle' (640 ms)
+[19:47:51] U.S.G.N.: Ping/State 'idle' (528 ms)
+[19:48:25] U.S.G.N.: Ping/State 'idle' (752 ms)
+[19:48:58] U.S.G.N.: Ping/State 'idle' (768 ms)
+[19:49:28] U.S.G.N.: Ping/State 'idle' (624 ms)
+[19:49:59] U.S.G.N.: Ping/State 'idle' (720 ms)
+[19:50:29] U.S.G.N.: Ping/State 'idle' (624 ms)
+[19:50:59] U.S.G.N.: Ping/State 'idle' (528 ms)
+[19:51:29] U.S.G.N.: Ping/State 'idle' (658 ms)
+[19:52:00] U.S.G.N.: Ping/State 'idle' (672 ms)
+[19:52:30] "  (1x)
+[19:53:00] U.S.G.N.: Ping/State 'idle' (528 ms)
+[19:53:30] U.S.G.N.: Ping/State 'idle' (720 ms)
+[19:54:00] U.S.G.N.: Ping/State 'idle' (288 ms)
+[19:54:31] U.S.G.N.: Ping/State 'idle' (592 ms)
+[19:55:04] U.S.G.N.: Ping/State 'idle' (720 ms)
+[19:55:35] U.S.G.N.: Ping/State 'idle' (800 ms)
+[19:56:05] U.S.G.N.: Ping/State 'idle' (736 ms)
+[19:56:35] U.S.G.N.: Ping/State 'idle' (720 ms)
+[19:57:05] U.S.G.N.: Ping/State 'idle' (704 ms)
+[19:57:27] save map as 'Battle Royale'
+[19:57:35] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[19:57:59] starting server...
+[19:57:59] UDP socket initialized using port 36963
+[19:57:59] load map 'Battle Royale'
+[19:57:59] ----- Server started -----
+[19:57:59] Lua: Adding function 'movendo_piso' to hook 'movetile'
+[19:57:59] Lua: Adding function 'usar' to hook 'use'
+[19:57:59] Lua: Adding function 'usarBotaoooo' to hook 'usebutton'
+[19:57:59] Lua: Adding function 'segundoss' to hook 'second'
+[19:57:59] Lua: Adding function 'iniciar_rodada' to hook 'startround'
+[19:57:59] Lua: Adding function 'tapa' to hook 'hit'
+[19:57:59] Lua: Adding function 'mover' to hook 'always'
+[19:57:59] Carregando Script ServeR ControL 4.5 Aguarde...
+[19:57:59] Lua: Adding function 'senha' to hook 'say'
+[19:57:59] Lua: Adding function 'sayr' to hook 'say'
+[19:57:59] Lua: Adding function 'aleatorio' to hook 'say'
+[19:57:59] Lua: Adding function 'clanentranosv' to hook 'join'
+[19:57:59] Lua: Adding function 'atacar' to hook 'attack'
+[19:57:59] Lua: Adding function 'Lsvname' to hook 'second'
+[19:57:59] Lua: Adding function 'zerar_contagem' to hook 'leave'
+[19:57:59] Lua: Adding function 'soknf' to hook 'say'
+[19:57:59] Lua: Adding function 'knife' to hook 'walkover'
+[19:57:59] Lua: Adding function 'menuu' to hook 'serveraction'
+[19:57:59] Lua: Adding function 'menuadm' to hook 'menu'
+[19:57:59] Lua: Adding function 'ajudareset' to hook 'minute'
+[19:57:59] Lua: Adding function 'explosao' to hook 'always'
+[19:57:59] Lua: Adding function 'antikhack' to hook 'movetile'
+[19:57:59] Lua: Adding function 'contagemmm' to hook 'second'
+[19:57:59] Lua: Adding function 'matematicaaaa' to hook 'startround'
+[19:57:59] Lua: Adding function 'Criaturas' to hook 'clientdata'
+[19:57:59] Lua: Adding function 'credito' to hook 'minute'
+[19:57:59] Lua: Adding function 'resetarscore' to hook 'say'
+[19:57:59] Lua: Adding function 'coletando' to hook 'second'
+[19:57:59] Lua: Adding function 'admnmorre' to hook 'hit'
+[19:57:59] Lua: Adding function 'matanca' to hook 'kill'
+[19:57:59] O Script ServeR ControL 4.5 Esta Pronto Para Uso!
+[19:57:59] Lua: Adding function 'kamikaze' to hook 'say'
+[19:57:59] Lua: Adding function 'pegandofogo' to hook 'ms100'
+[19:57:59] Lua: Adding function 'minutos2' to hook 'minute'
+[19:57:59] »ADM« Sagos Entrou no servidor!
+[19:58:00] U.S.G.N.: Ping/State 'playing'
+[19:58:00] U.S.G.N.: Server added to serverlist
+[19:58:02] Servidor Desligado
+[19:58:03] U.S.G.N.: Server removed from serverlist
+[19:58:03] ----- Disconnected -----
+[19:58:04] U.S.G.N.: Ping/State 'idle' (720 ms)
+[19:58:10] starting server...
+[19:58:10] load map 'Battle Royale'
+[19:58:10] ----- Server started -----
+[19:58:10] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[19:58:10] Lua: Adding function 'movendo_piso' to hook 'movetile'
+[19:58:10] Lua: Adding function 'usar' to hook 'use'
+[19:58:10] Lua: Adding function 'usarBotaoooo' to hook 'usebutton'
+[19:58:10] Lua: Adding function 'segundoss' to hook 'second'
+[19:58:10] Lua: Adding function 'iniciar_rodada' to hook 'startround'
+[19:58:10] Lua: Adding function 'tapa' to hook 'hit'
+[19:58:10] Lua: Adding function 'mover' to hook 'always'
+[19:58:10] Carregando Script ServeR ControL 4.5 Aguarde...
+[19:58:10] Lua: Adding function 'senha' to hook 'say'
+[19:58:10] Lua: Adding function 'sayr' to hook 'say'
+[19:58:10] Lua: Adding function 'aleatorio' to hook 'say'
+[19:58:10] Lua: Adding function 'clanentranosv' to hook 'join'
+[19:58:10] Lua: Adding function 'atacar' to hook 'attack'
+[19:58:10] Lua: Adding function 'Lsvname' to hook 'second'
+[19:58:10] Lua: Adding function 'zerar_contagem' to hook 'leave'
+[19:58:10] Lua: Adding function 'soknf' to hook 'say'
+[19:58:10] Lua: Adding function 'knife' to hook 'walkover'
+[19:58:10] Lua: Adding function 'menuu' to hook 'serveraction'
+[19:58:10] Lua: Adding function 'menuadm' to hook 'menu'
+[19:58:10] Lua: Adding function 'ajudareset' to hook 'minute'
+[19:58:10] Lua: Adding function 'explosao' to hook 'always'
+[19:58:10] Lua: Adding function 'antikhack' to hook 'movetile'
+[19:58:10] Lua: Adding function 'contagemmm' to hook 'second'
+[19:58:10] Lua: Adding function 'matematicaaaa' to hook 'startround'
+[19:58:10] Lua: Adding function 'Criaturas' to hook 'clientdata'
+[19:58:10] Lua: Adding function 'credito' to hook 'minute'
+[19:58:10] Lua: Adding function 'resetarscore' to hook 'say'
+[19:58:10] Lua: Adding function 'coletando' to hook 'second'
+[19:58:10] Lua: Adding function 'admnmorre' to hook 'hit'
+[19:58:10] Lua: Adding function 'matanca' to hook 'kill'
+[19:58:10] O Script ServeR ControL 4.5 Esta Pronto Para Uso!
+[19:58:10] Lua: Adding function 'kamikaze' to hook 'say'
+[19:58:10] Lua: Adding function 'pegandofogo' to hook 'ms100'
+[19:58:10] Lua: Adding function 'minutos2' to hook 'minute'
+[19:58:10] »ADM« Sagos Entrou no servidor!
+[19:58:11] Sagos juntou-se a Countra-Terrorista Forças
+[19:58:11] U.S.G.N.: Ping/State 'playing'
+[19:58:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:59:03] Servidor Desligado
+[19:59:03] ----- Disconnected -----
+[19:59:04] U.S.G.N.: Ping/State 'idle' (432 ms)
+[20:00:05] U.S.G.N.: Ping/State 'idle' (576 ms)
+[20:01:05] U.S.G.N.: Ping/State 'idle' (688 ms)
+[20:02:06] "  (1x)
+[20:03:06] U.S.G.N.: Ping/State 'idle' (672 ms)
+[20:04:12] U.S.G.N.: Ping/State 'idle' (464 ms)
+[20:05:12] U.S.G.N.: Ping/State 'idle' (688 ms)
+[20:06:13] U.S.G.N.: Ping/State 'idle' (672 ms)
+[20:07:04] U.S.G.N.: Ping/State 'idle' (304 ms)
+[20:07:18] load map 'Battle Royale'
+[20:07:34] U.S.G.N.: Ping/State 'idle' (352 ms)
+[20:08:00] save map as 'Battle Royale'
+[20:08:00] starting server...
+[20:08:00] load map 'Battle Royale'
+[20:08:00] ----- Server started -----
+[20:08:00] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:08:00] Lua: Adding function 'movendo_piso' to hook 'movetile'
+[20:08:00] Lua: Adding function 'usar' to hook 'use'
+[20:08:00] Lua: Adding function 'usarBotaoooo' to hook 'usebutton'
+[20:08:00] Lua: Adding function 'segundoss' to hook 'second'
+[20:08:00] Lua: Adding function 'iniciar_rodada' to hook 'startround'
+[20:08:00] Lua: Adding function 'tapa' to hook 'hit'
+[20:08:00] Lua: Adding function 'mover' to hook 'always'
+[20:08:00] Carregando Script ServeR ControL 4.5 Aguarde...
+[20:08:00] Lua: Adding function 'senha' to hook 'say'
+[20:08:00] Lua: Adding function 'sayr' to hook 'say'
+[20:08:00] Lua: Adding function 'aleatorio' to hook 'say'
+[20:08:00] Lua: Adding function 'clanentranosv' to hook 'join'
+[20:08:00] Lua: Adding function 'atacar' to hook 'attack'
+[20:08:00] Lua: Adding function 'Lsvname' to hook 'second'
+[20:08:00] Lua: Adding function 'zerar_contagem' to hook 'leave'
+[20:08:00] Lua: Adding function 'soknf' to hook 'say'
+[20:08:00] Lua: Adding function 'knife' to hook 'walkover'
+[20:08:00] Lua: Adding function 'menuu' to hook 'serveraction'
+[20:08:00] Lua: Adding function 'menuadm' to hook 'menu'
+[20:08:00] Lua: Adding function 'ajudareset' to hook 'minute'
+[20:08:00] Lua: Adding function 'explosao' to hook 'always'
+[20:08:00] Lua: Adding function 'antikhack' to hook 'movetile'
+[20:08:00] Lua: Adding function 'contagemmm' to hook 'second'
+[20:08:00] Lua: Adding function 'matematicaaaa' to hook 'startround'
+[20:08:00] Lua: Adding function 'Criaturas' to hook 'clientdata'
+[20:08:00] Lua: Adding function 'credito' to hook 'minute'
+[20:08:00] Lua: Adding function 'resetarscore' to hook 'say'
+[20:08:00] Lua: Adding function 'coletando' to hook 'second'
+[20:08:00] Lua: Adding function 'admnmorre' to hook 'hit'
+[20:08:00] Lua: Adding function 'matanca' to hook 'kill'
+[20:08:00] O Script ServeR ControL 4.5 Esta Pronto Para Uso!
+[20:08:00] Lua: Adding function 'kamikaze' to hook 'say'
+[20:08:00] Lua: Adding function 'pegandofogo' to hook 'ms100'
+[20:08:00] Lua: Adding function 'minutos2' to hook 'minute'
+[20:08:00] »ADM« Sagos Entrou no servidor!
+[20:08:01] U.S.G.N.: Ping/State 'playing'
+[20:08:03] Sagos juntou-se a Countra-Terrorista Forças
+[20:08:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[20:09:11] U.S.G.N.: Ping/State 'playing'
+[20:09:20] ERROR: spawnitem - position is out of map bounds!
+[20:09:42] Para Ser um Homem-Bomba Digite !kamikaze
+[20:09:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[20:10:12] U.S.G.N.: Ping/State 'playing'
+[20:10:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[20:11:12] U.S.G.N.: Ping/State 'playing'
+[20:11:27] Sagos Esta Ausente!
+[20:11:42] Para Ser um Homem-Bomba Digite !kamikaze
+[20:11:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[20:11:42] generating stats...
+[20:11:42] stats generated in 1 ms!
+[20:11:58] Sagos Voltou a Jogar!
+[20:12:13] U.S.G.N.: Ping/State 'playing'
+[20:12:39] Sagos Esta Ausente!
+[20:12:41] Sagos Voltou a Jogar!
+[20:12:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[20:13:13] U.S.G.N.: Ping/State 'playing'
+[20:13:39] Sagos Esta Ausente!
+[20:13:42] Para Ser um Homem-Bomba Digite !kamikaze
+[20:13:42] Script By SagosWins
+[20:13:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[20:14:10] Sagos Voltou a Jogar!
+[20:14:14] U.S.G.N.: Ping/State 'playing'
+[20:14:40] Sagos Esta Ausente!
+[20:14:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[20:15:12] Sagos Voltou a Jogar!
+[20:15:14] U.S.G.N.: Ping/State 'playing'
+[20:15:42] Para Ser um Homem-Bomba Digite !kamikaze
+[20:15:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[20:16:02] Sagos Esta Ausente!
+[20:16:15] U.S.G.N.: Ping/State 'playing'
+[20:16:33] Sagos Voltou a Jogar!
+[20:16:42] Para Ver a USGN de um Jogador Digite !usgn <id>
+[20:16:42] generating stats...
+[20:16:42] stats generated in 1 ms!
+[20:16:56] Servidor Desligado
+[20:16:56] ----- Disconnected -----
+[20:16:58] U.S.G.N.: Ping/State 'idle' (722 ms)
+[20:16:58] starting server...
+[20:16:58] load map 'Battle Royale'
+[20:16:58] ----- Server started -----
+[20:16:58] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:16:58] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: '=' expected near '1'
+[20:16:59] U.S.G.N.: Ping/State 'playing'
+[20:17:10] Servidor Desligado
+[20:17:10] ----- Disconnected -----
+[20:17:15] U.S.G.N.: Ping/State 'idle' (608 ms)
+[20:17:42] starting server...
+[20:17:42] load map 'Battle Royale'
+[20:17:43] ----- Server started -----
+[20:17:43] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:17:43] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: '=' expected near '1'
+[20:17:43] Sagos juntou-se a Countra-Terrorista Forças
+[20:17:44] U.S.G.N.: Ping/State 'playing'
+[20:17:51] Servidor Desligado
+[20:17:51] ----- Disconnected -----
+[20:17:53] U.S.G.N.: Ping/State 'idle' (688 ms)
+[20:18:07] starting server...
+[20:18:07] load map 'Battle Royale'
+[20:18:07] ----- Server started -----
+[20:18:07] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:18:07] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: '=' expected near '1'
+[20:18:08] Sagos juntou-se a Countra-Terrorista Forças
+[20:18:08] U.S.G.N.: Ping/State 'playing'
+[20:18:13] Servidor Desligado
+[20:18:13] ----- Disconnected -----
+[20:18:14] U.S.G.N.: Ping/State 'idle' (608 ms)
+[20:19:14] U.S.G.N.: Ping/State 'idle' (592 ms)
+[20:19:16] starting server...
+[20:19:16] load map 'Battle Royale'
+[20:19:16] ----- Server started -----
+[20:19:16] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:19:16] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: '=' expected near '1'
+[20:19:17] Sagos juntou-se a Countra-Terrorista Forças
+[20:19:17] U.S.G.N.: Ping/State 'playing'
+[20:19:23] Servidor Desligado
+[20:19:23] ----- Disconnected -----
+[20:19:23] U.S.G.N.: Ping/State 'idle' (320 ms)
+[20:19:27] starting server...
+[20:19:27] load map 'Battle Royale'
+[20:19:27] ----- Server started -----
+[20:19:27] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:19:27] Sagos juntou-se a Countra-Terrorista Forças
+[20:19:27] U.S.G.N.: Ping/State 'playing'
+[20:19:29] Servidor Desligado
+[20:19:29] ----- Disconnected -----
+[20:19:31] U.S.G.N.: Ping/State 'idle' (672 ms)
+[20:19:36] starting server...
+[20:19:36] load map 'Battle Royale'
+[20:19:36] ----- Server started -----
+[20:19:36] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:19:36] Lua: Adding function 'falar' to hook 'say'
+[20:19:37] Sagos juntou-se a Countra-Terrorista Forças
+[20:19:38] U.S.G.N.: Ping/State 'playing'
+[20:19:43] Sagos: oi
+[20:19:46] hi
+[20:19:46] Sagos: teste
+[20:19:58] Servidor Desligado
+[20:19:58] ----- Disconnected -----
+[20:20:00] starting server...
+[20:20:00] load map 'Battle Royale'
+[20:20:00] ----- Server started -----
+[20:20:00] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:20:00] Lua: Adding function 'falar' to hook 'say'
+[20:20:01] Sagos juntou-se a Countra-Terrorista Forças
+[20:20:01] U.S.G.N.: Ping/State 'playing'
+[20:20:02] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:7: attempt to perform arithmetic on global 'oi' (a string value)
+[20:20:02]  -> sys/lua/SagosWins/Battle Royale.lua:7: in function <sys/lua/SagosWins/Battle Royale.lua:4>
+[20:20:02]  -> in Lua hook 'say', params: 1, 'teste'
+[20:20:02] Sagos: teste
+[20:20:20] Servidor Desligado
+[20:20:20] ----- Disconnected -----
+[20:20:26] U.S.G.N.: Ping/State 'idle' (656 ms)
+[20:20:44] starting server...
+[20:20:44] load map 'Battle Royale'
+[20:20:44] ----- Server started -----
+[20:20:44] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:20:44] Lua: Adding function 'falar' to hook 'say'
+[20:20:44] Sagos juntou-se a Countra-Terrorista Forças
+[20:20:45] U.S.G.N.: Ping/State 'playing'
+[20:20:47] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:7: attempt to perform arithmetic on global 'oi' (a string value)
+[20:20:47]  -> sys/lua/SagosWins/Battle Royale.lua:7: in function <sys/lua/SagosWins/Battle Royale.lua:4>
+[20:20:47]  -> in Lua hook 'say', params: 1, 'teste'
+[20:20:47] Sagos: teste
+[20:21:25] Servidor Desligado
+[20:21:25] ----- Disconnected -----
+[20:21:25] U.S.G.N.: Ping/State 'idle' (320 ms)
+[20:21:26] starting server...
+[20:21:26] load map 'Battle Royale'
+[20:21:27] ----- Server started -----
+[20:21:27] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:21:27] Lua: Adding function 'falar' to hook 'say'
+[20:21:27] Sagos juntou-se a Countra-Terrorista Forças
+[20:21:27] U.S.G.N.: Ping/State 'playing'
+[20:21:29] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:7: attempt to perform arithmetic on a string value
+[20:21:29]  -> sys/lua/SagosWins/Battle Royale.lua:7: in function <sys/lua/SagosWins/Battle Royale.lua:4>
+[20:21:29]  -> in Lua hook 'say', params: 1, 'teste'
+[20:21:29] Sagos: teste
+[20:21:49] Servidor Desligado
+[20:21:49] ----- Disconnected -----
+[20:21:49] U.S.G.N.: Ping/State 'idle' (336 ms)
+[20:22:50] U.S.G.N.: Ping/State 'idle' (688 ms)
+[20:23:51] U.S.G.N.: Ping/State 'idle' (608 ms)
+[20:24:51] U.S.G.N.: Ping/State 'idle' (576 ms)
+[20:25:20] starting server...
+[20:25:20] load map 'Battle Royale'
+[20:25:20] ----- Server started -----
+[20:25:20] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:25:20] Lua: Adding function 'falar' to hook 'say'
+[20:25:21] Sagos juntou-se a Countra-Terrorista Forças
+[20:25:21] U.S.G.N.: Ping/State 'playing'
+[20:25:22] hi aaa
+[20:25:22] Sagos: teste
+[20:25:32] Servidor Desligado
+[20:25:32] ----- Disconnected -----
+[20:25:33] U.S.G.N.: Ping/State 'idle' (256 ms)
+[20:26:09] starting server...
+[20:26:09] load map 'Battle Royale'
+[20:26:09] ----- Server started -----
+[20:26:09] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:26:09] Lua: Adding function 'falar' to hook 'say'
+[20:26:10] Sagos juntou-se a Countra-Terrorista Forças
+[20:26:10] U.S.G.N.: Ping/State 'playing'
+[20:26:13] Servidor Desligado
+[20:26:13] ----- Disconnected -----
+[20:26:15] U.S.G.N.: Ping/State 'idle' (689 ms)
+[20:26:17] starting server...
+[20:26:17] load map 'Battle Royale'
+[20:26:17] ----- Server started -----
+[20:26:17] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:26:17] Lua: Adding function 'falar' to hook 'say'
+[20:26:18] Sagos juntou-se a Countra-Terrorista Forças
+[20:26:19] U.S.G.N.: Ping/State 'playing'
+[20:26:43] Servidor Desligado
+[20:26:43] ----- Disconnected -----
+[20:26:44] U.S.G.N.: Ping/State 'idle' (256 ms)
+[20:27:25] starting server...
+[20:27:25] load map 'Battle Royale'
+[20:27:25] ----- Server started -----
+[20:27:25] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:27:25] Lua: Adding function 'falar' to hook 'say'
+[20:27:26] U.S.G.N.: Ping/State 'playing'
+[20:27:49] Servidor Desligado
+[20:27:49] ----- Disconnected -----
+[20:27:51] starting server...
+[20:27:51] load map 'Battle Royale'
+[20:27:51] ----- Server started -----
+[20:27:51] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:27:51] Lua: Adding function 'falar' to hook 'say'
+[20:27:51] U.S.G.N.: Ping/State 'playing'
+[20:27:58] Servidor Desligado
+[20:27:58] ----- Disconnected -----
+[20:28:00] U.S.G.N.: Ping/State 'idle' (720 ms)
+[20:28:04] starting server...
+[20:28:04] load map 'Battle Royale'
+[20:28:04] ----- Server started -----
+[20:28:04] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[20:28:04] Lua: Adding function 'falar' to hook 'say'
+[20:28:05] U.S.G.N.: Ping/State 'playing'
+[20:28:05] Sagos juntou-se a Countra-Terrorista Forças
+[20:28:25] force lighting ENABLED
+[20:28:42] generating stats...
+[20:28:42] stats generated in 1 ms!
+[20:29:05] U.S.G.N.: Ping/State 'playing'
+[20:29:11] force lighting DISABLED
+[20:29:22] Servidor Desligado
+[20:29:22] ----- Disconnected -----
+[20:29:23] U.S.G.N.: Ping/State 'idle' (560 ms)
+[20:29:50] load map 'battle royale'
+[20:30:03] U.S.G.N.: Ping/State 'idle' (832 ms)
+[20:30:34] U.S.G.N.: Ping/State 'idle' (1296 ms)
+[20:31:04] U.S.G.N.: Ping/State 'idle' (704 ms)
+[20:31:37] U.S.G.N.: Ping/State 'idle' (496 ms)
+[20:32:08] U.S.G.N.: Ping/State 'idle' (736 ms)
+[20:32:38] "  (1x)
+[20:33:08] U.S.G.N.: Ping/State 'idle' (640 ms)
+[20:33:41] U.S.G.N.: Ping/State 'idle' (512 ms)
+[20:34:12] U.S.G.N.: Ping/State 'idle' (688 ms)
+[20:34:42] U.S.G.N.: Ping/State 'idle' (656 ms)
+[20:35:12] "  (1x)
+[20:35:42] U.S.G.N.: Ping/State 'idle' (800 ms)
+[20:36:13] U.S.G.N.: Ping/State 'idle' (768 ms)
+[20:36:42] U.S.G.N.: Ping/State 'idle' (288 ms)
+[20:37:16] U.S.G.N.: Ping/State 'idle' (272 ms)
+[20:37:46] U.S.G.N.: Ping/State 'idle' (626 ms)
+[20:38:17] U.S.G.N.: Ping/State 'idle' (624 ms)
+[20:38:47] U.S.G.N.: Ping/State 'idle' (720 ms)
+[20:39:17] U.S.G.N.: Ping/State 'idle' (672 ms)
+[20:39:47] U.S.G.N.: Ping/State 'idle' (576 ms)
+[20:40:18] U.S.G.N.: Ping/State 'idle' (688 ms)
+[20:40:48] U.S.G.N.: Ping/State 'idle' (672 ms)
+[20:41:18] U.S.G.N.: Ping/State 'idle' (640 ms)
+[20:41:48] U.S.G.N.: Ping/State 'idle' (720 ms)
+[20:42:19] U.S.G.N.: Ping/State 'idle' (640 ms)
+[20:42:49] U.S.G.N.: Ping/State 'idle' (688 ms)
+[20:43:19] U.S.G.N.: Ping/State 'idle' (720 ms)
+[20:43:49] U.S.G.N.: Ping/State 'idle' (640 ms)
+[20:44:19] U.S.G.N.: Ping/State 'idle' (656 ms)
+[20:44:49] U.S.G.N.: Ping/State 'idle' (336 ms)
+[20:45:20] U.S.G.N.: Ping/State 'idle' (624 ms)
+[20:45:50] U.S.G.N.: Ping/State 'idle' (288 ms)
+[20:46:20] U.S.G.N.: Ping/State 'idle' (688 ms)
+[20:46:51] U.S.G.N.: Ping/State 'idle' (624 ms)
+[20:47:21] U.S.G.N.: Ping/State 'idle' (288 ms)
+[20:47:51] "  (1x)
+[20:48:21] U.S.G.N.: Ping/State 'idle' (304 ms)
+[20:48:51] U.S.G.N.: Ping/State 'idle' (320 ms)
+[20:49:22] U.S.G.N.: Ping/State 'idle' (288 ms)
+[20:49:52] U.S.G.N.: Ping/State 'idle' (720 ms)
+[20:50:22] U.S.G.N.: Ping/State 'idle' (624 ms)
+[20:50:53] U.S.G.N.: Ping/State 'idle' (768 ms)
+[20:51:23] U.S.G.N.: Ping/State 'idle' (736 ms)
+[20:51:53] U.S.G.N.: Ping/State 'idle' (464 ms)
+[20:52:21] save map as 'battle royale'
+[20:52:23] U.S.G.N.: Ping/State 'idle' (288 ms)
+[20:52:53] U.S.G.N.: Ping/State 'idle' (304 ms)
+[20:53:23] U.S.G.N.: Ping/State 'idle' (288 ms)
+[20:53:54] "  (1x)
+[20:54:24] "  (1x)
+[20:54:54] "  (1x)
+[20:55:24] "  (1x)
+[20:55:55] "  (1x)
+[20:56:25] U.S.G.N.: Ping/State 'idle' (304 ms)
+[20:56:28] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)

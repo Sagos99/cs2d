@@ -1,0 +1,59 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 12:44:12
+
+[12:44:12] UDP socket initialized using port 36963
+[12:44:12] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[12:44:12] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[12:44:12] U.S.G.N.: Ping/State 'playing'
+[12:44:13] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[12:44:14] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[12:44:20] Starting server...
+[12:44:20] load map 'de_dust2'
+[12:44:20] ----- Server started -----
+[12:44:20] Lua: Adding function 'teclas' to hook 'serveraction'
+[12:44:20] Lua: Adding function 'mile' to hook 'ms100'
+[12:44:20] Lua: Adding function 'matar' to hook 'kill'
+[12:44:20] U.S.G.N.: Ping/State 'playing'
+[12:44:20] U.S.G.N.: Serverlist entry updated
+[12:44:21] Sagos juntou-se a Countra-Terrorista Forças
+[12:45:05] U.S.G.N.: Serverlist entry updated
+[12:45:21] U.S.G.N.: Ping/State 'playing'
+[12:45:32] Ativado
+[12:45:33] Desativado
+[12:45:35] Ativado
+[12:45:36] Desativado
+[12:45:51] U.S.G.N.: Serverlist entry updated
+[12:46:21] U.S.G.N.: Ping/State 'playing'
+[12:46:37] U.S.G.N.: Serverlist entry updated
+[12:47:16] SadBrazilian conectou-se
+[12:47:16] SadBrazilian is using IP 177.220.226.90:26845 and no U.S.G.N. ID
+[12:47:22] U.S.G.N.: Ping/State 'playing'
+[12:47:22] U.S.G.N.: Serverlist entry updated
+[12:47:28] SadBrazilian juntou-se a Terrorista Forças
+[12:48:07] U.S.G.N.: Serverlist entry updated
+[12:48:08] Sagos killed SadBrazilian with Scout
+[12:48:13] Ativado
+[12:48:22] U.S.G.N.: Ping/State 'playing'
+[12:48:22] Sagos killed SadBrazilian with Scout
+[12:48:25] "  (1x)
+[12:48:30] "  (1x)
+[12:48:35] SadBrazilian killed Sagos with Glock
+[12:48:37] "  (1x)
+[12:48:40] "  (1x)
+[12:48:43] "  (1x)
+[12:48:48] "  (1x)
+[12:48:53] SadBrazilian killed Sagos with AK-47
+[12:48:55] "  (1x)
+[12:48:57] "  (1x)
+[12:48:59] "  (1x)
+[12:49:01] "  (1x)
+[12:49:03] "  (1x)
+[12:49:05] "  (1x)
+[12:49:07] "  (1x)
+[12:49:08] "  (1x)
+[12:49:10] "  (1x)
+[12:49:11] generating stats...
+[12:49:11] stats generated in 1 ms!
+[12:49:12] SadBrazilian killed Sagos with AK-47
+[12:49:14] Error: player SadBrazilian (#2) tries to select weapon which he does not own (wpn id 50)
+[12:49:18] SadBrazilian killed Sagos with Knife
+[12:49:20] Servidor Desligado

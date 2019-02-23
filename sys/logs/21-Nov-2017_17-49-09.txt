@@ -1,0 +1,152 @@
+CS2D 1.0.0.5 Logfile - 21 Nov 2017, 17:49:09
+
+[17:49:09] UDP socket initialized using port 36963
+[17:49:09] U.S.G.N.: Your game version is up to date!
+[17:49:09] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[17:49:10] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[17:49:10] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[17:50:11] U.S.G.N.: Ping/State 'idle' (272 ms)
+[17:51:11] U.S.G.N.: Ping/State 'idle' (288 ms)
+[17:52:12] U.S.G.N.: Ping/State 'idle' (304 ms)
+[17:52:41] Starting server...
+[17:52:41] load map 'Battle Royale'
+[17:52:41] ----- Server started -----
+[17:52:41] Lua: Adding function 'falar' to hook 'say'
+[17:52:41] Lua: Adding function 'segundos' to hook 'second'
+[17:52:41] Lua: Adding function 'coletar' to hook 'walkover'
+[17:52:41] Lua: Adding function 'atacar' to hook 'attack'
+[17:52:41] Lua: Adding function 'teclas' to hook 'serveraction'
+[17:52:41] Lua: Adding function 'mymenu' to hook 'menu'
+[17:52:41] Lua: Adding function 'ataque' to hook 'hit'
+[17:52:42] U.S.G.N.: Server added to serverlist
+[17:52:42] U.S.G.N.: Ping/State 'playing'
+[17:52:43] Sagos juntou-se a Countra-Terrorista Forças
+[17:52:44] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[17:52:49] [Info] Você pegou 15 Balas de Pistola
+[17:52:56] [Info] Você já tem pistola no inventário
+[17:53:02] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[17:53:04] [Info] Você já tem pistola no inventário
+[17:53:07] [Info] Você equipou: USP
+[17:53:09] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[17:53:27] U.S.G.N.: Serverlist entry updated
+[17:53:42] U.S.G.N.: Ping/State 'playing'
+[17:53:46] [Info] Você equipou: Deagle
+[17:53:51] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[17:54:13] U.S.G.N.: Serverlist entry updated
+[17:54:43] U.S.G.N.: Ping/State 'playing'
+[17:54:58] U.S.G.N.: Serverlist entry updated
+[17:55:13] ----- Mapchange -----
+[17:55:13] Starting server...
+[17:55:13] load map 'Battle Royale'
+[17:55:13] ----- Server started -----
+[17:55:13] Lua: Adding function 'falar' to hook 'say'
+[17:55:13] Lua: Adding function 'segundos' to hook 'second'
+[17:55:13] Lua: Adding function 'coletar' to hook 'walkover'
+[17:55:13] Lua: Adding function 'atacar' to hook 'attack'
+[17:55:13] Lua: Adding function 'teclas' to hook 'serveraction'
+[17:55:13] Lua: Adding function 'mymenu' to hook 'menu'
+[17:55:13] Lua: Adding function 'ataque' to hook 'hit'
+[17:55:15] Sagos juntou-se a Countra-Terrorista Forças
+[17:55:16] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[17:55:19] U.S.G.N.: Ping/State 'playing'
+[17:55:44] U.S.G.N.: Serverlist entry updated
+[17:56:14] Servidor Desligado
+[17:56:14] U.S.G.N.: Server removed from serverlist
+[17:56:15] ----- Disconnected -----
+[17:56:16] U.S.G.N.: Ping/State 'idle' (272 ms)
+[17:56:17] Starting server...
+[17:56:17] load map 'Battle Royale'
+[17:56:17] ----- Server started -----
+[17:56:17] Lua: Adding function 'falar' to hook 'say'
+[17:56:17] Lua: Adding function 'segundos' to hook 'second'
+[17:56:17] Lua: Adding function 'coletar' to hook 'walkover'
+[17:56:17] Lua: Adding function 'atacar' to hook 'attack'
+[17:56:17] Lua: Adding function 'teclas' to hook 'serveraction'
+[17:56:17] Lua: Adding function 'mymenu' to hook 'menu'
+[17:56:17] Lua: Adding function 'ataque' to hook 'hit'
+[17:56:18] U.S.G.N.: Server added to serverlist
+[17:56:18] U.S.G.N.: Ping/State 'playing'
+[17:56:18] Sagos juntou-se a Countra-Terrorista Forças
+[17:56:19] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[17:56:24] [Info] Você pegou 15 Balas de Pistola
+[17:56:28] [Info] Você já tem pistola no inventário
+[17:56:31] [Info] Você equipou: USP
+[17:57:03] U.S.G.N.: Serverlist entry updated
+[17:57:08] ----- Mapchange -----
+[17:57:08] Starting server...
+[17:57:08] load map 'Battle Royale'
+[17:57:08] ----- Server started -----
+[17:57:08] Lua: Adding function 'falar' to hook 'say'
+[17:57:08] Lua: Adding function 'segundos' to hook 'second'
+[17:57:08] Lua: Adding function 'coletar' to hook 'walkover'
+[17:57:08] Lua: Adding function 'atacar' to hook 'attack'
+[17:57:08] Lua: Adding function 'teclas' to hook 'serveraction'
+[17:57:08] Lua: Adding function 'mymenu' to hook 'menu'
+[17:57:08] Lua: Adding function 'ataque' to hook 'hit'
+[17:57:09] generating stats...
+[17:57:09] stats generated in 1 ms!
+[17:57:09] U.S.G.N.: Ping/State 'playing'
+[17:57:09] U.S.G.N.: Serverlist entry updated
+[17:57:10] Sagos juntou-se a Countra-Terrorista Forças
+[17:57:20] [Info] Você pegou 15 Balas de Pistola
+[17:57:25] [Info] Você não tem pistola no inventário
+[17:57:35] [Info] Você pegou 15 Balas de Pistola
+[17:57:51] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[17:57:54] [Info] Você equipou: Deagle
+[17:57:58] [Info] Você pegou 15 Balas de Pistola
+[17:58:09] U.S.G.N.: Ping/State 'playing'
+[17:58:10] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[17:58:13] [Info] Você equipou: Deagle
+[17:58:14] [Info] Você pegou 15 Balas de Pistola
+[17:58:37] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[17:58:40] U.S.G.N.: Serverlist entry updated
+[17:59:10] U.S.G.N.: Ping/State 'playing'
+[17:59:25] U.S.G.N.: Serverlist entry updated
+[18:00:11] U.S.G.N.: Ping/State 'playing'
+[18:00:11] U.S.G.N.: Serverlist entry updated
+[18:00:37] U.S.G.N.: Sagos (192.168.1.31) joining with U.S.G.N. ID #15431 - verifying...
+[18:00:40] U.S.G.N.: 192.168.1.31 is using U.S.G.N. ID #15431
+[18:00:40] Sagos 2 conectou-se
+[18:00:40] Sagos 2 is using IP 192.168.1.31:51180 and U.S.G.N. ID #15431
+[18:00:40] Starting transfer to Sagos 2 (files: 2) ...
+[18:00:40] Sagos 2 needs or accepts no files.
+[18:00:41] Sagos 2 juntou-se a Countra-Terrorista Forças
+[18:00:56] U.S.G.N.: Serverlist entry updated
+[18:01:16] U.S.G.N.: Ping/State 'playing'
+[18:02:09] generating stats...
+[18:02:09] stats generated in 0 ms!
+[18:02:21] U.S.G.N.: Ping/State 'playing'
+[18:02:26] U.S.G.N.: Serverlist entry updated
+[18:03:21] Sagos 2 deixou o jogo
+[18:03:22] U.S.G.N.: Ping/State 'not playing'
+[18:03:23] Servidor Desligado
+[18:03:24] U.S.G.N.: Server removed from serverlist
+[18:03:24] ----- Disconnected -----
+[18:03:25] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:03:36] Starting server...
+[18:03:36] load map 'Battle Royale'
+[18:03:36] ----- Server started -----
+[18:03:36] Lua: Adding function 'falar' to hook 'say'
+[18:03:36] Lua: Adding function 'segundos' to hook 'second'
+[18:03:36] Lua: Adding function 'coletar' to hook 'walkover'
+[18:03:36] Lua: Adding function 'atacar' to hook 'attack'
+[18:03:36] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:03:36] Lua: Adding function 'mymenu' to hook 'menu'
+[18:03:36] Lua: Adding function 'ataque' to hook 'hit'
+[18:03:37] U.S.G.N.: Server added to serverlist
+[18:03:37] U.S.G.N.: Ping/State 'not playing'
+[18:03:37] Sagos juntou-se a Countra-Terrorista Forças
+[18:03:48] U.S.G.N.: Sagos (192.168.1.31) joining with U.S.G.N. ID #15431 - verifying...
+[18:03:49] U.S.G.N.: 192.168.1.31 is using U.S.G.N. ID #15431
+[18:03:49] Sagos 2 conectou-se
+[18:03:49] Sagos 2 is using IP 192.168.1.31:58226 and U.S.G.N. ID #15431
+[18:03:49] Starting transfer to Sagos 2 (files: 2) ...
+[18:03:49] Sagos 2 needs or accepts no files.
+[18:03:51] Sagos 2 juntou-se a Countra-Terrorista Forças
+[18:04:15] Sagos 2 deixou o jogo
+[18:04:23] U.S.G.N.: Serverlist entry updated
+[18:04:35] U.S.G.N.: Sagos (192.168.1.31) joining with U.S.G.N. ID #15431 - verifying...
+[18:04:36] U.S.G.N.: 192.168.1.31 is using U.S.G.N. ID #15431
+[18:04:36] Sagos 2 conectou-se
+[18:04:36] Sagos 2 is using IP 192.168.1.31:53025 and U.S.G.N. ID #15431
+[18:04:36] Starting transfer to Sagos 2 (files: 2) ...

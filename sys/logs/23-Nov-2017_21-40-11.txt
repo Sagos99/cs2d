@@ -1,0 +1,121 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 21:40:11
+
+[21:40:11] UDP socket initialized using port 36963
+[21:40:11] U.S.G.N.: Your game version is up to date!
+[21:40:11] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[21:40:12] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[21:40:12] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[21:40:15] Cached servers added to list: 119
+[21:40:16] U.S.G.N.: Received serverlist (servers: 26)
+[21:40:16] U.S.G.N.: Received serverlist (servers: 150)
+[21:40:31] Connecting to 177.45.57.30:36963 (using U.S.G.N. ID #15431) ...
+[21:40:32] U.S.G.N.: Ping/State 'idle' (384 ms)
+[21:40:32] "  (1x)
+[21:40:32] load map 'awp_grey'
+[21:40:33] ----- Server joined -----
+[21:40:34] U.S.G.N.: Ping/State 'playing'
+[21:40:36] Kroniik killed Pai do Doom with AWP
+[21:40:38] Sagos juntou-se a Countra-Terrorista Forças
+[21:40:39] ~~ Doom Jr ~~ killed mA DooM °FT7° with AWP
+[21:40:43] Kroniik killed GhosT with AWP
+[21:40:47] agucho.romerito05 conectou-se
+[21:40:56] agucho.romerito05 juntou-se a Terrorista Forças
+[21:40:59] Pai do Doom *Morto*: coloquei meu nome de Dom pra n copia :V
+[21:41:01] ~~ Doom Jr ~~ killed Kroniik with AWP
+[21:41:02] Strw conectou-se
+[21:41:05] Pai do Doom *Morto*: sou irmão mais novo
+[21:41:05] MatsuPaulo *Morto*: flw naski mito
+[21:41:06] Pai do Doom Alterou seu nome para Dom
+[21:41:07] MatsuPaulo deixou o jogo
+[21:41:08] ~~ Doom Jr ~~: 28;3 kk
+[21:41:09] Strw juntou-se a Countra-Terrorista Forças
+[21:41:09] Strw juntou-se a Terrorista Forças
+[21:41:19] Dom killed mA DooM °FT7° with AWP
+[21:41:19] Strw killed Sagos with AWP
+[21:41:19] k¦Strw¦100¦100
+[21:41:22] Sagos *Morto*: !rs
+[21:41:23] ~~ Doom Jr ~~ killed naski'. with AWP
+[21:41:24] Strw killed Neko! with AWP
+[21:41:26] Kroniik killed ~~ Doom Jr ~~ with AWP
+[21:41:29] Strw killed GhosT with AWP
+[21:41:31] INC conectou-se
+[21:41:31] ~~ Doom Jr ~~ *Morto*: murri
+[21:41:31] Dom killed lucas123monos with Knife
+[21:41:31] cuchitril14 conectou-se
+[21:41:34] U.S.G.N.: Ping/State 'playing'
+[21:41:34] Dom killed agucho.romerito05 with AWP
+[21:41:37] INC juntou-se a Terrorista Forças
+[21:41:40] agucho.romerito05 deixou o jogo
+[21:41:41] mA DooM °FT7° *Morto*: SHSU
+[21:41:41] Strw killed Botzinho with AWP
+[21:41:44] ~~ Doom Jr ~~ *Morto*: doom
+[21:41:48] ~~ Doom Jr ~~ *Morto*: bora criar 1 clan '-'
+[21:41:49] cuchitril14 juntou-se a Terrorista Forças
+[21:41:50] mA DooM °FT7° *Morto*: eu
+[21:41:51] Dom killed Strw with AWP
+[21:41:53] mA DooM °FT7° *Morto*: s
+[21:41:54] ~~ Doom Jr ~~ *Morto*: eu tu e head
+[21:42:03] ~~ Doom Jr ~~ *Morto*: head gogo criar 1 clan
+[21:42:03] Kroniik killed Dom with AWP
+[21:42:05] Dom *Morto*: fdp
+[21:42:06] Dom *Morto*: era knf
+[21:42:07] Kroniik: kk
+[21:42:07] pL. Fus' conectou-se
+[21:42:08] Dom *Morto*: :V
+[21:42:12] Dom: arregão
+[21:42:14] ~~ Doom Jr ~~: ei dom
+[21:42:17] ~~ Doom Jr ~~: go criar 1 clan
+[21:42:20] ~~ Doom Jr ~~: eu tu e doom
+[21:42:20] Dom: que irmão
+[21:42:22] mA DooM °FT7°: o alma ficaria brabo se eu saise da ms
+[21:42:23] mA DooM °FT7°: ms
+[21:42:24] Dom: bora
+[21:42:24] naski'.: KKKKKKKKKKKKKK
+[21:42:25] mA DooM °FT7°: ma
+[21:42:25] Dom killed INC with AWP
+[21:42:28] ~~ Doom Jr ~~: de boa
+[21:42:30] INC deixou o jogo
+[21:42:30] ~~ Doom Jr ~~: doom
+[21:42:31] Dom killed lucas123monos with Knife
+[21:42:31] ~~ Doom Jr ~~: so dizer q faz
+[21:42:35] ~~ Doom Jr ~~: parte do nosso
+[21:42:35] Botzinho killed Strw with AWP
+[21:42:35] U.S.G.N.: Ping/State 'playing'
+[21:42:36] naski'.: nao da kKKKKKKKKKKKKKKKKKKKKK
+[21:42:37] Dom killed naski'. with AWP
+[21:42:37] Sagos killed cuchitril14 with AWP
+[21:42:37] ~~ Doom Jr ~~: kk
+[21:42:39] GhosT: kkkk
+[21:42:43] Kroniik killed Dom with AWP
+[21:42:44] ~~ Doom Jr ~~ killed Kroniik with AWP
+[21:42:45] mA DooM °FT7° killed Botzinho with AWP
+[21:42:47] ~~ Doom Jr ~~: quando for cf
+[21:42:49] ~~ Doom Jr ~~: vc ir
+[21:42:50] ~~ Doom Jr ~~: kkkkkkkk
+[21:42:50] mA DooM °FT7° killed Sagos with AWP
+[21:42:50] k¦mA DooM °FT7°¦100¦100
+[21:42:53] Dom *Morto*: o kroniik para de sangrar
+[21:42:58] mA DooM °FT7° killed ~~ Doom Jr ~~ with AWP
+[21:43:00] Dom juntou-se a Terrorista Forças
+[21:43:05] mA DooM °FT7° killed Neko! with AWP
+[21:43:21] Loide conectou-se
+[21:43:22] Dom *Morto*: gordo nojento 
+[21:43:24] Dom *Morto*: -.-
+[21:43:28] Dom *Morto*: zoas
+[21:43:29] GhosT killed mA DooM °FT7° with AWP
+[21:43:31] mA DooM °FT7° *Morto*: a
+[21:43:34] * Auto Teambalance *
+[21:43:34] cuchitril14 juntou-se a Countra-Terrorista Forças
+[21:43:35] mA DooM °FT7°: b77
+[21:43:36] U.S.G.N.: Ping/State 'playing'
+[21:43:36] mA DooM °FT7°: c7
+[21:43:38] Loide juntou-se a Countra-Terrorista Forças
+[21:43:38] mA DooM °FT7°: d
+[21:43:40] mA DooM °FT7°: e
+[21:43:47] Kroniik killed Botzinho with AWP
+[21:43:50] pL. Fus' deixou o jogo
+[21:43:51] naski'. killed Sagos with AWP
+[21:43:51] k¦naski'.¦100¦100
+[21:43:54] Sagos deixou o jogo
+[21:43:54] Disconnect Reason: Client request (Code 0)
+[21:43:54] ----- Disconnected -----

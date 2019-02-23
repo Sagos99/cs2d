@@ -1,0 +1,65 @@
+CS2D 1.0.0.5 Logfile - 16 Nov 2017, 01:54:56
+
+[01:54:56] UDP socket initialized using port 36963
+[01:54:56] U.S.G.N.: Your game version is up to date!
+[01:54:58] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[01:54:59] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[01:55:00] U.S.G.N.: Received serverlist (servers: 140)
+[01:55:01] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:55:02] U.S.G.N.: Ping/State 'idle' (352 ms)
+[01:55:02] "  (1x)
+[01:55:03] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:55:03] U.S.G.N.: Ping/State 'idle' (352 ms)
+[01:55:03] "  (1x)
+[01:55:03] load map 'de_cs2d'
+[01:55:04] ----- Server joined -----
+[01:55:04] Conta Conectada com Sucesso!
+[01:55:04] Bem vindo Sagos.
+[01:55:04] Paulo Henrique: tuta com usgn 0
+[01:55:04] pL. null' Cloud9: kkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:55:04] U.S.G.N.: Ping/State 'playing'
+[01:55:05] Sagos juntou-se a Terrorista Forças
+[01:55:08] Sagos: agr foi
+[01:55:10] Sagos: test
+[01:55:10] items equipados no seu inventario
+[01:55:12] Paulo Henrique: como tu vai carrega as info com usgn 0
+[01:55:29] Sagos: só reiniciar o jogo
+[01:55:30] Paulo Henrique: e so vc
+[01:55:32] Sagos: acabei de fazer isso
+[01:55:33] Paulo Henrique: reinciar
+[01:55:37] Paulo Henrique: ai sagos
+[01:55:39] Paulo Henrique: digita test
+[01:55:42] Paulo Henrique: agr da pra usa
+[01:55:42] Sagos: test
+[01:55:42] items equipados no seu inventario
+[01:55:45] Smoker deixou o jogo
+[01:55:45] pL. null' Cloud9 killed Sagos with USP
+[01:55:45] k¦pL. null' Cloud9¦100¦0
+[01:55:48] Paulo Henrique: mais eu nao removi ainda
+[01:55:51] Paulo Henrique: so botei pra usra
+[01:55:55] Sagos: ta errado paulo
+[01:55:58] Paulo Henrique: como errado
+[01:55:58] pL. null' Cloud9 killed Paulo Henrique with USP
+[01:55:59] Sagos: ele curou na hr
+[01:55:59] Paulo Henrique: pora
+[01:56:02] Paulo Henrique: q
+[01:56:03] pL. null' Cloud9: s
+[01:56:05] U.S.G.N.: Ping/State 'playing'
+[01:56:06] Sagos: tem q curar só 8 segundos dps
+[01:56:07] pL. null' Cloud9: tem q colocar o delay
+[01:56:12] Paulo Henrique: 8s dps?
+[01:56:13] Sagos: e se andar cancela
+[01:56:15] Sagos: ss
+[01:56:19] Paulo Henrique: carai
+[01:56:24] Sagos: no PUBG é assim kk
+[01:56:26] pL. null' Cloud9: s
+[01:56:27] Paulo Henrique: vo te q baixa uma biblioteca entao
+[01:56:29] pL. null' Cloud9: '-'
+[01:56:29] Paulo Henrique: o timerEx
+[01:56:47] Sagos: na vdd n sei se é 8 segundos
+[01:56:51] Sagos: vou la no PUBG ver se é isso
+[01:56:52] Sagos: ja volto
+[01:56:54] Sagos deixou o jogo
+[01:56:54] Disconnect Reason: Client request (Code 0)
+[01:56:54] ----- Disconnected -----
+[01:56:54] U.S.G.N.: Ping/State 'idle' (256 ms)

@@ -1,0 +1,13 @@
+©255190050===== GG_Carnage =====
+©190255050Created by Blazzingxx
+©190255050Tiles by KimKat
+©190255050Map type: Gun Game map
+©190255050Map version: 1.0 beta
+©190255050Map release: Gun Game 1.1 Map Pack
+
+©255190050===== Objectives =====
+©110120255Counter-Terrorists:
+©180180180Kill terrorists to win gun game.
+
+©255025025Terrorists:
+©180180180Kill counter-terrorists to win gun game.

@@ -1,0 +1,48 @@
+CS2D 1.0.0.5 Logfile - 01 Dec 2017, 07:35:40
+
+[07:35:40] UDP socket initialized using port 36963
+[07:35:40] U.S.G.N.: Your game version is up to date!
+[07:35:41] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[07:35:43] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[07:35:43] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[07:35:46] U.S.G.N.: Received serverlist (servers: 56)
+[07:35:46] U.S.G.N.: Received serverlist (servers: 150)
+[07:36:14] Connecting to 187.121.44.196:27015 (using U.S.G.N. ID #15431) ...
+[07:36:14] U.S.G.N.: Ping/State 'idle' (272 ms)
+[07:36:14] "  (1x)
+[07:36:14] load map 'de_dust2'
+[07:36:15] ----- Server joined -----
+[07:36:16] U.S.G.N.: Ping/State 'playing'
+[07:36:27] Botzinho killed Archeva with M4A1
+[07:36:40] Archeva juntou-se a Countra-Terrorista Forças
+[07:36:41] * Auto Teambalance *
+[07:36:41] S.P.Q.R juntou-se a Terrorista Forças
+[07:36:42] Sagos juntou-se a Terrorista Forças
+[07:36:58] Botzinho killed yNGpEPPA. with M4A1
+[07:37:16] U.S.G.N.: Ping/State 'playing'
+[07:37:21] Sagos killed Botzinho with M3
+[07:37:30] Sagos killed Archeva with M3
+[07:38:02] yNGpEPPA. killed Botzinho with Glock
+[07:38:12] S.P.Q.R killed Archeva with Deagle
+[07:38:17] U.S.G.N.: Ping/State 'playing'
+[07:38:34] Sagos: rank
+[07:38:34] r¦Sagos¦43 of 549¦114,102,12,8.50,52 m 25 s
+[07:38:52] S.P.Q.R killed Botzinho with Elite
+[07:39:06] Sagos killed Archeva with Deagle
+[07:39:09] Sagos died
+[07:39:09] Sagos juntou-se a Countra-Terrorista Forças
+[07:39:17] U.S.G.N.: Ping/State 'playing'
+[07:40:13] Archeva killed S.P.Q.R with M4A1
+[07:40:14] Botzinho killed yNGpEPPA. with M4A1
+[07:40:18] U.S.G.N.: Ping/State 'playing'
+[07:40:46] yNGpEPPA. killed Archeva with AK-47
+[07:40:50] Archeva deixou o jogo
+[07:41:09] Botzinho killed yNGpEPPA. with Aug
+[07:41:14] Sagos killed S.P.Q.R with M4A1
+[07:41:18] U.S.G.N.: Ping/State 'playing'
+[07:42:05] yNGpEPPA. killed Sagos with G3SG1
+[07:42:05] k¦yNGpEPPA.¦27¦0
+[07:42:18] Sagos deixou o jogo
+[07:42:18] Disconnect Reason: Client request (Code 0)
+[07:42:18] ----- Disconnected -----
+[07:42:19] U.S.G.N.: Ping/State 'idle' (784 ms)

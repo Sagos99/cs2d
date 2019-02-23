@@ -1,0 +1,482 @@
+CS2D 1.0.0.5 Logfile - 16 Nov 2017, 00:43:43
+
+[00:43:43] UDP socket initialized using port 53576
+[00:43:43] U.S.G.N.: Your game version is up to date!
+[00:43:44] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[00:43:44] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[00:43:50] U.S.G.N.: Received serverlist (servers: 140)
+[00:43:53] Connecting to 179.228.124.22:27015 (using U.S.G.N. ID #15431) ...
+[00:43:53] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:43:53] "  (1x)
+[00:43:53] load map 'de_dust2'
+[00:43:53] ----- Server joined -----
+[00:43:54] U.S.G.N.: Ping/State 'playing'
+[00:43:55] Sagos juntou-se a Terrorista Forças
+[00:43:56] _rIPCORD killed Pablo :P with M4A1
+[00:43:56] Player 11 killed _rIPCORD with M4A1
+[00:43:58] Sagos *Morto*: rank
+[00:43:58] Sagos is on rank 11 of 33
+[00:43:59] Player 12 conectou-se
+[00:43:59] Player 17 killed Player 11 with AK-47
+[00:44:02] Player 8 deixou o jogo
+[00:44:09] Player 8 conectou-se
+[00:44:13] Player 14 conectou-se
+[00:44:16] Player 15 conectou-se
+[00:44:17] Player 12 juntou-se a Terrorista Forças
+[00:44:20] Player 8 juntou-se a Countra-Terrorista Forças
+[00:44:22] Thy killed Player 17 with AWP
+[00:44:26] Pablo :P juntou-se a Terrorista Forças
+[00:44:27] Player 2 Alterou seu nome para AnImoL
+[00:44:28] Player 15 juntou-se a Terrorista Forças
+[00:44:28] Thy: hehe
+[00:44:35] Player 9: tytyyzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz098un
+[00:44:45] Sagos killed MI_Makati with AK-47
+[00:44:48] AnImoL killed Player 6 with M4A1
+[00:44:50] Player 7 killed Botzinho with Mac 10
+[00:44:50] Darklordz killed Player 12 with M4A1
+[00:44:51] Sagos killed Player 3 with AK-47
+[00:44:54] Pablo :P killed Player 13 with UMP45
+[00:44:55] U.S.G.N.: Ping/State 'playing'
+[00:45:00] Salty conectou-se
+[00:45:02] BRASIL killed Player 15 with M4A1
+[00:45:04] Player deixou o jogo
+[00:45:06] Player 8 killed Player 7 with USP
+[00:45:10] Player 9 killed Sagos with Aug
+[00:45:10] k¦Player 9¦2¦0
+[00:45:11] BRASIL killed fz InSane with M4A1
+[00:45:11] Salty juntou-se a Countra-Terrorista Forças
+[00:45:11] Player 7 deixou o jogo
+[00:45:14] Thy killed Pablo :P with AWP
+[00:45:15] Player 6 deixou o jogo
+[00:45:15] Player 17 killed Player 8 with AK-47
+[00:45:16] Player 10 deixou o jogo
+[00:45:18] Player conectou-se
+[00:45:19] Player 2 conectou-se
+[00:45:22] Juicy conectou-se
+[00:45:27] Player juntou-se a Terrorista Forças
+[00:45:30] AnImoL killed Player 5 with AK-47
+[00:45:31] Player 2 juntou-se a Countra-Terrorista Forças
+[00:45:32] ScrawnyNinja conectou-se
+[00:45:32] Juicy juntou-se a Terrorista Forças
+[00:45:37] Juicy deixou o jogo
+[00:45:38] El rikolino Dan killed EndGame with Famas
+[00:45:39] Totocarballo killed Player 11 with AK-47
+[00:45:41] EndGame deixou o jogo
+[00:45:43] Player 4 killed Player 9 with Glock
+[00:45:48] Darklordz killed Player 17 with M4A1
+[00:45:48] VZPsyker killed Player 4 with AWP
+[00:45:53] ScrawnyNinja juntou-se a Terrorista Forças
+[00:45:55] Player 6 conectou-se
+[00:45:55] U.S.G.N.: Ping/State 'playing'
+[00:46:00] Player 2 deixou o jogo
+[00:46:06] Player 6 juntou-se a Countra-Terrorista Forças
+[00:46:07] Player 2 conectou-se
+[00:46:08] Player 7 conectou-se
+[00:46:09] AnImoL killed El rikolino Dan with AK-47
+[00:46:15] Player 7 juntou-se a Countra-Terrorista Forças
+[00:46:24] _rIPCORD killed BRASIL with AK-47
+[00:46:24] _rIPCORD killed Thy with AK-47
+[00:46:26] Thy *Morto*: omg
+[00:46:29] Thy *Morto*: lol
+[00:46:33] _rIPCORD killed AnImoL with AK-47
+[00:46:37] Pablo :P (Time) *Morto*: se escondeu na maconha
+[00:46:41] Player 9 juntou-se a Terrorista Forças
+[00:46:42] Thy *Morto*: im glad this game is alive again!
+[00:46:47] Thy *Morto*: welcome back everyone
+[00:46:49] Braz conectou-se
+[00:46:49] MI_Makati *Morto*: yeah
+[00:46:50] Silasgil killed leo with AK-47
+[00:46:51] Player 2 deixou o jogo
+[00:46:52] Pablo :P *Morto*: se escondeu na maconha duhausadh
+[00:46:53] Braz juntou-se a Countra-Terrorista Forças
+[00:46:56] U.S.G.N.: Ping/State 'playing'
+[00:46:57] Braz *Morto*: kk
+[00:46:57] Thy *Morto*: Nice to meet you all :D
+[00:47:02] AnImoL *Morto*: é o vício
+[00:47:03] Thy *Morto*: this game was dead last year
+[00:47:04] Player 7 *Morto*: hey
+[00:47:06] Player 8 juntou-se a Terrorista Forças
+[00:47:08] Braz *Morto*: aopsto nos tr
+[00:47:09] Silasgil killed VZPsyker with AK-47
+[00:47:10] Thy *Morto*: glad they brought back on steam !!!!
+[00:47:12] MI_Makati *Morto*: lol my old usgn is 4039
+[00:47:18] Player 2 conectou-se
+[00:47:19] Thy *Morto*: nice
+[00:47:23] Thy *Morto*: Im Tiger
+[00:47:25] Player *Morto*: zx
+[00:47:26] VZPsyker deixou o jogo
+[00:47:27] Braz *Morto*: PEOPLE
+[00:47:28] Player *Morto*: zz
+[00:47:30] Braz *Morto*: search TPM PROJECt in youtube
+[00:47:31] Braz *Morto*: is a soccer game
+[00:47:32] Player 2 juntou-se a Countra-Terrorista Forças
+[00:47:34] Braz *Morto*: search TPM PROJECT in youtube
+[00:47:34] Thy *Morto*: oo
+[00:47:36] Player *Morto*: he is camping
+[00:47:37] Braz *Morto*: '-'
+[00:47:38] Player 5 conectou-se
+[00:47:48] Darklordz killed Silasgil with USP
+[00:47:48] MI_Makati *Morto*:  lol stupid camp
+[00:47:49] Braz *Morto*: ri
+[00:47:53] Totocarballo killed Darklordz with AK-47
+[00:47:53] Player 5 juntou-se a Countra-Terrorista Forças
+[00:47:54] Braz *Morto*: kk
+[00:47:56] U.S.G.N.: Ping/State 'playing'
+[00:47:58] Thy *Morto*: lol im 9-1 wtf
+[00:47:58] Player 11 Alterou seu nome para DogeSaurio
+[00:47:58] Player Alterou seu nome para sebi
+[00:47:58] Player 7 Alterou seu nome para Tboy2020
+[00:48:02] Darklordz: kk
+[00:48:04] Player conectou-se
+[00:48:11] Player 15 killed Botzinho with AK-47
+[00:48:12] Braz killed Silasgil with HE
+[00:48:15] Braz killed Player 8 with M4A1
+[00:48:16] leo killed Player 4 with AWP
+[00:48:17] Tboy2020 killed Pablo :P with M4A1
+[00:48:19] Sagos killed Player 13 with AK-47
+[00:48:19] Braz killed sebi with M4A1
+[00:48:25] leo killed Free to die with AWP
+[00:48:25] Braz killed fz InSane with M4A1
+[00:48:26] Braz killed Totocarballo with M4A1
+[00:48:26] Player juntou-se a Terrorista Forças
+[00:48:26] Player 17 killed Tboy2020 with AK-47
+[00:48:32] Pablo :P deixou o jogo
+[00:48:33] Darklordz killed Sagos with M4A1
+[00:48:33] k¦Darklordz¦6¦0
+[00:48:34] Player 15 killed Player 2 with AK-47
+[00:48:34] Braz killed El rikolino Dan with Deagle
+[00:48:37] BRASIL killed Player 17 with M4A1
+[00:48:40] Player 15 killed Player 5 with AK-47
+[00:48:40] Braz killed _rIPCORD with M4A1
+[00:48:40] BRASIL killed Player 15 with M4A1
+[00:48:41] Sagos deixou o jogo
+[00:48:41] Disconnect Reason: Client request (Code 0)
+[00:48:41] ----- Disconnected -----
+[00:48:42] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:49:42] "  (1x)
+[00:50:43] U.S.G.N.: Ping/State 'idle' (562 ms)
+[00:51:43] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:52:44] "  (1x)
+[00:53:44] "  (1x)
+[00:54:45] U.S.G.N.: Ping/State 'idle' (272 ms)
+[00:55:11] U.S.G.N.: Received serverlist (servers: 139)
+[00:55:45] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:55:54] starting server...
+[00:55:54] UDP socket initialized using port 36963
+[00:55:54] load map 'Deathrun CT em perigo'
+[00:55:55] ----- Server started -----
+[00:55:55] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[00:55:55] Lua: Adding function 'falar' to hook 'say'
+[00:55:55] U.S.G.N.: Ping/State 'playing'
+[00:56:01] Sagos juntou-se a Terrorista Forças
+[00:56:17] Servidor Desligado
+[00:56:17] ----- Disconnected -----
+[00:56:19] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:56:42] U.S.G.N.: Received serverlist (servers: 140)
+[00:57:04] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[00:57:04] NET: received incomplete precon. authcode (192.168.1.31:36963)
+[00:57:04] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:57:04] "  (1x)
+[00:57:16] WARNING: Failed to load online serverlist within 5 sec! Trying to load cached list...
+[00:57:16] WARNING: Using cached list (servers: 139) instead of online list
+[00:57:16] this means that CS2D failed to retrieve the current list from the U.S.G.N. masterserver
+[00:57:28] starting server...
+[00:57:28] load map 'Deathrun CT em perigo'
+[00:57:28] ----- Server started -----
+[00:57:28] Lua: Adding function 'regenerar' to hook 'ms100'
+[00:57:29] U.S.G.N.: Server added to serverlist
+[00:57:29] U.S.G.N.: Ping/State 'playing'
+[00:57:29] Sagos juntou-se a Countra-Terrorista Forças
+[00:57:32] Servidor Desligado
+[00:57:33] U.S.G.N.: Server removed from serverlist
+[00:57:33] ----- Disconnected -----
+[00:57:34] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:57:41] U.S.G.N.: Received serverlist (servers: 148)
+[00:57:43] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[00:57:43] NET: received incomplete precon. authcode (192.168.1.31:36963)
+[00:57:43] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:57:43] "  (1x)
+[00:58:20] U.S.G.N.: Received serverlist (servers: 147)
+[00:58:23] starting server...
+[00:58:23] load map 'Deathrun CT em perigo'
+[00:58:23] ----- Server started -----
+[00:58:23] Lua: Adding function 'regenerar' to hook 'ms100'
+[00:58:24] U.S.G.N.: Server added to serverlist
+[00:58:24] U.S.G.N.: Ping/State 'playing'
+[00:58:26] Sagos juntou-se a Terrorista Forças
+[00:58:42] Servidor Desligado
+[00:58:42] U.S.G.N.: Server removed from serverlist
+[00:58:42] ----- Disconnected -----
+[00:58:43] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:58:58] M-NET: received join data from unexpected source (252, 179.157.60.69:58319)
+[00:59:07] U.S.G.N.: Received serverlist (servers: 149)
+[00:59:07] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[00:59:07] NET: received incomplete precon. authcode (192.168.1.31:36963)
+[00:59:07] U.S.G.N.: Ping/State 'idle' (256 ms)
+[00:59:07] "  (1x)
+[00:59:20] U.S.G.N.: Received serverlist (servers: 149)
+[01:00:08] U.S.G.N.: Ping/State 'idle' (592 ms)
+[01:00:13] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:00:13] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:00:13] "  (1x)
+[01:00:22] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:00:23] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:00:23] "  (1x)
+[01:00:23] load map 'de_cs2d'
+[01:00:23] ----- Server joined -----
+[01:00:23] Bem vindo Sagos.
+[01:00:24] U.S.G.N.: Ping/State 'playing'
+[01:00:27] Sagos juntou-se a Terrorista Forças
+[01:00:31] Paulo Henrique: ai sagos
+[01:00:32] Paulo Henrique: vc conecto
+[01:00:35] Paulo Henrique: agora sai e entra denovo
+[01:00:36] Paulo Henrique: pq ele crio a conta
+[01:00:40] Paulo Henrique: sai e entra dnv
+[01:00:48] Sagos deixou o jogo
+[01:00:48] Disconnect Reason: Client request (Code 0)
+[01:00:48] ----- Disconnected -----
+[01:00:49] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:00:52] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:00:52] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:00:52] "  (1x)
+[01:00:54] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:00:55] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:00:55] "  (1x)
+[01:00:55] load map 'de_cs2d'
+[01:00:55] ----- Server joined -----
+[01:00:55] Conta Conectada com Sucesso!
+[01:00:55] Bem vindo Sagos.
+[01:00:57] U.S.G.N.: Ping/State 'playing'
+[01:00:58] Sagos juntou-se a Terrorista Forças
+[01:00:58] Sagos juntou-se a Countra-Terrorista Forças
+[01:00:58] * Auto Teambalance *
+[01:01:01] Sagos: ss funfo
+[01:01:02] Paulo Henrique: mano se liga
+[01:01:05] Paulo Henrique: aperta f2
+[01:01:07] Paulo Henrique: inventario 0 ne
+[01:01:12] Sagos: s
+[01:01:13] Paulo Henrique: digita giveak 1
+[01:01:15] Paulo Henrique: e da f2
+[01:01:22] Sagos: giveak 1
+[01:01:27] Paulo Henrique: giveak 1
+[01:01:29] Paulo Henrique: giveak 2
+[01:01:33] Paulo Henrique: giveak 3
+[01:01:35] Paulo Henrique: test aai
+[01:01:42] Sagos: giveak 3
+[01:01:45] Paulo Henrique: viu
+[01:01:49] Sagos: giveak 8
+[01:01:50] PRO'LEAGUE. null' conectou-se
+[01:01:52] Paulo Henrique: n tem
+[01:01:53] PRO'LEAGUE. null' juntou-se a Countra-Terrorista Forças
+[01:01:53] Paulo Henrique: so fiz 3
+[01:01:57] U.S.G.N.: Ping/State 'playing'
+[01:02:04] Sagos: mas ta errado
+[01:02:08] Paulo Henrique: como
+[01:02:11] Paulo Henrique: inv
+[01:02:11] Sagos: a ak n pode aparecer no inventario
+[01:02:14] Sagos: só bala
+[01:02:17] Paulo Henrique: ata
+[01:02:18] PRO'LEAGUE. null': !bc '-'
+[01:02:19] Paulo Henrique: mais isso e so teste
+[01:02:20] PRO'LEAGUE. null': kasdk
+[01:02:22] PRO'LEAGUE. null': Uai
+[01:02:22] Paulo Henrique: do inventario
+[01:02:24] Cloud9. r4dc~* conectou-se
+[01:02:27] Sagos: balas e itens de cura
+[01:02:31] Cloud9. r4dc~* juntou-se a Terrorista Forças
+[01:02:38] TSocket: 'api.steampowered.com' Time Out (stage: -1)
+[01:02:38] Paulo Henrique: ai
+[01:02:42] Paulo Henrique: inv
+[01:02:54] Sagos: q?
+[01:02:58] U.S.G.N.: Ping/State 'playing'
+[01:03:00] PRO'LEAGUE. null' Alterou seu nome para pL. null' Cloud9
+[01:03:02] pL. null' Cloud9: Pq tem 3 ak
+[01:03:03] pL. null' Cloud9: ?
+[01:03:09] Paulo Henrique: q
+[01:03:14] pL. null' Cloud9: No inv
+[01:03:14] pL. null' Cloud9: '-'
+[01:03:17] pL. null' Cloud9: 3 ak
+[01:03:21] Paulo Henrique: ata
+[01:03:32] Paulo Henrique: q
+[01:03:36] Paulo Henrique: vc at com 3 ak no inventario
+[01:03:37] Sagos: vcs 2 tbm ta ajudando a fazer?
+[01:03:44] pL. null' Cloud9: Eu sou tester
+[01:03:54] Cloud9. r4dc~*: tmb '-'
+[01:03:55] Paulo Henrique: ata mano
+[01:03:56] Paulo Henrique: eu nao fiz
+[01:03:57] pL. null' Cloud9: radc ta vendo
+[01:03:58] U.S.G.N.: Ping/State 'playing'
+[01:03:58] pL. null' Cloud9: '-'
+[01:03:59] Paulo Henrique: a tabela
+[01:04:00] Paulo Henrique: em initarray
+[01:04:02] Paulo Henrique: pqp
+[01:04:03] pL. null' Cloud9: Só observando
+[01:04:04] Paulo Henrique: so mt burro
+[01:04:07] Sagos: n precisa do X e Y ali em cima paulo
+[01:04:10] pL. null' Cloud9: Pq o mozilla n ajuda tbm
+[01:04:15] pL. null' Cloud9: ele ta estudando ainda ?
+[01:04:22] Paulo Henrique: pera
+[01:04:23] Paulo Henrique: eu vou
+[01:04:26] Paulo Henrique: te q bota
+[01:04:28] Paulo Henrique: a tabela em initarray
+[01:04:30] Paulo Henrique: eu criei sem
+[01:04:33] pL. null' Cloud9: Sagos fdp
+[01:04:38] pL. null' Cloud9: Vc nem lembra de mim
+[01:04:38] pL. null' Cloud9: kaskdask
+[01:04:44] Sagos: kkkkk
+[01:04:45] Sagos: lembro s
+[01:04:50] Sagos: vc jogava la no meu sv
+[01:04:54] pL. null' Cloud9: ¬¬
+[01:04:56] Paulo Henrique: ata
+[01:04:58] Cloud9. r4dc~* has been kicked for being idle
+[01:04:58] Cloud9. r4dc~* deixou o jogo (idle kikou)
+[01:04:59] U.S.G.N.: Ping/State 'playing'
+[01:05:03] pL. null' Cloud9 Alterou seu nome para Crack_Down
+[01:05:05] Paulo Henrique: porra maon
+[01:05:06] Paulo Henrique: se me fudeu
+[01:05:08] Crack_Down: Me
+[01:05:08] Paulo Henrique: agora
+[01:05:13] Cloud9. r4dc~* conectou-se
+[01:05:18] Paulo Henrique: o sagos
+[01:05:24] Paulo Henrique: nao tem como criar a tabela inteira
+[01:05:27] Paulo Henrique: em initarray
+[01:05:28] Paulo Henrique: pra fica mais facil
+[01:05:41] Sagos: n da
+[01:05:45] Paulo Henrique: aff
+[01:05:49] Paulo Henrique: vo te qrecria o script
+[01:05:50] Paulo Henrique: do inventario
+[01:05:51] Paulo Henrique: porra
+[01:05:56] Paulo Henrique: vai se fude
+[01:05:59] Sagos: mas nem é mt coisa
+[01:05:59] U.S.G.N.: Ping/State 'playing'
+[01:06:03] Sagos: é só as bala
+[01:06:04] Sagos: e cura
+[01:06:05] Paulo Henrique: é so um id
+[01:06:07] Paulo Henrique: é
+[01:06:13] Sagos: 3 id
+[01:06:17] Sagos: 4
+[01:06:20] Crack_Down: Smoker tem q mitar nessa script poha
+[01:06:21] Crack_Down killed Paulo Henrique with Knife
+[01:06:28] Paulo Henrique: ele q ajudo
+[01:06:29] Cloud9. r4dc~* juntou-se a Terrorista Forças
+[01:06:29] Paulo Henrique: a cria
+[01:06:30] Paulo Henrique: esse inventario
+[01:06:34] Paulo Henrique: ele deu a ideia
+[01:06:40] Sagos: olha
+[01:06:41] Crack_Down: MN ELE VAI TER Q CRIAR itens com img
+[01:06:45] Crack_Down: DROPADOS
+[01:06:51] Crack_Down: ele q manja
+[01:06:55] Crack_Down: dessas pouha
+[01:06:57] Sagos: qm vai criar a img de mochila?
+[01:07:00] U.S.G.N.: Ping/State 'playing'
+[01:07:03] Sagos: existe 3 mochila
+[01:07:03] Paulo Henrique: o smoker
+[01:07:08] Crack_Down: Ele q manja
+[01:07:10] Crack_Down: a nv 1
+[01:07:11] Sagos: mochilas nivel 1 2 e 3
+[01:07:12] Crack_Down: nv 2
+[01:07:13] Crack_Down: e 3
+[01:07:24] Sagos: colete 1 2 e 3 ja tem no jogo
+[01:07:27] Crack_Down: S
+[01:07:28] Sagos: ent n precisa fazer
+[01:07:36] Crack_Down: Mn
+[01:07:39] Sagos: só vms alterar o tanto de proteção que
+[01:07:41] Sagos: elas da
+[01:07:42] Crack_Down: Sagos tu viu o do gringo ?
+[01:07:46] Paulo Henrique: é
+[01:07:49] Paulo Henrique: o gringo crio um battleroyale
+[01:07:50] Crack_Down: Tá mal feito
+[01:07:51] Paulo Henrique: so q é uma merda
+[01:07:52] Sagos: ja teve gringo que fez?
+[01:07:54] Sagos: af
+[01:07:54] Paulo Henrique: e uma bosta
+[01:07:57] Paulo Henrique: nao tem nada
+[01:07:58] Sagos: n vi
+[01:07:59] Crack_Down: Tá ruim
+[01:08:00] Paulo Henrique: tipo e so um hud
+[01:08:00] U.S.G.N.: Ping/State 'playing'
+[01:08:09] Paulo Henrique: n tem inventario tem nada kk
+[01:08:10] Crack_Down: Tem o hud dos Vivo morto
+[01:08:13] Crack_Down: e espec
+[01:08:15] Crack_Down: Spec
+[01:08:18] Sagos killed Paulo Henrique with Knife
+[01:08:20] Crack_Down: dai
+[01:08:25] Crack_Down: a radiação
+[01:08:29] Crack_Down: Ela vem direto
+[01:08:30] Sagos: pq ta lag?
+[01:08:31] Crack_Down: SEMPARAR
+[01:08:40] Sagos: kkkkkk
+[01:08:41] Sagos: n
+[01:08:44] Crack_Down: Tipo
+[01:08:50] Sagos: tem q da 2 min pro gas vim
+[01:08:51] Crack_Down: vc tem q passar em cima do iten
+[01:08:52] Crack_Down: e pronto
+[01:08:54] Crack_Down: ss
+[01:09:01] U.S.G.N.: Ping/State 'playing'
+[01:09:10] Sagos: eu tenho o jogo aki na minha steam
+[01:09:26] Crack_Down: Adc eu ai na steam
+[01:09:28] Crack_Down: kk
+[01:09:32] Sagos: blz
+[01:09:49] Crack_Down: Planta a bomaba radc
+[01:09:50] Crack_Down: kasdka
+[01:09:59] Paulo Henrique: mano vcs sao tudo desumilde
+[01:10:01] U.S.G.N.: Ping/State 'playing'
+[01:10:05] Sagos: pq? '-'
+[01:10:10] Crack_Down: uai
+[01:10:11] Paulo Henrique: pq o script tava perfeito
+[01:10:13] Paulo Henrique: e
+[01:10:17] Paulo Henrique: agr tenho q bota initarray nele
+[01:10:18] Paulo Henrique: aff
+[01:10:28] Crack_Down: EA VIDA NE FI
+[01:10:31] Sagos: mas é claro que vai ter q colocar
+[01:10:33] Crack_Down: adasd
+[01:10:38] Crack_Down: ala o bracim
+[01:10:43] Paulo Henrique: sagos
+[01:10:44] Sagos: dificil um script grande assim n usar 
+[01:10:45] Paulo Henrique: isso funciona
+[01:10:48] Paulo Henrique: olha
+[01:10:51] Sagos: o q?
+[01:10:56] Paulo Henrique: player_data['inventory'] = initarray(32)
+[01:10:57] Paulo Henrique: blz
+[01:10:59] Paulo Henrique: ai tipo
+[01:11:02] U.S.G.N.: Ping/State 'playing'
+[01:11:10] Paulo Henrique: ...'inventory'] = {}
+[01:11:10] Crack_Down: SLDA
+[01:11:14] Paulo Henrique: esse initarray virar uma tabela
+[01:11:20] Crack_Down: What
+[01:11:27] Sagos: mas vc quer transformar em tabela pra q?
+[01:11:28] Crack_Down: agr o hud ta ali em cima pra mim
+[01:11:31] Paulo Henrique: pq
+[01:11:33] Paulo Henrique: e os valores
+[01:11:34] Paulo Henrique: do inventario
+[01:11:36] Paulo Henrique: player_data['inventory'][id] = {[0]=0,[1
+[01:11:51] Paulo Henrique: vo testa
+[01:11:54] Sagos: testa
+[01:11:57] Paulo Henrique: deus e umilde
+[01:11:58] Paulo Henrique: vai faze funfa
+[01:11:59] Paulo Henrique: sipa
+[01:12:02] U.S.G.N.: Ping/State 'playing'
+[01:12:11] Sagos: se vc n conseguir eu faço de um jeito
+[01:12:16] Sagos: ai vc da uma olhada
+[01:12:50] Sagos (Time): manda convite la na steam
+[01:12:53] Sagos (Time): aki bugo
+[01:13:01] Paulo Henrique deixou o jogo
+[01:13:02] U.S.G.N.: Ping/State 'playing'
+[01:13:06] Crack_Down (Time): Manda ai steam nova
+[01:13:10] Crack_Down (Time): n gastei 5$
+[01:13:13] Crack_Down (Time): KK
+[01:13:44] ----- Disconnected -----
+[01:13:45] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:13:54] U.S.G.N.: Received serverlist (servers: 145)
+[01:14:01] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:14:02] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:14:02] "  (1x)
+[01:14:24] U.S.G.N.: Received serverlist (servers: 147)
+[01:14:25] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:14:25] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:15:26] "  (2x)
+[01:16:27] "  (1x)
+[01:17:27] U.S.G.N.: Ping/State 'idle' (272 ms)
+[01:18:28] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:19:28] "  (1x)
+[01:20:28] U.S.G.N.: Ping/State 'idle' (272 ms)

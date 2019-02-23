@@ -1,0 +1,26 @@
+CS2D 1.0.0.7 Logfile - 06 May 2018, 23:26:35
+
+[23:26:35] Steam: Logged in as #76561198077078199
+[23:26:36] UDP socket initialized using port 36963
+[23:26:39] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[23:26:55] Starting server...
+[23:26:55] load map 'awp_grey Natal by SagosWins'
+[23:26:55] LOAD RES.: failed to load image 'gfx/SagosWins.png'
+[23:26:55] ----- Server started -----
+[23:26:57] [b]WAR! conectou-se ao servidor
+[23:26:57] [b]WAR! aliou-se a Equipe Terrorista
+[23:26:57] [b]Deagle Master conectou-se ao servidor
+[23:26:57] [b]Deagle Master aliou-se a Equipe Terrorista
+[23:26:57] [b]USGN.de conectou-se ao servidor
+[23:26:57] [b]USGN.de aliou-se a Equipe Terrorista
+[23:26:57] [b]Trooper conectou-se ao servidor
+[23:26:57] [b]Trooper aliou-se a Equipe Terrorista
+[23:26:59] Sagos aliou-se a Equipe Contra-Terrorista
+[23:27:06] TSocket: 'api.steampowered.com' Time Out (stage: 1)
+[23:27:06] Steam: Failed to get user name for user ID #76561198077078199 (stage: 1)
+[23:27:07] Sagos killed [b]Deagle Master with Knife
+[23:27:09] Sagos killed [b]USGN.de with Knife
+[23:27:09] Sagos killed [b]WAR! with AWP
+[23:27:20] Sagos killed [b]Trooper with AWP
+[23:27:31] [b]Trooper killed Sagos with AWP
+[23:27:32] Desligamento

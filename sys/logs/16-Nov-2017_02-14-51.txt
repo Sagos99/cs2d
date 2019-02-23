@@ -1,0 +1,1747 @@
+CS2D 1.0.0.5 Logfile - 16 Nov 2017, 02:14:51
+
+[02:14:51] UDP socket initialized using port 36963
+[02:14:51] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[02:14:52] U.S.G.N.: Ping/State 'playing'
+[02:14:52] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[02:14:52] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[02:15:52] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:16:53] "  (1x)
+[02:17:53] "  (1x)
+[02:18:54] U.S.G.N.: Ping/State 'idle' (304 ms)
+[02:19:54] U.S.G.N.: Ping/State 'idle' (336 ms)
+[02:20:55] U.S.G.N.: Ping/State 'idle' (752 ms)
+[02:21:56] U.S.G.N.: Ping/State 'idle' (624 ms)
+[02:22:56] U.S.G.N.: Ping/State 'idle' (672 ms)
+[02:23:56] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:24:57] U.S.G.N.: Ping/State 'idle' (784 ms)
+[02:25:58] U.S.G.N.: Ping/State 'idle' (640 ms)
+[02:26:58] U.S.G.N.: Ping/State 'idle' (307 ms)
+[02:27:58] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:28:59] U.S.G.N.: Ping/State 'idle' (288 ms)
+[02:29:22] load map 'battle royale'
+[02:29:36] U.S.G.N.: Ping/State 'idle' (288 ms)
+[02:30:06] U.S.G.N.: Ping/State 'idle' (504 ms)
+[02:30:34] save map as 'battle royale'
+[02:30:39] U.S.G.N.: Ping/State 'idle' (288 ms)
+[02:30:46] save map as 'Battle Royale'
+[02:31:10] U.S.G.N.: Ping/State 'idle' (272 ms)
+[02:31:17] starting server...
+[02:31:17] load map 'Battle Royale'
+[02:31:17] ----- Server started -----
+[02:31:17] Lua: Adding function 'minimapa' to hook 'say'
+[02:31:17] Lua: Adding function 'movimento' to hook 'always'
+[02:31:17] Lua: Adding function 'valornormal' to hook 'startround'
+[02:31:18] U.S.G.N.: Server added to serverlist
+[02:31:18] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[02:31:19] Sagos juntou-se a Countra-Terrorista Forças
+[02:31:25] Servidor Desligado
+[02:31:26] U.S.G.N.: Server removed from serverlist
+[02:31:26] ----- Disconnected -----
+[02:31:27] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:32:27] "  (1x)
+[02:33:28] "  (1x)
+[02:34:28] U.S.G.N.: Ping/State 'idle' (272 ms)
+[02:35:29] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:36:30] "  (1x)
+[02:37:30] U.S.G.N.: Ping/State 'idle' (272 ms)
+[02:38:31] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:39:31] "  (1x)
+[02:40:32] "  (1x)
+[02:41:32] U.S.G.N.: Ping/State 'idle' (272 ms)
+[02:42:27] U.S.G.N.: Received serverlist (servers: 131)
+[02:42:33] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:42:36] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[02:42:36] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:42:36] "  (1x)
+[02:42:44] U.S.G.N.: Received serverlist (servers: 131)
+[02:43:36] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:44:37] U.S.G.N.: Ping/State 'idle' (261 ms)
+[02:45:06] U.S.G.N.: Received serverlist (servers: 131)
+[02:45:12] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[02:45:13] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:45:13] U.S.G.N.: Ping/State 'idle' (272 ms)
+[02:45:14] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[02:45:14] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:45:14] "  (1x)
+[02:45:15] load map 'awp_gray'
+[02:45:15] ----- Server joined -----
+[02:45:15] Conta Conectada com Sucesso!
+[02:45:15] Bem vindo Sagos.
+[02:45:16] U.S.G.N.: Ping/State 'playing'
+[02:45:18] Sagos juntou-se a Countra-Terrorista Forças
+[02:45:19] Sagos: achei
+[02:45:20] pL. null' Cloud9: Oq vc acrecento agr ?
+[02:45:22] Paulo Henrique: ai sagos testa
+[02:45:26] Sagos: test
+[02:45:26] items equipados no seu inventario
+[02:45:29] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:45:37] Item Cancelado para ser usado, você se moveu!
+[02:45:38] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:45:46] Item Cancelado para ser usado, você se moveu!
+[02:45:52] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:45:58] Paulo Henrique: eae
+[02:45:59] pL. null' Cloud9: test
+[02:46:00] Item equipado com sucesso...
+[02:46:16] U.S.G.N.: Ping/State 'playing'
+[02:46:17] Sagos: ele me curo tudo '-'
+[02:46:25] Paulo Henrique: ue
+[02:46:25] Sagos: ele n pode curar + q 75 de life
+[02:46:31] Paulo Henrique: entao vc mando id errado
+[02:46:41] Sagos: n existe item no cs2d q faz isso
+[02:46:45] pL. null' Cloud9: da dano
+[02:46:46] Sagos: vc vai ter q programa
+[02:46:47] Paulo Henrique: a
+[02:46:55] Paulo Henrique: blz kkkkkk
+[02:46:59] pL. null' Cloud9: Me da dano
+[02:47:04] Sagos: só colocar sethealth
+[02:47:08] Paulo Henrique: s
+[02:47:10] pL. null' Cloud9: Set funfa
+[02:47:17] U.S.G.N.: Ping/State 'playing'
+[02:47:23] Sagos: e é melhor colocar um tempo
+[02:47:33] Sagos: da agonia vc n sabe quanto tempo falta
+[02:47:46] pL. null' Cloud9: WHAT
+[02:47:48] Paulo Henrique: blzo
+[02:47:50] pL. null' Cloud9: acho q um bug
+[02:47:55] Paulo Henrique: aonde
+[02:47:55] pL. null' Cloud9: foi encontrado
+[02:47:57] pL. null' Cloud9: kkk
+[02:48:00] Sagos: da dano aki
+[02:48:04] pL. null' Cloud9: dps q eu usei
+[02:48:06] pL. null' Cloud9: e corri
+[02:48:15] pL. null' Cloud9: deu q eu andei
+[02:48:17] U.S.G.N.: Ping/State 'playing'
+[02:48:18] pL. null' Cloud9: ai dps eu fiquei parado
+[02:48:21] pL. null' Cloud9: fui usar
+[02:48:24] pL. null' Cloud9: deu mesmo erro
+[02:48:28] Sagos: aconteceu cmg tbm
+[02:48:35] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:48:42] pL. null' Cloud9: agr foi
+[02:48:43] Item Cancelado para ser usado, você se moveu!
+[02:48:44] pL. null' Cloud9: wtf
+[02:48:45] pL. null' Cloud9: kksd
+[02:48:46] Paulo Henrique: eu acho
+[02:48:48] Paulo Henrique: q eu sei um bug
+[02:48:48] Paulo Henrique: kk
+[02:48:50] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:48:52] Paulo Henrique: de verdade
+[02:48:53] Paulo Henrique: qr ve
+[02:48:58] Paulo Henrique: a nao
+[02:48:58] Item Cancelado para ser usado, você se moveu!
+[02:49:00] Paulo Henrique: ele vai corrigir dps
+[02:49:01] Paulo Henrique: q eu adicionar
+[02:49:02] Paulo Henrique: pra droapr
+[02:49:05] Sagos: paulo
+[02:49:14] Paulo Henrique: oi
+[02:49:18] U.S.G.N.: Ping/State 'playing'
+[02:49:20] Sagos: assim q o cara andar é melhor mostra a
+[02:49:21] pL. null' Cloud9 killed Sagos with Knife
+[02:49:21] k¦pL. null' Cloud9¦100¦0
+[02:49:21] Sagos: msg
+[02:49:23] pL. null' Cloud9 killed Paulo Henrique with Knife
+[02:49:29] pL. null' Cloud9: s
+[02:49:32] Sagos: ta mostrando só dps dos 8 seg
+[02:49:32] pL. null' Cloud9: de imediato
+[02:49:34] Paulo Henrique: mais nao da
+[02:49:36] Paulo Henrique: pq e no timer
+[02:49:36] Paulo Henrique: isso
+[02:49:40] Sagos: da s '-'
+[02:49:46] Sagos: coloca no movetile
+[02:49:52] pL. null' Cloud9: s
+[02:49:54] pL. null' Cloud9: kkk
+[02:49:57] pL. null' Cloud9: pensei nisso tbm
+[02:49:58] pL. null' Cloud9: asdk
+[02:50:19] U.S.G.N.: Ping/State 'playing'
+[02:50:22] Paulo Henrique: entao eu vou ter q cria
+[02:50:23] Paulo Henrique: mais um avaraivel
+[02:50:26] Paulo Henrique: pra sabe q eu ativei o timer
+[02:50:38] Sagos: e achei outro erro
+[02:50:38] pL. null' Cloud9: Usei agr vou andar e usar
+[02:50:41] Paulo Henrique: aonde
+[02:50:50] Sagos: quando eu tento usar a cura de 75% fala
+[02:50:55] Sagos: q tem q espera 8 seg
+[02:50:58] pL. null' Cloud9: ss
+[02:50:58] Sagos: e é 6 seg
+[02:50:58] pL. null' Cloud9: jkasd
+[02:51:04] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:51:12] Item Cancelado para ser usado, você se moveu!
+[02:51:14] pL. null' Cloud9: Deu erro de Iten cancelado
+[02:51:14] Paulo Henrique: ata ja sei pq
+[02:51:17] Sagos: e ta falando 100%
+[02:51:19] U.S.G.N.: Ping/State 'playing'
+[02:51:20] pL. null' Cloud9: e eu parado
+[02:51:21] Sagos: e é 75% ahusuhas
+[02:51:24] pL. null' Cloud9: S
+[02:51:32] pL. null' Cloud9: ta td mesma coisa a msg do de 100
+[02:51:36] Sagos: ss
+[02:51:41] Paulo Henrique: s eu ja sei pq
+[02:51:46] pL. null' Cloud9: e da pra usar os 2 de uma vez 
+[02:51:48] pL. null' Cloud9: kkkk
+[02:51:59] Paulo Henrique: arrumei
+[02:52:00] Paulo Henrique: tbm
+[02:52:01] Paulo Henrique: agora
+[02:52:02] Paulo Henrique: dx eu ver agora
+[02:52:06] pL. null' Cloud9 killed Sagos with Knife
+[02:52:06] k¦pL. null' Cloud9¦100¦0
+[02:52:09] pL. null' Cloud9 killed Paulo Henrique with Knife
+[02:52:20] U.S.G.N.: Ping/State 'playing'
+[02:52:34] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:52:42] Item Cancelado para ser usado, você se moveu!
+[02:52:45] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:52:53] Item Cancelado para ser usado, você se moveu!
+[02:52:57] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:53:05] Item Cancelado para ser usado, você se moveu!
+[02:53:12] Sagos: vc colocou a hook move
+[02:53:16] Sagos: movetile era melhor
+[02:53:20] U.S.G.N.: Ping/State 'playing'
+[02:53:25] Paulo Henrique: movetile?
+[02:53:28] Sagos: s
+[02:53:51] Sagos: existe 2 tipo de X e Y nesse jogo
+[02:53:55] Sagos: por tile e por pixel
+[02:54:01] Sagos: a hook move é por pixel
+[02:54:17] pL. null' Cloud9: o movetile e por tile aksdkas
+[02:54:21] U.S.G.N.: Ping/State 'playing'
+[02:54:21] Sagos: kkk
+[02:54:23] pL. null' Cloud9: ai cada tile e um passo
+[02:54:27] Sagos: s
+[02:54:40] Sagos: a hook move pode da lag
+[02:54:40] pL. null' Cloud9: Eu já fiz um script pra movetile
+[02:54:46] pL. null' Cloud9: pra antihack
+[02:54:46] pL. null' Cloud9: kask
+[02:54:49] Sagos: eu tbm
+[02:54:50] pL. null' Cloud9: antispeed
+[02:54:50] pL. null' Cloud9: kasd
+[02:55:00] Sagos: se o cara andar 8 tile em 1 seg 
+[02:55:02] Sagos: é speed
+[02:55:07] pL. null' Cloud9: O meu fico com em 2seg 10 tile
+[02:55:09] pL. null' Cloud9: '.'
+[02:55:15] Sagos: kk
+[02:55:21] Sagos: tem que compensa um pouco
+[02:55:21] U.S.G.N.: Ping/State 'playing'
+[02:55:35] Sagos: pq as vezes um cara lagado anda isso
+[02:55:39] Sagos: acaba se teleportando
+[02:55:42] Sagos: mas n é hack
+[02:55:45] pL. null' Cloud9: S
+[02:55:47] pL. null' Cloud9: tem um server
+[02:55:50] pL. null' Cloud9: com script assim
+[02:55:51] Paulo Henrique: vamo testa
+[02:55:53] pL. null' Cloud9: kkkk
+[02:56:03] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:56:03] "  (1x)
+[02:56:05] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[02:56:06] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:56:06] "  (1x)
+[02:56:07] load map 'awp_gray'
+[02:56:07] ----- Server joined -----
+[02:56:07] Conta Conectada com Sucesso!
+[02:56:07] Bem vindo Sagos.
+[02:56:07] U.S.G.N.: Ping/State 'playing'
+[02:56:09] pL. null' Cloud9 juntou-se a Terrorista Forças
+[02:56:11] Sagos juntou-se a Countra-Terrorista Forças
+[02:56:13] Paulo Henrique: deu 2 milhoes de erro
+[02:56:14] Paulo Henrique: no console
+[02:56:15] Paulo Henrique: kkkkkkkkk
+[02:56:16] Paulo Henrique: pera
+[02:56:18] Sagos: kkkkkkkkkk
+[02:56:19] pL. null' Cloud9: sdsal
+[02:56:21] Sagos: ja volto ent
+[02:56:24] Sagos: vou fazer o avião
+[02:56:27] Sagos: dps chama steam
+[02:56:28] Sagos deixou o jogo
+[02:56:28] Disconnect Reason: Client request (Code 0)
+[02:56:28] ----- Disconnected -----
+[02:56:29] U.S.G.N.: Ping/State 'idle' (288 ms)
+[02:57:29] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:58:19] U.S.G.N.: Received serverlist (servers: 135)
+[02:58:22] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[02:58:22] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:58:22] "  (1x)
+[02:58:23] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[02:58:24] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:58:24] "  (1x)
+[02:58:24] load map 'awp_gray'
+[02:58:24] ----- Server joined -----
+[02:58:24] Conta Conectada com Sucesso!
+[02:58:24] Bem vindo Sagos.
+[02:58:25] U.S.G.N.: Ping/State 'playing'
+[02:58:25] Paulo Henrique: nao
+[02:58:26] Sagos juntou-se a Countra-Terrorista Forças
+[02:58:27] Paulo Henrique: vou botar dps
+[02:58:29] pL. null' Cloud9: Mds
+[02:58:32] pL. null' Cloud9: ok
+[02:58:35] Sagos: test
+[02:58:35] items equipados no seu inventario
+[02:58:36] pL. null' Cloud9: test
+[02:58:39] pL. null' Cloud9: me bate
+[02:58:39] Espere 6 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:58:42] Item Cancelado para ser usado,você se moveu!
+[02:58:47] Sagos: ainda ta falando 100%
+[02:58:51] Sagos: é 75%
+[02:58:55] Espere 6 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:58:56] Item Cancelado para ser usado,você se moveu!
+[02:58:58] Espere 6 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:59:01] Item equipado com sucesso...
+[02:59:04] "  (1x)
+[02:59:06] pL. null' Cloud9: Hm
+[02:59:09] Paulo Henrique: ata
+[02:59:09] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:59:11] pL. null' Cloud9: apareceu rapidamente
+[02:59:15] pL. null' Cloud9: AGR S
+[02:59:17] Item equipado com sucesso...
+[02:59:20] Paulo Henrique: ata
+[02:59:21] pL. null' Cloud9: ta bonito
+[02:59:23] Paulo Henrique: eu esqueci
+[02:59:24] Paulo Henrique: de botr
+[02:59:25] Espere 6 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[02:59:25] U.S.G.N.: Ping/State 'playing'
+[02:59:26] Paulo Henrique: a varaivel na msg
+[02:59:26] Paulo Henrique: pera
+[02:59:31] Item equipado com sucesso...
+[02:59:41] U.S.G.N.: Ping/State 'idle' (272 ms)
+[02:59:41] "  (1x)
+[02:59:44] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[02:59:44] U.S.G.N.: Ping/State 'idle' (256 ms)
+[02:59:44] "  (1x)
+[02:59:45] load map 'awp_gray'
+[02:59:45] ----- Server joined -----
+[02:59:45] Conta Conectada com Sucesso!
+[02:59:45] Bem vindo Sagos.
+[02:59:46] U.S.G.N.: Ping/State 'playing'
+[02:59:47] pL. null' Cloud9 juntou-se a Terrorista Forças
+[02:59:47] Sagos juntou-se a Countra-Terrorista Forças
+[02:59:55] Paulo Henrique: pronto
+[02:59:55] pL. null' Cloud9: Tinha q ter um delay pra poder usar
+[02:59:57] pL. null' Cloud9: os 2
+[02:59:58] pL. null' Cloud9: :c
+[03:00:05] Sagos: test
+[03:00:05] items equipados no seu inventario
+[03:00:05] pL. null' Cloud9: test
+[03:00:09] Espere 6 segundos para usar Kit Medico | Cura 75% do HP, não se mecha.
+[03:00:15] Item equipado com sucesso...
+[03:00:41] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[03:00:44] pL. null' Cloud9: Hm
+[03:00:46] U.S.G.N.: Ping/State 'playing'
+[03:00:49] Item equipado com sucesso...
+[03:00:53] pL. null' Cloud9: Tá bom
+[03:00:54] Sagos: o tempo ta certo
+[03:00:58] Sagos: me atk dnv
+[03:01:01] pL. null' Cloud9: agr
+[03:01:04] Paulo Henrique: eu nao fiz 
+[03:01:04] pL. null' Cloud9: e
+[03:01:04] Paulo Henrique: ainda
+[03:01:06] Paulo Henrique: o 75
+[03:01:06] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[03:01:06] Item Cancelado para ser usado,você se moveu!
+[03:01:09] pL. null' Cloud9: so colocar o delay
+[03:01:12] pL. null' Cloud9: de uso
+[03:01:16] Paulo Henrique: q delay carai
+[03:01:17] Paulo Henrique: vai dropa
+[03:01:17] Sagos: só falta fazer pra ele n usar o item se
+[03:01:24] Sagos: o cara estiver com 75% de vida
+[03:01:24] pL. null' Cloud9: isso
+[03:01:29] pL. null' Cloud9: mn
+[03:01:30] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[03:01:30] Item Cancelado para ser usado,você se moveu!
+[03:01:32] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[03:01:34] "  (1x)
+[03:01:35] "  (1x)
+[03:01:36] pL. null' Cloud9: Vai ficar usando td
+[03:01:36] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[03:01:38] pL. null' Cloud9: de uma vez?
+[03:01:38] Item equipado com sucesso...
+[03:01:40] "  (1x)
+[03:01:42] "  (1x)
+[03:01:43] Paulo Henrique: ue s
+[03:01:43] Item equipado com sucesso...
+[03:01:44] "  (1x)
+[03:01:46] Paulo Henrique: os item e dele msm
+[03:01:47] U.S.G.N.: Ping/State 'playing'
+[03:01:48] pL. null' Cloud9: um cara no desispero
+[03:01:54] pL. null' Cloud9: sai clickando
+[03:01:58] pL. null' Cloud9: vai aparecendo msg
+[03:01:59] pL. null' Cloud9: e laga
+[03:02:02] Sagos: eu cliquei 2 vezes rapido
+[03:02:08] Sagos: e usou 2 kit
+[03:02:09] pL. null' Cloud9: s
+[03:02:11] Sagos: n pode isso '-'
+[03:02:13] pL. null' Cloud9: e o q eu to falando
+[03:02:16] Paulo Henrique: e claro porra
+[03:02:17] Paulo Henrique: nao dropo
+[03:02:21] Paulo Henrique: qd dropa nao da ne
+[03:02:31] Paulo Henrique: voufazer o drop
+[03:02:47] U.S.G.N.: Ping/State 'playing'
+[03:02:47] Sagos: mas e se o cara estiver com 
+[03:02:52] Sagos: 4 kit na mochila?
+[03:02:55] Paulo Henrique: msm coisa
+[03:02:57] pL. null' Cloud9: '-'
+[03:03:01] pL. null' Cloud9: sei n e
+[03:03:03] pL. null' Cloud9: m
+[03:03:08] Sagos: vms ver como vai fica
+[03:03:10] Paulo Henrique: nao da
+[03:03:12] Paulo Henrique: e por variavel
+[03:03:14] Paulo Henrique: se nao existi
+[03:03:17] Paulo Henrique: ele nao vai
+[03:03:22] Paulo Henrique: tem verificaçao po
+[03:03:24] Sagos: só n pode usa tds ao msm tempo
+[03:03:33] Sagos: tem q ser 1 de kd vez
+[03:03:37] Paulo Henrique: sim
+[03:03:47] U.S.G.N.: Ping/State 'playing'
+[03:03:55] Espere 6 segundos para usar Kit Medico | Cura 75% do HP, não se mecha.
+[03:03:58] Item Cancelado para ser usado,você se moveu!
+[03:04:06] pL. null' Cloud9 killed Sagos with Knife
+[03:04:06] k¦pL. null' Cloud9¦100¦0
+[03:04:09] pL. null' Cloud9: uai
+[03:04:10] pL. null' Cloud9: ?
+[03:04:13] pL. null' Cloud9 killed Paulo Henrique with Knife
+[03:04:15] Sagos: eu tinha andado
+[03:04:15] pL. null' Cloud9: Osh
+[03:04:18] Paulo Henrique: pronto
+[03:04:18] Sagos: to tentando buga
+[03:04:19] Paulo Henrique: vamo testa
+[03:04:29] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:04:29] "  (1x)
+[03:04:32] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[03:04:32] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:04:32] "  (1x)
+[03:04:32] load map 'awp_gray'
+[03:04:32] ----- Server joined -----
+[03:04:32] Conta Conectada com Sucesso!
+[03:04:32] Bem vindo Sagos.
+[03:04:33] U.S.G.N.: Ping/State 'playing'
+[03:04:35] Sagos juntou-se a Countra-Terrorista Forças
+[03:04:35] Sagos juntou-se a Terrorista Forças
+[03:04:35] * Auto Teambalance *
+[03:04:36] Paulo Henrique: ta funfnado ja
+[03:04:38] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[03:04:41] pL. null' Cloud9: eu buguei sagos
+[03:04:44] Sagos: me atk acho q achei um bug
+[03:04:44] Paulo Henrique: pera
+[03:04:49] pL. null' Cloud9: eu usei 1 ai eu dei uma andada
+[03:04:54] pL. null' Cloud9: ai eu parei e rapidamente
+[03:04:56] pL. null' Cloud9: usei mais 2
+[03:04:56] Sagos: dx eu testa
+[03:04:57] pL. null' Cloud9: 1
+[03:05:03] Sagos: me atk
+[03:05:07] pL. null' Cloud9: ai usou 2 de uma vez mesmo q n taa
+[03:05:10] pL. null' Cloud9: tava
+[03:05:14] Sagos: test
+[03:05:14] items equipados no seu inventario
+[03:05:16] Espere 8 segundos para usar Kit Medico | Cura 100% do HP, não se mecha.
+[03:05:16] pL. null' Cloud9: test
+[03:05:17] Espere 6 segundos para usar Kit Medico | Cura 75% do HP, não se mecha.
+[03:05:18] Item Cancelado para ser usado,você se moveu!
+[03:05:29] pL. null' Cloud9: Ala
+[03:05:30] pL. null' Cloud9: kkkkkkkkk
+[03:05:33] U.S.G.N.: Ping/State 'playing'
+[03:05:34] pL. null' Cloud9: Faz assim
+[03:05:35] Paulo Henrique: test
+[03:05:37] Espere 6 segundos para usar Kit Medico | Cura 75% do HP, não se mecha.
+[03:05:37] pL. null' Cloud9: usa
+[03:05:38] Espere 6 segundos para usar Kit Medico | Cura 75% do HP, não se mecha.
+[03:05:38] pL. null' Cloud9: anda
+[03:05:39] Item Cancelado para ser usado,você se moveu!
+[03:05:42] pL. null' Cloud9: usa e fica parado
+[03:05:44] pL. null' Cloud9: kkkkk
+[03:05:47] Paulo Henrique: test
+[03:05:53] pL. null' Cloud9: usa 2 de uma vez só
+[03:05:54] Espere 6 segundos para usar Kit Medico | Cura 75% do HP, não se mecha.
+[03:05:54] Item Cancelado para ser usado,você se moveu!
+[03:05:55] Espere 6 segundos para usar Kit Medico | Cura 75% do HP, não se mecha.
+[03:06:00] Item equipado com sucesso...
+[03:06:01] "  (1x)
+[03:06:03] Sagos: kkk vdd
+[03:06:11] Paulo Henrique: ue pq ele
+[03:06:13] Paulo Henrique: tira 
+[03:06:14] Paulo Henrique: do inventario
+[03:06:18] Sagos: vc n entendeu
+[03:06:18] Paulo Henrique: e noa da pra usar mais
+[03:06:24] Sagos: se o cara usa
+[03:06:25] Sagos: anda
+[03:06:26] Sagos: e usa
+[03:06:30] Sagos: ele usa 2 kit
+[03:06:34] U.S.G.N.: Ping/State 'playing'
+[03:06:36] Sagos: tendeu?
+[03:06:38] pL. null' Cloud9: Tipo usei
+[03:06:39] pL. null' Cloud9: andei
+[03:06:43] pL. null' Cloud9: parei usei
+[03:06:48] pL. null' Cloud9: ai usa oq foi cancelado
+[03:06:51] pL. null' Cloud9: mais oq n foi
+[03:06:57] Paulo Henrique: test
+[03:07:20] pL. null' Cloud9: e o de 75% n tá funfando
+[03:07:22] pL. null' Cloud9: kk
+[03:07:30] Sagos: meu teclado tem macro e.e
+[03:07:34] U.S.G.N.: Ping/State 'playing'
+[03:07:35] pL. null' Cloud9: Meu n
+[03:07:36] pL. null' Cloud9: kasdk
+[03:07:37] Sagos: n to apertando nada
+[03:08:35] U.S.G.N.: Ping/State 'playing'
+[03:08:40] pL. null' Cloud9: Coloquei o space
+[03:08:40] pL. null' Cloud9: lds
+[03:08:44] pL. null' Cloud9: bind
+[03:08:52] pL. null' Cloud9: Vou colocar
+[03:08:58] pL. null' Cloud9: de relative moviment
+[03:09:02] pL. null' Cloud9: skill do fred
+[03:09:13] pL. null' Cloud9: ai
+[03:09:30] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:09:30] "  (1x)
+[03:09:33] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[03:09:33] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:09:33] "  (1x)
+[03:09:34] load map 'awp_gray'
+[03:09:34] ----- Server joined -----
+[03:09:34] Conta Conectada com Sucesso!
+[03:09:34] Bem vindo Sagos.
+[03:09:35] U.S.G.N.: Ping/State 'playing'
+[03:09:37] pL. null' Cloud9 juntou-se a Terrorista Forças
+[03:09:38] Sagos juntou-se a Countra-Terrorista Forças
+[03:09:49] pL. null' Cloud9: Coloca bind ai
+[03:09:52] pL. null' Cloud9: pra tu v
+[03:09:55] pL. null' Cloud9: q bizarro q e
+[03:09:57] Sagos: qual bind?
+[03:10:04] pL. null' Cloud9: bind space relativemoviment
+[03:10:13] pL. null' Cloud9: Fred usa isso na skill dele
+[03:10:31] Sagos: slk kkkkkkkkk
+[03:10:36] U.S.G.N.: Ping/State 'playing'
+[03:10:40] pL. null' Cloud9: Eu ja aprendi mais ou menos
+[03:10:41] pL. null' Cloud9: kadksa
+[03:10:58] Sagos: mt ruim
+[03:11:08] pL. null' Cloud9: Ja viu o ryan joga ?
+[03:11:11] pL. null' Cloud9: vc tem q da 2 click
+[03:11:12] pL. null' Cloud9: kkasd
+[03:11:14] pL. null' Cloud9: rapido
+[03:11:18] pL. null' Cloud9: tipo
+[03:11:36] U.S.G.N.: Ping/State 'playing'
+[03:11:36] Sagos: da pra joga assim n
+[03:11:39] pL. null' Cloud9: da
+[03:11:41] pL. null' Cloud9: eu jogava
+[03:12:01] Sagos: desde 2009 jogando normal
+[03:12:05] Sagos: quando muda acha estranho
+[03:12:13] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:12:13] "  (1x)
+[03:12:16] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[03:12:16] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:12:16] "  (1x)
+[03:12:17] load map 'awp_gray'
+[03:12:17] ----- Server joined -----
+[03:12:17] Conta Conectada com Sucesso!
+[03:12:17] Bem vindo Sagos.
+[03:12:18] U.S.G.N.: Ping/State 'playing'
+[03:12:19] pL. null' Cloud9 juntou-se a Terrorista Forças
+[03:12:22] Sagos juntou-se a Countra-Terrorista Forças
+[03:12:28] pL. null' Cloud9: no começo eu achei estraho tbm
+[03:12:29] pL. null' Cloud9: ksda
+[03:13:18] U.S.G.N.: Ping/State 'playing'
+[03:13:21] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:13:21] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:13:24] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[03:13:24] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:13:24] "  (1x)
+[03:13:26] load map 'awp_gray'
+[03:13:26] ----- Server joined -----
+[03:13:26] U.S.G.N.: Ping/State 'playing'
+[03:13:28] Sagos juntou-se a Countra-Terrorista Forças
+[03:13:28] Sagos juntou-se a Terrorista Forças
+[03:13:28] * Auto Teambalance *
+[03:13:28] pL. null' Cloud9 juntou-se a Terrorista Forças
+[03:13:39] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:13:39] "  (1x)
+[03:13:42] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[03:13:42] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:13:42] "  (1x)
+[03:13:44] load map 'awp_Gray'
+[03:13:44] ----- Server joined -----
+[03:13:44] Conta Conectada com Sucesso!
+[03:13:44] Bem vindo Sagos.
+[03:13:44] U.S.G.N.: Ping/State 'playing'
+[03:13:45] Sagos juntou-se a Countra-Terrorista Forças
+[03:13:45] Sagos juntou-se a Terrorista Forças
+[03:13:45] * Auto Teambalance *
+[03:13:48] pL. null' Cloud9: Varioserro
+[03:13:50] pL. null' Cloud9 juntou-se a Terrorista Forças
+[03:14:35] pL. null' Cloud9: Geral queria essa bind
+[03:14:36] pL. null' Cloud9: kasdk
+[03:14:40] pL. null' Cloud9: agr só vc sabe
+[03:14:44] pL. null' Cloud9: e o ryan
+[03:14:45] U.S.G.N.: Ping/State 'playing'
+[03:14:54] Sagos: eu n gostei '-'
+[03:14:59] pL. null' Cloud9: E bizarra
+[03:15:15] Paulo Henrique: mano cheguei no ponto
+[03:15:17] Paulo Henrique: q nem eu entendo
+[03:15:18] Paulo Henrique: meu codigo
+[03:15:19] Paulo Henrique: kkkkkkkkkkkk
+[03:15:23] Sagos: kkkkkkkkk
+[03:15:32] Paulo Henrique: pera
+[03:15:38] Sagos: esse ponto é critico
+[03:15:40] Paulo Henrique: eu sei oq ta acontecendo
+[03:15:45] U.S.G.N.: Ping/State 'playing'
+[03:15:48] Paulo Henrique: mais nao sei resolver
+[03:15:50] Paulo Henrique: vo tenta
+[03:15:51] Sagos: eu vou fazer o avião
+[03:15:54] Paulo Henrique: blz
+[03:15:54] Sagos: ;-;
+[03:15:56] Sagos: ja volto
+[03:15:57] Sagos deixou o jogo
+[03:15:57] Disconnect Reason: Client request (Code 0)
+[03:15:57] ----- Disconnected -----
+[03:15:57] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:16:58] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:17:16] starting server...
+[03:17:16] load map 'Battle Royale'
+[03:17:16] ----- Server started -----
+[03:17:16] Lua: Adding function 'falar' to hook 'say'
+[03:17:17] Sagos juntou-se a Countra-Terrorista Forças
+[03:17:17] U.S.G.N.: Server added to serverlist
+[03:17:17] U.S.G.N.: Ping/State 'playing'
+[03:17:22] Servidor Desligado
+[03:17:22] U.S.G.N.: Server removed from serverlist
+[03:17:22] ----- Disconnected -----
+[03:17:23] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:18:24] U.S.G.N.: Ping/State 'idle' (544 ms)
+[03:19:24] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:20:25] "  (1x)
+[03:21:25] "  (1x)
+[03:22:26] "  (1x)
+[03:23:27] "  (1x)
+[03:24:27] U.S.G.N.: Ping/State 'idle' (608 ms)
+[03:25:28] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:26:28] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:27:29] "  (1x)
+[03:28:23] starting server...
+[03:28:23] load map 'Battle Royale'
+[03:28:23] ----- Server started -----
+[03:28:23] Lua: Adding function 'falar' to hook 'say'
+[03:28:23] Lua: Adding function 'segundos' to hook 'second'
+[03:28:24] U.S.G.N.: Server added to serverlist
+[03:28:24] U.S.G.N.: Ping/State 'playing'
+[03:28:25] Sagos juntou-se a Countra-Terrorista Forças
+[03:28:33] Sagos: !ativar
+[03:29:10] U.S.G.N.: Serverlist entry updated
+[03:29:10] Sagos: !inicia
+[03:29:10] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â30 Âsegundos
+[03:29:11] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â29 Âsegundos
+[03:29:12] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â28 Âsegundos
+[03:29:13] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â27 Âsegundos
+[03:29:14] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â26 Âsegundos
+[03:29:15] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â25 Âsegundos
+[03:29:16] Servidor Desligado
+[03:29:17] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â24 Âsegundos
+[03:29:17] U.S.G.N.: Server removed from serverlist
+[03:29:17] ----- Disconnected -----
+[03:29:18] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:30:10] starting server...
+[03:30:10] load map 'Battle Royale'
+[03:30:10] ----- Server started -----
+[03:30:10] Lua: Adding function 'falar' to hook 'say'
+[03:30:10] Lua: Adding function 'segundos' to hook 'second'
+[03:30:10] U.S.G.N.: Server added to serverlist
+[03:30:10] U.S.G.N.: Ping/State 'playing'
+[03:30:11] Sagos juntou-se a Countra-Terrorista Forças
+[03:30:14] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â30 Âsegundos
+[03:30:15] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â29 Âsegundos
+[03:30:16] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â28 Âsegundos
+[03:30:17] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â27 Âsegundos
+[03:30:18] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â26 Âsegundos
+[03:30:19] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â25 Âsegundos
+[03:30:20] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â24 Âsegundos
+[03:30:21] Servidor Desligado
+[03:30:21] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â23 Âsegundos
+[03:30:22] U.S.G.N.: Server removed from serverlist
+[03:30:22] ----- Disconnected -----
+[03:30:22] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:31:23] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:31:58] starting server...
+[03:31:58] load map 'Battle Royale'
+[03:31:58] ----- Server started -----
+[03:31:58] Lua: Adding function 'falar' to hook 'say'
+[03:31:58] Lua: Adding function 'segundos' to hook 'second'
+[03:31:58] U.S.G.N.: Server added to serverlist
+[03:31:58] U.S.G.N.: Ping/State 'playing'
+[03:32:00] Sagos juntou-se a Countra-Terrorista Forças
+[03:32:04] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â30 Âsegundos
+[03:32:05] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â29 Âsegundos
+[03:32:06] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â28 Âsegundos
+[03:32:07] Servidor Desligado
+[03:32:07] ÂO jogo irÃ¡ comeÃ§ar dentro de: Â27 Âsegundos
+[03:32:08] U.S.G.N.: Server removed from serverlist
+[03:32:08] ----- Disconnected -----
+[03:32:09] U.S.G.N.: Ping/State 'idle' (960 ms)
+[03:33:09] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:33:55] starting server...
+[03:33:55] load map 'Battle Royale'
+[03:33:55] ----- Server started -----
+[03:33:55] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: unexpected symbol near 'ï'
+[03:33:55] U.S.G.N.: Ping/State 'playing'
+[03:33:55] U.S.G.N.: Server added to serverlist
+[03:33:56] Sagos juntou-se a Countra-Terrorista Forças
+[03:33:59] Sagos: !incia
+[03:34:04] Sagos: !inicia
+[03:34:11] Servidor Desligado
+[03:34:11] U.S.G.N.: Server removed from serverlist
+[03:34:11] ----- Disconnected -----
+[03:34:12] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:35:13] "  (1x)
+[03:35:44] starting server...
+[03:35:44] load map 'Battle Royale'
+[03:35:44] ----- Server started -----
+[03:35:44] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: unexpected symbol near 'ï'
+[03:35:44] Sagos juntou-se a Countra-Terrorista Forças
+[03:35:45] U.S.G.N.: Server added to serverlist
+[03:35:45] U.S.G.N.: Ping/State 'playing'
+[03:35:48] Servidor Desligado
+[03:35:50] U.S.G.N.: Server removed from serverlist
+[03:35:50] ----- Disconnected -----
+[03:35:51] U.S.G.N.: Ping/State 'idle' (706 ms)
+[03:36:51] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:37:31] starting server...
+[03:37:31] load map 'Battle Royale'
+[03:37:31] ----- Server started -----
+[03:37:31] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: unexpected symbol near 'ï'
+[03:37:31] Sagos juntou-se a Countra-Terrorista Forças
+[03:37:31] U.S.G.N.: Server added to serverlist
+[03:37:31] U.S.G.N.: Ping/State 'playing'
+[03:37:45] Servidor Desligado
+[03:37:46] U.S.G.N.: Server removed from serverlist
+[03:37:46] ----- Disconnected -----
+[03:37:47] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:38:10] starting server...
+[03:38:10] load map 'Battle Royale'
+[03:38:10] ----- Server started -----
+[03:38:10] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: unexpected symbol near 'ï'
+[03:38:11] Sagos juntou-se a Countra-Terrorista Forças
+[03:38:12] U.S.G.N.: Server added to serverlist
+[03:38:12] U.S.G.N.: Ping/State 'playing'
+[03:38:15] Servidor Desligado
+[03:38:16] U.S.G.N.: Server removed from serverlist
+[03:38:16] ----- Disconnected -----
+[03:38:17] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:38:24] starting server...
+[03:38:24] load map 'Battle Royale'
+[03:38:24] ----- Server started -----
+[03:38:24] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: unexpected symbol near 'ï'
+[03:38:25] Sagos juntou-se a Countra-Terrorista Forças
+[03:38:25] U.S.G.N.: Ping/State 'playing'
+[03:38:25] U.S.G.N.: Server added to serverlist
+[03:38:28] Servidor Desligado
+[03:38:29] U.S.G.N.: Server removed from serverlist
+[03:38:29] ----- Disconnected -----
+[03:38:30] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:39:25] starting server...
+[03:39:25] load map 'Battle Royale'
+[03:39:25] ----- Server started -----
+[03:39:25] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1: unexpected symbol near 'ï'
+[03:39:26] U.S.G.N.: Server added to serverlist
+[03:39:26] U.S.G.N.: Ping/State 'playing'
+[03:39:27] Sagos juntou-se a Countra-Terrorista Forças
+[03:39:28] Servidor Desligado
+[03:39:29] U.S.G.N.: Server removed from serverlist
+[03:39:29] ----- Disconnected -----
+[03:39:29] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:39:48] starting server...
+[03:39:48] load map 'Battle Royale'
+[03:39:49] ----- Server started -----
+[03:39:49] merda
+[03:39:50] U.S.G.N.: Ping/State 'playing'
+[03:39:50] U.S.G.N.: Server added to serverlist
+[03:39:51] Servidor Desligado
+[03:39:52] U.S.G.N.: Server removed from serverlist
+[03:39:52] ----- Disconnected -----
+[03:39:53] U.S.G.N.: Ping/State 'idle' (288 ms)
+[03:40:31] starting server...
+[03:40:31] load map 'Battle Royale'
+[03:40:31] ----- Server started -----
+[03:40:31] merda
+[03:40:31] editando aqui
+[03:40:32] U.S.G.N.: Server added to serverlist
+[03:40:32] U.S.G.N.: Ping/State 'playing'
+[03:40:33] Servidor Desligado
+[03:40:34] U.S.G.N.: Server removed from serverlist
+[03:40:34] ----- Disconnected -----
+[03:40:35] U.S.G.N.: Ping/State 'idle' (314 ms)
+[03:40:43] starting server...
+[03:40:43] load map 'Battle Royale'
+[03:40:43] ----- Server started -----
+[03:40:43] LUA ERROR: sys/lua/SagosWins/Dificil.lua:25: unfinished long comment near '<eof>'
+[03:40:43] U.S.G.N.: Ping/State 'playing'
+[03:40:43] U.S.G.N.: Server added to serverlist
+[03:40:44] Sagos juntou-se a Countra-Terrorista Forças
+[03:40:49] Servidor Desligado
+[03:40:50] U.S.G.N.: Server removed from serverlist
+[03:40:50] ----- Disconnected -----
+[03:40:51] U.S.G.N.: Ping/State 'idle' (304 ms)
+[03:40:56] U.S.G.N.: Received serverlist (servers: 124)
+[03:40:58] starting server...
+[03:40:58] load map 'Battle Royale'
+[03:40:58] ----- Server started -----
+[03:40:58] Lua: Adding function 'falar' to hook 'say'
+[03:40:58] Lua: Adding function 'segundos' to hook 'second'
+[03:40:59] U.S.G.N.: Server added to serverlist
+[03:40:59] U.S.G.N.: Ping/State 'playing'
+[03:40:59] Sagos juntou-se a Countra-Terrorista Forças
+[03:41:02] O jogo irá começar dentro de: 30 segundos
+[03:41:03] O jogo irá começar dentro de: 29 segundos
+[03:41:04] O jogo irá começar dentro de: 28 segundos
+[03:41:05] O jogo irá começar dentro de: 27 segundos
+[03:41:06] O jogo irá começar dentro de: 26 segundos
+[03:41:07] O jogo irá começar dentro de: 25 segundos
+[03:41:08] O jogo irá começar dentro de: 24 segundos
+[03:41:09] O jogo irá começar dentro de: 23 segundos
+[03:41:10] O jogo irá começar dentro de: 22 segundos
+[03:41:11] O jogo irá começar dentro de: 21 segundos
+[03:41:13] O jogo irá começar dentro de: 20 segundos
+[03:41:14] O jogo irá começar dentro de: 19 segundos
+[03:41:15] O jogo irá começar dentro de: 18 segundos
+[03:41:16] O jogo irá começar dentro de: 17 segundos
+[03:41:17] O jogo irá começar dentro de: 16 segundos
+[03:41:18] O jogo irá começar dentro de: 15 segundos
+[03:41:19] O jogo irá começar dentro de: 14 segundos
+[03:41:20] O jogo irá começar dentro de: 13 segundos
+[03:41:21] O jogo irá começar dentro de: 12 segundos
+[03:41:22] O jogo irá começar dentro de: 11 segundos
+[03:41:23] O jogo irá começar dentro de: 10 segundos
+[03:41:24] O jogo irá começar dentro de: 9 segundos
+[03:41:25] O jogo irá começar dentro de: 8 segundos
+[03:41:26] O jogo irá começar dentro de: 7 segundos
+[03:41:27] O jogo irá começar dentro de: 6 segundos
+[03:41:28] O jogo irá começar dentro de: 5 segundos
+[03:41:29] O jogo irá começar dentro de: 4 segundos
+[03:41:30] O jogo irá começar dentro de: 3 segundos
+[03:41:31] O jogo irá começar dentro de: 2 segundos
+[03:41:32] O jogo irá começar dentro de: 1 segundos
+[03:41:33] O jogo irá começar dentro de: 0 segundos
+[03:41:40] Servidor Desligado
+[03:41:41] U.S.G.N.: Server removed from serverlist
+[03:41:41] ----- Disconnected -----
+[03:41:42] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:42:16] starting server...
+[03:42:16] load map 'Battle Royale'
+[03:42:16] ----- Server started -----
+[03:42:16] Lua: Adding function 'falar' to hook 'say'
+[03:42:16] Lua: Adding function 'segundos' to hook 'second'
+[03:42:17] Sagos juntou-se a Countra-Terrorista Forças
+[03:42:17] U.S.G.N.: Server added to serverlist
+[03:42:17] U.S.G.N.: Ping/State 'playing'
+[03:42:18] Servidor Desligado
+[03:42:19] U.S.G.N.: Server removed from serverlist
+[03:42:19] ----- Disconnected -----
+[03:42:20] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:42:20] M-NET: received join data from unexpected source (252, 5.121.125.160:38467)
+[03:43:20] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:44:21] "  (1x)
+[03:45:21] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:46:22] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:47:22] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:48:03] load map 'Battle Royale'
+[03:48:09] U.S.G.N.: Ping/State 'idle' (320 ms)
+[03:48:39] U.S.G.N.: Ping/State 'idle' (288 ms)
+[03:48:41] save map as 'Battle Royale'
+[03:48:44] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[03:48:45] starting server...
+[03:48:45] load map 'Battle Royale'
+[03:48:45] ----- Server started -----
+[03:48:45] Lua: Adding function 'falar' to hook 'say'
+[03:48:45] Lua: Adding function 'segundos' to hook 'second'
+[03:48:46] U.S.G.N.: Ping/State 'playing'
+[03:48:46] U.S.G.N.: Server added to serverlist
+[03:48:46] Sagos juntou-se a Countra-Terrorista Forças
+[03:48:52] Servidor Desligado
+[03:48:53] U.S.G.N.: Server removed from serverlist
+[03:48:53] ----- Disconnected -----
+[03:48:54] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:49:02] load map 'Battle Royale'
+[03:49:25] U.S.G.N.: Ping/State 'idle' (288 ms)
+[03:49:55] "  (1x)
+[03:50:11] save map as 'Battle Royale'
+[03:50:16] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[03:50:17] starting server...
+[03:50:17] load map 'Battle Royale'
+[03:50:17] ----- Server started -----
+[03:50:17] Lua: Adding function 'falar' to hook 'say'
+[03:50:17] Lua: Adding function 'segundos' to hook 'second'
+[03:50:18] U.S.G.N.: Server added to serverlist
+[03:50:18] U.S.G.N.: Ping/State 'playing'
+[03:50:18] Sagos juntou-se a Countra-Terrorista Forças
+[03:50:21] Servidor Desligado
+[03:50:22] U.S.G.N.: Server removed from serverlist
+[03:50:22] ----- Disconnected -----
+[03:50:23] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:50:29] load map 'Battle Royale'
+[03:50:53] U.S.G.N.: Ping/State 'idle' (288 ms)
+[03:51:23] "  (1x)
+[03:51:53] "  (1x)
+[03:52:23] save map as 'Battle Royale'
+[03:52:24] U.S.G.N.: Ping/State 'idle' (288 ms)
+[03:52:25] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[03:52:26] starting server...
+[03:52:26] load map 'Battle Royale'
+[03:52:26] ----- Server started -----
+[03:52:26] Lua: Adding function 'falar' to hook 'say'
+[03:52:26] Lua: Adding function 'segundos' to hook 'second'
+[03:52:27] U.S.G.N.: Ping/State 'playing'
+[03:52:27] U.S.G.N.: Server added to serverlist
+[03:52:27] Sagos juntou-se a Countra-Terrorista Forças
+[03:53:12] U.S.G.N.: Serverlist entry updated
+[03:53:27] U.S.G.N.: Ping/State 'playing'
+[03:53:51] Servidor Desligado
+[03:53:51] generating stats...
+[03:53:51] stats generated in 1 ms!
+[03:53:51] U.S.G.N.: Server removed from serverlist
+[03:53:51] ----- Disconnected -----
+[03:53:52] U.S.G.N.: Ping/State 'idle' (400 ms)
+[03:54:53] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:55:53] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:56:54] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:57:54] U.S.G.N.: Ping/State 'idle' (256 ms)
+[03:58:55] U.S.G.N.: Ping/State 'idle' (272 ms)
+[03:59:55] "  (1x)
+[04:00:56] U.S.G.N.: Ping/State 'idle' (304 ms)
+[04:01:56] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:02:57] "  (1x)
+[04:03:57] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:04:58] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:05:58] "  (1x)
+[04:06:59] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:07:59] "  (1x)
+[04:09:00] "  (1x)
+[04:10:00] "  (1x)
+[04:11:01] "  (1x)
+[04:12:01] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:12:32] starting server...
+[04:12:32] load map 'Battle Royale'
+[04:12:32] ----- Server started -----
+[04:12:32] Lua: Adding function 'falar' to hook 'say'
+[04:12:32] Lua: Adding function 'segundos' to hook 'second'
+[04:12:32] Lua: Adding function 'atacar' to hook 'attack'
+[04:12:33] U.S.G.N.: Server added to serverlist
+[04:12:33] U.S.G.N.: Ping/State 'playing'
+[04:12:35] Sagos juntou-se a Countra-Terrorista Forças
+[04:12:37] 1
+[04:12:39] "  (1x)
+[04:12:42] "  (3x)
+[04:12:43] 50
+[04:12:43] "  (1x)
+[04:12:46] ERROR: Unknown command 'equipe' (equipe 1)
+[04:12:46] Use quotation marks for parameters with blanks. e.g.: mp_unbuyable "Tactical Shield"
+[04:12:46] Visit CS2D.com/help for a command reference
+[04:12:49] ERROR: equip - item with type id  does not exist!
+[04:12:52] 1
+[04:12:53] "  (1x)
+[04:12:53] "  (1x)
+[04:12:57] 3
+[04:12:58] "  (1x)
+[04:12:58] "  (1x)
+[04:13:00] 50
+[04:13:19] U.S.G.N.: Serverlist entry updated
+[04:13:34] U.S.G.N.: Ping/State 'playing'
+[04:14:04] U.S.G.N.: Serverlist entry updated
+[04:14:30] Servidor Desligado
+[04:14:31] U.S.G.N.: Server removed from serverlist
+[04:14:31] ----- Disconnected -----
+[04:14:32] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:14:33] starting server...
+[04:14:33] load map 'Battle Royale'
+[04:14:33] ----- Server started -----
+[04:14:33] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:23: ')' expected (to close '(' at line 22) near 'end'
+[04:14:34] Sagos juntou-se a Countra-Terrorista Forças
+[04:14:34] U.S.G.N.: Server added to serverlist
+[04:14:34] U.S.G.N.: Ping/State 'playing'
+[04:14:39] Servidor Desligado
+[04:14:40] U.S.G.N.: Server removed from serverlist
+[04:14:40] ----- Disconnected -----
+[04:14:41] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:14:47] starting server...
+[04:14:47] load map 'Battle Royale'
+[04:14:47] ----- Server started -----
+[04:14:47] Lua: Adding function 'falar' to hook 'say'
+[04:14:47] Lua: Adding function 'segundos' to hook 'second'
+[04:14:47] Lua: Adding function 'atacar' to hook 'attack'
+[04:14:48] U.S.G.N.: Ping/State 'playing'
+[04:14:48] U.S.G.N.: Server added to serverlist
+[04:14:49] Sagos juntou-se a Countra-Terrorista Forças
+[04:14:50] Medikit
+[04:14:51] "  (2x)
+[04:14:55] "  (1x)
+[04:14:55] "  (1x)
+[04:14:56] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:14:56]  -> [C]: in function 'msg'
+[04:14:56]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:14:56]  -> in Lua hook 'attack', params: 1
+[04:14:56] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:14:56]  -> [C]: in function 'msg'
+[04:14:56]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:14:56]  -> in Lua hook 'attack', params: 1
+[04:14:57] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:14:57]  -> [C]: in function 'msg'
+[04:14:57]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:14:57]  -> in Lua hook 'attack', params: 1
+[04:14:58] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:14:58]  -> [C]: in function 'msg'
+[04:14:58]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:14:58]  -> in Lua hook 'attack', params: 1
+[04:14:59] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:14:59]  -> [C]: in function 'msg'
+[04:14:59]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:14:59]  -> in Lua hook 'attack', params: 1
+[04:14:59] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:14:59]  -> [C]: in function 'msg'
+[04:14:59]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:14:59]  -> in Lua hook 'attack', params: 1
+[04:15:33] U.S.G.N.: Serverlist entry updated
+[04:15:38] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:15:38]  -> [C]: in function 'msg'
+[04:15:38]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:15:38]  -> in Lua hook 'attack', params: 1
+[04:15:38] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:15:38]  -> [C]: in function 'msg'
+[04:15:38]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:15:38]  -> in Lua hook 'attack', params: 1
+[04:15:40] Medikit
+[04:15:41] "  (2x)
+[04:15:46] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:15:46]  -> [C]: in function 'msg'
+[04:15:46]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:15:46]  -> in Lua hook 'attack', params: 1
+[04:15:46] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:15:46]  -> [C]: in function 'msg'
+[04:15:46]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:15:46]  -> in Lua hook 'attack', params: 1
+[04:15:48] U.S.G.N.: Ping/State 'playing'
+[04:15:52] Servidor Desligado
+[04:15:52] U.S.G.N.: Server removed from serverlist
+[04:15:52] ----- Disconnected -----
+[04:15:54] U.S.G.N.: Ping/State 'idle' (279 ms)
+[04:16:13] starting server...
+[04:16:13] load map 'Battle Royale'
+[04:16:13] ----- Server started -----
+[04:16:13] Lua: Adding function 'falar' to hook 'say'
+[04:16:13] Lua: Adding function 'segundos' to hook 'second'
+[04:16:13] Lua: Adding function 'atacar' to hook 'attack'
+[04:16:14] U.S.G.N.: Server added to serverlist
+[04:16:14] U.S.G.N.: Ping/State 'playing'
+[04:16:14] Sagos juntou-se a Countra-Terrorista Forças
+[04:16:15] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:16:15]  -> [C]: in function 'msg'
+[04:16:15]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:16:15]  -> in Lua hook 'attack', params: 1
+[04:16:16] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:16:16]  -> [C]: in function 'msg'
+[04:16:16]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:16:16]  -> in Lua hook 'attack', params: 1
+[04:16:18] Servidor Desligado
+[04:16:19] U.S.G.N.: Server removed from serverlist
+[04:16:19] ----- Disconnected -----
+[04:16:20] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:17:20] "  (1x)
+[04:17:44] starting server...
+[04:17:44] load map 'Battle Royale'
+[04:17:44] ----- Server started -----
+[04:17:44] Lua: Adding function 'falar' to hook 'say'
+[04:17:44] Lua: Adding function 'segundos' to hook 'second'
+[04:17:44] Lua: Adding function 'atacar' to hook 'attack'
+[04:17:45] Sagos juntou-se a Countra-Terrorista Forças
+[04:17:45] U.S.G.N.: Server added to serverlist
+[04:17:45] U.S.G.N.: Ping/State 'playing'
+[04:17:46] Medikit
+[04:17:47] "  (2x)
+[04:17:48] "  (1x)
+[04:17:48] "  (2x)
+[04:17:51] generating stats...
+[04:17:51] stats generated in 1 ms!
+[04:17:52] Medikit
+[04:17:53] "  (1x)
+[04:17:53] "  (1x)
+[04:17:54] Servidor Desligado
+[04:17:55] U.S.G.N.: Server removed from serverlist
+[04:17:55] ----- Disconnected -----
+[04:17:56] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:18:22] U.S.G.N.: Received serverlist (servers: 139)
+[04:18:25] starting server...
+[04:18:25] load map 'Battle Royale'
+[04:18:25] ----- Server started -----
+[04:18:25] Lua: Adding function 'falar' to hook 'say'
+[04:18:25] Lua: Adding function 'segundos' to hook 'second'
+[04:18:25] Lua: Adding function 'atacar' to hook 'attack'
+[04:18:26] Sagos juntou-se a Countra-Terrorista Forças
+[04:18:26] U.S.G.N.: Server added to serverlist
+[04:18:26] U.S.G.N.: Ping/State 'playing'
+[04:18:28] 64
+[04:18:29] "  (3x)
+[04:18:30] "  (2x)
+[04:18:31] "  (3x)
+[04:18:32] "  (3x)
+[04:18:33] "  (1x)
+[04:18:35] "  (3x)
+[04:18:36] "  (1x)
+[04:18:37] "  (2x)
+[04:18:38] "  (1x)
+[04:18:39] "  (2x)
+[04:18:40] "  (1x)
+[04:18:41] "  (2x)
+[04:18:51] Servidor Desligado
+[04:18:52] U.S.G.N.: Server removed from serverlist
+[04:18:52] ----- Disconnected -----
+[04:18:53] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:19:53] "  (1x)
+[04:20:54] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:21:54] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:22:55] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:23:21] starting server...
+[04:23:21] load map 'Battle Royale'
+[04:23:22] ----- Server started -----
+[04:23:22] Lua: Adding function 'falar' to hook 'say'
+[04:23:22] Lua: Adding function 'segundos' to hook 'second'
+[04:23:22] Lua: Adding function 'coletar' to hook 'walkover'
+[04:23:22] U.S.G.N.: Server added to serverlist
+[04:23:22] U.S.G.N.: Ping/State 'playing'
+[04:23:22] Sagos juntou-se a Countra-Terrorista Forças
+[04:23:26] 1
+[04:23:28] 2
+[04:23:29] "  (1x)
+[04:23:30] "  (1x)
+[04:23:31] 1
+[04:23:31] "  (1x)
+[04:23:39] Servidor Desligado
+[04:23:40] U.S.G.N.: Server removed from serverlist
+[04:23:40] ----- Disconnected -----
+[04:23:41] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:24:12] starting server...
+[04:24:12] load map 'Battle Royale'
+[04:24:12] ----- Server started -----
+[04:24:12] Lua: Adding function 'falar' to hook 'say'
+[04:24:12] Lua: Adding function 'segundos' to hook 'second'
+[04:24:12] Lua: Adding function 'coletar' to hook 'walkover'
+[04:24:12] U.S.G.N.: Server added to serverlist
+[04:24:12] U.S.G.N.: Ping/State 'playing'
+[04:24:15] Sagos juntou-se a Countra-Terrorista Forças
+[04:24:18] 64
+[04:24:18] 65
+[04:24:19] "  (1x)
+[04:24:20] "  (1x)
+[04:24:20] 64
+[04:24:24] "  (1x)
+[04:24:58] U.S.G.N.: Serverlist entry updated
+[04:25:13] U.S.G.N.: Ping/State 'playing'
+[04:25:43] U.S.G.N.: Serverlist entry updated
+[04:26:14] U.S.G.N.: Ping/State 'playing'
+[04:26:29] U.S.G.N.: Serverlist entry updated
+[04:27:14] "  (1x)
+[04:27:14] U.S.G.N.: Ping/State 'playing'
+[04:27:18] 64
+[04:27:24] "  (1x)
+[04:27:25] 65
+[04:27:27] "  (1x)
+[04:27:27] 64
+[04:27:45] "  (1x)
+[04:27:47] "  (1x)
+[04:27:47] 1
+[04:27:49] 65
+[04:27:51] generating stats...
+[04:27:51] stats generated in 2 ms!
+[04:28:00] U.S.G.N.: Serverlist entry updated
+[04:28:15] U.S.G.N.: Ping/State 'playing'
+[04:28:37] Servidor Desligado
+[04:28:38] U.S.G.N.: Server removed from serverlist
+[04:28:38] ----- Disconnected -----
+[04:28:39] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:28:40] starting server...
+[04:28:40] load map 'Battle Royale'
+[04:28:40] ----- Server started -----
+[04:28:40] Lua: Adding function 'falar' to hook 'say'
+[04:28:40] Lua: Adding function 'segundos' to hook 'second'
+[04:28:40] Lua: Adding function 'coletar' to hook 'walkover'
+[04:28:41] Sagos juntou-se a Countra-Terrorista Forças
+[04:28:41] U.S.G.N.: Ping/State 'playing'
+[04:28:41] U.S.G.N.: Server added to serverlist
+[04:28:44] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:28:44]  -> [C]: in function 'msg'
+[04:28:44]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:28:44]  -> in Lua hook 'walkover', params: 1, 1, 64, 0, 0, 0
+[04:28:45] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:28:45]  -> [C]: in function 'msg'
+[04:28:45]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:28:45]  -> in Lua hook 'walkover', params: 1, 1, 64, 0, 0, 0
+[04:28:46] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:28:46]  -> [C]: in function 'msg'
+[04:28:46]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:28:46]  -> in Lua hook 'walkover', params: 1, 2, 65, 0, 0, 0
+[04:29:10] ERROR: Unknown command 'a' (a)
+[04:29:10] Use quotation marks for parameters with blanks. e.g.: mp_unbuyable "Tactical Shield"
+[04:29:10] Visit CS2D.com/help for a command reference
+[04:29:11] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:22: bad argument #1 to 'msg' (string expected, got boolean)
+[04:29:11]  -> [C]: in function 'msg'
+[04:29:11]  -> sys/lua/SagosWins/Battle Royale.lua:22: in function <sys/lua/SagosWins/Battle Royale.lua:21>
+[04:29:11]  -> in Lua hook 'walkover', params: 1, 2, 65, 0, 0, 0
+[04:29:26] U.S.G.N.: Serverlist entry updated
+[04:29:38] Servidor Desligado
+[04:29:39] U.S.G.N.: Server removed from serverlist
+[04:29:39] ----- Disconnected -----
+[04:29:40] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:29:53] starting server...
+[04:29:53] load map 'Battle Royale'
+[04:29:53] ----- Server started -----
+[04:29:53] Lua: Adding function 'falar' to hook 'say'
+[04:29:53] Lua: Adding function 'segundos' to hook 'second'
+[04:29:53] Lua: Adding function 'coletar' to hook 'walkover'
+[04:29:53] Sagos juntou-se a Countra-Terrorista Forças
+[04:29:54] U.S.G.N.: Server added to serverlist
+[04:29:54] U.S.G.N.: Ping/State 'playing'
+[04:29:57] Medikit
+[04:29:57] Bandage
+[04:30:01] USP
+[04:30:39] U.S.G.N.: Serverlist entry updated
+[04:30:54] U.S.G.N.: Ping/State 'playing'
+[04:31:24] U.S.G.N.: Serverlist entry updated
+[04:31:55] U.S.G.N.: Ping/State 'playing'
+[04:32:10] U.S.G.N.: Serverlist entry updated
+[04:32:21] Servidor Desligado
+[04:32:22] U.S.G.N.: Server removed from serverlist
+[04:32:22] ----- Disconnected -----
+[04:32:23] U.S.G.N.: Ping/State 'idle' (257 ms)
+[04:32:23] starting server...
+[04:32:23] load map 'Battle Royale'
+[04:32:23] ----- Server started -----
+[04:32:23] Lua: Adding function 'falar' to hook 'say'
+[04:32:23] Lua: Adding function 'segundos' to hook 'second'
+[04:32:23] Lua: Adding function 'coletar' to hook 'walkover'
+[04:32:24] U.S.G.N.: Server added to serverlist
+[04:32:24] U.S.G.N.: Ping/State 'playing'
+[04:32:24] Sagos juntou-se a Countra-Terrorista Forças
+[04:32:29] 1 Medikit
+[04:32:30] 2 Bandage
+[04:32:33] 3 USP
+[04:32:37] 2 Bandage
+[04:32:38] "  (1x)
+[04:32:39] 1 Medikit
+[04:32:47] 3 M4A1
+[04:32:49] 4 USP
+[04:32:58] "  (1x)
+[04:33:00] 2 Bandage
+[04:33:00] 1 Medikit
+[04:33:03] 3 M4A1
+[04:33:05] 4 USP
+[04:33:09] U.S.G.N.: Serverlist entry updated
+[04:33:14] Servidor Desligado
+[04:33:15] U.S.G.N.: Server removed from serverlist
+[04:33:15] ----- Disconnected -----
+[04:33:16] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:33:17] U.S.G.N.: Received serverlist (servers: 142)
+[04:33:30] Connecting to 177.99.148.28:36963 (using U.S.G.N. ID #15431) ...
+[04:33:30] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:33:30] "  (1x)
+[04:33:31] load map 'awp_gray'
+[04:33:31] ----- Server joined -----
+[04:33:31] Conta Conectada com Sucesso!
+[04:33:31] Bem vindo Sagos.
+[04:33:31] U.S.G.N.: Ping/State 'playing'
+[04:33:39] Player deixou o jogo (kickado)
+[04:33:39] Sagos juntou-se a Countra-Terrorista Forças
+[04:33:42] * Auto Teambalance *
+[04:33:42] Sagos juntou-se a Terrorista Forças
+[04:33:45] Paulo Henrique: olha
+[04:33:50] Paulo Henrique: ele so coleta items registrados 
+[04:33:53] Paulo Henrique: anda aqui na awp
+[04:34:02] Você coletou um Laser | Uma arma muito forte!
+[04:34:04] Paulo Henrique: viu
+[04:34:08] Paulo Henrique: a no inventario ja
+[04:34:10] Item Cancelado para ser usado,você se moveu!
+[04:34:25] Sagos: como vc fez pra sumir do chao?
+[04:34:32] U.S.G.N.: Ping/State 'playing'
+[04:34:33] Paulo Henrique: parse("removeitem "..typeid)
+[04:34:38] Sagos: ata
+[04:34:46] Paulo Henrique: a
+[04:34:48] Paulo Henrique: da test
+[04:34:49] Paulo Henrique: e testa
+[04:34:50] Paulo Henrique: test
+[04:34:51] Sagos: test
+[04:34:51] items equipados no seu inventario
+[04:35:03] Espere 6 segundos para usar Kit Medico | Cura 75% do HP, não se mecha.
+[04:35:09] Kit Medico | Cura 75% do HP equipado com sucesso...
+[04:35:24] Sagos: test
+[04:35:24] items equipados no seu inventario
+[04:35:25] Espere 6 segundos para usar Kit Medico | Cura 75% do HP, não se mecha.
+[04:35:25] Paulo Henrique: ai no f2 ele fica como no item
+[04:35:27] Paulo Henrique: viu
+[04:35:31] Kit Medico | Cura 75% do HP equipado com sucesso...
+[04:35:32] U.S.G.N.: Ping/State 'playing'
+[04:35:35] Paulo Henrique: pq se nao ele buga a index
+[04:35:43] Sagos: bugo
+[04:35:47] Paulo Henrique: oq
+[04:35:49] Sagos: curou até 75
+[04:35:51] Sagos: 95*
+[04:35:57] Paulo Henrique: qual
+[04:36:04] Sagos: o de 75%
+[04:36:08] Paulo Henrique: eu nao fiz ele ainda
+[04:36:10] Sagos: ata
+[04:36:33] U.S.G.N.: Ping/State 'playing'
+[04:37:00] Sagos deixou o jogo
+[04:37:00] Disconnect Reason: Client request (Code 0)
+[04:37:00] ----- Disconnected -----
+[04:37:01] U.S.G.N.: Ping/State 'idle' (208 ms)
+[04:38:01] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:39:02] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:40:02] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:40:05] starting server...
+[04:40:05] load map 'Battle Royale'
+[04:40:05] ----- Server started -----
+[04:40:05] Lua: Adding function 'falar' to hook 'say'
+[04:40:05] Lua: Adding function 'segundos' to hook 'second'
+[04:40:05] Lua: Adding function 'coletar' to hook 'walkover'
+[04:40:06] U.S.G.N.: Server added to serverlist
+[04:40:06] U.S.G.N.: Ping/State 'playing'
+[04:40:07] Sagos juntou-se a Countra-Terrorista Forças
+[04:40:10] 3 USP
+[04:40:15] 2 Bandage
+[04:40:18] 1 Medikit
+[04:40:23] 3 USP
+[04:40:51] U.S.G.N.: Serverlist entry updated
+[04:40:51] generating stats...
+[04:40:51] stats generated in 1 ms!
+[04:41:06] U.S.G.N.: Ping/State 'playing'
+[04:41:36] U.S.G.N.: Serverlist entry updated
+[04:42:07] U.S.G.N.: Ping/State 'playing'
+[04:42:22] U.S.G.N.: Serverlist entry updated
+[04:43:07] "  (1x)
+[04:43:07] U.S.G.N.: Ping/State 'playing'
+[04:43:53] U.S.G.N.: Serverlist entry updated
+[04:44:08] U.S.G.N.: Ping/State 'playing'
+[04:44:21] Servidor Desligado
+[04:44:22] U.S.G.N.: Server removed from serverlist
+[04:44:22] ----- Disconnected -----
+[04:44:23] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:44:27] starting server...
+[04:44:27] load map 'Battle Royale'
+[04:44:27] ----- Server started -----
+[04:44:27] Lua: Adding function 'falar' to hook 'say'
+[04:44:27] Lua: Adding function 'segundos' to hook 'second'
+[04:44:27] Lua: Adding function 'coletar' to hook 'walkover'
+[04:44:28] U.S.G.N.: Server added to serverlist
+[04:44:28] U.S.G.N.: Ping/State 'playing'
+[04:44:28] Sagos juntou-se a Countra-Terrorista Forças
+[04:44:32] 1 Medikit
+[04:44:34] 2 Bandage
+[04:44:38] "  (1x)
+[04:44:40] "  (1x)
+[04:44:44] 1 Medikit
+[04:45:13] U.S.G.N.: Serverlist entry updated
+[04:45:28] U.S.G.N.: Ping/State 'playing'
+[04:45:50] 3 Mac 10
+[04:45:51] generating stats...
+[04:45:51] stats generated in 2 ms!
+[04:45:59] U.S.G.N.: Serverlist entry updated
+[04:46:16] 3 Mac 10
+[04:46:19] 1 Medikit
+[04:46:21] 2 Bandage
+[04:46:29] U.S.G.N.: Ping/State 'playing'
+[04:46:36] 4 Mac 10
+[04:46:40] 5 Mac 10
+[04:46:40] 3 Mac 10
+[04:46:44] U.S.G.N.: Serverlist entry updated
+[04:46:45] 1 Medikit
+[04:46:46] 2 Bandage
+[04:47:00] Servidor Desligado
+[04:47:00] U.S.G.N.: Server removed from serverlist
+[04:47:00] ----- Disconnected -----
+[04:47:01] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:47:31] starting server...
+[04:47:31] load map 'Battle Royale'
+[04:47:31] ----- Server started -----
+[04:47:31] Lua: Adding function 'falar' to hook 'say'
+[04:47:31] Lua: Adding function 'segundos' to hook 'second'
+[04:47:31] Lua: Adding function 'coletar' to hook 'walkover'
+[04:47:32] U.S.G.N.: Server added to serverlist
+[04:47:32] U.S.G.N.: Ping/State 'playing'
+[04:47:32] Sagos juntou-se a Countra-Terrorista Forças
+[04:47:54] 3 USP
+[04:47:56] Servidor Desligado
+[04:47:57] U.S.G.N.: Server removed from serverlist
+[04:47:57] ----- Disconnected -----
+[04:47:58] U.S.G.N.: Ping/State 'idle' (48 ms)
+[04:48:58] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:49:59] "  (1x)
+[04:50:29] starting server...
+[04:50:29] load map 'Battle Royale'
+[04:50:29] ----- Server started -----
+[04:50:29] Lua: Adding function 'falar' to hook 'say'
+[04:50:29] Lua: Adding function 'segundos' to hook 'second'
+[04:50:29] Lua: Adding function 'coletar' to hook 'walkover'
+[04:50:29] Lua: Adding function 'dropar' to hook 'drop'
+[04:50:30] Sagos juntou-se a Countra-Terrorista Forças
+[04:50:30] U.S.G.N.: Server added to serverlist
+[04:50:30] U.S.G.N.: Ping/State 'playing'
+[04:51:15] U.S.G.N.: Serverlist entry updated
+[04:51:31] U.S.G.N.: Ping/State 'playing'
+[04:52:01] U.S.G.N.: Serverlist entry updated
+[04:52:25] Servidor Desligado
+[04:52:26] U.S.G.N.: Server removed from serverlist
+[04:52:26] ----- Disconnected -----
+[04:52:27] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:52:28] starting server...
+[04:52:28] load map 'Battle Royale'
+[04:52:28] ----- Server started -----
+[04:52:28] Lua: Adding function 'falar' to hook 'say'
+[04:52:28] Lua: Adding function 'segundos' to hook 'second'
+[04:52:28] Lua: Adding function 'coletar' to hook 'walkover'
+[04:52:28] Lua: Adding function 'dropar' to hook 'drop'
+[04:52:29] U.S.G.N.: Server added to serverlist
+[04:52:29] U.S.G.N.: Ping/State 'playing'
+[04:52:29] Sagos juntou-se a Countra-Terrorista Forças
+[04:52:51] generating stats...
+[04:52:51] stats generated in 1 ms!
+[04:53:14] U.S.G.N.: Serverlist entry updated
+[04:53:21] Servidor Desligado
+[04:53:21] U.S.G.N.: Server removed from serverlist
+[04:53:21] ----- Disconnected -----
+[04:53:23] U.S.G.N.: Ping/State 'idle' (224 ms)
+[04:54:23] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:55:23] "  (1x)
+[04:55:31] starting server...
+[04:55:31] load map 'Battle Royale'
+[04:55:31] ----- Server started -----
+[04:55:31] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:29: ')' expected (to close '(' at line 28) near 'end'
+[04:55:31] U.S.G.N.: Server added to serverlist
+[04:55:31] U.S.G.N.: Ping/State 'playing'
+[04:55:32] Sagos juntou-se a Countra-Terrorista Forças
+[04:55:40] Servidor Desligado
+[04:55:41] U.S.G.N.: Server removed from serverlist
+[04:55:41] ----- Disconnected -----
+[04:55:42] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:55:58] starting server...
+[04:55:58] load map 'Battle Royale'
+[04:55:58] ----- Server started -----
+[04:55:58] Lua: Adding function 'falar' to hook 'say'
+[04:55:58] Lua: Adding function 'segundos' to hook 'second'
+[04:55:58] Lua: Adding function 'coletar' to hook 'walkover'
+[04:55:58] Lua: Adding function 'dropar' to hook 'drop'
+[04:55:58] Sagos juntou-se a Countra-Terrorista Forças
+[04:55:59] U.S.G.N.: Server added to serverlist
+[04:55:59] U.S.G.N.: Ping/State 'playing'
+[04:56:02] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:28: attempt to concatenate a boolean value
+[04:56:02]  -> sys/lua/SagosWins/Battle Royale.lua:28: in function <sys/lua/SagosWins/Battle Royale.lua:26>
+[04:56:02]  -> in Lua hook 'walkover', params: 1, 1, 64, 0, 0, 0
+[04:56:14] Servidor Desligado
+[04:56:15] U.S.G.N.: Server removed from serverlist
+[04:56:15] ----- Disconnected -----
+[04:56:16] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:57:04] starting server...
+[04:57:04] load map 'Battle Royale'
+[04:57:04] ----- Server started -----
+[04:57:04] Lua: Adding function 'falar' to hook 'say'
+[04:57:04] Lua: Adding function 'segundos' to hook 'second'
+[04:57:04] Lua: Adding function 'coletar' to hook 'walkover'
+[04:57:04] Lua: Adding function 'dropar' to hook 'drop'
+[04:57:05] Sagos juntou-se a Countra-Terrorista Forças
+[04:57:05] U.S.G.N.: Server added to serverlist
+[04:57:05] U.S.G.N.: Ping/State 'playing'
+[04:57:09] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:28: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:57:09]  -> [C]: in function 'msg2'
+[04:57:09]  -> sys/lua/SagosWins/Battle Royale.lua:28: in function <sys/lua/SagosWins/Battle Royale.lua:26>
+[04:57:09]  -> in Lua hook 'walkover', params: 1, 1, 64, 0, 0, 0
+[04:57:10] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:28: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:57:10]  -> [C]: in function 'msg2'
+[04:57:10]  -> sys/lua/SagosWins/Battle Royale.lua:28: in function <sys/lua/SagosWins/Battle Royale.lua:26>
+[04:57:10]  -> in Lua hook 'walkover', params: 1, 2, 65, 0, 0, 0
+[04:57:17] Servidor Desligado
+[04:57:18] U.S.G.N.: Server removed from serverlist
+[04:57:18] ----- Disconnected -----
+[04:57:19] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:58:20] "  (1x)
+[04:58:50] starting server...
+[04:58:50] load map 'Battle Royale'
+[04:58:50] ----- Server started -----
+[04:58:50] Lua: Adding function 'falar' to hook 'say'
+[04:58:50] Lua: Adding function 'segundos' to hook 'second'
+[04:58:50] Lua: Adding function 'coletar' to hook 'walkover'
+[04:58:50] Lua: Adding function 'dropar' to hook 'drop'
+[04:58:51] Sagos juntou-se a Countra-Terrorista Forças
+[04:58:51] U.S.G.N.: Server added to serverlist
+[04:58:51] U.S.G.N.: Ping/State 'playing'
+[04:58:54] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:28: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:58:54]  -> [C]: in function 'msg2'
+[04:58:54]  -> sys/lua/SagosWins/Battle Royale.lua:28: in function <sys/lua/SagosWins/Battle Royale.lua:26>
+[04:58:54]  -> in Lua hook 'walkover', params: 1, 1, 64, 0, 0, 0
+[04:58:54] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:28: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:58:54]  -> [C]: in function 'msg2'
+[04:58:54]  -> sys/lua/SagosWins/Battle Royale.lua:28: in function <sys/lua/SagosWins/Battle Royale.lua:26>
+[04:58:54]  -> in Lua hook 'walkover', params: 1, 2, 65, 0, 0, 0
+[04:58:57] Servidor Desligado
+[04:58:57] U.S.G.N.: Server removed from serverlist
+[04:58:57] ----- Disconnected -----
+[04:58:58] U.S.G.N.: Ping/State 'idle' (303 ms)
+[04:59:23] starting server...
+[04:59:23] load map 'Battle Royale'
+[04:59:23] ----- Server started -----
+[04:59:23] Lua: Adding function 'falar' to hook 'say'
+[04:59:23] Lua: Adding function 'segundos' to hook 'second'
+[04:59:23] Lua: Adding function 'coletar' to hook 'walkover'
+[04:59:23] Lua: Adding function 'dropar' to hook 'drop'
+[04:59:24] U.S.G.N.: Server added to serverlist
+[04:59:24] U.S.G.N.: Ping/State 'playing'
+[04:59:27] Sagos juntou-se a Countra-Terrorista Forças
+[04:59:30] 1 Medikit
+[04:59:30] 2 Bandage
+[04:59:32] Servidor Desligado
+[04:59:33] U.S.G.N.: Server removed from serverlist
+[04:59:33] ----- Disconnected -----
+[04:59:34] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:59:55] starting server...
+[04:59:55] load map 'Battle Royale'
+[04:59:55] ----- Server started -----
+[04:59:55] Lua: Adding function 'falar' to hook 'say'
+[04:59:55] Lua: Adding function 'segundos' to hook 'second'
+[04:59:55] Lua: Adding function 'coletar' to hook 'walkover'
+[04:59:55] Lua: Adding function 'dropar' to hook 'drop'
+[04:59:56] U.S.G.N.: Server added to serverlist
+[04:59:56] U.S.G.N.: Ping/State 'playing'
+[04:59:57] Sagos juntou-se a Countra-Terrorista Forças
+[04:59:59] 1 Medikit
+[04:59:59] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:29: bad argument #1 to 'msg' (string expected, got boolean)
+[04:59:59]  -> [C]: in function 'msg'
+[04:59:59]  -> sys/lua/SagosWins/Battle Royale.lua:29: in function <sys/lua/SagosWins/Battle Royale.lua:26>
+[04:59:59]  -> in Lua hook 'walkover', params: 1, 1, 64, 0, 0, 0
+[05:00:07] Servidor Desligado
+[05:00:07] U.S.G.N.: Server removed from serverlist
+[05:00:07] ----- Disconnected -----
+[05:00:08] U.S.G.N.: Ping/State 'idle' (272 ms)
+[05:01:09] starting server...
+[05:01:09] load map 'Battle Royale'
+[05:01:09] ----- Server started -----
+[05:01:09] Lua: Adding function 'falar' to hook 'say'
+[05:01:09] Lua: Adding function 'segundos' to hook 'second'
+[05:01:09] Lua: Adding function 'coletar' to hook 'walkover'
+[05:01:09] Lua: Adding function 'dropar' to hook 'drop'
+[05:01:09] U.S.G.N.: Server added to serverlist
+[05:01:09] U.S.G.N.: Ping/State 'playing'
+[05:01:12] Sagos juntou-se a Countra-Terrorista Forças
+[05:01:15] 1 Medikit
+[05:01:15] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:29: bad argument #1 to 'msg' (string expected, got boolean)
+[05:01:15]  -> [C]: in function 'msg'
+[05:01:15]  -> sys/lua/SagosWins/Battle Royale.lua:29: in function <sys/lua/SagosWins/Battle Royale.lua:26>
+[05:01:15]  -> in Lua hook 'walkover', params: 1, 1, 64, 0, 0, 0
+[05:01:15] 2 Bandage
+[05:01:15] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:29: bad argument #1 to 'msg' (string expected, got boolean)
+[05:01:15]  -> [C]: in function 'msg'
+[05:01:15]  -> sys/lua/SagosWins/Battle Royale.lua:29: in function <sys/lua/SagosWins/Battle Royale.lua:26>
+[05:01:15]  -> in Lua hook 'walkover', params: 1, 2, 65, 0, 0, 0
+[05:01:31] Servidor Desligado
+[05:01:31] U.S.G.N.: Server removed from serverlist
+[05:01:32] ----- Disconnected -----
+[05:01:32] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:01:41] starting server...
+[05:01:41] load map 'Battle Royale'
+[05:01:41] ----- Server started -----
+[05:01:41] Lua: Adding function 'falar' to hook 'say'
+[05:01:41] Lua: Adding function 'segundos' to hook 'second'
+[05:01:41] Lua: Adding function 'coletar' to hook 'walkover'
+[05:01:41] Lua: Adding function 'dropar' to hook 'drop'
+[05:01:41] U.S.G.N.: Server added to serverlist
+[05:01:41] U.S.G.N.: Ping/State 'playing'
+[05:01:41] Sagos juntou-se a Countra-Terrorista Forças
+[05:01:45] 1 Medikit
+[05:01:45] Medikit
+[05:01:45] 2 Bandage
+[05:01:45] Bandage
+[05:01:47] Servidor Desligado
+[05:01:47] U.S.G.N.: Server removed from serverlist
+[05:01:47] ----- Disconnected -----
+[05:01:48] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:02:37] starting server...
+[05:02:37] load map 'Battle Royale'
+[05:02:37] ----- Server started -----
+[05:02:37] Lua: Adding function 'falar' to hook 'say'
+[05:02:37] Lua: Adding function 'segundos' to hook 'second'
+[05:02:37] Lua: Adding function 'coletar' to hook 'walkover'
+[05:02:37] Lua: Adding function 'dropar' to hook 'drop'
+[05:02:38] U.S.G.N.: Server added to serverlist
+[05:02:38] U.S.G.N.: Ping/State 'playing'
+[05:02:38] Sagos juntou-se a Countra-Terrorista Forças
+[05:02:41] Você pegou Medikit
+[05:02:43] Você pegou Bandage
+[05:02:57] Servidor Desligado
+[05:02:57] U.S.G.N.: Server removed from serverlist
+[05:02:57] ----- Disconnected -----
+[05:02:58] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:03:59] U.S.G.N.: Ping/State 'idle' (272 ms)
+[05:04:59] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:05:41] starting server...
+[05:05:41] load map 'Battle Royale'
+[05:05:41] ----- Server started -----
+[05:05:41] Lua: Adding function 'falar' to hook 'say'
+[05:05:41] Lua: Adding function 'segundos' to hook 'second'
+[05:05:41] Lua: Adding function 'coletar' to hook 'walkover'
+[05:05:41] Lua: Adding function 'dropar' to hook 'drop'
+[05:05:42] U.S.G.N.: Server added to serverlist
+[05:05:42] U.S.G.N.: Ping/State 'playing'
+[05:05:43] Sagos juntou-se a Countra-Terrorista Forças
+[05:05:45] Você pegou USP 1
+[05:05:47] Você pegou Medikit 64
+[05:05:48] Você pegou Bandage 65
+[05:05:51] Você pegou Medikit 64
+[05:05:53] Você pegou Bandage 65
+[05:05:55] Servidor Desligado
+[05:05:56] U.S.G.N.: Server removed from serverlist
+[05:05:56] ----- Disconnected -----
+[05:05:57] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:05:59] M-NET: received join data from unexpected source (252, 27.17.203.197:22442)
+[05:06:57] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:07:58] U.S.G.N.: Ping/State 'idle' (272 ms)
+[05:08:09] load map 'Battle Royale'
+[05:08:29] U.S.G.N.: Ping/State 'idle' (224 ms)
+[05:09:00] U.S.G.N.: Ping/State 'idle' (288 ms)
+[05:09:30] "  (1x)
+[05:09:42] save map as 'Battle Royale'
+[05:09:44] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[05:09:46] starting server...
+[05:09:46] load map 'Battle Royale'
+[05:09:46] ----- Server started -----
+[05:09:46] Lua: Adding function 'falar' to hook 'say'
+[05:09:46] Lua: Adding function 'segundos' to hook 'second'
+[05:09:46] Lua: Adding function 'coletar' to hook 'walkover'
+[05:09:46] Lua: Adding function 'dropar' to hook 'drop'
+[05:09:46] U.S.G.N.: Ping/State 'playing'
+[05:09:46] U.S.G.N.: Server added to serverlist
+[05:09:47] Sagos juntou-se a Countra-Terrorista Forças
+[05:09:51] Você pegou Medikit 64
+[05:09:52] Você pegou Bandage 65
+[05:09:53] Você pegou Primary Ammo 61
+[05:10:24] "  (1x)
+[05:10:31] "  (1x)
+[05:10:31] U.S.G.N.: Serverlist entry updated
+[05:10:34] Você pegou Primary Ammo 61
+[05:10:39] "  (1x)
+[05:10:47] U.S.G.N.: Ping/State 'playing'
+[05:10:52] generating stats...
+[05:10:52] stats generated in 1 ms!
+[05:10:55] Você pegou Primary Ammo 61
+[05:10:57] Você pegou Secondary Ammo 62
+[05:11:01] "  (1x)
+[05:11:17] U.S.G.N.: Serverlist entry updated
+[05:11:48] U.S.G.N.: Ping/State 'playing'
+[05:12:03] U.S.G.N.: Serverlist entry updated
+[05:12:53] U.S.G.N.: Ping/State 'playing'
+[05:13:33] U.S.G.N.: Serverlist entry updated
+[05:13:58] U.S.G.N.: Ping/State 'playing'
+[05:14:19] U.S.G.N.: Serverlist entry updated
+[05:14:59] U.S.G.N.: Ping/State 'playing'
+[05:15:04] U.S.G.N.: Serverlist entry updated
+[05:15:52] generating stats...
+[05:15:52] stats generated in 1 ms!
+[05:16:00] U.S.G.N.: Ping/State 'playing'
+[05:16:35] U.S.G.N.: Serverlist entry updated
+[05:17:00] U.S.G.N.: Ping/State 'playing'
+[05:17:20] U.S.G.N.: Serverlist entry updated
+[05:18:00] U.S.G.N.: Ping/State 'playing'
+[05:18:51] U.S.G.N.: Serverlist entry updated
+[05:19:01] U.S.G.N.: Ping/State 'playing'
+[05:19:36] U.S.G.N.: Serverlist entry updated
+[05:19:54] Servidor Desligado
+[05:19:54] U.S.G.N.: Server removed from serverlist
+[05:19:54] ----- Disconnected -----
+[05:19:55] U.S.G.N.: Ping/State 'idle' (624 ms)
+[05:19:56] starting server...
+[05:19:56] load map 'Battle Royale'
+[05:19:56] ----- Server started -----
+[05:19:56] Lua: Adding function 'falar' to hook 'say'
+[05:19:56] Lua: Adding function 'segundos' to hook 'second'
+[05:19:56] Lua: Adding function 'coletar' to hook 'walkover'
+[05:19:56] Lua: Adding function 'atacar' to hook 'attack'
+[05:19:57] Sagos juntou-se a Countra-Terrorista Forças
+[05:19:57] U.S.G.N.: Ping/State 'playing'
+[05:19:57] U.S.G.N.: Server added to serverlist
+[05:19:58] 1
+[05:19:59] "  (1x)
+[05:20:00] "  (2x)
+[05:20:18] 32
+[05:20:19] "  (5x)
+[05:20:21] Servidor Desligado
+[05:20:24] U.S.G.N.: Can't remove server from serverlist (Code 0)
+[05:20:25] "  (1x)
+[05:20:26] "  (1x)
+[05:20:26] ----- Disconnected -----
+[05:20:27] U.S.G.N.: Ping/State 'idle' (640 ms)
+[05:21:27] U.S.G.N.: Ping/State 'idle' (736 ms)
+[05:22:28] U.S.G.N.: Ping/State 'idle' (720 ms)
+[05:23:28] U.S.G.N.: Ping/State 'idle' (656 ms)
+[05:24:29] U.S.G.N.: Ping/State 'idle' (720 ms)
+[05:25:29] U.S.G.N.: Ping/State 'idle' (592 ms)
+[05:26:30] U.S.G.N.: Ping/State 'idle' (720 ms)
+[05:27:30] "  (1x)
+[05:28:31] U.S.G.N.: Ping/State 'idle' (752 ms)
+[05:29:31] starting server...
+[05:29:31] load map 'Battle Royale'
+[05:29:31] ----- Server started -----
+[05:29:31] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:67: 'end' expected (to close 'function' at line 25) near '<eof>'
+[05:29:31] U.S.G.N.: Ping/State 'playing' (718 ms)
+[05:29:32] Sagos juntou-se a Countra-Terrorista Forças
+[05:29:32] U.S.G.N.: Server added to serverlist
+[05:29:41] ERROR: setweapon - player does not have the item 32!
+[05:29:52] generating stats...
+[05:29:52] stats generated in 2 ms!
+[05:30:07] Servidor Desligado
+[05:30:08] U.S.G.N.: Server removed from serverlist
+[05:30:08] ----- Disconnected -----
+[05:30:09] U.S.G.N.: Ping/State 'idle' (752 ms)
+[05:30:54] starting server...
+[05:30:54] load map 'Battle Royale'
+[05:30:54] ----- Server started -----
+[05:30:54] Lua: Adding function 'falar' to hook 'say'
+[05:30:54] Lua: Adding function 'segundos' to hook 'second'
+[05:30:54] Lua: Adding function 'coletar' to hook 'walkover'
+[05:30:54] Lua: Adding function 'atacar' to hook 'attack'
+[05:30:55] U.S.G.N.: Server added to serverlist
+[05:30:55] U.S.G.N.: Ping/State 'playing'
+[05:30:58] Sagos juntou-se a Countra-Terrorista Forças
+[05:31:04] 62
+[05:31:04] Você pegou Balas de Pistola
+[05:31:14] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:30: bad argument #1 to 'msg2' (number expected, got string)
+[05:31:14]  -> [C]: in function 'msg2'
+[05:31:14]  -> sys/lua/SagosWins/Battle Royale.lua:30: in function <sys/lua/SagosWins/Battle Royale.lua:25>
+[05:31:14]  -> in Lua hook 'attack', params: 1
+[05:31:16] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:30: bad argument #1 to 'msg2' (number expected, got string)
+[05:31:16]  -> [C]: in function 'msg2'
+[05:31:16]  -> sys/lua/SagosWins/Battle Royale.lua:30: in function <sys/lua/SagosWins/Battle Royale.lua:25>
+[05:31:16]  -> in Lua hook 'attack', params: 1
+[05:31:17] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:30: bad argument #1 to 'msg2' (number expected, got string)
+[05:31:17]  -> [C]: in function 'msg2'
+[05:31:17]  -> sys/lua/SagosWins/Battle Royale.lua:30: in function <sys/lua/SagosWins/Battle Royale.lua:25>
+[05:31:17]  -> in Lua hook 'attack', params: 1
+[05:31:17] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:30: bad argument #1 to 'msg2' (number expected, got string)
+[05:31:17]  -> [C]: in function 'msg2'
+[05:31:17]  -> sys/lua/SagosWins/Battle Royale.lua:30: in function <sys/lua/SagosWins/Battle Royale.lua:25>
+[05:31:17]  -> in Lua hook 'attack', params: 1
+[05:31:17] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:30: bad argument #1 to 'msg2' (number expected, got string)
+[05:31:17]  -> [C]: in function 'msg2'
+[05:31:17]  -> sys/lua/SagosWins/Battle Royale.lua:30: in function <sys/lua/SagosWins/Battle Royale.lua:25>
+[05:31:17]  -> in Lua hook 'attack', params: 1
+[05:31:18] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:30: bad argument #1 to 'msg2' (number expected, got string)
+[05:31:18]  -> [C]: in function 'msg2'
+[05:31:18]  -> sys/lua/SagosWins/Battle Royale.lua:30: in function <sys/lua/SagosWins/Battle Royale.lua:25>
+[05:31:18]  -> in Lua hook 'attack', params: 1
+[05:31:18] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:30: bad argument #1 to 'msg2' (number expected, got string)
+[05:31:18]  -> [C]: in function 'msg2'
+[05:31:18]  -> sys/lua/SagosWins/Battle Royale.lua:30: in function <sys/lua/SagosWins/Battle Royale.lua:25>
+[05:31:18]  -> in Lua hook 'attack', params: 1
+[05:31:40] U.S.G.N.: Serverlist entry updated
+[05:31:46] Servidor Desligado
+[05:31:47] U.S.G.N.: Server removed from serverlist
+[05:31:47] ----- Disconnected -----
+[05:31:48] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:31:49] starting server...
+[05:31:49] load map 'Battle Royale'
+[05:31:49] ----- Server started -----
+[05:31:49] Lua: Adding function 'falar' to hook 'say'
+[05:31:49] Lua: Adding function 'segundos' to hook 'second'
+[05:31:49] Lua: Adding function 'coletar' to hook 'walkover'
+[05:31:49] Lua: Adding function 'atacar' to hook 'attack'
+[05:31:52] U.S.G.N.: Ping/State 'playing'
+[05:31:52] U.S.G.N.: Server added to serverlist
+[05:31:52] Sagos juntou-se a Countra-Terrorista Forças
+[05:31:59] 62
+[05:31:59] Você pegou Balas de Pistola
+[05:32:10] Sem balas de pistola, sua arma foi guardada no inventário
+[05:32:20] "  (1x)
+[05:32:20] "  (2x)
+[05:32:38] U.S.G.N.: Serverlist entry updated
+[05:32:50] Sem balas de pistola, sua arma foi guardada no inventário
+[05:32:51] Servidor Desligado
+[05:32:52] U.S.G.N.: Server removed from serverlist
+[05:32:52] ----- Disconnected -----
+[05:32:53] U.S.G.N.: Ping/State 'idle' (256 ms)

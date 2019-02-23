@@ -1,0 +1,16 @@
+-------Sobre Mochila----------
+capacidade sem nada:	50
+mochila nível 1:	+150
+mochila nível 2:	+200
+mochila nível 3:	+250
+Colete 1 2 e 3:		+50
+------------------------------
+
+
+--------Sobre Cura------------
+Analgésico:	6 Segundos
+Energético:	4 Segundos
+Ligadura:	4 Segundos
+Kit:		6 Segundos
+Kit Full:	8 Segundos
+------------------------------

@@ -1,0 +1,304 @@
+CS2D 1.0.0.5 Logfile - 29 Nov 2017, 04:06:12
+
+[04:06:12] UDP socket initialized using port 36963
+[04:06:12] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[04:06:12] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[04:06:12] U.S.G.N.: Ping/State 'playing'
+[04:06:13] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[04:06:13] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[04:06:14] U.S.G.N.: Received serverlist (servers: 31)
+[04:06:14] U.S.G.N.: Received serverlist (servers: 150)
+[04:06:17] Connecting to 0.0.0.0:36963 (using U.S.G.N. ID #15431) ...
+[04:06:17] U.S.G.N.: Ping/State 'idle' (2510 ms)
+[04:06:21] M-NET: received join data from unexpected source (252, 31.220.56.229:36963)
+[04:06:27] M-NET: received join data from unexpected source (252, 62.140.250.3:36965)
+[04:06:30] M-NET: received join data from unexpected source (252, 177.54.147.20:36965)
+[04:06:33] M-NET: received join data from unexpected source (252, 95.156.231.115:36963)
+[04:06:39] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:06:43] U.S.G.N.: Received serverlist (servers: 33)
+[04:06:43] U.S.G.N.: Received serverlist (servers: 150)
+[04:06:44] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:06:46] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:06:46] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:06:46] "  (1x)
+[04:07:12] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:07:13] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:07:13] "  (1x)
+[04:07:15] U.S.G.N.: Received serverlist (servers: 28)
+[04:07:15] U.S.G.N.: Received serverlist (servers: 150)
+[04:07:28] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:07:28] U.S.G.N.: Ping/State 'idle' (288 ms)
+[04:07:28] "  (1x)
+[04:07:30] U.S.G.N.: Received serverlist (servers: 31)
+[04:07:31] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:07:31] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:07:31] "  (1x)
+[04:07:34] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:07:34] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:07:34] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:07:36] Checking 'gfx/tiles/HL2 Tiles.bmp': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/weapons/elite_d.bmp': Already exists.
+[04:07:36] Checking 'gfx/weapons/galil_d.bmp': Already exists.
+[04:07:36] Checking 'gfx/revo_zombie/qmark.bmp': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/weapons/tmp_d.bmp': Already exists.
+[04:07:36] Checking 'gfx/weapons/he.bmp': Already exists.
+[04:07:36] Checking 'gfx/weapons/kevlar_d.bmp': Already exists.
+[04:07:36] Checking 'gfx/weapons/deagle_d.bmp': Already exists.
+[04:07:36] Checking 'sfx/revo_zombie/nier.ogg': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/weapons/m4a1_d.bmp': Already exists.
+[04:07:36] Checking 'gfx/weapons/machete.bmp': Already exists.
+[04:07:36] Checking 'gfx/weapons/mp5_d.bmp': Already exists.
+[04:07:36] Checking 'gfx/weapons/sg552_d.bmp': Already exists.
+[04:07:36] Checking 'gfx/revo_zombie/slow.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/sneak.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/barrier.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/shield.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/revive.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/weapons/scout_d.bmp': Already exists.
+[04:07:36] Checking 'gfx/weapons/p90_d.bmp': Already exists.
+[04:07:36] Checking 'gfx/block.bmp': Already exists.
+[04:07:36] Checking 'gfx/revo_zombie/wing.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/speed.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/barrier.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/shield.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/slow.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/revive.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/sneak.png': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/revo_zombie/up.png': Does not exist. Request transfer!
+[04:07:36] Checking 'sfx/revo_zombie/buy.ogg': Does not exist. Request transfer!
+[04:07:36] Checking 'gfx/weapons/money.bmp': Already exists.
+[04:07:36] Checking 'gfx/weapons/usp_d.bmp': Already exists.
+[04:07:36] Checking 'maps/rev_zombie.map': Does not exist. Request transfer!
+[04:07:36] Requesting 18 files from server...
+[04:07:36] Downloading 'gfx/tiles/HL2 Tiles.bmp' from server...
+[04:07:42] Downloading 'gfx/revo_zombie/qmark.bmp' from server...
+[04:07:42] Created directory 'gfx/revo_zombie' for received files
+[04:07:42] Downloading 'sfx/revo_zombie/nier.ogg' from server...
+[04:08:34] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:09:34] U.S.G.N.: Received serverlist (servers: 30)
+[04:09:34] U.S.G.N.: Received serverlist (servers: 150)
+[04:09:35] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:09:36] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:09:39] "  (1x)
+[04:09:40] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:09:40] "  (1x)
+[04:09:41] Checking 'gfx/tiles/HL2 Tiles.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/elite_d.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/galil_d.bmp': Already exists.
+[04:09:41] Checking 'gfx/revo_zombie/qmark.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/tmp_d.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/he.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/kevlar_d.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/deagle_d.bmp': Already exists.
+[04:09:41] Checking 'sfx/revo_zombie/nier.ogg': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/weapons/m4a1_d.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/machete.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/mp5_d.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/sg552_d.bmp': Already exists.
+[04:09:41] Checking 'gfx/revo_zombie/slow.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/sneak.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/barrier.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/shield.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/revive.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/weapons/scout_d.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/p90_d.bmp': Already exists.
+[04:09:41] Checking 'gfx/block.bmp': Already exists.
+[04:09:41] Checking 'gfx/revo_zombie/wing.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/speed.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/barrier.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/shield.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/slow.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/revive.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/sneak.png': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/revo_zombie/up.png': Does not exist. Request transfer!
+[04:09:41] Checking 'sfx/revo_zombie/buy.ogg': Does not exist. Request transfer!
+[04:09:41] Checking 'gfx/weapons/money.bmp': Already exists.
+[04:09:41] Checking 'gfx/weapons/usp_d.bmp': Already exists.
+[04:09:41] Checking 'maps/rev_zombie.map': Does not exist. Request transfer!
+[04:09:41] Requesting 16 files from server...
+[04:09:41] Downloading 'sfx/revo_zombie/nier.ogg' from server...
+[04:09:45] Created directory 'sfx/revo_zombie' for received files
+[04:09:45] Downloading 'gfx/revo_zombie/slow.png' from server...
+[04:09:45] Downloading 'gfx/revo_zombie/sneak.png' from server...
+[04:09:58] U.S.G.N.: Received serverlist (servers: 29)
+[04:09:58] U.S.G.N.: Received serverlist (servers: 150)
+[04:09:58] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:09:59] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:09:59] "  (1x)
+[04:10:00] Checking 'gfx/tiles/HL2 Tiles.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/elite_d.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/galil_d.bmp': Already exists.
+[04:10:00] Checking 'gfx/revo_zombie/qmark.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/tmp_d.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/he.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/kevlar_d.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/deagle_d.bmp': Already exists.
+[04:10:00] Checking 'sfx/revo_zombie/nier.ogg': Already exists.
+[04:10:00] Checking 'gfx/weapons/m4a1_d.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/machete.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/mp5_d.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/sg552_d.bmp': Already exists.
+[04:10:00] Checking 'gfx/revo_zombie/slow.png': Already exists.
+[04:10:00] Checking 'gfx/revo_zombie/sneak.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/revo_zombie/barrier.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/revo_zombie/shield.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/revo_zombie/revive.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/weapons/scout_d.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/p90_d.bmp': Already exists.
+[04:10:00] Checking 'gfx/block.bmp': Already exists.
+[04:10:00] Checking 'gfx/revo_zombie/wing.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/revo_zombie/speed.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/revo_zombie/barrier.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/revo_zombie/shield.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/revo_zombie/slow.png': Already exists.
+[04:10:00] Checking 'gfx/revo_zombie/revive.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/revo_zombie/sneak.png': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/revo_zombie/up.png': Does not exist. Request transfer!
+[04:10:00] Checking 'sfx/revo_zombie/buy.ogg': Does not exist. Request transfer!
+[04:10:00] Checking 'gfx/weapons/money.bmp': Already exists.
+[04:10:00] Checking 'gfx/weapons/usp_d.bmp': Already exists.
+[04:10:00] Checking 'maps/rev_zombie.map': Does not exist. Request transfer!
+[04:10:00] Requesting 13 files from server...
+[04:10:01] Downloading 'gfx/revo_zombie/sneak.png' from server...
+[04:10:01] Downloading 'gfx/revo_zombie/barrier.png' from server...
+[04:10:01] Downloading 'gfx/revo_zombie/shield.png' from server...
+[04:10:01] Downloading 'gfx/revo_zombie/revive.png' from server...
+[04:10:01] Downloading 'gfx/revo_zombie/wing.png' from server...
+[04:10:02] Downloading 'gfx/revo_zombie/speed.png' from server...
+[04:10:02] Downloading 'gfx/revo_zombie/up.png' from server...
+[04:10:02] Downloading 'sfx/revo_zombie/buy.ogg' from server...
+[04:10:03] Downloading 'maps/rev_zombie.map' from server...
+[04:10:03] load map 'rev_zombie'
+[04:10:04] ----- Server joined -----
+[04:10:04] U.S.G.N.: Ping/State 'playing'
+[04:10:05] Kurosawa Ruby died
+[04:10:06] Tsushima Yoshiko died
+[04:10:07] Watanabe You died
+[04:10:07] You can't join the survivors now!
+[04:10:07] Server will try to make you a survivor next round
+[04:10:12] Saitou Shuka died
+[04:10:12] Furihata Ai died
+[04:10:14] Takami Chika died
+[04:10:16] Aida Rikako died
+[04:10:20] magjan died
+[04:10:20] magjan juntou-se aos espectadores
+[04:10:21] Furihata Ai died
+[04:10:26] Suzuki Aina died
+[04:10:26] Sonoda Umi conectou-se
+[04:10:26] Sonoda Umi juntou-se a Zombies
+[04:10:27] Uchida Aya died
+[04:10:31] magjan deixou o jogo
+[04:10:35] ugu HAXyu died
+[04:10:35] ugu HAXyu juntou-se aos espectadores
+[04:10:35] You survived until Round 7!
+[04:10:35] Server restart in 5 seconds.
+[04:10:38] rM | null!: aew
+[04:10:38] Sagos: kkkkkkk
+[04:10:49] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:10:49] "  (1x)
+[04:10:52] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:10:52] U.S.G.N.: Ping/State 'idle' (272 ms)
+[04:10:52] "  (1x)
+[04:10:53] Checking 'gfx/tiles/HL2 Tiles.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/elite_d.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/galil_d.bmp': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/qmark.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/tmp_d.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/he.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/kevlar_d.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/deagle_d.bmp': Already exists.
+[04:10:53] Checking 'sfx/revo_zombie/nier.ogg': Already exists.
+[04:10:53] Checking 'gfx/weapons/m4a1_d.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/machete.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/mp5_d.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/sg552_d.bmp': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/slow.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/sneak.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/barrier.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/shield.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/revive.png': Already exists.
+[04:10:53] Checking 'gfx/weapons/scout_d.bmp': Already exists.
+[04:10:53] Checking 'gfx/weapons/p90_d.bmp': Already exists.
+[04:10:53] Checking 'gfx/block.bmp': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/wing.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/speed.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/barrier.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/shield.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/slow.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/revive.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/sneak.png': Already exists.
+[04:10:53] Checking 'gfx/revo_zombie/up.png': Already exists.
+[04:10:53] Checking 'sfx/revo_zombie/buy.ogg': Already exists.
+[04:10:53] Requesting 0 files from server...
+[04:10:54] load map 'rev_zombie'
+[04:10:55] ----- Server joined -----
+[04:10:56] U.S.G.N.: Ping/State 'playing'
+[04:10:57] rM | null! juntou-se a Survivors
+[04:10:59] Sagos juntou-se a Survivors
+[04:10:59] ugu HAXyu juntou-se a Survivors
+[04:10:59] Please read F1 for more info :)
+[04:11:01] Tips #5: Revive downed player by pressing G near him.
+[04:11:03] YOUNG KeBu juntou-se a Survivors
+[04:11:20] rM | null!: ala
+[04:11:22] rM | null!: q chave
+[04:11:26] Kurosawa Dia conectou-se
+[04:11:26] Kurosawa Dia juntou-se a Zombies
+[04:11:26] GAME START, DEFEND YOURSELF
+[04:11:56] U.S.G.N.: Ping/State 'playing'
+[04:12:06] ----- Disconnected -----
+[04:12:07] U.S.G.N.: Ping/State 'idle' (304 ms)
+[04:12:08] U.S.G.N.: Received serverlist (servers: 33)
+[04:12:08] U.S.G.N.: Received serverlist (servers: 150)
+[04:12:09] Connecting to 139.59.248.44:36963 (using U.S.G.N. ID #15431) ...
+[04:12:09] U.S.G.N.: Ping/State 'idle' (320 ms)
+[04:12:09] "  (1x)
+[04:12:11] Checking 'gfx/tiles/HL2 Tiles.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/elite_d.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/galil_d.bmp': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/qmark.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/tmp_d.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/he.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/kevlar_d.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/deagle_d.bmp': Already exists.
+[04:12:11] Checking 'sfx/revo_zombie/nier.ogg': Already exists.
+[04:12:11] Checking 'gfx/weapons/m4a1_d.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/machete.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/mp5_d.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/sg552_d.bmp': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/slow.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/sneak.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/barrier.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/shield.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/revive.png': Already exists.
+[04:12:11] Checking 'gfx/weapons/scout_d.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/p90_d.bmp': Already exists.
+[04:12:11] Checking 'gfx/block.bmp': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/wing.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/speed.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/barrier.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/shield.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/slow.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/revive.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/sneak.png': Already exists.
+[04:12:11] Checking 'gfx/revo_zombie/up.png': Already exists.
+[04:12:11] Checking 'sfx/revo_zombie/buy.ogg': Already exists.
+[04:12:11] Checking 'gfx/weapons/money.bmp': Already exists.
+[04:12:11] Checking 'gfx/weapons/usp_d.bmp': Already exists.
+[04:12:11] Requesting 0 files from server...
+[04:12:12] load map 'rev_zombie'
+[04:12:12] ----- Server joined -----
+[04:12:13] Matsuura Kanan died
+[04:12:13] U.S.G.N.: Ping/State 'playing'
+[04:12:15] You can't join the survivors now!
+[04:12:15] Server will try to make you a survivor next round
+[04:12:15] Kurosawa Dia died
+[04:12:15] Kurosawa Dia deixou o jogo (kickado)
+[04:12:15] Matsuura Kanan deixou o jogo (kickado)
+[04:12:15] Ayase Eli deixou o jogo (kickado)
+[04:12:15] Yazawa Nico conectou-se
+[04:12:15] Yazawa Nico juntou-se a Survivors
+[04:12:15] Suwa Nanaka conectou-se
+[04:12:15] Suwa Nanaka juntou-se a Zombies
+[04:12:15] Yazawa Nico deixou o jogo (kickado)
+[04:12:15] Sagos juntou-se a Survivors
+[04:12:17] ROUND ENDED. NEXT ROUND IN 10 SECONDS.

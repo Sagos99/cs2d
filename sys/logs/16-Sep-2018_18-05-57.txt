@@ -1,0 +1,98 @@
+CS2D 1.0.0.7 Logfile - 16 Sep 2018, 18:05:57
+
+[18:05:57] Steam: Logged in as #76561198077078199
+[18:05:57] UDP socket initialized using port 49693
+[18:05:57] U.S.G.N.: Your game version is up to date!
+[18:05:58] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[18:06:01] Cached servers added to list: 102
+[18:06:02] U.S.G.N.: Received serverlist (servers: 109)
+[18:06:12] Connecting to 189.35.105.25:32323 (using U.S.G.N. ID #15431) ...
+[18:06:12] U.S.G.N.: Ping/State 'idle' (304 ms)
+[18:06:12] "  (1x)
+[18:06:14] load map 'awp_gray'
+[18:06:14] ----- Server joined -----
+[18:06:14] [Server] Bem vindo, Sagos!
+[18:06:14] [Server] Sua USGN está autenticada como Visitante!
+[18:06:15] U.S.G.N.: Ping/State 'playing'
+[18:06:16] UnreaL. Kazuto_-: no final anuncia q vai ter a season 3
+[18:06:17] Sagos aliou-se a Equipe Terrorista
+[18:06:22] [Moderador] ANTI N | Buzzy!: a
+[18:06:23] FG.bananinha furioso *MORTO*: S
+[18:06:23] King *MORTO*: eu nao vi
+[18:06:24] [Moderador] ANTI N | Buzzy!: Vdd
+[18:06:26] Pingu killed UnreaL. Kazuto_- with AWP
+[18:06:29] coL. Kznnnn! conectou-se ao servidor
+[18:06:36] Oudson killed Pingu with Knife
+[18:06:36] Oudson deu um LAMBIDÃO em Pingu!
+[18:06:37] coL. Kznnnn! aliou-se a Equipe Contra-Terrorista
+[18:06:39] King *MORTO*: a nao agr me lembrei
+[18:06:44] UnreaL. Kazuto_- *MORTO*: é olha q faz meses q vi o filme, é ainde lembro
+[18:06:54] [Moderador] ANTI N | Buzzy!: Mas o filme podia ter sido mais trabalhado
+[18:06:55] Oudson killed 06 with AWP
+[18:07:02] UnreaL. Kazuto_-: '-'
+[18:07:05] YzY conectou-se ao servidor
+[18:07:08] King: sera qeu vai ter o 4
+[18:07:08] YzY aliou-se a Equipe Terrorista
+[18:07:10] UnreaL. Kazuto_-: o filme foi bem animado
+[18:07:14] [Moderador] ANTI N | Buzzy!: A história ficou meio cliche
+[18:07:15] Sagos killed King with AWP
+[18:07:15] Sagos XABLOU King!
+[18:07:15] YzY killed 06 with AWP
+[18:07:16] U.S.G.N.: Ping/State 'playing'
+[18:07:21] Pingu killed YzY with AWP
+[18:07:23] ANTI N | Buzzy! killed Sagos with AWP
+[18:07:23] k¦ANTI N | Buzzy!¦100¦0
+[18:07:25] [Moderador] ANTI N | Buzzy!: Tipo
+[18:07:26] Pingu killed FG.bananinha furioso with AWP
+[18:07:31] UnreaL. Kazuto_- killed coL. Kznnnn! with AWP
+[18:07:33] [Moderador] ANTI N | Buzzy!: Um cara quer vingança
+[18:07:36] King *MORTO*: e o kirito e burro
+[18:07:38] Oudson killed Pingu with AWP
+[18:07:39] [Moderador] ANTI N | Buzzy!: pq no SAO teve a vida destruida
+[18:07:44] Oudson killed ANTI N | Buzzy! with AWP
+[18:07:50] Sagos: pq o kitiro eh burro?
+[18:07:54] Sagos: kirito*
+[18:07:57] [Moderador] ANTI N | Buzzy!: Pq é o protagonista
+[18:07:59] Oudson killed coL. Kznnnn! with AWP
+[18:07:59] Oudson XABLOU coL. Kznnnn!!
+[18:08:03] 06 killed UnreaL. Kazuto_- with AWP
+[18:08:05] charlie122 conectou-se ao servidor
+[18:08:06] YzY killed Pingu with AWP
+[18:08:07] King: ele nem pega a asuna
+[18:08:10] 06 killed Sagos with AWP
+[18:08:10] k¦06¦100¦100
+[18:08:11] YzY killed King with AWP
+[18:08:13] [Moderador] ANTI N | Buzzy!: Pega sim
+[18:08:16] U.S.G.N.: Ping/State 'playing'
+[18:08:18] King *MORTO*: bem pouco
+[18:08:18] 06 killed YzY with AWP
+[18:08:21] [Moderador] ANTI N | Buzzy!: 4 vezes
+[18:08:25] Oudson killed ANTI N | Buzzy! with AWP
+[18:08:26] [Moderador] ANTI N | Buzzy!: q
+[18:08:27] FG.bananinha furioso killed 06 with AWP
+[18:08:31] YzY *MORTO*: Algo me diz
+[18:08:32] [Moderador] ANTI N | Buzzy!: 2 na primeita temp
+[18:08:35] YzY: que esse sagos
+[18:08:36] YzY: e old
+[18:08:36] [Moderador] ANTI N | Buzzy!: e 2 dps nos filmes
+[18:08:40] Oudson killed Pingu with AWP
+[18:08:40] Oudson XABLOU Pingu!
+[18:08:41] Sagos: '-'
+[18:08:47] Oudson killed ANTI N | Buzzy! with AWP
+[18:08:50] YzY killed King with AWP
+[18:08:52] 06 killed FG.bananinha furioso with AWP
+[18:08:52] ANTI N | Buzzy! tornou-se um espectador
+[18:08:53] Oudson killed 06 with AWP
+[18:08:56] Oudson killed coL. Kznnnn! with AWP
+[18:09:10] YzY killed 06 with AWP
+[18:09:10] YzY XABLOU 06!
+[18:09:10] King: anime tv?
+[18:09:12] King killed Oudson with AWP
+[18:09:14] Pingu killed YzY with AWP
+[18:09:16] coL. Kznnnn! killed FG.bananinha furioso with AWP
+[18:09:17] U.S.G.N.: Ping/State 'playing'
+[18:09:22] Pingu killed UnreaL. Kazuto_- with AWP
+[18:09:28] YzY (BROADCAST): vou mudar usgn essa ta errada
+[18:09:29] Pingu killed Sagos with AWP
+[18:09:29] k¦Pingu¦100¦100
+[18:09:30] YzY deixou o servidor

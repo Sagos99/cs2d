@@ -1,0 +1,10 @@
+©255255255Map & Script by Flacko
+©125125125Edited by Bobcat
+
+©000255000Info:
+
+©255255000Toque na bola para fazer ela andar na direção que voçê está mirando,
+©255255000Use o botão esquerdo do mouse para chute fraco e botão direito do mouse para chute forte.
+
+©000000255Bola na rede vermelha = gol dos CTs
+©255000000Bola na rede azul = gol dos TRs

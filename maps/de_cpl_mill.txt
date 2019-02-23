@@ -1,0 +1,14 @@
+de_cpl_mill - Bomb/Defuse
+by mrc (http://www.cs2d.com.br/)
+
+Counter-Terrorist: 
+
+Objective:
+
+Protect the bombspots, defuse the Bomb (C4) or eliminate the enemies.
+
+Terrorist Force:
+
+Objectives:
+
+Plant the Bomb (C4) or eliminate the enemies.

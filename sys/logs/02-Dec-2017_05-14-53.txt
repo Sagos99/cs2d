@@ -1,0 +1,836 @@
+CS2D 1.0.0.5 Logfile - 02 Dec 2017, 05:14:53
+
+[05:14:53] UDP socket initialized using port 36963
+[05:14:54] U.S.G.N.: Your game version is up to date!
+[05:14:54] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[05:14:56] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[05:14:56] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[05:15:00] Starting server...
+[05:15:00] load map 'Battle Royale'
+[05:15:00] ----- Server started -----
+[05:15:01] Lua: Adding function 'falar' to hook 'say'
+[05:15:01] Lua: Adding function 'segundos' to hook 'second'
+[05:15:01] Lua: Adding function 'coletar' to hook 'walkover'
+[05:15:01] Lua: Adding function 'atacar' to hook 'attack'
+[05:15:01] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:15:01] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:15:01] Lua: Adding function 'mymenu' to hook 'menu'
+[05:15:01] Lua: Adding function 'ataque' to hook 'hit'
+[05:15:01] Lua: Adding function 'dropar' to hook 'drop'
+[05:15:01] Lua: Adding function 'mover' to hook 'movetile'
+[05:15:01] Lua: Adding function 'sempre' to hook 'always'
+[05:15:01] U.S.G.N.: Server added to serverlist
+[05:15:01] U.S.G.N.: Ping/State 'playing'
+[05:15:02] Sagos juntou-se a Countra-Terrorista Forças
+[05:15:29] Servidor Desligado
+[05:15:29] U.S.G.N.: Server removed from serverlist
+[05:15:29] ----- Disconnected -----
+[05:15:30] U.S.G.N.: Ping/State 'idle' (272 ms)
+[05:15:42] Starting server...
+[05:15:42] load map 'Battle Royale'
+[05:15:43] ----- Server started -----
+[05:15:43] Lua: Adding function 'falar' to hook 'say'
+[05:15:43] Lua: Adding function 'segundos' to hook 'second'
+[05:15:43] Lua: Adding function 'coletar' to hook 'walkover'
+[05:15:43] Lua: Adding function 'atacar' to hook 'attack'
+[05:15:43] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:15:43] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:15:43] Lua: Adding function 'mymenu' to hook 'menu'
+[05:15:43] Lua: Adding function 'ataque' to hook 'hit'
+[05:15:43] Lua: Adding function 'dropar' to hook 'drop'
+[05:15:43] Lua: Adding function 'mover' to hook 'movetile'
+[05:15:43] Lua: Adding function 'sempre' to hook 'always'
+[05:15:43] Sagos juntou-se a Countra-Terrorista Forças
+[05:15:44] U.S.G.N.: Server added to serverlist
+[05:15:47] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[05:16:29] U.S.G.N.: Serverlist entry updated
+[05:17:10] ----- Mapchange -----
+[05:17:10] Starting server...
+[05:17:10] load map 'con_sandbox'
+[05:17:10] ----- Server started -----
+[05:17:10] Lua: Adding function 'ativar_construcao' to hook 'build'
+[05:17:10] Lua: Adding function 'selecionar_area' to hook 'serveraction'
+[05:17:10] Lua: Adding function 'receber_valores' to hook 'clientdata'
+[05:17:11] U.S.G.N.: Serverlist entry updated
+[05:17:12] Sagos juntou-se a Countra-Terrorista Forças
+[05:17:57] U.S.G.N.: Serverlist entry updated
+[05:18:42] "  (1x)
+[05:19:27] "  (1x)
+[05:19:46] generating stats...
+[05:19:46] stats generated in 1 ms!
+[05:20:13] U.S.G.N.: Serverlist entry updated
+[05:20:58] "  (1x)
+[05:21:44] "  (1x)
+[05:22:16] U.S.G.N.: Paulo Henrique (170.178.173.158) joining with U.S.G.N. ID #15431 - verifying...
+[05:22:17] U.S.G.N.: 170.178.173.158 is using U.S.G.N. ID #81347
+[05:22:29] U.S.G.N.: Serverlist entry updated
+[05:22:37] U.S.G.N.: Paulo Henrique (170.178.173.158) joining with U.S.G.N. ID #15431 - verifying...
+[05:22:37] U.S.G.N.: 170.178.173.158 is using U.S.G.N. ID #81347
+[05:22:39] U.S.G.N.: Paulo Henrique (170.178.173.158) joining with U.S.G.N. ID #15431 - verifying...
+[05:22:40] U.S.G.N.: 170.178.173.158 is using U.S.G.N. ID #81347
+[05:23:09] U.S.G.N.: Paulo Henrique (179.179.124.192) joining with U.S.G.N. ID #15431 - verifying...
+[05:23:10] U.S.G.N.: 179.179.124.192 is NOT LOGGED IN!
+[05:23:15] U.S.G.N.: Serverlist entry updated
+[05:23:17] U.S.G.N.: Paulo Henrique (179.179.124.192) joining with U.S.G.N. ID #15431 - verifying...
+[05:23:18] U.S.G.N.: 179.179.124.192 is NOT LOGGED IN!
+[05:23:36] Paulo Henrique conectou-se
+[05:23:36] Paulo Henrique is using IP 179.179.124.192:60906 and no U.S.G.N. ID
+[05:23:41] Paulo Henrique deixou o jogo
+[05:23:57] U.S.G.N.: Paulo Henrique (179.179.124.192) joining with U.S.G.N. ID #15431 - verifying...
+[05:23:57] U.S.G.N.: 179.179.124.192 is NOT LOGGED IN!
+[05:24:00] U.S.G.N.: Serverlist entry updated
+[05:24:38] New mp_recoil setting will take effect after the mapchange!
+[05:24:45] U.S.G.N.: Serverlist entry updated
+[05:24:46] generating stats...
+[05:24:46] stats generated in 2 ms!
+[05:24:49] force lighting ENABLED
+[05:24:56] force lighting DISABLED
+[05:25:31] U.S.G.N.: Serverlist entry updated
+[05:26:16] "  (1x)
+[05:27:02] "  (1x)
+[05:27:47] "  (1x)
+[05:28:32] "  (1x)
+[05:29:03] U.S.G.N.: Paulo Henrique (170.178.173.158) joining with U.S.G.N. ID #15431 - verifying...
+[05:29:04] U.S.G.N.: 170.178.173.158 is using U.S.G.N. ID #81347
+[05:29:18] U.S.G.N.: Serverlist entry updated
+[05:29:46] generating stats...
+[05:29:46] stats generated in 1 ms!
+[05:30:03] U.S.G.N.: Serverlist entry updated
+[05:30:35] U.S.G.N.: Paulo Henrique (170.178.173.158) joining with U.S.G.N. ID #15431 - verifying...
+[05:30:35] U.S.G.N.: 170.178.173.158 is using U.S.G.N. ID #81347
+[05:30:48] U.S.G.N.: Serverlist entry updated
+[05:31:03] Paulo Henrique conectou-se
+[05:31:03] Paulo Henrique is using IP 170.178.173.158:36963 and U.S.G.N. ID #15431
+[05:31:04] U.S.G.N.: 170.178.173.158 is using U.S.G.N. ID #81347
+[05:31:04] U.S.G.N.: Paulo Henrique is NOT using U.S.G.N. ID #15431!
+[05:31:06] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[05:31:11] Paulo Henrique: olha minha usgn
+[05:31:21] Sagos: ss
+[05:31:24] Paulo Henrique: foi?
+[05:31:25] Sagos: é a minha
+[05:31:29] Paulo Henrique: kkkkkkkkkkkkkkk
+[05:31:30] Sagos: eu ja tinha feito isso uma vez
+[05:31:34] U.S.G.N.: Serverlist entry updated
+[05:31:39] Paulo Henrique: mais vc logava no sv dos outros?
+[05:31:39] Sagos: mas é zuado pq
+[05:31:45] Sagos: n tem como
+[05:32:02] Sagos: n tem como pq
+[05:32:07] Sagos: por padrao os sv vem com
+[05:32:09] Sagos: sv_checkusgnlogin 1
+[05:32:14] Sagos: ai n da pra gente muda
+[05:32:18] Sagos: só se colocar
+[05:32:19] U.S.G.N.: Serverlist entry updated
+[05:32:20] Sagos: sv_checkusgnlogin 0
+[05:32:28] Paulo Henrique: mesmo assim e uma falha
+[05:32:32] Paulo Henrique: eu reportei pro dc kkkkkkk
+[05:32:38] Sagos: n acho uma falha
+[05:32:44] Paulo Henrique: é sim
+[05:32:45] Sagos: pq o unico sv q vc consegue entra é o meu
+[05:32:54] Paulo Henrique: pior q nao
+[05:32:56] Paulo Henrique: eu consigiu entra em um ai
+[05:33:01] Paulo Henrique: eu carreguei ate o stats dos script
+[05:33:03] Paulo Henrique: kkkkkk
+[05:33:04] U.S.G.N.: Serverlist entry updated
+[05:33:18] Paulo Henrique: vo destiva
+[05:33:20] Paulo Henrique: minha vpn
+[05:33:23] Paulo Henrique: olha o ping
+[05:33:37] Sagos: kkkk
+[05:33:50] U.S.G.N.: Serverlist entry updated
+[05:34:06] Paulo Henrique 2 conectou-se
+[05:34:06] Paulo Henrique 2 is using IP 179.179.124.192:36963 and U.S.G.N. ID #15431
+[05:34:07] U.S.G.N.: 179.179.124.192 is NOT LOGGED IN!
+[05:34:07] U.S.G.N.: Paulo Henrique 2 is NOT using U.S.G.N. ID #15431!
+[05:34:10] Paulo Henrique 2 juntou-se a Terrorista Forças
+[05:34:14] Paulo Henrique 2: ae
+[05:34:16] Paulo Henrique 2: olha a diferença de ping
+[05:34:28] Sagos: kkkk
+[05:34:32] Paulo Henrique 2: ei sera q da pra bota texto?
+[05:34:35] U.S.G.N.: Serverlist entry updated
+[05:34:41] Paulo Henrique 2: da nao
+[05:34:42] Sagos: texto aonde?
+[05:34:46] generating stats...
+[05:34:46] stats generated in 1 ms!
+[05:34:49] Paulo Henrique 2: no lugar do numero
+[05:34:53] Sagos: n da
+[05:34:57] Sagos: é do tipo inteiro
+[05:34:59] Paulo Henrique 2: eu tot entando criar
+[05:35:01] Paulo Henrique 2: um pra descubri
+[05:35:03] Paulo Henrique 2: as rcon
+[05:35:20] U.S.G.N.: Serverlist entry updated
+[05:35:35] Sagos: eu tentei e n consegui
+[05:35:39] Sagos: se vc conseguir é GG
+[05:36:03] Paulo Henrique 2: consigui "hackear" usgn
+[05:36:05] Paulo Henrique 2: pq nao rcon kk
+[05:36:06] U.S.G.N.: Serverlist entry updated
+[05:36:15] Paulo Henrique 2 died
+[05:36:15] Paulo Henrique 2 juntou-se a Countra-Terrorista Forças
+[05:36:39] Shizuo conectou-se
+[05:36:39] Shizuo is using IP 186.249.242.133:60102 and no U.S.G.N. ID
+[05:36:51] U.S.G.N.: Serverlist entry updated
+[05:37:02] Shizuo juntou-se a Terrorista Forças
+[05:37:19] Paulo Henrique 2 deixou o jogo
+[05:37:25] U.S.G.N.: Paulo Henrique (179.179.124.192) joining with U.S.G.N. ID #37209 - verifying...
+[05:37:26] U.S.G.N.: 179.179.124.192 is NOT LOGGED IN!
+[05:37:36] U.S.G.N.: Paulo Henrique (179.179.124.192) joining with U.S.G.N. ID #37209 - verifying...
+[05:37:37] U.S.G.N.: Serverlist entry updated
+[05:37:38] U.S.G.N.: 179.179.124.192 is NOT LOGGED IN!
+[05:37:45] Paulo Henrique conectou-se
+[05:37:45] Paulo Henrique is using IP 179.179.124.192:36963 and U.S.G.N. ID #37209
+[05:37:46] U.S.G.N.: 179.179.124.192 is NOT LOGGED IN!
+[05:37:46] U.S.G.N.: Paulo Henrique is NOT using U.S.G.N. ID #37209!
+[05:37:46] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[05:37:48] Paulo Henrique: ae
+[05:37:51] Paulo Henrique: to na usgn do smoker
+[05:37:59] Paulo Henrique: qual usgn vc ve ae logada?
+[05:38:06] Paulo Henrique: pra eu printa pro smoker kk
+[05:38:09] Paulo Henrique: digita ela ae
+[05:38:10] Sagos killed Shizuo with Turret
+[05:38:14] Sagos: 37209
+[05:38:22] U.S.G.N.: Serverlist entry updated
+[05:38:42] Paulo Henrique: kkkkkkkkkkkkk
+[05:38:44] Paulo Henrique: ele ta bestinha
+[05:39:03] Paulo Henrique: rank
+[05:39:03] r¦Paulo Henrique¦40 de 69¦0,0,0,0.00,0 s
+[05:39:07] U.S.G.N.: Serverlist entry updated
+[05:39:16] Paulo Henrique: funfa tudo slc
+[05:39:46] generating stats...
+[05:39:46] stats generated in 1 ms!
+[05:39:47] Player conectou-se
+[05:39:47] Player is using IP 190.48.56.29:55460 and U.S.G.N. ID #36526
+[05:39:49] U.S.G.N.: 190.48.56.29 is using U.S.G.N. ID #36526
+[05:39:49] U.S.G.N.: Player is using U.S.G.N. ID #36526
+[05:39:53] U.S.G.N.: Serverlist entry updated
+[05:39:54] Player juntou-se a Terrorista Forças
+[05:40:38] U.S.G.N.: Serverlist entry updated
+[05:41:23] "  (1x)
+[05:42:09] "  (1x)
+[05:42:24] Sagos killed Shizuo with M4A1
+[05:42:26] ERROR: Shizuo tries to build without having a wrench!
+[05:42:54] U.S.G.N.: Serverlist entry updated
+[05:43:09] Sagos killed Shizuo with AK-47
+[05:43:27] Paulo Henrique: tsagos
+[05:43:32] Paulo Henrique: vamo ve junto 
+[05:43:34] Paulo Henrique: pessquisa pra ve
+[05:43:36] Paulo Henrique: como faz o do rcon?
+[05:43:39] U.S.G.N.: Serverlist entry updated
+[05:43:53] Sagos: n sei mexer com string no cheat engine
+[05:43:59] Paulo Henrique: a
+[05:44:25] U.S.G.N.: Serverlist entry updated
+[05:44:26] Sagos killed Shizuo with AK-47
+[05:44:46] generating stats...
+[05:44:46] stats generated in 1 ms!
+[05:45:03] Sagos killed Shizuo with AK-47
+[05:45:10] U.S.G.N.: Serverlist entry updated
+[05:45:43] Paulo Henrique: ei
+[05:45:48] Paulo Henrique: vamo tentar fazer um entao
+[05:45:51] Paulo Henrique: pra ficar como servidor
+[05:45:56] U.S.G.N.: Serverlist entry updated
+[05:46:03] Sagos: fazer o q?
+[05:46:06] Paulo Henrique: aperta tab
+[05:46:08] Paulo Henrique: tu ta como server
+[05:46:11] Paulo Henrique killed Shizuo with M249
+[05:46:13] Paulo Henrique: aia cho q libera tlg
+[05:46:33] Sagos killed Shizuo with Knife
+[05:46:39] Shizuo killed Paulo Henrique with Knife
+[05:46:41] U.S.G.N.: Serverlist entry updated
+[05:46:47] Teleport falhou! Sem saída encontrada!
+[05:46:48] "  (1x)
+[05:46:54] Sagos killed Shizuo with AK-47
+[05:47:17] Sagos killed Player with AK-47
+[05:47:26] U.S.G.N.: Serverlist entry updated
+[05:47:34] Paulo Henrique: a
+[05:47:48] Sagos killed Player with AK-47
+[05:48:12] U.S.G.N.: Serverlist entry updated
+[05:48:12] Sagos killed Player with AK-47
+[05:48:57] U.S.G.N.: Serverlist entry updated
+[05:49:15] Sagos killed Player with AK-47
+[05:49:42] U.S.G.N.: Serverlist entry updated
+[05:49:45] Paulo Henrique: mano
+[05:49:46] generating stats...
+[05:49:46] stats generated in 1 ms!
+[05:49:46] Paulo Henrique: vou botar minha usgn
+[05:49:49] Paulo Henrique: q o cara me hackeo
+[05:49:51] Paulo Henrique: deativa o check
+[05:49:53] Paulo Henrique deixou o jogo
+[05:49:58] Paulo Henrique conectou-se
+[05:49:58] Paulo Henrique is using IP 179.179.124.192:36963 and U.S.G.N. ID #57596
+[05:49:59] U.S.G.N.: 179.179.124.192 is NOT LOGGED IN!
+[05:49:59] U.S.G.N.: Paulo Henrique is NOT using U.S.G.N. ID #57596!
+[05:50:00] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[05:50:02] Paulo Henrique: ala
+[05:50:08] Paulo Henrique: 57k
+[05:50:15] Sagos: 57596
+[05:50:21] Paulo Henrique: s
+[05:50:28] U.S.G.N.: Serverlist entry updated
+[05:50:39] Player killed Paulo Henrique with Turret
+[05:50:43] Paulo Henrique deixou o jogo
+[05:51:13] U.S.G.N.: Serverlist entry updated
+[05:51:58] "  (1x)
+[05:52:44] "  (1x)
+[05:53:29] "  (1x)
+[05:54:15] "  (1x)
+[05:54:46] generating stats...
+[05:54:46] stats generated in 1 ms!
+[05:55:00] U.S.G.N.: Serverlist entry updated
+[05:55:35] Sagos killed Player with Turret
+[05:55:35] ERROR: Player tries to build without having a wrench!
+[05:55:45] U.S.G.N.: Serverlist entry updated
+[05:56:19] Sagos killed Player with M4A1
+[05:56:31] U.S.G.N.: Serverlist entry updated
+[05:57:03] Paulo Henrique conectou-se
+[05:57:03] Paulo Henrique is using IP 179.179.124.192:1025 and no U.S.G.N. ID
+[05:57:05] Paulo Henrique juntou-se a Terrorista Forças
+[05:57:15] Sagos killed Shizuo with M4A1
+[05:57:16] U.S.G.N.: Serverlist entry updated
+[05:57:29] Paulo Henrique: ta foda criar em mano kk
+[05:57:43] Shizuo: neh
+[05:57:48] Sagos: kkkkkk
+[05:57:55] Sagos killed Paulo Henrique with M4A1
+[05:57:57] Paulo Henrique deixou o jogo
+[05:58:01] U.S.G.N.: Serverlist entry updated
+[05:58:04] milkydash3 conectou-se
+[05:58:04] milkydash3 is using IP 176.113.227.123:54342 and no U.S.G.N. ID
+[05:58:11] Shizuo: eita porra 
+[05:58:12] milkydash3 juntou-se a Countra-Terrorista Forças
+[05:58:33] Shizuo: pra que essa agresividade 
+[05:58:47] U.S.G.N.: Serverlist entry updated
+[05:59:11] Player killed milkydash3 with Turret
+[05:59:32] U.S.G.N.: Serverlist entry updated
+[05:59:46] generating stats...
+[05:59:46] stats generated in 1 ms!
+[06:00:16] Sagos killed Shizuo with M4A1
+[06:00:17] U.S.G.N.: Serverlist entry updated
+[06:00:33] Player killed milkydash3 with Turret
+[06:01:03] U.S.G.N.: Serverlist entry updated
+[06:01:07] Sagos killed Shizuo with Turret
+[06:01:48] U.S.G.N.: Serverlist entry updated
+[06:01:54] iKinZe conectou-se
+[06:01:54] iKinZe is using IP 170.238.51.99:64648 and U.S.G.N. ID #68300
+[06:01:55] U.S.G.N.: 170.238.51.99 is using U.S.G.N. ID #68300
+[06:01:55] U.S.G.N.: iKinZe is using U.S.G.N. ID #68300
+[06:01:58] iKinZe juntou-se a Countra-Terrorista Forças
+[06:02:34] U.S.G.N.: Serverlist entry updated
+[06:02:51] Sagos killed Shizuo with Turret
+[06:02:57] Player killed iKinZe with Turret
+[06:02:59] iKinZe deixou o jogo
+[06:03:10] Player killed milkydash3 with AK-47
+[06:03:19] U.S.G.N.: Serverlist entry updated
+[06:04:04] Sagos killed Shizuo with HE
+[06:04:04] U.S.G.N.: Serverlist entry updated
+[06:04:38] Sagos killed Shizuo with Turret
+[06:04:44] Sagos: rank
+[06:04:44] r¦Sagos¦7 de 73¦21,21,1,21.00,1 h 14 m
+[06:04:46] generating stats...
+[06:04:46] stats generated in 1 ms!
+[06:04:50] U.S.G.N.: Serverlist entry updated
+[06:05:16] Player killed milkydash3 with Turret
+[06:05:27] Sagos killed Player with M4A1
+[06:05:30] Sagos killed Shizuo with M4A1
+[06:05:35] U.S.G.N.: Serverlist entry updated
+[06:05:57] Sagos killed Player with M4A1
+[06:06:13] Sagos killed Shizuo with Turret
+[06:06:20] U.S.G.N.: Serverlist entry updated
+[06:06:35] Sagos killed Player with M4A1
+[06:07:01] Player killed milkydash3 with AK-47
+[06:07:06] U.S.G.N.: Serverlist entry updated
+[06:07:45] Sagos killed Player with Turret
+[06:07:51] U.S.G.N.: Serverlist entry updated
+[06:08:07] Sagos killed Player with M4A1
+[06:08:25] Teleport falhou! Sem saída encontrada!
+[06:08:26] "  (1x)
+[06:08:36] U.S.G.N.: Serverlist entry updated
+[06:08:39] Player died
+[06:08:39] Player juntou-se a Countra-Terrorista Forças
+[06:09:14] milkydash3 killed Shizuo with M249
+[06:09:22] U.S.G.N.: Serverlist entry updated
+[06:09:46] Shizuo killed milkydash3 with AK-47
+[06:09:46] generating stats...
+[06:09:46] stats generated in 1 ms!
+[06:10:07] U.S.G.N.: Serverlist entry updated
+[06:10:52] "  (1x)
+[06:11:35] milkydash3: help
+[06:11:38] U.S.G.N.: Serverlist entry updated
+[06:11:45] Sagos: wait
+[06:12:03] milkydash3: thank you
+[06:12:09] Player: es
+[06:12:23] U.S.G.N.: Serverlist entry updated
+[06:12:48] Player died
+[06:12:48] Player juntou-se a Terrorista Forças
+[06:12:50] Player juntou-se a Countra-Terrorista Forças
+[06:13:08] Player: nice
+[06:13:09] U.S.G.N.: Serverlist entry updated
+[06:13:54] "  (1x)
+[06:14:08] milkydash3 killed Shizuo with M249
+[06:14:08] Shizuo killed milkydash3 with Turret
+[06:14:31] Shizuo killed Player with Turret
+[06:14:39] Player deixou o jogo
+[06:14:39] U.S.G.N.: Serverlist entry updated
+[06:14:46] generating stats...
+[06:14:46] stats generated in 1 ms!
+[06:14:48] Sagos killed Shizuo with HE
+[06:14:56] milkydash3: lol
+[06:15:25] U.S.G.N.: Serverlist entry updated
+[06:15:32] Sagos killed Shizuo with Turret
+[06:15:36] Sagos killed Shizuo with M4A1
+[06:15:40] Shizuo killed Sagos with Turret
+[06:15:44] Sagos: aaah
+[06:15:46] Sagos: morri
+[06:15:52] Sagos killed Shizuo with Turret
+[06:15:56] milkydash3 killed Shizuo with M4A1
+[06:16:10] U.S.G.N.: Serverlist entry updated
+[06:16:12] Shizuo killed milkydash3 with Turret
+[06:16:20] Sagos died
+[06:16:20] Sagos juntou-se aos espectadores
+[06:16:30] Sagos juntou-se a Terrorista Forças
+[06:16:32] Shizuo deixou o jogo
+[06:16:47] Sagos: hey
+[06:16:55] U.S.G.N.: Serverlist entry updated
+[06:16:59] Shizuo conectou-se
+[06:16:59] Shizuo is using IP 186.249.242.133:60102 and no U.S.G.N. ID
+[06:17:02] Sagos: where r u from?
+[06:17:10] U.S.G.N.: Player (190.48.56.29) joining with U.S.G.N. ID #36526 - verifying...
+[06:17:12] U.S.G.N.: 190.48.56.29 is using U.S.G.N. ID #36526
+[06:17:12] Player conectou-se
+[06:17:12] Player is using IP 190.48.56.29:54854 and U.S.G.N. ID #36526
+[06:17:16] Player juntou-se a Terrorista Forças
+[06:17:19] Shizuo juntou-se a Terrorista Forças
+[06:17:26] Sagos died
+[06:17:26] Sagos juntou-se a Countra-Terrorista Forças
+[06:17:28] Player died
+[06:17:28] Player juntou-se a Countra-Terrorista Forças
+[06:17:41] U.S.G.N.: Serverlist entry updated
+[06:17:46] Player: dont hack dude
+[06:17:54] Sagos: i'm no hack
+[06:17:58] Sagos: i'm adm
+[06:17:59] milkydash3: yes dont hack
+[06:18:05] Player: oh
+[06:18:09] Player: really
+[06:18:11] milkydash3: yyyyyyyy
+[06:18:20] Player: sorry
+[06:18:26] U.S.G.N.: Serverlist entry updated
+[06:18:38] milkydash3 killed Shizuo with M249
+[06:18:39] shpongle conectou-se
+[06:18:39] shpongle is using IP 84.47.129.169:20248 and no U.S.G.N. ID
+[06:18:59] Sagos: Player 
+[06:19:03] Sagos: where r u from?
+[06:19:03] Player died
+[06:19:03] Player juntou-se a Terrorista Forças
+[06:19:09] Player: argentina
+[06:19:11] U.S.G.N.: Serverlist entry updated
+[06:19:14] Sagos: ^^
+[06:19:15] Player: u?
+[06:19:17] Sagos: brazil
+[06:19:26] Player: sim
+[06:19:31] Player: oi hermano
+[06:19:36] milkydash3: Russia
+[06:19:45] milkydash3 killed Shizuo with M249
+[06:19:46] generating stats...
+[06:19:46] stats generated in 1 ms!
+[06:19:57] U.S.G.N.: Serverlist entry updated
+[06:19:58] Shizuo killed milkydash3 with AK-47
+[06:19:59] Player: cyka blyat
+[06:20:18] Player: what does cyka blyat means?
+[06:20:24] Shizuo: ksksksk
+[06:20:42] U.S.G.N.: Serverlist entry updated
+[06:21:14] Player: xd
+[06:21:28] U.S.G.N.: Serverlist entry updated
+[06:22:13] "  (1x)
+[06:22:58] "  (1x)
+[06:23:16] Paulo Henrique conectou-se
+[06:23:16] Paulo Henrique is using IP 179.179.124.192:1025 and no U.S.G.N. ID
+[06:23:17] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[06:23:35] Sagos: xD
+[06:23:37] Player: kkkkkkkkkkkkkkkkk
+[06:23:44] U.S.G.N.: Serverlist entry updated
+[06:24:04] Shizuo killed himself with Barbed Wire
+[06:24:28] milkydash3 killed Shizuo with AWP
+[06:24:29] ERROR: Shizuo tries to build without having a wrench!
+[06:24:29] U.S.G.N.: Serverlist entry updated
+[06:24:46] generating stats...
+[06:24:46] stats generated in 1 ms!
+[06:24:50] Shizuo killed milkydash3 with AWP
+[06:25:14] U.S.G.N.: Serverlist entry updated
+[06:25:25] Paulo Henrique deixou o jogo
+[06:25:58] milkydash3 killed Shizuo with P228
+[06:26:00] U.S.G.N.: Serverlist entry updated
+[06:26:13] Shizuo killed milkydash3 with AK-47
+[06:26:45] U.S.G.N.: Serverlist entry updated
+[06:27:22] milkydash3 killed Shizuo with M249
+[06:27:30] U.S.G.N.: Serverlist entry updated
+[06:27:38] Shizuo killed milkydash3 with M249
+[06:27:43] milkydash3 deixou o jogo
+[06:28:08] Sagos: vou desligar o server
+[06:28:16] U.S.G.N.: Serverlist entry updated
+[06:28:22] Player: vai dormir?
+[06:28:37] Sagos: n
+[06:29:01] U.S.G.N.: Serverlist entry updated
+[06:29:44] [b]Gladiator conectou-se
+[06:29:44] [b]Gladiator juntou-se a Terrorista Forças
+[06:29:44] [b]m00h conectou-se
+[06:29:44] [b]m00h juntou-se a Countra-Terrorista Forças
+[06:29:44] [b]PlayWithPentablet conectou-se
+[06:29:44] [b]PlayWithPentablet juntou-se a Terrorista Forças
+[06:29:44] [b]yeah conectou-se
+[06:29:44] [b]yeah juntou-se a Countra-Terrorista Forças
+[06:29:44] [b]Mr Mafia conectou-se
+[06:29:44] [b]Mr Mafia juntou-se a Terrorista Forças
+[06:29:44] [b]Jon conectou-se
+[06:29:44] [b]Jon juntou-se a Countra-Terrorista Forças
+[06:29:45] [b]D0om conectou-se
+[06:29:45] [b]D0om juntou-se a Terrorista Forças
+[06:29:45] [b]Mac Man conectou-se
+[06:29:45] [b]Mac Man juntou-se a Countra-Terrorista Forças
+[06:29:45] [b]TheMachine conectou-se
+[06:29:45] [b]TheMachine juntou-se a Countra-Terrorista Forças
+[06:29:45] [b]Nightblaster conectou-se
+[06:29:45] [b]Nightblaster juntou-se a Terrorista Forças
+[06:29:45] [b]Scrap conectou-se
+[06:29:45] [b]Scrap juntou-se a Terrorista Forças
+[06:29:45] [b]Linux Lover conectou-se
+[06:29:45] [b]Linux Lover juntou-se a Countra-Terrorista Forças
+[06:29:45] [b]Supreme conectou-se
+[06:29:45] [b]Supreme juntou-se a Terrorista Forças
+[06:29:45] [b]Jack conectou-se
+[06:29:45] [b]Jack juntou-se a Countra-Terrorista Forças
+[06:29:45] [b]MyAss conectou-se
+[06:29:45] [b]MyAss juntou-se a Terrorista Forças
+[06:29:45] [b]-_- conectou-se
+[06:29:45] [b]-_- juntou-se a Countra-Terrorista Forças
+[06:29:45] [b]Player conectou-se
+[06:29:45] [b]Player juntou-se a Terrorista Forças
+[06:29:45] [b]Blowball conectou-se
+[06:29:45] [b]Blowball juntou-se a Countra-Terrorista Forças
+[06:29:45] [b]fucktard conectou-se
+[06:29:45] [b]fucktard juntou-se a Terrorista Forças
+[06:29:45] [b]Robo conectou-se
+[06:29:45] [b]Robo juntou-se a Countra-Terrorista Forças
+[06:29:46] [b]WAR! conectou-se
+[06:29:46] [b]WAR! juntou-se a Terrorista Forças
+[06:29:46] [b]lawlz conectou-se
+[06:29:46] [b]lawlz juntou-se a Countra-Terrorista Forças
+[06:29:46] [b]CS2D rocks! conectou-se
+[06:29:46] [b]CS2D rocks! juntou-se a Terrorista Forças
+[06:29:46] [b]WTF conectou-se
+[06:29:46] [b]WTF juntou-se a Countra-Terrorista Forças
+[06:29:46] [b]Infernal conectou-se
+[06:29:46] [b]Infernal juntou-se a Terrorista Forças
+[06:29:46] [b]Rogue conectou-se
+[06:29:46] [b]Rogue juntou-se a Countra-Terrorista Forças
+[06:29:46] [b]Tom conectou-se
+[06:29:46] [b]Tom juntou-se a Terrorista Forças
+[06:29:46] [b]Keksmeister conectou-se
+[06:29:46] [b]Keksmeister juntou-se a Countra-Terrorista Forças
+[06:29:46] [b]CS2D.com conectou-se
+[06:29:46] [b]CS2D.com juntou-se a Terrorista Forças
+[06:29:46] generating stats...
+[06:29:46] stats generated in 1 ms!
+[06:29:47] U.S.G.N.: Serverlist entry updated
+[06:29:50] Player: xd
+[06:29:56] Sagos killed [b]PlayWithPentablet with Laser
+[06:30:01] Sagos killed [b]Player with Laser
+[06:30:01] Sagos killed [b]Mr Mafia with Laser
+[06:30:01] Sagos killed [b]Supreme with Laser
+[06:30:02] Sagos killed [b]Gladiator with Laser
+[06:30:06] Sagos killed [b]MyAss with Laser
+[06:30:09] Sagos killed [b]CS2D rocks! with Laser
+[06:30:11] [b]Tom killed Sagos with AK-47
+[06:30:12] Shizuo: what
+[06:30:15] [b]Gladiator deixou o jogo (kickado)
+[06:30:15] [b]m00h deixou o jogo (kickado)
+[06:30:15] [b]PlayWithPentablet deixou o jogo (kickado)
+[06:30:15] [b]yeah deixou o jogo (kickado)
+[06:30:15] [b]Mr Mafia deixou o jogo (kickado)
+[06:30:15] [b]Jon deixou o jogo (kickado)
+[06:30:15] [b]D0om deixou o jogo (kickado)
+[06:30:15] [b]Mac Man deixou o jogo (kickado)
+[06:30:15] [b]TheMachine deixou o jogo (kickado)
+[06:30:15] [b]Nightblaster deixou o jogo (kickado)
+[06:30:15] [b]Scrap deixou o jogo (kickado)
+[06:30:15] [b]Linux Lover deixou o jogo (kickado)
+[06:30:15] [b]Supreme deixou o jogo (kickado)
+[06:30:15] [b]Jack deixou o jogo (kickado)
+[06:30:15] [b]MyAss deixou o jogo (kickado)
+[06:30:15] [b]-_- deixou o jogo (kickado)
+[06:30:15] [b]Player deixou o jogo (kickado)
+[06:30:15] [b]Blowball deixou o jogo (kickado)
+[06:30:15] [b]fucktard deixou o jogo (kickado)
+[06:30:15] [b]Robo deixou o jogo (kickado)
+[06:30:15] [b]WAR! deixou o jogo (kickado)
+[06:30:15] [b]lawlz deixou o jogo (kickado)
+[06:30:15] [b]CS2D rocks! deixou o jogo (kickado)
+[06:30:15] [b]WTF deixou o jogo (kickado)
+[06:30:15] [b]Infernal deixou o jogo (kickado)
+[06:30:15] [b]Rogue deixou o jogo (kickado)
+[06:30:15] [b]Tom deixou o jogo (kickado)
+[06:30:15] [b]Keksmeister deixou o jogo (kickado)
+[06:30:15] [b]CS2D.com deixou o jogo (kickado)
+[06:30:32] U.S.G.N.: Serverlist entry updated
+[06:31:05] Shizuo killed himself with Barbed Wire
+[06:31:18] U.S.G.N.: Serverlist entry updated
+[06:31:18] Shizuo killed himself with Barbed Wire
+[06:31:25] U.S.G.N.: Paulo Henrique (179.179.124.192) joining with U.S.G.N. ID #81347 - verifying...
+[06:31:26] U.S.G.N.: 179.179.124.192 is using U.S.G.N. ID #81347
+[06:31:26] Paulo Henrique conectou-se
+[06:31:26] Paulo Henrique is using IP 179.179.124.192:1025 and U.S.G.N. ID #81347
+[06:31:27] Paulo Henrique juntou-se a Terrorista Forças
+[06:31:34] Shizuo killed himself with Barbed Wire
+[06:31:47] Shizuo: kjklklklklkl
+[06:31:50] milkydash3 conectou-se
+[06:31:50] milkydash3 is using IP 176.113.227.123:54342 and no U.S.G.N. ID
+[06:32:01] milkydash3 juntou-se a Terrorista Forças
+[06:32:03] U.S.G.N.: Serverlist entry updated
+[06:32:10] Paulo Henrique deixou o jogo
+[06:32:47] Sagos killed milkydash3 with Laser
+[06:32:49] U.S.G.N.: Serverlist entry updated
+[06:33:08] U.S.G.N.: Paulo Henrique (179.179.124.192) joining with U.S.G.N. ID #81347 - verifying...
+[06:33:09] U.S.G.N.: 179.179.124.192 is using U.S.G.N. ID #81347
+[06:33:09] Paulo Henrique conectou-se
+[06:33:09] Paulo Henrique is using IP 179.179.124.192:1025 and U.S.G.N. ID #81347
+[06:33:10] Paulo Henrique juntou-se a Terrorista Forças
+[06:33:12] Sagos killed milkydash3 with Laser
+[06:33:33] Sagos: paulo
+[06:33:34] U.S.G.N.: Serverlist entry updated
+[06:33:35] Sagos: conseguiu?
+[06:33:36] Paulo Henrique: s
+[06:33:41] Sagos: qual meu rcon?
+[06:33:45] Paulo Henrique: pea
+[06:34:07] Paulo Henrique: olha chat
+[06:34:20] U.S.G.N.: Serverlist entry updated
+[06:34:27] VerSay {G} conectou-se
+[06:34:27] VerSay {G} is using IP 185.146.212.168:51320 and no U.S.G.N. ID
+[06:34:35] milkydash3 deixou o jogo
+[06:34:35] Paulo Henrique: olha la
+[06:34:36] VerSay {G} juntou-se a Terrorista Forças
+[06:34:46] generating stats...
+[06:34:46] stats generated in 1 ms!
+[06:35:05] U.S.G.N.: Serverlist entry updated
+[06:35:09] Paulo Henrique deixou o jogo
+[06:35:12] Sagos killed VerSay {G} with Grenade Launcher
+[06:35:16] VerSay {G} deixou o jogo
+[06:35:24] U.S.G.N.: Paulo Henrique (179.179.124.192) joining with U.S.G.N. ID #81347 - verifying...
+[06:35:25] U.S.G.N.: 179.179.124.192 is using U.S.G.N. ID #81347
+[06:35:25] Paulo Henrique conectou-se
+[06:35:25] Paulo Henrique is using IP 179.179.124.192:53112 and U.S.G.N. ID #81347
+[06:35:27] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[06:35:50] U.S.G.N.: Serverlist entry updated
+[06:35:51] Shizuo deixou o jogo
+[06:36:04] Paulo Henrique: a
+[06:36:18] "  (1x)
+[06:36:32] Paulo Henrique Alterou seu nome para @1a@abc@#df
+[06:36:36] U.S.G.N.: Serverlist entry updated
+[06:36:52] @1a@abc@#df: a
+[06:37:02] @1a@abc@#df deixou o jogo
+[06:37:22] U.S.G.N.: Serverlist entry updated
+[06:37:48] Sagos: o.o
+[06:38:07] U.S.G.N.: Serverlist entry updated
+[06:38:52] "  (1x)
+[06:39:21] Player killed himself with Barbed Wire
+[06:39:38] U.S.G.N.: Serverlist entry updated
+[06:39:46] generating stats...
+[06:39:46] stats generated in 1 ms!
+[06:40:04] VerSay {G} conectou-se
+[06:40:04] VerSay {G} is using IP 185.146.212.168:51320 and no U.S.G.N. ID
+[06:40:06] U.S.G.N.: Banana :) (95.105.182.208) joining with U.S.G.N. ID #66544 - verifying...
+[06:40:07] U.S.G.N.: 95.105.182.208 is using U.S.G.N. ID #66544
+[06:40:07] Banana :) conectou-se
+[06:40:07] Banana :) is using IP 95.105.182.208:36963 and U.S.G.N. ID #66544
+[06:40:12] Banana :) juntou-se a Countra-Terrorista Forças
+[06:40:23] U.S.G.N.: Serverlist entry updated
+[06:41:08] "  (1x)
+[06:41:40] Sagos: Player
+[06:41:44] Sagos: whats your name?
+[06:41:54] U.S.G.N.: Serverlist entry updated
+[06:41:55] Player: Leandro
+[06:42:12] Player: whats yours?
+[06:42:16] Sagos: Samuel
+[06:42:27] Player: nice to meet u
+[06:42:35] Banana :): i have created my own map for building and combat
+[06:42:39] U.S.G.N.: Serverlist entry updated
+[06:42:43] Banana :): it also has instabuild
+[06:42:50] Sagos: you have a server?
+[06:42:53] Banana :): yes
+[06:43:04] Player: yes, i do
+[06:43:13] Banana :): map is called con_maze_v2
+[06:43:20] Banana :): if you want, search it up
+[06:43:24] U.S.G.N.: Serverlist entry updated
+[06:43:26] Banana :): i am gonna work on more maps like that
+[06:43:27] Player: i've mine*
+[06:43:35] Sagos: whats the name?
+[06:43:47] Banana :): name of map?
+[06:43:55] Sagos: of your server
+[06:44:02] Banana :): damn, i forgot :D
+[06:44:04] Player: xdd
+[06:44:07] Sagos: :P
+[06:44:10] U.S.G.N.: Serverlist entry updated
+[06:44:16] Banana :): i just know there is map con_maze_v2
+[06:44:31] Banana :): it is dedicated
+[06:44:41] Sagos: you make upload on unreal?
+[06:44:42] Banana :): and am gonna host it on my raspPi
+[06:44:46] generating stats...
+[06:44:46] stats generated in 1 ms!
+[06:44:50] Banana :): i will upload it soon
+[06:44:53] Banana :): but dont know where
+[06:44:55] U.S.G.N.: Serverlist entry updated
+[06:45:00] Banana :): it s very simple map btw
+[06:45:41] U.S.G.N.: Serverlist entry updated
+[06:45:47] Sagos: i'm scripter
+[06:46:26] U.S.G.N.: Serverlist entry updated
+[06:47:06] Banana :): damn my server isn't in server list for some reaso
+[06:47:09] Banana :): reason, interesting
+[06:47:11] U.S.G.N.: Serverlist entry updated
+[06:47:33] Player Alterou seu nome para chamuyero~
+[06:47:43] Sagos: Player
+[06:47:49] Sagos: Follow me
+[06:47:50] chamuyero~: yes
+[06:47:57] U.S.G.N.: Serverlist entry updated
+[06:48:04] Sagos: xD
+[06:48:07] chamuyero~: xd
+[06:48:42] U.S.G.N.: Serverlist entry updated
+[06:48:51] Banana :): damn i need second monitor
+[06:49:01] Sagos: why?
+[06:49:12] Banana :): i am running wayy too much windows
+[06:49:27] Banana :): also programming
+[06:49:27] U.S.G.N.: Serverlist entry updated
+[06:49:46] generating stats...
+[06:49:46] stats generated in 2 ms!
+[06:50:13] U.S.G.N.: Serverlist entry updated
+[06:50:58] "  (1x)
+[06:51:24] jekakorejz conectou-se
+[06:51:24] jekakorejz is using IP 212.107.229.118:56025 and no U.S.G.N. ID
+[06:51:31] jekakorejz juntou-se a Terrorista Forças
+[06:51:43] U.S.G.N.: Serverlist entry updated
+[06:51:47] Banana :): any ideas why it doesnt show?
+[06:52:03] chamuyero~: what?
+[06:52:08] Banana :): my server
+[06:52:15] jekakorejz killed Banana :) with Glock
+[06:52:15] Banana :) *Morto*: it doesnt show for some reason
+[06:52:17] chamuyero~: on server list0
+[06:52:21] chamuyero~: ?
+[06:52:24] Sagos killed jekakorejz with FN F2000
+[06:52:27] Banana :) *Morto*: yes, yesterday, it worked just fine
+[06:52:29] U.S.G.N.: Serverlist entry updated
+[06:52:31] Banana :) *Morto*: and now, shit happens
+[06:52:32] Sagos: brb
+[06:52:47] Sagos died
+[06:52:47] Sagos juntou-se aos espectadores
+[06:52:50] Banana :): everything enabled as should be
+[06:53:05] Banana :): firewall allowed, port forwarded
+[06:53:08] Banana :): still nothing
+[06:53:14] U.S.G.N.: Serverlist entry updated
+[06:53:17] Banana :): IP is public
+[06:53:27] Banana :): yet it manages not to show
+[06:53:28] chamuyero~: do u have dedicated sv?
+[06:53:31] Banana :): yes
+[06:54:18] chamuyero~: fucking cs2d
+[06:54:22] Banana :): ?
+[06:54:31] Banana :): what a wooden game it is :D after many years
+[06:54:39] chamuyero~: yes
+[06:54:45] U.S.G.N.: Serverlist entry updated
+[06:54:46] generating stats...
+[06:54:46] stats generated in 1 ms!
+[06:54:49] Banana :): what to expect, engine from year 2004
+[06:55:02] chamuyero~: im playing since 2009
+[06:55:04] jekakorejz has been kicked. Ping too high (1536).
+[06:55:04] jekakorejz deixou o jogo (auta latência)
+[06:55:21] Banana :): i was playing at that years too
+[06:55:23] chamuyero~: but I left the game 2 years ago
+[06:55:30] U.S.G.N.: Serverlist entry updated
+[06:55:31] chamuyero~: now im playing again
+[06:55:32] Banana :): i was waiting for steam edition
+[06:55:38] chamuyero~: because steam
+[06:55:47] U.S.G.N.: Xyliett (178.54.161.207) joining with U.S.G.N. ID #165075 - verifying...
+[06:55:47] U.S.G.N.: 178.54.161.207 is using U.S.G.N. ID #165075
+[06:55:47] Xyliett conectou-se
+[06:55:47] Xyliett is using IP 178.54.161.207:1199 and U.S.G.N. ID #165075
+[06:56:02] chamuyero~: yes
+[06:56:16] U.S.G.N.: Serverlist entry updated
+[06:56:24] chamuyero~: too many new players
+[06:56:40] Banana :): well, opportunity to show them good old maps
+[06:56:49] Banana :): i was hosting escape del virus for a while
+[06:56:58] chamuyero~: great
+[06:56:59] Banana :): just a few people knew how to escape
+[06:57:01] U.S.G.N.: Serverlist entry updated
+[06:57:19] chamuyero~: i knew the guy who create that map
+[06:57:34] chamuyero~: Unknown Soldier
+[06:57:46] U.S.G.N.: Serverlist entry updated
+[06:57:55] chamuyero~: he made a few good maps like Escape 
+[06:58:06] chamuyero~: what a genius
+[06:58:23] Banana :): cool
+[06:58:30] chamuyero~: argentinian player
+[06:58:32] U.S.G.N.: Serverlist entry updated
+[06:58:41] chamuyero~: where r u from?
+[06:58:46] Banana :): Slovakia
+[06:58:53] chamuyero~: oh
+[06:59:17] U.S.G.N.: Serverlist entry updated
+[06:59:46] generating stats...
+[06:59:46] stats generated in 1 ms!
+[06:59:56] chamuyero~: sorry for my english, is too bad
+[07:00:00] Banana :): np
+[07:00:02] U.S.G.N.: Serverlist entry updated
+[07:00:23] chamuyero~: do u speak fluently?
+[07:00:38] Banana :): well, apart from my gramatics, i do speak quite go
+[07:00:40] Banana :): good
+[07:00:48] U.S.G.N.: Serverlist entry updated
+[07:01:08] chamuyero~: how many languages do u speak?
+[07:01:19] <---danieldubaj---<<< conectou-se
+[07:01:19] <---danieldubaj---<<< is using IP 188.146.197.32:13159 and no U.S.G.N. ID
+[07:01:33] U.S.G.N.: Serverlist entry updated
+[07:01:41] <---danieldubaj---<<< deixou o jogo
+[07:01:44] Banana :): i can speak slovak, czech, english, little bit pol
+[07:01:51] Banana :): polish and german
+[07:02:04] Banana :): also i can understand most slavic languages
+[07:02:05] chamuyero~: very nice
+[07:02:18] chamuyero~: kurwa
+[07:02:18] Banana :): for example, when someone talks in russian, i can 
+[07:02:19] U.S.G.N.: Serverlist entry updated
+[07:02:22] Banana :): understand a little
+[07:02:27] Banana :): yes, kurwa
+[07:02:36] Banana :): kurwa what a universal word for everything
+[07:02:48] chamuyero~: what does it means?
+[07:02:58] Banana :): kurwa means bitch
+[07:03:04] U.S.G.N.: Serverlist entry updated
+[07:03:05] Banana :): at least in slovakia
+[07:03:05] chamuyero~: oh lol
+[07:03:10] Banana :): also we dont use w
+[07:03:13] Banana :): we say kurva
+[07:03:18] chamuyero~: kurva
+[07:03:24] Banana :): :D 
+[07:03:37] chamuyero~: slovak is difficult to learn?
+[07:03:47] Banana :): as difficult, as every slavic language...
+[07:03:49] U.S.G.N.: Serverlist entry updated
+[07:04:12] Banana :): it s not hardest
+[07:04:20] Banana :): but it s harder than english
+[07:04:28] chamuyero~: yeah
+[07:04:31] Banana :): we have just 3 times
+[07:04:35] U.S.G.N.: Serverlist entry updated
+[07:04:46] generating stats...
+[07:04:46] stats generated in 1 ms!
+[07:04:47] Banana :): but there are much more words
+[07:05:12] chamuyero~: how old r u?
+[07:05:14] Banana :): we use declension a lot
+[07:05:18] Banana :): currently, i am 19
+[07:05:20] U.S.G.N.: Serverlist entry updated
+[07:05:30] chamuyero~: :o
+[07:05:54] Banana :): and i am studying at university
+[07:05:58] chamuyero~: u r younger than me
+[07:06:03] Banana :): wow
+[07:06:05] U.S.G.N.: Serverlist entry updated
+[07:06:08] Banana :): how old are you then?
+[07:06:17] chamuyero~: 23
+[07:06:50] chamuyero~: i've to leave
+[07:06:51] U.S.G.N.: Serverlist entry updated
+[07:07:07] chamuyero~: nice to meet u
+[07:07:11] Banana :): thanks, you too
+[07:07:14] chamuyero~: have a nice day
+[07:07:17] chamuyero~ deixou o jogo
+[07:07:30] Banana :) deixou o jogo
+[07:07:36] U.S.G.N.: Serverlist entry updated
+[07:08:21] "  (1x)
+[07:09:07] "  (1x)
+[07:09:46] generating stats...
+[07:09:46] stats generated in 1 ms!
+[07:09:52] U.S.G.N.: Serverlist entry updated
+[07:10:38] "  (1x)
+[07:11:23] "  (1x)
+[07:12:08] "  (1x)
+[07:12:18] Servidor Desligado

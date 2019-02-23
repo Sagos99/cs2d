@@ -1,0 +1,189 @@
+CS2D 1.0.0.7 Logfile - 06 Oct 2018, 21:12:52
+
+[21:12:52] Steam: Logged in as #76561198077078199
+[21:12:53] UDP socket initialized using port 63037
+[21:12:53] U.S.G.N.: Your game version is up to date!
+[21:12:54] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[21:12:55] Cached servers added to list: 102
+[21:12:56] U.S.G.N.: Received serverlist (servers: 107)
+[21:13:22] Connecting to 54.234.226.200:35345 (using U.S.G.N. ID #15431) ...
+[21:13:23] U.S.G.N.: Ping/State 'idle' (304 ms)
+[21:13:23] "  (1x)
+[21:13:24] Checking 'gfx/backgrounds/dust.png': Already exists.
+[21:13:24] Checking 'maps/de_dust2.txt': Already exists.
+[21:13:24] Checking 'gfx/tiles/default_dust.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/d2_dirtpatch.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/boarder.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/bspot_a.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/bspot_b.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/foliage32.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/foliage1.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/foliage2.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/foliage64.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/foliage96.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/plant2.png': Already exists.
+[21:13:24] Checking 'gfx/block.bmp': Already exists.
+[21:13:24] Checking 'gfx/sprites/plant1.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/plant.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/dustroof.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/roof_edge1.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/roof_edge2.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/dome.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/flare.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/car_shadow.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/car.png': Already exists.
+[21:13:24] Checking 'gfx/sprites/container2.bmp': Already exists.
+[21:13:24] Checking 'gfx/serverlove/hud/doublekill.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/fantastic.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/firstkill.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/multikill.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/ultrakill.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/unbelievable.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/unbelievableplus.png': Does not exist. Request transfer!
+[21:13:24] Checking 'sfx/serverlove/vox/CS2D_DoubleKill.ogg': Does not exist. Request transfer!
+[21:13:24] Checking 'sfx/serverlove/vox/CS2D_Fantastic.ogg': Does not exist. Request transfer!
+[21:13:24] Checking 'sfx/serverlove/vox/CS2D_FirstKill.ogg': Does not exist. Request transfer!
+[21:13:24] Checking 'sfx/serverlove/vox/CS2D_MultiKill.ogg': Does not exist. Request transfer!
+[21:13:24] Checking 'sfx/serverlove/vox/CS2D_RoundStart.ogg': Does not exist. Request transfer!
+[21:13:24] Checking 'sfx/serverlove/vox/CS2D_UltraKill.ogg': Does not exist. Request transfer!
+[21:13:24] Checking 'sfx/serverlove/vox/CS2D_Unbelievable.ogg': Does not exist. Request transfer!
+[21:13:24] Checking 'sfx/serverlove/join123123.ogg': Does not exist. Request transfer!
+[21:13:24] Checking 'sfx/serverlove/play_menu.ogg': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/hc/attribs/angel.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/devil.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/gandalf_hat.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/graduation_hat.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/metal_helmet_adm.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/metal_helmet_mod.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/metal_helmet_vip.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/party_hat.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/pirate_hat.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/pumpkin_head.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/santa_hat.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/snowman.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/spear.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/umbrella_ct.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/umbrella_t.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/umbrella_adm.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/hc/emoticons/angry.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/cheeky.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/crying.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/cursing.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/evil.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/frowning.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/heart.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/laughing.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/skeptical.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/smiling.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/smiling_big.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/speechbubble.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/surprised.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/uneasy.png': Already exists.
+[21:13:24] Checking 'gfx/hc/emoticons/winking.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/ninja white.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/ninja_black.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/skull.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/superarmor.bmp': Already exists.
+[21:13:24] Checking 'gfx/sprites/flare2.bmp': Already exists.
+[21:13:24] Checking 'gfx/serverlove/hud/FirstKill.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/DoubleKill.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/MultiKill.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/UltraKill.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/Fantastic.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/Unbelievable.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/serverlove/hud/UnbelievablePlus.png': Does not exist. Request transfer!
+[21:13:24] Checking 'gfx/hc/Top30.png': Already exists.
+[21:13:24] Checking 'gfx/hc/attribs/ironman.png': Already exists.
+[21:13:24] Requesting 24 files from server...
+[21:13:24] Downloading 'gfx/serverlove/hud/doublekill.png' from server...
+[21:13:24] Created directory 'gfx/serverlove/hud' for received files
+[21:13:24] Downloading 'gfx/serverlove/hud/fantastic.png' from server...
+[21:13:25] Downloading 'gfx/serverlove/hud/firstkill.png' from server...
+[21:13:25] Downloading 'gfx/serverlove/hud/multikill.png' from server...
+[21:13:25] Downloading 'gfx/serverlove/hud/ultrakill.png' from server...
+[21:13:26] Downloading 'gfx/serverlove/hud/unbelievable.png' from server...
+[21:13:26] Downloading 'gfx/serverlove/hud/unbelievableplus.png' from server...
+[21:13:26] Downloading 'sfx/serverlove/vox/CS2D_DoubleKill.ogg' from server...
+[21:13:27] Created directory 'sfx/serverlove/vox' for received files
+[21:13:27] Downloading 'sfx/serverlove/vox/CS2D_Fantastic.ogg' from server...
+[21:13:28] Downloading 'sfx/serverlove/vox/CS2D_FirstKill.ogg' from server...
+[21:13:29] Downloading 'sfx/serverlove/vox/CS2D_MultiKill.ogg' from server...
+[21:13:30] Downloading 'sfx/serverlove/vox/CS2D_RoundStart.ogg' from server...
+[21:13:33] Downloading 'sfx/serverlove/vox/CS2D_UltraKill.ogg' from server...
+[21:13:34] Downloading 'sfx/serverlove/vox/CS2D_Unbelievable.ogg' from server...
+[21:13:35] Downloading 'sfx/serverlove/join123123.ogg' from server...
+[21:13:36] Downloading 'sfx/serverlove/play_menu.ogg' from server...
+[21:13:36] Downloading 'gfx/hc/attribs/umbrella_adm.png' from server...
+[21:13:36] Downloading 'gfx/serverlove/hud/FirstKill.png' from server...
+[21:13:37] Downloading 'gfx/serverlove/hud/DoubleKill.png' from server...
+[21:13:37] Downloading 'gfx/serverlove/hud/MultiKill.png' from server...
+[21:13:37] Downloading 'gfx/serverlove/hud/UltraKill.png' from server...
+[21:13:38] Downloading 'gfx/serverlove/hud/Fantastic.png' from server...
+[21:13:38] Downloading 'gfx/serverlove/hud/Unbelievable.png' from server...
+[21:13:38] Downloading 'gfx/serverlove/hud/UnbelievablePlus.png' from server...
+[21:13:39] load map 'de_dust2'
+[21:13:39] ----- Server joined -----
+[21:13:39] [SERVER]: Welcome to Awp Grey server. Sagos!
+[21:13:39] [SERVER]: Your user level is: USER.
+[21:13:39] Player Sagos joined from UNALLOCATED
+[21:13:40] U.S.G.N.: Ping/State 'playing'
+[21:13:43] Sagos aliou-se a Equipe Contra-Terrorista
+[21:13:43] sPr: nau
+[21:13:46] sPr: kk
+[21:13:55] [WPF] # CENTRAL killed ReyLag*(:V)* with M4A1
+[21:13:55] »Host« [WPF] # CENTRAL made the FIRST KILL!
+[21:13:55] »Host« [WPF] # CENTRAL  is FANTASTIC!
+[21:13:57] sPr: fala ae mrc
+[21:13:59] [WPF] # CENTRAL killed Sagos with M4A1
+[21:13:59] »Host« [WPF] # CENTRAL  is UNBELIEVABLE!
+[21:13:59] k¦[WPF] # CENTRAL¦16¦0
+[21:14:00] Player conectou-se ao servidor
+[21:14:00] [WPF] # CENTRAL killed gabrielgv2030 with Deagle
+[21:14:00] »Host« [WPF] # CENTRAL  is UNBELIEVABLE! 7 KILLS!
+[21:14:01] sPr: server ta on?
+[21:14:02] Laranja Amarga killed [WPF] # CENTRAL with MP5
+[21:14:03] 2dbr | mrc @ cs2d.com.br: br jogando em server de gringo pq kkk
+[21:14:04] Like a Boss killed Laranja Amarga with Deagle
+[21:14:04] »Host« Like a Boss  made an ULTRA KILL!
+[21:14:05] teganrowley deixou o servidor
+[21:14:05] 2dbr | mrc @ cs2d.com.br: sim
+[21:14:08] gabrielgv2030 deixou o servidor
+[21:14:16] [SERVER]: F2 for command menu.
+[21:14:20] sPr: tem ngm no sv la
+[21:14:20] Player Player joined from China
+[21:14:26] 2dbr | mrc @ cs2d.com.br killed Kaneki_Gamer csgonerf.com with AWP
+[21:14:30] Player aliou-se a Equipe Terrorista
+[21:14:30] irmão da manassés killed Like a Boss with M4A1
+[21:14:37] 2dbr | mrc @ cs2d.com.br killed megawarewin with AWP
+[21:14:37] »Host« 2dbr | mrc @ cs2d.com.br  made a DOUBLE KILL!
+[21:14:41] 2dbr | mrc @ cs2d.com.br killed sPr with USP
+[21:14:41] »Host« 2dbr | mrc @ cs2d.com.br  made a MULTI KILL!
+[21:14:41] U.S.G.N.: Ping/State 'playing'
+[21:14:46] irmão da manassés: boa
+[21:15:06] 2dbr | mrc @ cs2d.com.br killed [WPF] # CENTRAL with AWP
+[21:15:06] »Host« 2dbr | mrc @ cs2d.com.br made the FIRST KILL!
+[21:15:06] »Host« 2dbr | mrc @ cs2d.com.br  made an ULTRA KILL!
+[21:15:16] [SERVER]: F2 for command menu.
+[21:15:20] sPr killed irmão da manassés with AWP
+[21:15:20] 2dbr | mrc @ cs2d.com.br killed Player with HE
+[21:15:20] »Host« 2dbr | mrc @ cs2d.com.br  is FANTASTIC!
+[21:15:22] 2dbr | mrc @ cs2d.com.br killed Kaneki_Gamer csgonerf.com with AWP
+[21:15:22] »Host« 2dbr | mrc @ cs2d.com.br  is UNBELIEVABLE!
+[21:15:25] Like a Boss killed Laranja Amarga with SG552
+[21:15:28] Sagos: n tem adm aki?
+[21:15:38] Kaneki_Gamer csgonerf.com deixou o servidor
+[21:15:42] U.S.G.N.: Ping/State 'playing'
+[21:15:46] Brazuka conectou-se ao servidor
+[21:15:47] Like a Boss killed ReyLag*(:V)* with SG552
+[21:15:47] »Host« Like a Boss  made a DOUBLE KILL!
+[21:15:47] 2dbr | mrc @ cs2d.com.br killed Like a Boss with USP
+[21:15:47] »Host« 2dbr | mrc @ cs2d.com.br  is UNBELIEVABLE! 7 KILLS!
+[21:15:48] Player Brazuka joined from United States
+[21:15:51] Brazuka aliou-se a Equipe Terrorista
+[21:16:00] 2dbr | mrc @ cs2d.com.br: comunidade br voltou guys
+[21:16:06] Sagos: ou n asjhuahsuahs
+[21:16:15] Sagos killed megawarewin with M3
+[21:16:16] [SERVER]: F2 for command menu.
+[21:16:16] Sagos killed sPr with M3
+[21:16:16] »Host« Sagos  made a DOUBLE KILL!
+[21:16:20] 2dbr | mrc @ cs2d.com.br: discord bombando

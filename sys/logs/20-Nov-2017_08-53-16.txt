@@ -1,0 +1,187 @@
+CS2D 1.0.0.5 Logfile - 20 Nov 2017, 08:53:16
+
+[08:53:16] UDP socket initialized using port 36963
+[08:53:18] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[08:53:22] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[08:53:23] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[08:53:23] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[08:53:35] Cached servers added to list: 164
+[08:53:35] U.S.G.N.: Received serverlist (servers: 45)
+[08:53:35] U.S.G.N.: Received serverlist (servers: 150)
+[08:53:50] Connecting to 93.188.161.115:36963 (using U.S.G.N. ID #15431) ...
+[08:53:51] U.S.G.N.: Ping/State 'idle' (320 ms)
+[08:53:52] load map 'de_dust2'
+[08:53:53] ----- Server joined -----
+[08:54:00] U.S.G.N.: Ping/State 'playing'
+[08:54:04] Sagos juntou-se a Countra-Terrorista Forças
+[08:54:47] Sagos deixou o jogo
+[08:54:47] Disconnect Reason: Client request (Code 0)
+[08:54:47] ----- Disconnected -----
+[08:54:48] U.S.G.N.: Ping/State 'idle' (300 ms)
+[08:54:49] Cached servers added to list: 164
+[08:54:50] U.S.G.N.: Received serverlist (servers: 49)
+[08:54:50] U.S.G.N.: Received serverlist (servers: 150)
+[08:55:13] Connecting to 31.202.128.250:36963 (using U.S.G.N. ID #15431) ...
+[08:55:13] U.S.G.N.: Ping/State 'idle' (300 ms)
+[08:55:13] "  (1x)
+[08:55:16] Checking 'maps/bg_foes_v3.txt': Does not exist. Request transfer!
+[08:55:16] Checking 'gfx/tiles/best.png': Does not exist. Request transfer!
+[08:55:16] Checking 'gfx/sprites/de_vantage/humvee.png': Already exists.
+[08:55:16] Checking 'gfx/sprites/truck.bmp': Already exists.
+[08:55:16] Checking 'gfx/sprites/car.png': Already exists.
+[08:55:16] Checking 'gfx/sprites/de_vantage/umbrella1.png': Already exists.
+[08:55:16] Checking 'gfx/sprites/de_vantage/umbrella2.png': Already exists.
+[08:55:16] Checking 'gfx/weapons/satchelcharge.bmp': Already exists.
+[08:55:16] Checking 'gfx/weapons/ak47_d.bmp': Already exists.
+[08:55:16] Checking 'gfx/sprites/table.png': Already exists.
+[08:55:16] Checking 'gfx/sprites/table3.png': Already exists.
+[08:55:16] Checking 'gfx/sprites/pizza.png': Already exists.
+[08:55:16] Checking 'gfx/sprites/newstand.png': Already exists.
+[08:55:16] Checking 'gfx/sprites/bench_shadow.png': Already exists.
+[08:55:16] Checking 'gfx/sprites/bench.png': Already exists.
+[08:55:16] Checking 'sfx/env/click2.wav': Already exists.
+[08:55:16] Checking 'sfx/doors/doormove5.wav': Already exists.
+[08:55:16] Checking 'gfx/sprites/de_vantage/roof2.png': Already exists.
+[08:55:16] Checking 'gfx/battle_royale/crate_black.png': Does not exist. Request transfer!
+[08:55:16] Checking 'gfx/battle_royale/crate_green.png': Does not exist. Request transfer!
+[08:55:16] Checking 'gfx/battle_royale/crate_white.png': Does not exist. Request transfer!
+[08:55:16] Checking 'gfx/battle_royale/crate_purple.png': Does not exist. Request transfer!
+[08:55:16] Checking 'gfx/battle_royale/crate_orange.png': Does not exist. Request transfer!
+[08:55:16] Checking 'gfx/battle_royale/crate_gray.png': Does not exist. Request transfer!
+[08:55:16] Checking 'gfx/block.bmp': Already exists.
+[08:55:16] Checking 'maps/bg_foes_v3.map': Does not exist. Request transfer!
+[08:55:16] Requesting 9 files from server...
+[08:55:17] Downloading 'maps/bg_foes_v3.txt' from server...
+[08:55:17] Downloading 'gfx/tiles/best.png' from server...
+[08:55:23] Downloading 'gfx/battle_royale/crate_black.png' from server...
+[08:55:23] Created directory 'gfx/battle_royale' for received files
+[08:55:23] Downloading 'gfx/battle_royale/crate_green.png' from server...
+[08:55:23] Downloading 'gfx/battle_royale/crate_white.png' from server...
+[08:55:23] Downloading 'gfx/battle_royale/crate_purple.png' from server...
+[08:55:23] Downloading 'gfx/battle_royale/crate_orange.png' from server...
+[08:55:23] Downloading 'gfx/battle_royale/crate_gray.png' from server...
+[08:55:23] Downloading 'maps/bg_foes_v3.map' from server...
+[08:55:24] load map 'bg_foes_v3'
+[08:55:33] ----- Server joined -----
+[08:55:33] U.S.G.N.: Ping/State 'playing' (333 ms)
+[08:55:34] Infinite Rain conectou-se
+[08:55:48] Infinite Rain deixou o jogo
+[08:56:01] Doplen killed Bugsyst with Aug
+[08:56:01] Bugsyst juntou-se aos espectadores
+[08:56:12] Bugsyst deixou o jogo
+[08:56:17] Shiroe killed Doplen with FN F2000
+[08:56:17] Doplen juntou-se aos espectadores
+[08:56:33] U.S.G.N.: Ping/State 'playing'
+[08:56:34] Red killed poshtet with Scout
+[08:56:34] poshtet juntou-se aos espectadores
+[08:56:41] Shiroe killed Red with FN F2000
+[08:56:41] Shiroe has WON the game!
+[08:56:41] Round Restart in 5 sec
+[08:56:42] Red juntou-se aos espectadores
+[08:56:55] Red juntou-se a Terrorista Forças
+[08:56:55] poshtet juntou-se a Countra-Terrorista Forças
+[08:56:55] Doplen juntou-se a Countra-Terrorista Forças
+[08:56:55] Shiroe died
+[08:56:55] Shiroe juntou-se a Terrorista Forças
+[08:56:55] Marshmallow juntou-se a Countra-Terrorista Forças
+[08:56:55] Sagos juntou-se a Terrorista Forças
+[08:56:56] Sagos deixou o jogo
+[08:56:56] Disconnect Reason: Client request (Code 0)
+[08:56:56] ----- Disconnected -----
+[08:56:56] U.S.G.N.: Ping/State 'idle' (317 ms)
+[08:56:59] Cached servers added to list: 164
+[08:56:59] U.S.G.N.: Received serverlist (servers: 53)
+[08:56:59] U.S.G.N.: Received serverlist (servers: 150)
+[08:57:23] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[08:57:25] "  (1x)
+[08:57:26] U.S.G.N.: Ping/State 'idle' (283 ms)
+[08:57:26] "  (1x)
+[08:57:49] U.S.G.N.: Received serverlist (servers: 150)
+[08:57:49] U.S.G.N.: Received serverlist (servers: 58)
+[08:58:26] U.S.G.N.: Ping/State 'idle' (316 ms)
+[08:58:46] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[08:58:47] U.S.G.N.: Ping/State 'idle' (332 ms)
+[08:58:47] "  (1x)
+[08:58:52] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[08:58:52] U.S.G.N.: Ping/State 'idle' (334 ms)
+[08:58:52] "  (1x)
+[08:58:53] Checking 'gfx/tiles/besto2.bmp': Already exists.
+[08:58:53] Checking 'gfx/button.png': Does not exist. Request transfer!
+[08:58:53] Checking 'gfx/button_hover.png': Does not exist. Request transfer!
+[08:58:53] Checking 'gfx/button_click.png': Does not exist. Request transfer!
+[08:58:53] Checking 'gfx/battle royale/helmet.png': Already exists.
+[08:58:53] Requesting 3 files from server...
+[08:58:53] Downloading 'gfx/button.png' from server...
+[08:58:53] Downloading 'gfx/button_hover.png' from server...
+[08:58:53] Downloading 'gfx/button_click.png' from server...
+[08:58:53] load map 'battle royale'
+[08:58:54] ----- Server joined -----
+[08:58:54] Conta Conectada com Sucesso!
+[08:58:54] Bem vindo Sagos.
+[08:58:54] U.S.G.N.: Ping/State 'playing'
+[08:58:56] Sagos juntou-se a Countra-Terrorista Forças
+[08:58:56] Sagos Conectado no Lobby. 2/10
+[08:58:56] Sagos died
+[08:58:56] Sagos juntou-se aos espectadores
+[08:58:56] Sagos juntou-se a Terrorista Forças
+[08:59:05] Sagos: minha net ta mt bugada
+[08:59:16] Você coletou um capacete.
+[08:59:17] Paulo Henrique: tata
+[08:59:38] U.S.G.N.: Ping/State 'idle' (300 ms)
+[08:59:38] "  (1x)
+[08:59:41] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[08:59:41] U.S.G.N.: Ping/State 'idle' (299 ms)
+[08:59:41] "  (1x)
+[08:59:42] Checking 'gfx/tiles/besto2.bmp': Already exists.
+[08:59:42] Checking 'gfx/button.png': Already exists.
+[08:59:42] Checking 'gfx/button_hover.png': Already exists.
+[08:59:42] Checking 'gfx/button_click.png': Already exists.
+[08:59:42] Checking 'gfx/battle royale/helmet.png': Already exists.
+[08:59:42] Requesting 0 files from server...
+[08:59:43] load map 'battle royale'
+[08:59:43] ----- Server joined -----
+[08:59:43] Conta Conectada com Sucesso!
+[08:59:43] Bem vindo Sagos.
+[08:59:43] U.S.G.N.: Ping/State 'playing'
+[08:59:55] Sagos juntou-se a Countra-Terrorista Forças
+[08:59:56] Sagos Conectado no Lobby. 2/10
+[08:59:56] Sagos died
+[08:59:56] Sagos juntou-se aos espectadores
+[08:59:56] Sagos juntou-se a Terrorista Forças
+[09:00:01] Paulo Henrique: perae
+[09:00:44] U.S.G.N.: Ping/State 'playing'
+[09:01:20] ----- Disconnected -----
+[09:01:21] U.S.G.N.: Ping/State 'idle' (316 ms)
+[09:01:23] Cached servers added to list: 164
+[09:01:29] U.S.G.N.: Received serverlist (servers: 59)
+[09:01:29] U.S.G.N.: Received serverlist (servers: 150)
+[09:01:40] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:01:40] U.S.G.N.: Ping/State 'idle' (283 ms)
+[09:01:40] U.S.G.N.: Ping/State 'idle' (299 ms)
+[09:01:45] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:01:45] U.S.G.N.: Ping/State 'idle' (300 ms)
+[09:01:45] "  (1x)
+[09:02:22] U.S.G.N.: Received serverlist (servers: 60)
+[09:02:22] U.S.G.N.: Received serverlist (servers: 150)
+[09:04:01] U.S.G.N.: Ping/State 'idle' (350 ms)
+[09:04:41] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:04:45] U.S.G.N.: Ping/State 'idle' (317 ms)
+[09:04:46] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:04:46] U.S.G.N.: Ping/State 'idle' (300 ms)
+[09:04:46] "  (1x)
+[09:05:03] U.S.G.N.: Received serverlist (servers: 150)
+[09:05:03] U.S.G.N.: Received serverlist (servers: 58)
+[09:05:39] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:05:40] U.S.G.N.: Ping/State 'idle' (299 ms)
+[09:05:42] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:05:45] "  (1x)
+[09:05:46] U.S.G.N.: Ping/State 'idle' (300 ms)
+[09:05:46] "  (1x)
+[09:06:16] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:06:17] U.S.G.N.: Ping/State 'idle' (299 ms)
+[09:06:17] "  (1x)
+[09:06:19] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:06:19] U.S.G.N.: Ping/State 'idle' (300 ms)
+[09:06:19] "  (1x)
+[09:06:29] U.S.G.N.: Received serverlist (servers: 150)
+[09:06:29] U.S.G.N.: Received serverlist (servers: 56)

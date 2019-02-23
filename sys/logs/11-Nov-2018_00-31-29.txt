@@ -1,0 +1,1162 @@
+CS2D 1.0.0.7 Logfile - 11 Nov 2018, 00:31:29
+
+[00:31:29] Steam: Logged in as #76561198077078199
+[00:31:29] UDP socket initialized using port 50277
+[00:31:29] U.S.G.N.: Your game version is up to date!
+[00:31:30] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[00:31:38] Cached servers added to list: 102
+[00:31:39] U.S.G.N.: Received serverlist (servers: 106)
+[00:31:51] Connecting to 179.217.38.162:18444 (using U.S.G.N. ID #15431) ...
+[00:31:51] U.S.G.N.: Ping/State 'idle' (304 ms)
+[00:31:51] "  (1x)
+[00:31:52] load map 'awp_gray'
+[00:31:52] ----- Server joined -----
+[00:31:52] [SERVER]: Welcome on the server Dallas Awp_Gray
+[00:31:53] U.S.G.N.: Ping/State 'playing'
+[00:31:56] Sagos aliou-se a Equipe Terrorista
+[00:31:58] antiN. End: devia ser primo do viado do alma
+[00:32:04] rcN :: krakëN: sagos
+[00:32:05] rcN :: krakëN: seu fdp
+[00:32:08] Sagos killed ANTI [N] kap with AWP
+[00:32:10] Sagos: '-'
+[00:32:16] rcN :: krakëN: vc e programador?
+[00:32:18] Player 2 killed Sagos with AWP
+[00:32:18] k¦Player 2¦100¦100
+[00:32:22] Primo Viado do Alma: k
+[00:32:29] Player 2 killed Primo Viado do Alma with Knife
+[00:32:39] rcN :: krakëN killed antiN. End with Knife
+[00:32:45] rcN :: krakëN killed Player 2 with Knife
+[00:32:45] [SERVER]: rcN :: krakëN did the most damage 200 HP
+[00:32:45] [SERVER]: Damage in this round 100 HP
+[00:32:45] [SERVER]: Damage in total 100 HP
+[00:32:50] Sagos: o que eh programador?
+[00:32:50] antiN. End: frio do carai
+[00:32:53] Sagos: nunca nem vi
+[00:32:54] U.S.G.N.: Ping/State 'playing'
+[00:33:02] ANTI [N] kap killed Sagos with AWP
+[00:33:02] k¦ANTI [N] kap¦100¦0
+[00:33:04] rcN :: krakëN killed antiN. End with AWP
+[00:33:22] rcN :: krakëN killed ANTI [N] kap with AWP
+[00:33:25] Player 2 killed rcN :: krakëN with AWP
+[00:33:25] Player 2 killed Primo Viado do Alma with AWP
+[00:33:25] [SERVER]: rcN :: krakëN did the most damage 200 HP
+[00:33:25] [SERVER]: Damage in this round 0 HP
+[00:33:25] [SERVER]: Damage in total 100 HP
+[00:33:26] rcN :: krakëN *MORTO*: q
+[00:33:27] antiN. End *MORTO*: é outra maneira de escrever nerd
+[00:33:33] rcN :: krakëN (Equipe): e programador o n
+[00:33:37] rcN :: krakëN (Equipe): ou*
+[00:33:39] Sagos (Equipe): s
+[00:33:46] rcN :: krakëN (Equipe): eu tbm
+[00:33:49] rcN :: krakëN (Equipe): trabalho na ibm
+[00:33:51] rcN :: krakëN (Equipe): tava falando
+[00:33:53] rcN :: krakëN (Equipe): com o mozila
+[00:33:54] U.S.G.N.: Ping/State 'playing'
+[00:33:55] antiN. End killed rcN :: krakëN with AWP
+[00:33:59] antiN. End killed Primo Viado do Alma with AWP
+[00:33:59] rcN :: krakëN aliou-se a Equipe Terrorista
+[00:34:00] Sagos killed Player 2 with AWP
+[00:34:05] Sagos killed antiN. End with Knife
+[00:34:07] Player 2 deixou o servidor
+[00:34:11] ANTI [N] kap killed Sagos with Knife
+[00:34:11] k¦ANTI [N] kap¦100¦100
+[00:34:11] [SERVER]: antiN. End did the most damage 200 HP
+[00:34:11] [SERVER]: Damage in this round 200 HP
+[00:34:11] [SERVER]: Damage in total 300 HP
+[00:34:17] rcN :: krakëN (Equipe): tava falando com o mozila
+[00:34:17] rcN :: krakëN mudou de nome para rcN :: monge
+[00:34:20] rcN :: monge (Equipe): quero um time de dev
+[00:34:25] Player conectou-se ao servidor
+[00:34:28] ANTI [N] kap killed rcN :: monge with AWP
+[00:34:32] Sagos killed antiN. End with Knife
+[00:34:33] Sagos killed ANTI [N] kap with AWP
+[00:34:33] [SERVER]: Sagos did the most damage 200 HP
+[00:34:33] [SERVER]: Damage in this round 200 HP
+[00:34:33] [SERVER]: Damage in total 500 HP
+[00:34:33] Player aliou-se a Equipe Contra-Terrorista
+[00:34:38] antiN. End: calado
+[00:34:39] Sagos (Equipe): n posso entrar
+[00:34:45] Sagos (Equipe): to ocupado no trampo
+[00:34:51] rcN :: monge killed antiN. End with AWP
+[00:34:54] rcN :: monge killed Player with Knife
+[00:34:55] U.S.G.N.: Ping/State 'playing'
+[00:35:02] ANTI [N] kap killed Sagos with AWP
+[00:35:02] k¦ANTI [N] kap¦100¦0
+[00:35:03] rcN :: monge killed ANTI [N] kap with AWP
+[00:35:03] [SERVER]: rcN :: monge did the most damage 300 HP
+[00:35:03] [SERVER]: Damage in this round 0 HP
+[00:35:03] [SERVER]: Damage in total 500 HP
+[00:35:07] rcN :: monge (Equipe): entao
+[00:35:08] antiN. End: fdp de aço
+[00:35:10] rcN :: monge (Equipe): mas e pra aprendizado
+[00:35:12] rcN :: monge (Equipe): n pra trampar
+[00:35:14] rcN :: monge (Equipe): ainda..
+[00:35:15] rcN :: monge killed Player with AWP
+[00:35:16] .:DJ-GAMER-BR:. conectou-se ao servidor
+[00:35:16] ANTI [N] kap killed Primo Viado do Alma with AWP
+[00:35:20] antiN. End killed rcN :: monge with AWP
+[00:35:22] ANTI [N] kap killed Sagos with Knife
+[00:35:22] k¦ANTI [N] kap¦100¦0
+[00:35:22] [SERVER]: ANTI [N] kap did the most damage 200 HP
+[00:35:22] [SERVER]: Damage in this round 0 HP
+[00:35:22] [SERVER]: Damage in total 500 HP
+[00:35:22] .:DJ-GAMER-BR:. aliou-se a Equipe Contra-Terrorista
+[00:35:24] rcN :: monge (Equipe) *MORTO*: sacou
+[00:35:33] rcN :: monge (Equipe): pra gente estudar umas linguagens e treinar
+[00:35:34] Primo Viado do Alma killed Player with AWP
+[00:35:36] rcN :: monge killed .:DJ-GAMER-BR:. with AWP
+[00:35:36] ANTI [N] kap killed Primo Viado do Alma with Knife
+[00:35:46] antiN. End killed rcN :: monge with AWP
+[00:35:46] Sagos (Equipe): eu quis dizer q to ocupado la no meu trabalho
+[00:35:50] Sagos (Equipe): eu trabalho com isso ja
+[00:35:51] antiN. End killed Sagos with AWP
+[00:35:51] k¦antiN. End¦100¦100
+[00:35:51] [SERVER]: antiN. End did the most damage 200 HP
+[00:35:51] [SERVER]: Damage in this round 0 HP
+[00:35:51] [SERVER]: Damage in total 500 HP
+[00:35:54] rcN :: monge (Equipe) *MORTO*: eu sei caraio kKK
+[00:35:55] antiN. End: rank
+[00:35:55] r¦antiN. End (USGN)¦7 of 198¦102,102,83,1.22,1 h 7 m
+[00:35:55] U.S.G.N.: Ping/State 'playing'
+[00:35:57] rcN :: monge (Equipe): eu tbm 
+[00:35:58] antiN. End: afaw
+[00:35:59] rcN :: monge (Equipe): eu trampo na ibm
+[00:36:00] ANTI [N] kap killed Primo Viado do Alma with AWP
+[00:36:02] rcN :: monge (Equipe): mas
+[00:36:05] rcN :: monge (Equipe): se tem
+[00:36:07] rcN :: monge (Equipe): q ter algum tempo
+[00:36:07] ANTI [N] kap killed Sagos with AWP
+[00:36:07] k¦ANTI [N] kap¦100¦100
+[00:36:11] rcN :: monge killed ANTI [N] kap with AWP
+[00:36:12] Player killed rcN :: monge with AWP
+[00:36:12] [SERVER]: ANTI [N] kap did the most damage 200 HP
+[00:36:12] [SERVER]: Damage in this round 0 HP
+[00:36:12] [SERVER]: Damage in total 500 HP
+[00:36:13] antiN. End: K
+[00:36:15] antiN. End: KKKKK OQ
+[00:36:15] rcN :: monge *MORTO*: KKKKKKKKKKKKKKKKKKKKKKK
+[00:36:18] rcN :: monge: LEVEI O MLAUCO
+[00:36:19] rcN :: monge: KKKKKKKKKKKKKKKKKKKKKKKKK
+[00:36:25] antiN. End killed Primo Viado do Alma with AWP
+[00:36:26] Sagos (Equipe): tenho tempo das 21h as 23h kk
+[00:36:26] ANTI [N] kap killed Sagos with AWP
+[00:36:26] k¦ANTI [N] kap¦100¦100
+[00:36:28] antiN. End killed rcN :: monge with AWP
+[00:36:28] [SERVER]: antiN. End did the most damage 200 HP
+[00:36:28] [SERVER]: Damage in this round 0 HP
+[00:36:28] [SERVER]: Damage in total 500 HP
+[00:36:34] rcN :: monge (Equipe): e de fim de semana? sabadao
+[00:36:37] ANTI [N] kap killed rcN :: monge with AWP
+[00:36:41] Sagos (Equipe): livre
+[00:36:43] antiN. End killed Primo Viado do Alma with AWP
+[00:36:44] ANTI [N] kap killed Sagos with AWP
+[00:36:44] k¦ANTI [N] kap¦100¦100
+[00:36:44] [SERVER]: ANTI [N] kap did the most damage 200 HP
+[00:36:44] [SERVER]: Damage in this round 0 HP
+[00:36:44] [SERVER]: Damage in total 500 HP
+[00:36:46] rcN :: monge (Equipe) *MORTO*: entao..
+[00:36:50] rcN :: monge (Equipe): eu tbm
+[00:36:53] ANTI [N] kap killed Sagos with AWP
+[00:36:53] k¦ANTI [N] kap¦100¦100
+[00:36:55] rcN :: monge (Equipe): quero gente
+[00:36:56] U.S.G.N.: Ping/State 'playing'
+[00:36:56] rcN :: monge killed antiN. End with AWP
+[00:36:57] ANTI [N] kap killed Primo Viado do Alma with AWP
+[00:36:59] rcN :: monge (Equipe): interessada em code
+[00:37:03] rcN :: monge killed ANTI [N] kap with AWP
+[00:37:08] .:DJ-GAMER-BR:. killed rcN :: monge with Knife
+[00:37:08] [SERVER]: rcN :: monge did the most damage 200 HP
+[00:37:08] [SERVER]: Damage in this round 0 HP
+[00:37:08] [SERVER]: Damage in total 500 HP
+[00:37:10] rcN :: monge *MORTO*: ta porra
+[00:37:11] rcN :: monge *MORTO*: q lagado
+[00:37:12] antiN. End *MORTO*: mds ninguem finge afk em pleno seculo 2018
+[00:37:13] rcN :: monge *MORTO*: tnc
+[00:37:15] rcN :: monge: quem
+[00:37:19] antiN. End: vc
+[00:37:20] Sagos killed .:DJ-GAMER-BR:. with AWP
+[00:37:21] Player killed rcN :: monge with AWP
+[00:37:24] Player killed Primo Viado do Alma with AWP
+[00:37:29] Sagos killed Player with Knife
+[00:37:29] Sagos killed ANTI [N] kap with AWP
+[00:37:31] antiN. End killed Sagos with AWP
+[00:37:31] k¦antiN. End¦100¦100
+[00:37:31] [SERVER]: Sagos did the most damage 300 HP
+[00:37:31] [SERVER]: Damage in this round 300 HP
+[00:37:31] [SERVER]: Damage in total 800 HP
+[00:37:38] rcN :: monge (Equipe): bora entrar ? =D
+[00:37:44] Sagos (Equipe): qual a linguagem?
+[00:37:50] rcN :: monge (Equipe): eu tava pensando
+[00:37:52] rcN :: monge (Equipe): em angular
+[00:37:54] Sagos killed .:DJ-GAMER-BR:. with AWP
+[00:37:56] U.S.G.N.: Ping/State 'playing'
+[00:38:01] rcN :: monge killed Player with AWP
+[00:38:04] antiN. End killed rcN :: monge with AWP
+[00:38:06] Primo Viado do Alma killed ANTI [N] kap with AWP
+[00:38:09] Primo Viado do Alma killed antiN. End with AWP
+[00:38:09] [SERVER]: Primo Viado do Alma did the most damage 200 HP
+[00:38:09] [SERVER]: Damage in this round 100 HP
+[00:38:09] [SERVER]: Damage in total 900 HP
+[00:38:14] 35-9=7 conectou-se ao servidor
+[00:38:17] Sagos (Equipe): angular?
+[00:38:19] rcN :: monge (Equipe): ss
+[00:38:22] antiN. End killed Primo Viado do Alma with AWP
+[00:38:22] 35-9=7 aliou-se a Equipe Terrorista
+[00:38:22] Sagos (Equipe): nunca ouvi fala
+[00:38:24] Sagos killed antiN. End with AWP
+[00:38:33] ANTI [N] kap killed rcN :: monge with AWP
+[00:38:33] Sagos killed .:DJ-GAMER-BR:. with AWP
+[00:38:37] Sagos killed ANTI [N] kap with AWP
+[00:38:37] Sagos killed Player with AWP
+[00:38:37] [SERVER]: Sagos did the most damage 400 HP
+[00:38:37] [SERVER]: Damage in this round 400 HP
+[00:38:37] [SERVER]: Damage in total 1300 HP
+[00:38:43] rcN :: monge (Equipe): se trampa com qual linguagem?
+[00:38:46] Primo Viado do Alma killed antiN. End with AWP
+[00:38:49] Primo Viado do Alma killed Player with AWP
+[00:38:49] Sagos (Equipe): python e javascript
+[00:38:51] .:DJ-GAMER-BR:. killed Primo Viado do Alma with AWP
+[00:38:57] U.S.G.N.: Ping/State 'playing'
+[00:38:57] rcN :: monge (Equipe): nunca ouviu fala de angular?
+[00:39:00] ANTI [N] kap killed Sagos with AWP
+[00:39:00] k¦ANTI [N] kap¦100¦0
+[00:39:01] Primo Viado do Alma *MORTO*: Fuis
+[00:39:03] ANTI [N] kap killed 35-9=7 with Knife
+[00:39:04] rcN :: monge (Equipe): framework mais utilizado atualemte
+[00:39:06] rcN :: monge (Equipe): UKK
+[00:39:09] antiN. End *MORTO*: q
+[00:39:11] ANTI [N] kap killed rcN :: monge with AWP
+[00:39:11] [SERVER]: ANTI [N] kap did the most damage 300 HP
+[00:39:11] [SERVER]: Damage in this round 0 HP
+[00:39:11] [SERVER]: Damage in total 1300 HP
+[00:39:14] Sagos (Equipe) *MORTO*: nao
+[00:39:14] rcN :: monge aliou-se a Equipe Terrorista
+[00:39:18] Sagos (Equipe): a gente usa odoo
+[00:39:22] rcN :: monge (Equipe): aonde se mora
+[00:39:24] Sagos (Equipe): sp
+[00:39:24] antiN. End killed 35-9=7 with AWP
+[00:39:26] ANTI [N] kap killed Primo Viado do Alma with AWP
+[00:39:27] Sagos killed ANTI [N] kap with AWP
+[00:39:29] .:DJ-GAMER-BR:. killed Sagos with AWP
+[00:39:29] k¦.:DJ-GAMER-BR:.¦100¦100
+[00:39:31] 35-9=7 deixou o servidor
+[00:39:32] .:DJ-GAMER-BR:. killed rcN :: monge with AWP
+[00:39:32] [SERVER]: .:DJ-GAMER-BR:. did the most damage 200 HP
+[00:39:32] [SERVER]: Damage in this round 100 HP
+[00:39:32] [SERVER]: Damage in total 1400 HP
+[00:39:34] ANTI [N] kap aliou-se a Equipe Terrorista
+[00:39:36] rcN :: monge (Equipe) *MORTO*: eu tbm caraio
+[00:39:39] rcN :: monge (Equipe): se mora zn:
+[00:39:40] rcN :: monge (Equipe): ?
+[00:39:45] ANTI [N] kap killed Player with AWP
+[00:39:49] antiN. End killed ANTI [N] kap with AWP
+[00:39:50] Sagos (Equipe): acho dificil o framework ser melhor q o odoo em
+[00:39:54] .:DJ-GAMER-BR:. killed rcN :: monge with AWP
+[00:39:56] Sagos killed antiN. End with AWP
+[00:39:57] U.S.G.N.: Ping/State 'playing'
+[00:40:03] Primo Viado do Alma killed .:DJ-GAMER-BR:. with AWP
+[00:40:03] [SERVER]: Primo Viado do Alma did the most damage 100 HP
+[00:40:03] [SERVER]: Damage in this round 100 HP
+[00:40:03] [SERVER]: Damage in total 1500 HP
+[00:40:11] rcN :: monge (Equipe): mano
+[00:40:13] ANTI [N] kap: rank
+[00:40:13] r¦ANTI [N] kap (USGN)¦49 of 199¦67,79,67,1.17,48 m 52 s
+[00:40:16] rcN :: monge (Equipe): angular e pra dev WEB
+[00:40:19] antiN. End killed rcN :: monge with AWP
+[00:40:21] Sagos killed .:DJ-GAMER-BR:. with AWP
+[00:40:23] Sagos (Equipe): odoo tbm
+[00:40:25] ANTI [N] kap killed Player with AWP
+[00:40:29] ANTI [N] kap killed antiN. End with AWP
+[00:40:29] [SERVER]: ANTI [N] kap did the most damage 200 HP
+[00:40:29] [SERVER]: Damage in this round 100 HP
+[00:40:29] [SERVER]: Damage in total 1600 HP
+[00:40:33] r¦antiN. End (USGN)¦6 of 199¦111,111,89,1.24,1 h 11 m
+[00:40:40] Player killed Primo Viado do Alma with AWP
+[00:40:41] rcN :: monge (Equipe): eu nunca usei odoo
+[00:40:45] ANTI [N] kap killed .:DJ-GAMER-BR:. with AWP
+[00:40:50] antiN. End killed ANTI [N] kap with AWP
+[00:40:51] Player killed Sagos with AWP
+[00:40:51] k¦Player¦100¦100
+[00:40:57] antiN. End killed rcN :: monge with AWP
+[00:40:57] [SERVER]: antiN. End did the most damage 200 HP
+[00:40:57] [SERVER]: Damage in this round 0 HP
+[00:40:57] [SERVER]: Damage in total 1600 HP
+[00:40:57] U.S.G.N.: Ping/State 'playing'
+[00:41:04] rcN :: monge (Equipe): se mora em que zona?
+[00:41:05] rcN :: monge (Equipe): norte?
+[00:41:06] Primo Viado do Alma killed Player with AWP
+[00:41:10] ANTI [N] kap killed .:DJ-GAMER-BR:. with AWP
+[00:41:10] ANTI [N] kap killed antiN. End with AWP
+[00:41:10] [SERVER]: ANTI [N] kap did the most damage 200 HP
+[00:41:10] [SERVER]: Damage in this round 0 HP
+[00:41:10] [SERVER]: Damage in total 1600 HP
+[00:41:11] Sagos (Equipe): n
+[00:41:20] Sagos (Equipe): zona sul
+[00:41:22] .:DJ-GAMER-BR:. killed ANTI [N] kap with AWP
+[00:41:26] rcN :: monge killed Player with AWP
+[00:41:29] antiN. End killed Sagos with Knife
+[00:41:29] k¦antiN. End¦100¦100
+[00:41:30] antiN. End killed Primo Viado do Alma with Knife
+[00:41:42] rcN :: monge killed antiN. End with Knife
+[00:41:43] rcN :: monge killed .:DJ-GAMER-BR:. with AWP
+[00:41:43] [SERVER]: rcN :: monge did the most damage 300 HP
+[00:41:43] [SERVER]: Damage in this round 0 HP
+[00:41:43] [SERVER]: Damage in total 1600 HP
+[00:41:47] rcN :: monge: sonha 
+[00:41:49] Sagos (Equipe): qual sua cidade?
+[00:41:49] antiN. End: faca 50metro
+[00:41:49] rcN :: monge: portugues
+[00:41:53] rcN :: monge (Equipe): 21 e vc man?
+[00:41:58] U.S.G.N.: Ping/State 'playing'
+[00:42:00] ANTI [N] kap killed antiN. End with AWP
+[00:42:00] Sagos (Equipe): cidade kkkk
+[00:42:03] ANTI [N] kap killed .:DJ-GAMER-BR:. with AWP
+[00:42:06] Sagos (Equipe): nao idade
+[00:42:10] rcN :: monge (Equipe): atra
+[00:42:11] rcN :: monge (Equipe): ata
+[00:42:14] rcN :: monge (Equipe): moro em sp tbm
+[00:42:16] rcN :: monge (Equipe): capital
+[00:42:18] rcN :: monge (Equipe): zona norte
+[00:42:19] Sagos killed Player with AWP
+[00:42:19] [SERVER]: ANTI [N] kap did the most damage 200 HP
+[00:42:19] [SERVER]: Damage in this round 100 HP
+[00:42:19] [SERVER]: Damage in total 1700 HP
+[00:42:21] rcN :: monge (Equipe): parada inglesa
+[00:42:24] rcN :: monge (Equipe): manja?
+[00:42:32] Sagos (Equipe): to na rua augusta td dia
+[00:42:35] Primo Viado do Alma killed antiN. End with AWP
+[00:42:35] ANTI [N] kap killed .:DJ-GAMER-BR:. with AWP
+[00:42:36] Sagos killed Player with AWP
+[00:42:36] [SERVER]: Primo Viado do Alma did the most damage 100 HP
+[00:42:36] [SERVER]: Damage in this round 100 HP
+[00:42:36] [SERVER]: Damage in total 1800 HP
+[00:42:37] rcN :: monge (Equipe): paulista
+[00:42:39] rcN :: monge (Equipe): q dhr
+[00:42:41] rcN :: monge (Equipe): eu trampei la ja
+[00:42:42] antiN. End: alma
+[00:42:46] rcN :: monge (Equipe): em uma das
+[00:42:47] rcN :: monge (Equipe): alamedas
+[00:42:52] antiN. End killed Primo Viado do Alma with AWP
+[00:42:54] .:DJ-GAMER-BR:. killed ANTI [N] kap with AWP
+[00:42:57] Sagos killed antiN. End with AWP
+[00:42:57] Player killed rcN :: monge with AWP
+[00:42:58] U.S.G.N.: Ping/State 'playing'
+[00:42:59] Sagos killed Player with AWP
+[00:43:03] Sagos killed .:DJ-GAMER-BR:. with AWP
+[00:43:03] [SERVER]: Sagos did the most damage 300 HP
+[00:43:03] [SERVER]: Damage in this round 300 HP
+[00:43:03] [SERVER]: Damage in total 2100 HP
+[00:43:11] antiN. End: como
+[00:43:13] antiN. End: KKKKK
+[00:43:13] rcN :: monge (Equipe): vc tem qnts anos
+[00:43:16] Sagos (Equipe): 22
+[00:43:17] ANTI [N] kap killed .:DJ-GAMER-BR:. with AWP
+[00:43:17] antiN. End killed ANTI [N] kap with AWP
+[00:43:24] antiN. End killed Primo Viado do Alma with AWP
+[00:43:26] Player killed rcN :: monge with AWP
+[00:43:32] Sagos killed antiN. End with AWP
+[00:43:38] Player killed Sagos with AWP
+[00:43:38] k¦Player¦100¦100
+[00:43:38] [SERVER]: antiN. End did the most damage 200 HP
+[00:43:38] [SERVER]: Damage in this round 100 HP
+[00:43:38] [SERVER]: Damage in total 2200 HP
+[00:43:40] antiN. End *MORTO*: nego atirou na perde
+[00:43:41] Sagos (Equipe) *MORTO*: kkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:43:42] antiN. End *MORTO*: parede
+[00:43:43] antiN. End *MORTO*: KKKKK
+[00:43:47] Sagos killed Player with AWP
+[00:43:50] .:DJ-GAMER-BR:. killed Sagos with AWP
+[00:43:50] k¦.:DJ-GAMER-BR:.¦100¦100
+[00:43:53] antiN. End killed Primo Viado do Alma with AWP
+[00:43:57] .:DJ-GAMER-BR:. killed ANTI [N] kap with AWP
+[00:43:59] U.S.G.N.: Ping/State 'playing'
+[00:44:12] rcN :: monge killed antiN. End with Knife
+[00:44:13] rcN :: monge killed .:DJ-GAMER-BR:. with AWP
+[00:44:13] [SERVER]: rcN :: monge did the most damage 200 HP
+[00:44:13] [SERVER]: Damage in this round 100 HP
+[00:44:13] [SERVER]: Damage in total 2300 HP
+[00:44:14] rcN :: monge: K
+[00:44:15] rcN :: monge: dnv portuga
+[00:44:16] rcN :: monge: KKKKKKKKKKKK
+[00:44:18] antiN. End: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK Q FDP ATIRA
+[00:44:20] rcN :: monge: KPOASKEPOASKPOEAKOEP
+[00:44:22] Sagos: djavu
+[00:44:25] Primo Viado do Alma killed antiN. End with AWP
+[00:44:27] Primo Viado do Alma killed .:DJ-GAMER-BR:. with AWP
+[00:44:29] ANTI [N] kap killed Player with AWP
+[00:44:29] [SERVER]: Primo Viado do Alma did the most damage 200 HP
+[00:44:29] [SERVER]: Damage in this round 0 HP
+[00:44:29] [SERVER]: Damage in total 2300 HP
+[00:44:34] rcN :: monge (Equipe): entao
+[00:44:35] antiN. End: q isso viado 2 segundo o cara ta na base ct
+[00:44:36] rcN :: monge (Equipe): ai quero 
+[00:44:41] rcN :: monge (Equipe): junta uma galera q ja manja alguma coisa
+[00:44:43] rcN :: monge (Equipe): e estudar
+[00:44:46] ANTI [N] kap killed Player with AWP
+[00:44:47] rcN :: monge (Equipe): pra dps
+[00:44:49] Sagos (Equipe): e criar o q?
+[00:44:49] rcN :: monge (Equipe): fazer uma grana
+[00:44:52] rcN :: monge (Equipe): entao
+[00:44:52] ANTI [N] kap killed .:DJ-GAMER-BR:. with Knife
+[00:44:55] antiN. kwSK conectou-se ao servidor
+[00:44:57] rcN :: monge (Equipe): manda seu wpp pelo amor
+[00:44:59] antiN. End killed ANTI [N] kap with Knife
+[00:44:59] U.S.G.N.: Ping/State 'playing'
+[00:45:02] antiN. kwSK aliou-se a Equipe Contra-Terrorista
+[00:45:03] Sagos (Equipe): 11 990094125
+[00:45:08] Primo Viado do Alma killed antiN. End with Knife
+[00:45:08] [SERVER]: ANTI [N] kap did the most damage 200 HP
+[00:45:08] [SERVER]: Damage in this round 0 HP
+[00:45:08] [SERVER]: Damage in total 2300 HP
+[00:45:09] NoQuality. porva conectou-se ao servidor
+[00:45:12] NoQuality. porva aliou-se a Equipe Terrorista
+[00:45:13] antiN. kwSK mudou de nome para TIA ADOTADA DO ALMA
+[00:45:17] antiN. End: a
+[00:45:18] Sagos killed .:DJ-GAMER-BR:. with AWP
+[00:45:24] rcN' : rave' N conectou-se ao servidor
+[00:45:25] Player killed Sagos with AWP
+[00:45:25] k¦Player¦100¦100
+[00:45:26] NoQuality. porva: juliani prates
+[00:45:27] NoQuality. porva: KKKK
+[00:45:27] Primo Viado do Alma killed Player with AWP
+[00:45:28] TIA ADOTADA DO ALMA killed Primo Viado do Alma with AWP
+[00:45:28] NoQuality. porva: xD
+[00:45:30] antiN. End killed ANTI [N] kap with AWP
+[00:45:32] rcN' : rave' N aliou-se a Equipe Contra-Terrorista
+[00:45:33] Primo Viado do Alma *MORTO*: SRHIAEUOHAEIOUHEAOIUAE
+[00:45:34] NoQuality. porva killed antiN. End with AWP
+[00:45:34] TIA ADOTADA DO ALMA killed NoQuality. porva with AWP
+[00:45:38] Primo Viado do Alma *MORTO*: MEU PRIMO JOGA DMS
+[00:45:40] TIA ADOTADA DO ALMA killed rcN :: monge with AWP
+[00:45:40] [SERVER]: TIA ADOTADA DO ALMA did the most damage 300 HP
+[00:45:40] [SERVER]: Damage in this round 100 HP
+[00:45:40] [SERVER]: Damage in total 2400 HP
+[00:45:41] Primo Viado do Alma *MORTO*: Fuis
+[00:45:41] rcN :: monge *MORTO*: K
+[00:45:43] rcN' : rave' N *MORTO*: tem membro n
+[00:45:43] NoQuality. porva deixou o servidor
+[00:45:50] TIA ADOTADA DO ALMA killed Sagos with AWP
+[00:45:50] k¦TIA ADOTADA DO ALMA¦100¦100
+[00:45:50] TIA ADOTADA DO ALMA killed rcN :: monge with AWP
+[00:45:51] rcN :: monge *MORTO*: fdp
+[00:45:52] antiN. End killed ANTI [N] kap with AWP
+[00:45:56] antiN. End killed Primo Viado do Alma with AWP
+[00:45:56] [SERVER]: antiN. End did the most damage 200 HP
+[00:45:56] [SERVER]: Damage in this round 0 HP
+[00:45:56] [SERVER]: Damage in total 2400 HP
+[00:46:00] U.S.G.N.: Ping/State 'playing'
+[00:46:00] rcN' : rave' N died
+[00:46:00] rcN' : rave' N aliou-se a Equipe Terrorista
+[00:46:02] ANTI [N] kap mudou de nome para ] kap
+[00:46:05] rcN :: monge killed Player with AWP
+[00:46:11] rcN' : rave' N killed antiN. End with Knife
+[00:46:13] rcN :: monge killed TIA ADOTADA DO ALMA with AWP
+[00:46:16] Sagos killed .:DJ-GAMER-BR:. with Knife
+[00:46:16] [SERVER]: rcN :: monge did the most damage 200 HP
+[00:46:16] [SERVER]: Damage in this round 100 HP
+[00:46:16] [SERVER]: Damage in total 2500 HP
+[00:46:23] rcN :: monge mudou de nome para rcN :: krakN
+[00:46:27] ] kap killed TIA ADOTADA DO ALMA with AWP
+[00:46:28] .:DJ-GAMER-BR:. killed Primo Viado do Alma with AWP
+[00:46:29] rcN :: krakN killed Player with AWP
+[00:46:31] Player deixou o servidor
+[00:46:35] Sagos killed antiN. End with AWP
+[00:46:35] ] kap killed .:DJ-GAMER-BR:. with AWP
+[00:46:35] [SERVER]: ] kap did the most damage 200 HP
+[00:46:35] [SERVER]: Damage in this round 100 HP
+[00:46:35] [SERVER]: Damage in total 2600 HP
+[00:46:37] rcN :: krakN: KKK
+[00:46:40] * Auto Teambalance *
+[00:46:40] rcN' : rave' N aliou-se a Equipe Contra-Terrorista
+[00:46:48] rcN :: krakN killed .:DJ-GAMER-BR:. with AWP
+[00:46:53] fL' King conectou-se ao servidor
+[00:46:53] Sagos killed antiN. End with AWP
+[00:46:57] rcN :: krakN killed TIA ADOTADA DO ALMA with AWP
+[00:46:58] ] kap killed rcN' : rave' N with AWP
+[00:46:58] [SERVER]: rcN :: krakN did the most damage 200 HP
+[00:46:58] [SERVER]: Damage in this round 100 HP
+[00:46:58] [SERVER]: Damage in total 2700 HP
+[00:47:00] U.S.G.N.: Ping/State 'playing'
+[00:47:04] TIA ADOTADA DO ALMA: kai: nego e o cristiano ronaldol da fuga do janos
+[00:47:04] antiN. End: ?
+[00:47:06] fL' King aliou-se a Equipe Contra-Terrorista
+[00:47:07] antiN. End: alma: Tão querendo zoar quem? Os falidos do 2d
+[00:47:07] rcN :: krakN: KKKKKKKKKKKKKKKKKKKKKKKKK
+[00:47:08] rcN' : rave' N killed Primo Viado do Alma with AWP
+[00:47:08] TIA ADOTADA DO ALMA: kai: nego e o cristiano ronaldol da fuga do janos
+[00:47:11] "  (1x)
+[00:47:12] TIA ADOTADA DO ALMA killed Sagos with AWP
+[00:47:12] k¦TIA ADOTADA DO ALMA¦100¦100
+[00:47:16] TIA ADOTADA DO ALMA: kai: nego e o cristiano ronaldol da fuga do janos
+[00:47:17] ] kap killed antiN. End with AWP
+[00:47:17] rcN :: krakN killed TIA ADOTADA DO ALMA with AWP
+[00:47:21] fL' King killed ] kap with AWP
+[00:47:22] antiN. End deixou o servidor
+[00:47:28] antiN. End conectou-se ao servidor
+[00:47:31] rcN' : rave' N killed rcN :: krakN with AWP
+[00:47:31] [SERVER]: rcN' : rave' N did the most damage 200 HP
+[00:47:31] [SERVER]: Damage in this round 0 HP
+[00:47:31] [SERVER]: Damage in total 2700 HP
+[00:47:32] rcN :: krakN *MORTO*: q
+[00:47:34] rcN :: krakN aliou-se a Equipe Terrorista
+[00:47:36] rcN :: krakN: ah e vc raven
+[00:47:36] antiN. End aliou-se a Equipe Contra-Terrorista
+[00:47:41] rcN :: krakN killed .:DJ-GAMER-BR:. with AWP
+[00:47:44] Primo Viado do Alma killed fL' King with AWP
+[00:47:44] TIA ADOTADA DO ALMA mudou de nome para krakN do paraguai
+[00:47:46] antiN. End killed rcN :: krakN with AWP
+[00:47:47] krakN do paraguai: kai: nego e o cristiano ronaldol da fuga do janos
+[00:47:48] Primo Viado do Alma killed rcN' : rave' N with AWP
+[00:47:49] krakN do paraguai: kai: nego e o cristiano ronaldol da fuga do janos
+[00:47:52] ] kap killed krakN do paraguai with AWP
+[00:47:56] antiN. End mudou de nome para parente do colombo
+[00:47:56] ] kap killed parente do colombo with AWP
+[00:47:56] [SERVER]: Primo Viado do Alma did the most damage 200 HP
+[00:47:56] [SERVER]: Damage in this round 0 HP
+[00:47:56] [SERVER]: Damage in total 2700 HP
+[00:48:01] U.S.G.N.: Ping/State 'playing'
+[00:48:01] krakN do paraguai: kai: nego e o cristiano ronaldol da fuga do janos
+[00:48:07] Sagos killed krakN do paraguai with AWP
+[00:48:11] ] kap killed fL' King with AWP
+[00:48:12] parente do colombo killed Sagos with AWP
+[00:48:12] k¦parente do colombo¦100¦0
+[00:48:15] rcN' : rave' N killed Primo Viado do Alma with AWP
+[00:48:16] krakN do paraguai *MORTO*: pera ai
+[00:48:17] krakN do paraguai *MORTO*: samuel?
+[00:48:18] krakN do paraguai *MORTO*: é tu?
+[00:48:22] ] kap killed .:DJ-GAMER-BR:. with AWP
+[00:48:22] ] kap killed rcN' : rave' N with AWP
+[00:48:23] rcN' : rave' N *MORTO*: burra
+[00:48:27] parente do colombo killed ] kap with AWP
+[00:48:29] krakN do paraguai *MORTO*: samuel?
+[00:48:30] nQ' freddy conectou-se ao servidor
+[00:48:30] Sagos *MORTO*: ?
+[00:48:32] Sagos *MORTO*: eu
+[00:48:33] Primo Viado do Alma *MORTO*: fuis
+[00:48:34] krakN do paraguai *MORTO*: nossa
+[00:48:35] rcN' : rave' N *MORTO*: meu pau no seu anel
+[00:48:36] nQ' freddy aliou-se a Equipe Terrorista
+[00:48:36] parente do colombo: ala
+[00:48:37] krakN do paraguai *MORTO*: quanto tempo
+[00:48:38] krakN do paraguai *MORTO*: que eu n te vejo
+[00:48:40] krakN do paraguai *MORTO*: mano
+[00:48:41] krakN do paraguai *MORTO*: caralho
+[00:48:44] Sagos *MORTO*: kkkk
+[00:48:47] parente do colombo killed rcN :: krakN with Knife
+[00:48:47] [SERVER]: ] kap did the most damage 300 HP
+[00:48:47] [SERVER]: Damage in this round 100 HP
+[00:48:47] [SERVER]: Damage in total 2800 HP
+[00:48:47] rcN :: krakN *MORTO*: per
+[00:48:48] rcN :: krakN *MORTO*: K
+[00:48:52] krakN do paraguai mudou de nome para kwSK
+[00:48:52] nQ' freddy mudou de nome para nQ' Mongolia
+[00:48:52] parente do colombo: rank
+[00:48:52] r¦parente do colombo (USGN)¦6 of 199¦127,127,104,1.22,1 h 19 m
+[00:48:52] rcN :: krakN: tava mandando audio pro sagos
+[00:48:52] kwSK: tu nem lembra de min mais
+[00:48:54] rcN :: krakN: fdp
+[00:48:54] kwSK: se pa
+[00:48:55] fL' King: os cara tudo loko
+[00:49:00] nQ' Mongolia killed rcN' : rave' N with AWP
+[00:49:01] kwSK: tu parou de jogar
+[00:49:01] Sagos: n lembro
+[00:49:02] fL' King: tomo muito toddy
+[00:49:02] U.S.G.N.: Ping/State 'playing'
+[00:49:02] kwSK: a mo cota
+[00:49:06] parente do colombo: le meu nome kwsk
+[00:49:07] parente do colombo killed ] kap with AWP
+[00:49:09] rcN :: krakN killed parente do colombo with AWP
+[00:49:09] kwSK killed Primo Viado do Alma with AWP
+[00:49:10] nQ' Mongolia killed fL' King with AWP
+[00:49:12] rcN :: krakN killed .:DJ-GAMER-BR:. with Knife
+[00:49:19] Sagos killed kwSK with AWP
+[00:49:19] [SERVER]: rcN :: krakN did the most damage 200 HP
+[00:49:19] [SERVER]: Damage in this round 100 HP
+[00:49:19] [SERVER]: Damage in total 2900 HP
+[00:49:31] parente do colombo killed rcN :: krakN with AWP
+[00:49:33] ] kap killed fL' King with AWP
+[00:49:33] ] kap killed rcN' : rave' N with AWP
+[00:49:36] kwSK: vc criava script e tal
+[00:49:38] ] kap killed parente do colombo with AWP
+[00:49:39] nQ' Mongolia killed .:DJ-GAMER-BR:. with AWP
+[00:49:39] nQ' Mongolia killed kwSK with AWP
+[00:49:39] [SERVER]: ] kap did the most damage 300 HP
+[00:49:39] [SERVER]: Damage in this round 0 HP
+[00:49:39] [SERVER]: Damage in total 2900 HP
+[00:49:43] rcN :: krakN aliou-se a Equipe Terrorista
+[00:49:45] parente do colombo: chora
+[00:49:45] kwSK: ai eu criava o mapa 
+[00:49:45] Sagos: faz tempo em
+[00:49:49] rcN :: krakN killed fL' King with AWP
+[00:49:50] rcN :: krakN: -1
+[00:49:52] kwSK: faz mt tempo
+[00:49:54] rcN' : rave' N killed Sagos with AWP
+[00:49:54] k¦rcN' : rave' N¦100¦100
+[00:49:54] rcN' : rave' N killed nQ' Mongolia with AWP
+[00:49:55] ] kap killed parente do colombo with AWP
+[00:49:57] kwSK: ate no facebook te tenho
+[00:49:58] nQ' Mongolia votou pela expulsão de rcN' : rave' N
+[00:49:58] fL' King *MORTO*: kraken hack kick
+[00:50:00] kwSK killed ] kap with AWP
+[00:50:01] parente do colombo *MORTO*: atirei na parede dnv
+[00:50:03] U.S.G.N.: Ping/State 'playing'
+[00:50:05] kwSK killed Primo Viado do Alma with AWP
+[00:50:12] fL' King votou pela expulsão de rcN :: krakN
+[00:50:14] .:DJ-GAMER-BR:. killed rcN :: krakN with AWP
+[00:50:14] [SERVER]: kwSK did the most damage 200 HP
+[00:50:14] [SERVER]: Damage in this round 0 HP
+[00:50:14] [SERVER]: Damage in total 2900 HP
+[00:50:15] ZegracaMaster conectou-se ao servidor
+[00:50:15] rcN :: krakN *MORTO*: KL
+[00:50:17] ZegracaMaster aliou-se a Equipe Terrorista
+[00:50:17] rcN :: krakN aliou-se a Equipe Terrorista
+[00:50:18] rcN' : rave' N: morre pra dj gamer
+[00:50:18] fL' King *MORTO*: hack ao vivo
+[00:50:19] rcN' : rave' N: falencia
+[00:50:20] parente do colombo mudou de nome para antiN. colombo
+[00:50:21] rcN :: krakN: morri pra ssa merda
+[00:50:22] rcN' : rave' N killed rcN :: krakN with AWP
+[00:50:22] rcN' : rave' N killed ZegracaMaster with AWP
+[00:50:23] ZegracaMaster deixou o servidor
+[00:50:24] antiN. colombo: K
+[00:50:24] kwSK killed ] kap with AWP
+[00:50:28] kwSK killed nQ' Mongolia with AWP
+[00:50:28] antiN. colombo killed Primo Viado do Alma with AWP
+[00:50:34] Sagos killed rcN' : rave' N with Knife
+[00:50:36] Sagos killed fL' King with Knife
+[00:50:37] kwSK killed Sagos with AWP
+[00:50:37] k¦kwSK¦100¦100
+[00:50:37] [SERVER]: kwSK did the most damage 300 HP
+[00:50:37] [SERVER]: Damage in this round 200 HP
+[00:50:37] [SERVER]: Damage in total 3100 HP
+[00:50:45] antiN. colombo killed Primo Viado do Alma with AWP
+[00:50:47] rcN :: krakN killed .:DJ-GAMER-BR:. with AWP
+[00:50:49] nQ' Mongolia killed fL' King with AWP
+[00:50:51] rcN :: krakN killed antiN. colombo with AWP
+[00:50:55] rcN' : rave' N killed Sagos with AWP
+[00:50:55] k¦rcN' : rave' N¦100¦100
+[00:50:58] rcN :: krakN killed rcN' : rave' N with AWP
+[00:51:02] ] kap killed kwSK with AWP
+[00:51:02] [SERVER]: rcN :: krakN did the most damage 300 HP
+[00:51:02] [SERVER]: Damage in this round 0 HP
+[00:51:02] [SERVER]: Damage in total 3100 HP
+[00:51:03] U.S.G.N.: Ping/State 'playing'
+[00:51:05] rcN' : rave' N *MORTO*: cala boca e joga
+[00:51:07] rcN' : rave' N *MORTO*: filha da puta
+[00:51:10] rcN :: krakN killed fL' King with AWP
+[00:51:16] kwSK killed nQ' Mongolia with AWP
+[00:51:16] kwSK killed Sagos with AWP
+[00:51:16] k¦kwSK¦100¦0
+[00:51:17] rcN :: krakN killed .:DJ-GAMER-BR:. with AWP
+[00:51:19] nQ' Mongolia votou pela expulsão de kwSK
+[00:51:19] antiN. colombo killed Primo Viado do Alma with AWP
+[00:51:23] rcN' : rave' N killed ] kap with AWP
+[00:51:32] RcN' : novA conectou-se ao servidor
+[00:51:37] .:DJ-GAMER-BR:. *MORTO*: caramba mano so muito noob
+[00:51:38] rcN :: krakN killed antiN. colombo with AWP
+[00:51:38] RcN' : novA aliou-se a Equipe Contra-Terrorista
+[00:51:40] rcN :: krakN killed kwSK with AWP
+[00:51:47] rcN :: krakN: sonha bb
+[00:51:49] rcN :: krakN: q vo cair
+[00:51:49] antiN. colombo *MORTO*: cliquei no segundo monitor dnv
+[00:51:50] kwSK *MORTO*: anima
+[00:51:51] rcN :: krakN: numa tao facil
+[00:51:52] rcN :: krakN: KKKKKKKKKKK
+[00:51:52] nQ' Mongolia *MORTO*: kk n e so tu n 
+[00:51:55] ] kap *MORTO*: fala
+[00:51:56] NoQuality. Yoda conectou-se ao servidor
+[00:51:57] rcN' : rave' N killed rcN :: krakN with AWP
+[00:51:57] [SERVER]: rcN :: krakN did the most damage 400 HP
+[00:51:57] [SERVER]: Damage in this round 0 HP
+[00:51:57] [SERVER]: Damage in total 3100 HP
+[00:51:58] NoQuality. Yoda aliou-se a Equipe Terrorista
+[00:51:59] rcN :: krakN *MORTO*: fdp
+[00:51:59] kwSK *MORTO*: vamo cf nao?
+[00:52:03] Sagos: credo fiquei ruim nesse game
+[00:52:03] rcN :: krakN: mlk rapido do krl tnc
+[00:52:03] nQ' Mongolia mudou de nome para nQ' thai
+[00:52:04] U.S.G.N.: Ping/State 'playing'
+[00:52:05] NoQuality. Yoda: a krl do sv fecho
+[00:52:06] kwSK: de sabado
+[00:52:06] ] kap: vamos
+[00:52:09] kwSK: de lei
+[00:52:09] antiN. colombo: sai yoda lixo
+[00:52:12] nQ' thai: yoda abre sv la
+[00:52:13] rcN :: krakN killed RcN' : novA with AWP
+[00:52:13] rcN :: krakN killed fL' King with AWP
+[00:52:14] kwSK: cade o alma?
+[00:52:18] Primo Viado do Alma killed antiN. colombo with AWP
+[00:52:20] Sagos killed kwSK with AWP
+[00:52:21] NoQuality. Yoda: oi prey?
+[00:52:21] Primo Viado do Alma killed rcN' : rave' N with AWP
+[00:52:24] Primo Viado do Alma killed .:DJ-GAMER-BR:. with AWP
+[00:52:24] [SERVER]: Primo Viado do Alma did the most damage 300 HP
+[00:52:24] [SERVER]: Damage in this round 100 HP
+[00:52:24] [SERVER]: Damage in total 3200 HP
+[00:52:25] ] kap: mamando
+[00:52:26] nQ' thai: abre sv
+[00:52:28] rcN :: krakN: KKK
+[00:52:29] NoQuality. Yoda: pra
+[00:52:30] kwSK mudou de nome para antiN. kwSK
+[00:52:35] rcN :: krakN: meu sv ta open
+[00:52:36] antiN. kwSK: contra rcn anima?
+[00:52:36] rcN :: krakN: eu acho
+[00:52:37] nQ' thai: pra fz sexo
+[00:52:37] RcN' : novA killed Sagos with AWP
+[00:52:37] k¦RcN' : novA¦100¦0
+[00:52:37] Primo Viado do Alma killed rcN' : rave' N with AWP
+[00:52:38] rcN :: krakN: nao ta n
+[00:52:39] NoQuality. Yoda: a
+[00:52:39] rcN :: krakN killed RcN' : novA with AWP
+[00:52:41] nQ' thai: kkkkkk
+[00:52:41] ] kap: tntz
+[00:52:41] NoQuality. Yoda: pensei q ja era tibi
+[00:52:43] NoQuality. Yoda killed antiN. colombo with AWP
+[00:52:44] nQ' thai: sv tibia
+[00:52:46] ] kap: tnfz
+[00:52:47] antiN. kwSK killed Primo Viado do Alma with AWP
+[00:52:48] rcN :: krakN: q poirra de tibia
+[00:52:48] NoQuality. Yoda: a
+[00:52:49] antiN. kwSK: alma
+[00:52:49] ] kap killed fL' King with AWP
+[00:52:53] antiN. kwSK killed ] kap with AWP
+[00:52:53] nQ' thai: mama ae krk
+[00:52:55] .:DJ-GAMER-BR:. killed rcN :: krakN with Knife
+[00:52:55] NoQuality. Yoda: vamo no do fdY
+[00:52:56] rcN' : rave' N *MORTO*: quero um ping q me valorize
+[00:52:56] antiN. kwSK: vamo cf
+[00:52:56] NoQuality. Yoda: prey
+[00:52:56] antiN. colombo *MORTO*: rank
+[00:52:56] r¦antiN. colombo (USGN)¦6 of 199¦132,132,111,1.18,1 h 24 m
+[00:52:56] rcN :: krakN *MORTO*: AMKPOSEKPOASEKPOASEKOEPKO
+[00:52:58] NoQuality. Yoda: la ta daora
+[00:52:59] rcN :: krakN *MORTO*: KKKKKKKKKKKKKKKKKKKKK
+[00:53:00] NoQuality. Yoda: eu te dou tudo
+[00:53:01] NoQuality. Yoda: oq quiser
+[00:53:02] antiN. kwSK killed nQ' thai with AWP
+[00:53:02] rcN :: krakN *MORTO*: mds vei
+[00:53:03] NoQuality. Yoda killed .:DJ-GAMER-BR:. with AWP
+[00:53:04] U.S.G.N.: Ping/State 'playing'
+[00:53:05] nQ' thai votou pela expulsão de antiN. kwSK
+[00:53:06] antiN. colombo *MORTO*: prey kd meu video
+[00:53:08] antiN. colombo *MORTO*: lixo
+[00:53:11] fL' King *MORTO*: MDS PARA DE FALA E SO LIXOS
+[00:53:14] NoQuality. Yoda: orra
+[00:53:15] nQ' thai *MORTO*: cala boca seu arrombado
+[00:53:18] nQ' thai *MORTO*: vou te derrubar
+[00:53:18] antiN. colombo *MORTO*: KKKKK
+[00:53:18] fL' King *MORTO*: lixos nao ok
+[00:53:19] rcN' : rave' N *MORTO*: KKKKKKKKKKKKKKKKKKKK
+[00:53:19] nQ' thai *MORTO*: kkkkkkkkkkkkkkkk
+[00:53:20] rcN' : rave' N *MORTO*: orra
+[00:53:21] rcN' : rave' N *MORTO*: nao deixava
+[00:53:22] NoQuality. Yoda killed antiN. kwSK with AWP
+[00:53:22] [SERVER]: antiN. kwSK did the most damage 300 HP
+[00:53:22] [SERVER]: Damage in this round 0 HP
+[00:53:22] [SERVER]: Damage in total 3200 HP
+[00:53:23] rcN' : rave' N *MORTO*: chamou x1
+[00:53:26] rcN' : rave' N *MORTO*: vld usgn
+[00:53:27] antiN. colombo *MORTO*: xhisum
+[00:53:27] antiN. colombo mudou de nome para antiN. fim
+[00:53:28] Primo Viado do Alma: Não tô muito afim, meu primo viado tá jogando
+[00:53:30] Primo Viado do Alma: Vão vcs
+[00:53:30] nQ' thai: KKKKKKKKKKK
+[00:53:31] rcN' : rave' N killed Primo Viado do Alma with AWP
+[00:53:31] rcN' : rave' N killed rcN :: krakN with AWP
+[00:53:33] nQ' thai: E ZUERA KARAI
+[00:53:33] antiN. kwSK: ok
+[00:53:34] nQ' thai: KKKKKKKKKKKKKKKKKKKKKK
+[00:53:36] RcN' : novA killed nQ' thai with AWP
+[00:53:36] RcN' : novA killed Sagos with AWP
+[00:53:36] k¦RcN' : novA¦100¦100
+[00:53:43] nQ' thai votou pela expulsão de antiN. fim
+[00:53:43] ] kap killed .:DJ-GAMER-BR:. with Knife
+[00:53:49] NoQuality. Yoda killed antiN. kwSK with Knife
+[00:53:50] RcN' : novA killed ] kap with AWP
+[00:53:55] fL' King died
+[00:53:55] fL' King tornou-se um espectador
+[00:53:55] NoQuality. Yoda killed RcN' : novA with AWP
+[00:53:57] rcN' : rave' N killed NoQuality. Yoda with AWP
+[00:53:57] [SERVER]: rcN' : rave' N did the most damage 300 HP
+[00:53:57] [SERVER]: Damage in this round 0 HP
+[00:53:57] [SERVER]: Damage in total 3200 HP
+[00:53:58] NoQuality. Yoda *MORTO*: q
+[00:54:02] fL' King aliou-se a Equipe Contra-Terrorista
+[00:54:03] nQ' thai: o fim esta proximo
+[00:54:05] U.S.G.N.: Ping/State 'playing'
+[00:54:05] rcN' : rave' N killed NoQuality. Yoda with AWP
+[00:54:07] NoQuality. Yoda deixou o servidor
+[00:54:13] Sagos killed antiN. fim with AWP
+[00:54:14] rcN' : rave' N killed Primo Viado do Alma with AWP
+[00:54:14] rcN' : rave' N killed ] kap with AWP
+[00:54:15] RcN' : novA killed Sagos with AWP
+[00:54:15] k¦RcN' : novA¦100¦0
+[00:54:16] rcN' : rave' N: otarios
+[00:54:17] antiN. kwSK killed nQ' thai with AWP
+[00:54:21] RcN' : novA killed rcN :: krakN with AWP
+[00:54:21] [SERVER]: rcN' : rave' N did the most damage 300 HP
+[00:54:21] [SERVER]: Damage in this round 100 HP
+[00:54:21] [SERVER]: Damage in total 3300 HP
+[00:54:24] rcN :: krakN aliou-se a Equipe Terrorista
+[00:54:25] nQ' thai *MORTO*: vou gravar de novo man
+[00:54:27] nQ' thai: amanha cola ae
+[00:54:29] rcN :: krakN killed rcN' : rave' N with AWP
+[00:54:33] rcN :: krakN killed antiN. kwSK with AWP
+[00:54:33] antiN. fim: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:54:35] ] kap killed .:DJ-GAMER-BR:. with AWP
+[00:54:36] RcN' : novA killed rcN :: krakN with AWP
+[00:54:38] ] kap killed RcN' : novA with AWP
+[00:54:42] antiN. fim killed ] kap with AWP
+[00:54:45] nQ' thai killed antiN. fim with AWP
+[00:54:48] nQ' thai: pás
+[00:54:52] nQ' thai: opa
+[00:54:52] fL' King: ok
+[00:54:58] Primo Viado do Alma killed fL' King with AWP
+[00:54:58] [SERVER]: rcN :: krakN did the most damage 200 HP
+[00:54:58] [SERVER]: Damage in this round 0 HP
+[00:54:58] [SERVER]: Damage in total 3300 HP
+[00:55:05] U.S.G.N.: Ping/State 'playing'
+[00:55:11] antiN. kwSK killed nQ' thai with AWP
+[00:55:14] antiN. fim killed rcN :: krakN with AWP
+[00:55:17] antiN. kwSK killed Sagos with AWP
+[00:55:17] k¦antiN. kwSK¦100¦0
+[00:55:20] ] kap killed fL' King with AWP
+[00:55:22] RcN' : novA killed Primo Viado do Alma with AWP
+[00:55:23] antiN. kwSK killed ] kap with AWP
+[00:55:23] [SERVER]: antiN. kwSK did the most damage 300 HP
+[00:55:23] [SERVER]: Damage in this round 0 HP
+[00:55:23] [SERVER]: Damage in total 3300 HP
+[00:55:26] rcN :: krakN aliou-se a Equipe Terrorista
+[00:55:26] rcN' : rave' N died
+[00:55:26] rcN' : rave' N aliou-se a Equipe Terrorista
+[00:55:29] rcN :: krakN: voltei 
+[00:55:29] nQ' thai: kkkkkkkk tururu
+[00:55:32] antiN. kwSK killed ] kap with AWP
+[00:55:33] nQ' thai: se foda
+[00:55:35] antiN. kwSK killed Primo Viado do Alma with AWP
+[00:55:37] RcN' : novA killed Sagos with AWP
+[00:55:37] k¦RcN' : novA¦100¦100
+[00:55:37] antiN. fim: cf ou n
+[00:55:38] nQ' thai killed antiN. kwSK with AWP
+[00:55:42] nQ' thai: cf poha
+[00:55:49] antiN. fim killed nQ' thai with Knife
+[00:55:49] rcN' : rave' N killed RcN' : novA with AWP
+[00:55:49] fL' King killed rcN' : rave' N with AWP
+[00:55:51] rcN' : rave' N *MORTO*: k
+[00:55:53] nQ' thai votou pela expulsão de antiN. fim
+[00:55:59] antiN. fim killed rcN :: krakN with AWP
+[00:55:59] [SERVER]: antiN. fim did the most damage 200 HP
+[00:55:59] [SERVER]: Damage in this round 0 HP
+[00:55:59] [SERVER]: Damage in total 3300 HP
+[00:56:00] rcN :: krakN *MORTO*: K
+[00:56:02] rcN :: krakN *MORTO*: KKK
+[00:56:02] fL' King: KKKKKKKKKKKKKKK
+[00:56:04] antiN. kwSK: vamo cf RCN buseta me responde bando de pinto
+[00:56:04] Primo Viado do Alma mudou de nome para ANTI [N] | Alma
+[00:56:05] rcN :: krakN: voltei
+[00:56:06] U.S.G.N.: Ping/State 'playing'
+[00:56:10] ANTI [N] | Alma: Vamo cf
+[00:56:11] rcN :: krakN killed .:DJ-GAMER-BR:. with AWP
+[00:56:15] nQ' thai killed antiN. kwSK with AWP
+[00:56:16] RcN' : novA killed Sagos with AWP
+[00:56:16] k¦RcN' : novA¦100¦100
+[00:56:18] antiN. fim killed rcN :: krakN with AWP
+[00:56:19] ANTI [N] | Alma: Expulsei meu primo do cf, a
+[00:56:19] ANTI [N] | Alma killed antiN. fim with AWP
+[00:56:25] ANTI [N] | Alma killed RcN' : novA with AWP
+[00:56:29] nQ' thai killed fL' King with AWP
+[00:56:29] [SERVER]: ANTI [N] | Alma did the most damage 200 HP
+[00:56:29] [SERVER]: Damage in this round 0 HP
+[00:56:29] [SERVER]: Damage in total 3300 HP
+[00:56:33] fL' King *MORTO*: alma vagina
+[00:56:40] nQ' thai killed antiN. kwSK with AWP
+[00:56:43] antiN. fim killed rcN :: krakN with AWP
+[00:56:43] nQ' thai: kkkkkkkkk
+[00:56:44] rcN' : rave' N: nova ta depre
+[00:56:45] ] kap killed fL' King with AWP
+[00:56:48] Z   1   r   z   Y  * conectou-se ao servidor
+[00:56:49] ] kap killed .:DJ-GAMER-BR:. with AWP
+[00:56:52] Z   1   r   z   Y  * aliou-se a Equipe Contra-Terrorista
+[00:56:56] ] kap killed antiN. fim with AWP
+[00:56:56] rcN' : rave' N killed RcN' : novA with AWP
+[00:56:56] [SERVER]: ] kap did the most damage 300 HP
+[00:56:56] [SERVER]: Damage in this round 0 HP
+[00:56:56] [SERVER]: Damage in total 3300 HP
+[00:56:58] rcN :: krakN aliou-se a Equipe Terrorista
+[00:57:02] antiN. kwSK: nao nova , fica assim nao
+[00:57:02] antiN. fim: alma botando pressao fdp
+[00:57:03] antiN. kwSK: vamo cf
+[00:57:04] antiN. fim: deixa eu atirar
+[00:57:05] antiN. kwSK: que tu melhora
+[00:57:06] Sagos killed Z   1   r   z   Y  * with AWP
+[00:57:07] U.S.G.N.: Ping/State 'playing'
+[00:57:09] rcN' : rave' N: hackzao
+[00:57:09] antiN. fim votou pela expulsão de Z   1   r   z   Y  *
+[00:57:09] Z   1   r   z   Y  * deixou o servidor (expulso(a): Speedhack Detected)
+[00:57:10] ] kap killed RcN' : novA with AWP
+[00:57:10] ANTI [N] | Alma: Isso
+[00:57:10] rcN' : rave' N: ala
+[00:57:10] Sagos: lixo ainda morre kk
+[00:57:11] antiN. kwSK: se tu ta ruim
+[00:57:12] rcN' : rave' N: puxou no hack
+[00:57:13] antiN. kwSK: tu vai cf
+[00:57:13] ANTI [N] | Alma: CF ajuda todos
+[00:57:15] antiN. kwSK: e tua vida melhora
+[00:57:16] nQ' thai killed antiN. fim with AWP
+[00:57:16] .:DJ-GAMER-BR:. killed rcN :: krakN with AWP
+[00:57:17] fL' King killed ] kap with AWP
+[00:57:19] nQ' thai: kkkkk
+[00:57:24] Sagos killed fL' King with AWP
+[00:57:26] ANTI [N] | Alma killed .:DJ-GAMER-BR:. with AWP
+[00:57:32] antiN. kwSK killed Sagos with AWP
+[00:57:32] k¦antiN. kwSK¦100¦100
+[00:57:33] rcN' : rave' N killed antiN. kwSK with AWP
+[00:57:33] [SERVER]: Sagos did the most damage 200 HP
+[00:57:33] [SERVER]: Damage in this round 200 HP
+[00:57:33] [SERVER]: Damage in total 3500 HP
+[00:57:34] fL' King *MORTO*: masacre ok masacre*
+[00:57:39] antiN. fim: gogo
+[00:57:45] nQ' thai: cf gogo
+[00:57:46] antiN. kwSK killed ] kap with AWP
+[00:57:47] ANTI [N] | Alma killed RcN' : novA with AWP
+[00:57:48] rcN :: krakN killed fL' King with AWP
+[00:57:49] antiN. fim: gogo joga
+[00:57:51] .:DJ-GAMER-BR:. killed ANTI [N] | Alma with AWP
+[00:57:52] rcN :: krakN killed .:DJ-GAMER-BR:. with AWP
+[00:57:57] nQ' thai: hj to confiante ate entao
+[00:58:01] antiN. fim killed rcN' : rave' N with AWP
+[00:58:03] nQ' thai killed antiN. fim with AWP
+[00:58:07] antiN. kwSK killed rcN :: krakN with AWP
+[00:58:07] U.S.G.N.: Ping/State 'playing'
+[00:58:11] antiN. kwSK killed nQ' thai with AWP
+[00:58:12] rcN :: krakN aliou-se a Equipe Terrorista
+[00:58:15] antiN. kwSK: tchau
+[00:58:19] nQ' thai votou pela expulsão de antiN. kwSK
+[00:58:20] fL' King aliou-se a Equipe Contra-Terrorista
+[00:58:25] Sagos killed antiN. kwSK with Knife
+[00:58:25] [SERVER]: antiN. kwSK did the most damage 300 HP
+[00:58:25] [SERVER]: Damage in this round 100 HP
+[00:58:25] [SERVER]: Damage in total 3600 HP
+[00:58:30] antiN. fim: quero ver
+[00:58:35] Sagos killed antiN. fim with AWP
+[00:58:37] rcN :: krakN killed RcN' : novA with AWP
+[00:58:37] antiN. kwSK killed nQ' thai with AWP
+[00:58:37] ANTI [N] | Alma killed antiN. kwSK with AWP
+[00:58:40] fL' King killed ANTI [N] | Alma with AWP
+[00:58:41] rcN' : rave' N: ja morreu
+[00:58:41] rcN :: krakN killed .:DJ-GAMER-BR:. with AWP
+[00:58:42] rcN' : rave' N: SHUASHAUSUAHUSAH
+[00:58:45] fL' King killed rcN :: krakN with AWP
+[00:58:47] ] kap killed fL' King with Knife
+[00:58:47] [SERVER]: rcN :: krakN did the most damage 200 HP
+[00:58:47] [SERVER]: Damage in this round 100 HP
+[00:58:47] [SERVER]: Damage in total 3700 HP
+[00:58:52] antiN. kwSK: OU NAO?
+[00:58:55] RcN' : novA killed ] kap with AWP
+[00:58:55] nQ' thai: meu time ta igual bebado
+[00:58:56] rcN :: krakN: raven
+[00:58:57] rcN :: krakN: vamo cf
+[00:59:00] Sagos killed antiN. kwSK with AWP
+[00:59:01] nQ' thai killed fL' King with AWP
+[00:59:06] RcN' : novA killed rcN :: krakN with AWP
+[00:59:07] Sagos killed antiN. fim with AWP
+[00:59:08] U.S.G.N.: Ping/State 'playing'
+[00:59:08] ANTI [N] | Alma killed .:DJ-GAMER-BR:. with AWP
+[00:59:10] RcN' : novA killed ANTI [N] | Alma with AWP
+[00:59:13] 20Matar conectou-se ao servidor
+[00:59:14] RcN' : novA killed Sagos with AWP
+[00:59:14] k¦RcN' : novA¦100¦0
+[00:59:14] antiN. fim *MORTO*: alma e um fdp
+[00:59:15] ANTI [N] | Alma *MORTO*: Eae, coroi
+[00:59:18] ANTI [N] | Alma *MORTO*: CF ou não?
+[00:59:18] 20Matar aliou-se a Equipe Contra-Terrorista
+[00:59:19] .:DJ-GAMER-BR:. aliou-se a Equipe Contra-Terrorista
+[00:59:20] ANTI [N] | Alma *MORTO*: Vou quitar
+[00:59:20] nQ' thai killed RcN' : novA with AWP
+[00:59:20] [SERVER]: RcN' : novA did the most damage 400 HP
+[00:59:20] [SERVER]: Damage in this round 200 HP
+[00:59:20] [SERVER]: Damage in total 3900 HP
+[00:59:22] antiN. fim *MORTO*: go
+[00:59:22] rcN' : rave' N: meu saoc
+[00:59:25] ANTI [N] | Alma: Então chama
+[00:59:25] antiN. kwSK: SEVEN TA MT FAMOSINHO
+[00:59:27] antiN. kwSK: NAO RESPONDE NGM
+[00:59:29] antiN. fim: go cf svn lixo
+[00:59:30] antiN. kwSK: CARALHO
+[00:59:30] rcN' : rave' N: q foi
+[00:59:32] antiN. fim: fdp
+[00:59:32] antiN. kwSK: CF
+[00:59:33] antiN. kwSK: FILHDAPUTA
+[00:59:34] RcN' : novA killed nQ' thai with AWP
+[00:59:35] rcN' : rave' N: eu mandei perguntar pros cara
+[00:59:36] fL' King killed ANTI [N] | Alma with AWP
+[00:59:39] antiN. kwSK: EU PERGUNTEI
+[00:59:40] 20Matar killed ] kap with AWP
+[00:59:40] antiN. kwSK: E ELES
+[00:59:40] antiN. fim: Q CARAS
+[00:59:41] Sagos killed fL' King with AWP
+[00:59:41] Sagos killed antiN. fim with AWP
+[00:59:42] antiN. kwSK: TAO PERGUNTANDO
+[00:59:44] antiN. kwSK: PRA VOCES
+[00:59:45] antiN. kwSK: PRA VOCE
+[00:59:47] antiN. kwSK: SE TU VAI
+[00:59:47] rcN' : rave' N: pra mim n
+[00:59:47] antiN. kwSK killed Sagos with AWP
+[00:59:47] k¦antiN. kwSK¦100¦100
+[00:59:49] antiN. kwSK: SE TU VAI
+[00:59:50] RcN' : novA killed rcN' : rave' N with AWP
+[00:59:54] antiN. kwSK: CLARO Q TAO
+[00:59:54] antiN. fim *MORTO*: "CF SVN"
+[00:59:56] antiN. kwSK: OLHA  CONSOLE
+[00:59:59] fL' King *MORTO*: svn oq e isso
+[01:00:01] RcN' : novA killed rcN :: krakN with AWP
+[01:00:01] [SERVER]: RcN' : novA did the most damage 300 HP
+[01:00:01] [SERVER]: Damage in this round 200 HP
+[01:00:01] [SERVER]: Damage in total 4100 HP
+[01:00:02] rcN :: krakN *MORTO*: q
+[01:00:03] rcN :: krakN aliou-se a Equipe Terrorista
+[01:00:05] fL' King *MORTO*: sevene
+[01:00:08] U.S.G.N.: Ping/State 'playing'
+[01:00:09] rcN :: krakN killed 20Matar with AWP
+[01:00:09] ANTI [N] | Alma: Vamo logo, coroi. Quero jogar meu cs com Script de
+[01:00:10] ANTI [N] | Alma: PB
+[01:00:12] ANTI [N] | Alma: VAMO LOGO
+[01:00:13] RcN' : novA killed rcN :: krakN with AWP
+[01:00:15] antiN. fim: a
+[01:00:16] Sagos killed antiN. kwSK with AWP
+[01:00:12] rcN' : rave' N: vc vai nova?
+[01:00:14] antiN. fim killed Sagos with AWP
+[01:00:14] k¦antiN. fim¦100¦100
+[01:00:18] ANTI [N] | Alma killed RcN' : novA with AWP
+[01:00:20] nQ' thai: svn e sindrome naval
+[01:00:20] antiN. fim: rusha
+[01:00:22] ANTI [N] | Alma killed fL' King with AWP
+[01:00:22] antiN. kwSK *MORTO*: go nova?
+[01:00:26] ANTI [N] | Alma killed antiN. fim with Knife
+[01:00:27] RcN' : novA *MORTO*: s
+[01:00:28] rcN' : rave' N: SHAUSHUAUSAHUSAHUH
+[01:00:29] antiN. fim *MORTO*: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[01:00:29] ANTI [N] | Alma killed .:DJ-GAMER-BR:. with AWP
+[01:00:29] [SERVER]: ANTI [N] | Alma did the most damage 400 HP
+[01:00:29] [SERVER]: Damage in this round 100 HP
+[01:00:29] [SERVER]: Damage in total 4200 HP
+[01:00:31] rcN :: krakN *MORTO*: KKKKKKKKKKKKKKKKKKKKKKKKK
+[01:00:35] antiN. kwSK: RcN' : novA *MORTO*: s
+[01:00:36] antiN. fim: KKKKKKKKKKKKKKKKKKK ALMA TOMOU OLE DA VIDA
+[01:00:36] antiN. kwSK: V
+[01:00:38] rcN :: krakN: esse tofix
+[01:00:38] antiN. kwSK: RcN' : novA *MORTO*: s
+[01:00:39] rcN :: krakN: KKKKKKKKKKKKKKKKKKKK
+[01:00:40] RcN' : novA killed ANTI [N] | Alma with AWP
+[01:00:42] antiN. kwSK: kraken
+[01:00:44] rcN :: krakN: q
+[01:00:44] antiN. kwSK: abre o servidor
+[01:00:45] Sagos killed RcN' : novA with Knife
+[01:00:46] Sagos killed .:DJ-GAMER-BR:. with AWP
+[01:00:46] rcN :: krakN: pra?
+[01:00:47] ] kap killed 20Matar with AWP
+[01:00:48] antiN. kwSK: cf
+[01:00:49] antiN. kwSK: ne 
+[01:00:50] fL' King killed Sagos with AWP
+[01:00:50] k¦fL' King¦100¦100
+[01:00:50] nQ' thai: jkkkkk
+[01:00:50] RcN' : novA *MORTO*: de time
+[01:00:50] antiN. kwSK: seu doente
+[01:00:52] nQ' thai killed antiN. kwSK with AWP
+[01:00:52] ANTI [N] | Alma *MORTO*: KRAKEN DOENTE
+[01:00:53] RcN' : novA *MORTO*: vai toma no cu[
+[01:00:53] rcN :: krakN: raven vai?
+[01:00:53] fL' King killed rcN' : rave' N with AWP
+[01:00:54] ANTI [N] | Alma *MORTO*: PORRAAAAAAAAAAAAAAAAA
+[01:00:55] antiN. fim killed ] kap with AWP
+[01:00:56] ANTI [N] | Alma *MORTO*: AAAAAAAAAAAAAAAAAAAAAA
+[01:00:58] nQ' thai killed fL' King with AWP
+[01:01:04] rcN :: krakN killed antiN. fim with AWP
+[01:01:04] [SERVER]: fL' King did the most damage 200 HP
+[01:01:04] [SERVER]: Damage in this round 200 HP
+[01:01:04] [SERVER]: Damage in total 4400 HP
+[01:01:04] U.S.G.N.: Ping/State 'playing'
+[01:01:04] fL' King *MORTO*: mds to muito ruim 
+[01:01:09] antiN. fim: rank
+[01:01:09] r¦antiN. fim (USGN)¦7 of 200¦141,141,122,1.15,1 h 32 m
+[01:01:09] antiN. kwSK: VAI KRAKEN , PQP
+[01:01:09] rcN' : rave' N: vou gato
+[01:01:11] antiN. kwSK: abre a buseta
+[01:01:12] rcN :: krakN: ok
+[01:01:13] ANTI [N] | Alma killed antiN. fim with AWP
+[01:01:15] rcN :: krakN: cala boca kwsk
+[01:01:15] nQ' thai: go
+[01:01:16] 20Matar killed Sagos with AWP
+[01:01:16] k¦20Matar¦100¦100
+[01:01:16] RcN' : novA killed ] kap with AWP
+[01:01:17] antiN. kwSK votou pela expulsão de rcN :: krakN
+[01:01:18] rcN :: krakN: se nao queiser ser nukado
+[01:01:21] antiN. kwSK: vem calar
+[01:01:21] rcN :: krakN deixou o servidor
+[01:01:21] rcN' : rave' N killed RcN' : novA with AWP
+[01:01:21] rcN' : rave' N killed antiN. kwSK with AWP
+[01:01:22] 20Matar killed ANTI [N] | Alma with AWP
+[01:01:24] nQ' thai: klk
+[01:01:26] rcN' : rave' N killed .:DJ-GAMER-BR:. with AWP
+[01:01:27] nQ' thai: mentira do krl
+[01:01:29] ANTI [N] | Alma deixou o servidor
+[01:01:34] fL' King killed nQ' thai with AWP
+[01:01:40] 20Matar killed rcN' : rave' N with AWP
+[01:01:40] [SERVER]: rcN' : rave' N did the most damage 300 HP
+[01:01:40] [SERVER]: Damage in this round 0 HP
+[01:01:40] [SERVER]: Damage in total 4400 HP
+[01:01:42] rcN' : rave' N *MORTO*: crl
+[01:01:43] nQ' thai *MORTO*: morre noob
+[01:01:43] rcN' : rave' N *MORTO*: 3 tiro
+[01:01:45] * Auto Teambalance *
+[01:01:45] 20Matar aliou-se a Equipe Terrorista
+[01:01:47] antiN. kwSK: go sv do kraken anti enis e |Rc ENIS
+[01:01:51] antiN. kwSK deixou o servidor
+[01:01:55] RcN' : novA killed rcN' : rave' N with AWP
+[01:01:56] rcN' : rave' N deixou o servidor
+[01:01:57] nQ' thai killed fL' King with AWP
+[01:01:59] RcN' : novA killed ] kap with Knife
+[01:01:59] RcN' : novA killed nQ' thai with Knife
+[01:02:00] antiN. fim killed Sagos with AWP
+[01:02:00] k¦antiN. fim¦100¦0
+[01:02:01] nQ' thai *MORTO*: kjkkkkkkkkkkk
+[01:02:02] NoQuality. porva conectou-se ao servidor
+[01:02:03] ] kap deixou o servidor
+[01:02:03] RcN' : novA killed 20Matar with AWP
+[01:02:03] [SERVER]: RcN' : novA did the most damage 400 HP
+[01:02:03] [SERVER]: Damage in this round 0 HP
+[01:02:03] [SERVER]: Damage in total 4400 HP
+[01:02:04] RcN' : novA deixou o servidor
+[01:02:04] nQ' thai *MORTO*: AAA MAN PQP
+[01:02:04] U.S.G.N.: Ping/State 'playing'
+[01:02:05] antiN. fim deixou o servidor
+[01:02:06] NoQuality. porva aliou-se a Equipe Contra-Terrorista
+[01:02:13] .:DJ-GAMER-BR:. killed Sagos with AWP
+[01:02:13] k¦.:DJ-GAMER-BR:.¦100¦100
+[01:02:16] 20Matar killed .:DJ-GAMER-BR:. with AWP
+[01:02:19] NoQuality. porva killed 20Matar with AWP
+[01:02:21] fL' King killed nQ' thai with AWP
+[01:02:21] [SERVER]: NoQuality. porva did the most damage 100 HP
+[01:02:21] [SERVER]: Damage in this round 0 HP
+[01:02:21] [SERVER]: Damage in total 4400 HP
+[01:02:23] nQ' thai *MORTO*: KKKKK
+[01:02:36] nQ' thai killed .:DJ-GAMER-BR:. with AWP
+[01:02:40] NoQuality. porva killed nQ' thai with AWP
+[01:02:42] 20Matar killed NoQuality. porva with AWP
+[01:02:42] nQ' thai deixou o servidor
+[01:02:48] fL' King killed 20Matar with AWP
+[01:02:55] Sagos killed fL' King with AWP
+[01:02:55] [SERVER]: NoQuality. porva did the most damage 100 HP
+[01:02:55] [SERVER]: Damage in this round 100 HP
+[01:02:55] [SERVER]: Damage in total 4500 HP
+[01:03:05] U.S.G.N.: Ping/State 'playing'
+[01:03:05] Sagos killed fL' King with AWP
+[01:03:10] fL' King deixou o servidor
+[01:03:13] .:DJ-GAMER-BR:. killed Sagos with AWP
+[01:03:13] k¦.:DJ-GAMER-BR:.¦100¦100
+[01:03:18] Sagos deixou o servidor
+[01:03:18] Disconnect Reason: Client request (Code 0)
+[01:03:18] ----- Disconnected -----
+[01:03:19] U.S.G.N.: Ping/State 'idle' (304 ms)
+[01:03:19] Cached servers added to list: 102
+[01:03:20] U.S.G.N.: Received serverlist (servers: 104)

@@ -1,0 +1,26 @@
+
+©255255000 ZOMBIE_LILA_PANIC
+
+©255255255 Details of this map
+
+©050150255 Survivors
+©110130150 Get the wrench.
+©110130150 Select a location, creating a zombie encounter obstacles.
+©110130150 No money, no place to hide if the
+©110130150 Man waiting for a timeout.
+©110130150 When the time runs out, wins survivor.
+
+©255000000 Zombies
+©150110100 Within a time limit to kill all survivors.
+©150110100 When clearing obstructions, destroy obstacles.
+©150110100 Within the time limit, if you could not kill all the survivors,
+©150110100 defeat the zombies.
+
+
+©255255255 Mechanism of this map
+
+©000255000 Vending machines
+©100150100 And gives the attack machine in the map, to the sound of surprise.
+
+©050255255 Google Translation
+©050255255 by MagNuM=S.K/19  \(^o^)/

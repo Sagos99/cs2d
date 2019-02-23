@@ -1,0 +1,45 @@
+CS2D 1.0.0.5 Logfile - 21 Nov 2017, 18:06:12
+
+[18:06:12] UDP socket initialized using port 36963
+[18:06:12] NET: Received unexpected data (18, 85.214.102.60:36963)
+[18:06:12] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[18:06:12] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[18:06:12] U.S.G.N.: Ping/State 'playing'
+[18:06:12] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[18:06:14] Starting server...
+[18:06:14] load map 'Battle Royale'
+[18:06:14] ----- Server started -----
+[18:06:14] Lua: Adding function 'falar' to hook 'say'
+[18:06:14] Lua: Adding function 'segundos' to hook 'second'
+[18:06:14] Lua: Adding function 'coletar' to hook 'walkover'
+[18:06:14] Lua: Adding function 'atacar' to hook 'attack'
+[18:06:14] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:06:14] Lua: Adding function 'mymenu' to hook 'menu'
+[18:06:14] Lua: Adding function 'ataque' to hook 'hit'
+[18:06:15] U.S.G.N.: Serverlist entry updated
+[18:06:16] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[18:06:16] Sagos juntou-se a Countra-Terrorista Forças
+[18:06:25] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[18:06:28] Servidor Desligado
+[18:06:29] U.S.G.N.: Server removed from serverlist
+[18:06:29] ----- Disconnected -----
+[18:06:30] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:06:34] Starting server...
+[18:06:34] load map 'Battle Royale'
+[18:06:34] ----- Server started -----
+[18:06:34] Lua: Adding function 'falar' to hook 'say'
+[18:06:34] Lua: Adding function 'segundos' to hook 'second'
+[18:06:34] Lua: Adding function 'coletar' to hook 'walkover'
+[18:06:34] Lua: Adding function 'atacar' to hook 'attack'
+[18:06:34] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:06:34] Lua: Adding function 'mymenu' to hook 'menu'
+[18:06:34] Lua: Adding function 'ataque' to hook 'hit'
+[18:06:35] U.S.G.N.: Ping/State 'playing'
+[18:06:35] U.S.G.N.: Server added to serverlist
+[18:06:35] Sagos juntou-se a Countra-Terrorista Forças
+[18:06:38] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[18:07:35] U.S.G.N.: Ping/State 'playing'
+[18:07:54] Servidor Desligado
+[18:07:54] U.S.G.N.: Server removed from serverlist
+[18:07:54] ----- Disconnected -----
+[18:07:55] U.S.G.N.: Ping/State 'idle' (336 ms)

@@ -1,0 +1,401 @@
+CS2D 1.0.0.5 Logfile - 29 Nov 2017, 03:39:55
+
+[03:39:55] UDP socket initialized using port 36963
+[03:39:55] U.S.G.N.: Your game version is up to date!
+[03:39:55] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[03:39:55] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[03:39:56] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[03:40:17] Cached servers added to list: 153
+[03:40:17] U.S.G.N.: Received serverlist (servers: 22)
+[03:40:17] U.S.G.N.: Received serverlist (servers: 150)
+[03:40:28] Connecting to 159.89.28.206:34567 (using U.S.G.N. ID #15431) ...
+[03:40:28] U.S.G.N.: Ping/State 'idle' (288 ms)
+[03:40:28] "  (1x)
+[03:40:29] Checking 'gfx/tiles/pubg2d.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/PUBG2D/Vehicles/car_2_broken_blue.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/PUBG2D/Vehicles/car_02.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/PUBG2D/Bed/doublebed2.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/pubg2d/newcircle.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/pubg2d/square.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/pubg2d/ui_alive.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/pubg2d/ui_numbers.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/pubg2d/ui_health.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/pubg2d/ui_arrow.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/pubg2d/ui_processbar.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/pubg2d/ui_bandage.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/tiles/pubg2d.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/PUBG2D/newcircle.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/PUBG2D/ui_alive.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/PUBG2D/ui_health.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/PUBG2D/ui_arrow.png': Does not exist. Request transfer!
+[03:40:29] Checking 'gfx/PUBG2D/ui_bandage.png': Does not exist. Request transfer!
+[03:40:29] Checking 'maps/pubg2d_testing_v1.1.map': Does not exist. Request transfer!
+[03:40:29] Requesting 19 files from server...
+[03:40:29] Downloading 'gfx/tiles/pubg2d.png' from server...
+[03:40:35] Downloading 'gfx/PUBG2D/Vehicles/car_2_broken_blue.png' from server...
+[03:40:36] Created directory 'gfx/PUBG2D' for received files
+[03:40:36] Created directory 'gfx/PUBG2D/Vehicles' for received files
+[03:40:36] Downloading 'gfx/PUBG2D/Vehicles/car_02.png' from server...
+[03:40:37] Downloading 'gfx/PUBG2D/Bed/doublebed2.png' from server...
+[03:40:38] Created directory 'gfx/PUBG2D/Bed' for received files
+[03:40:38] Downloading 'gfx/pubg2d/newcircle.png' from server...
+[03:40:39] Downloading 'gfx/pubg2d/square.png' from server...
+[03:40:39] Downloading 'gfx/pubg2d/ui_alive.png' from server...
+[03:40:39] Downloading 'gfx/pubg2d/ui_numbers.png' from server...
+[03:40:40] Downloading 'gfx/pubg2d/ui_health.png' from server...
+[03:40:40] Downloading 'gfx/pubg2d/ui_arrow.png' from server...
+[03:40:40] Downloading 'gfx/pubg2d/ui_processbar.png' from server...
+[03:40:40] Downloading 'gfx/pubg2d/ui_bandage.png' from server...
+[03:40:40] Downloading 'gfx/PUBG2D/newcircle.png' from server...
+[03:40:41] Downloading 'gfx/PUBG2D/ui_alive.png' from server...
+[03:40:41] Downloading 'gfx/PUBG2D/ui_health.png' from server...
+[03:40:41] Downloading 'gfx/PUBG2D/ui_arrow.png' from server...
+[03:40:41] Downloading 'gfx/PUBG2D/ui_bandage.png' from server...
+[03:40:42] Downloading 'maps/pubg2d_testing_v1.1.map' from server...
+[03:40:42] load map 'pubg2d_testing_v1.1'
+[03:40:43] ----- Server joined -----
+[03:40:43] U.S.G.N.: Ping/State 'playing' (261 ms)
+[03:40:46] Round Restart in 5 sec
+[03:40:46] You're now playing game!
+[03:40:51] rM | null! died
+[03:40:51] rM | null! juntou-se aos espectadores
+[03:40:51] rM | null! juntou-se a Countra-Terrorista Forças
+[03:40:51] Sagos juntou-se a Terrorista Forças
+[03:41:44] U.S.G.N.: Ping/State 'playing'
+[03:42:06] rM | null!: map  pequeno
+[03:42:26] You do not have any bandages left!
+[03:42:27] "  (1x)
+[03:42:29] "  (1x)
+[03:42:44] U.S.G.N.: Ping/State 'playing'
+[03:42:47] Sagos killed rM | null! with M134
+[03:42:47] Sagos killed rM | null! with M134- 1 left
+[03:42:47] Round Restart in 5 sec
+[03:42:47] rM | null! juntou-se aos espectadores
+[03:42:47] Player Sagos has WON the round!
+[03:42:52] rM | null! juntou-se a Countra-Terrorista Forças
+[03:42:52] Sagos died
+[03:42:52] Sagos juntou-se aos espectadores
+[03:42:52] Sagos juntou-se a Terrorista Forças
+[03:43:08] Sagos: esse ta bem melhor
+[03:43:09] rM | null!: os hud ta legal
+[03:43:13] You do not have any bandages left!
+[03:43:14] "  (1x)
+[03:43:19] rM | null!: MAIS TA MT MAL OTIMIZADO
+[03:43:45] U.S.G.N.: Ping/State 'playing'
+[03:44:09] rM | null!: e mt rapido 
+[03:44:43] Sagos killed rM | null! with Glock
+[03:44:43] Sagos killed rM | null! with Glock- 1 left
+[03:44:43] Round Restart in 5 sec
+[03:44:43] rM | null! juntou-se aos espectadores
+[03:44:43] Player Sagos has WON the round!
+[03:44:45] U.S.G.N.: Ping/State 'playing'
+[03:44:48] Poddy conectou-se
+[03:44:49] rM | null! juntou-se a Countra-Terrorista Forças
+[03:44:49] Sagos died
+[03:44:49] Sagos juntou-se aos espectadores
+[03:44:49] Sagos juntou-se a Terrorista Forças
+[03:44:49] Poddy juntou-se a Countra-Terrorista Forças
+[03:44:51] Sagos: hasuhaus
+[03:45:08] rM | null! 2 conectou-se
+[03:45:46] U.S.G.N.: Ping/State 'playing'
+[03:45:47] You picked up a bandage.
+[03:46:46] U.S.G.N.: Ping/State 'playing'
+[03:47:01] Poddy killed Sagos with SG552
+[03:47:01] Poddy killed Sagos with SG552- 1 left
+[03:47:01] Round Restart in 5 sec
+[03:47:01] Sagos juntou-se aos espectadores
+[03:47:01] Player Poddy has WON the round!
+[03:47:01] k¦Poddy¦22¦201
+[03:47:03] rM | null! 2 *Morto*: jasdjs
+[03:47:05] Poddy: lol
+[03:47:06] Sagos juntou-se a Terrorista Forças
+[03:47:06] Poddy died
+[03:47:06] Poddy juntou-se aos espectadores
+[03:47:06] Poddy juntou-se a Countra-Terrorista Forças
+[03:47:06] rM | null! 2 juntou-se a Terrorista Forças
+[03:47:13] Sagos: lmao
+[03:47:22] rM | null! 2: mn
+[03:47:27] rM | null! 2: achei uma minigun
+[03:47:33] rM | null! 2: KKKKK
+[03:47:39] You picked up a bandage.
+[03:47:41] "  (1x)
+[03:47:43] rM | null! 2: mn
+[03:47:45] You picked up a bandage.
+[03:47:45] rM | null! 2: sagos
+[03:47:47] U.S.G.N.: Ping/State 'playing'
+[03:47:54] rM | null! 2: esse sistema de 0 bala qnd pega
+[03:48:00] rM | null! 2: tbm poderia ter
+[03:48:17] Sagos: s
+[03:48:25] rM | null! 2: Vc consegue?
+[03:48:26] Sagos: quer que eu mude?
+[03:48:28] Sagos: sim
+[03:48:34] rM | null! 2: Intao vamo por
+[03:48:40] Sagos: mas ai n vai ter diferença entre
+[03:48:44] Sagos: bala de rifle e shotgun
+[03:48:47] U.S.G.N.: Ping/State 'playing'
+[03:48:58] rM | null! 2 died
+[03:48:58] rM | null! 2 juntou-se aos espectadores
+[03:48:58] rM | null! 2 died in Dead Zone-2 left
+[03:49:07] Sagos killed Poddy with FN F2000
+[03:49:07] Sagos killed Poddy with FN F2000- 1 left
+[03:49:07] Round Restart in 5 sec
+[03:49:07] Poddy juntou-se aos espectadores
+[03:49:07] Player Sagos has WON the round!
+[03:49:12] Sagos died
+[03:49:12] Sagos juntou-se aos espectadores
+[03:49:12] Sagos juntou-se a Terrorista Forças
+[03:49:12] Poddy juntou-se a Countra-Terrorista Forças
+[03:49:12] rM | null! 2 juntou-se a Terrorista Forças
+[03:49:13] Poddy: aw
+[03:49:15] rM | null! 2: so pra deixar 0 bala msm
+[03:49:18] rM | null! 2: qnd pega
+[03:49:18] You picked up a bandage.
+[03:49:48] U.S.G.N.: Ping/State 'playing'
+[03:50:48] "  (1x)
+[03:51:09] rM | null! 2 died
+[03:51:09] rM | null! 2 juntou-se aos espectadores
+[03:51:09] rM | null! 2 died in Dead Zone-2 left
+[03:51:16] Sagos killed Poddy with SG550
+[03:51:16] Sagos killed Poddy with SG550- 1 left
+[03:51:16] Round Restart in 5 sec
+[03:51:16] Poddy juntou-se aos espectadores
+[03:51:16] Player Sagos has WON the round!
+[03:51:21] Sagos died
+[03:51:21] Sagos juntou-se aos espectadores
+[03:51:21] Sagos juntou-se a Terrorista Forças
+[03:51:21] Poddy juntou-se a Countra-Terrorista Forças
+[03:51:21] rM | null! 2 juntou-se a Terrorista Forças
+[03:51:22] Poddy: lol flash
+[03:51:23] rM | null! 2: Mn ate q esse ta bonito
+[03:51:26] rM | null! 2: apertar E pra curar
+[03:51:30] Sagos: só falto o avião msm
+[03:51:44] You picked up a bandage.
+[03:51:47] rM | null! 2: e mostrar aonde a radiação e o safe ta
+[03:51:49] U.S.G.N.: Ping/State 'playing'
+[03:52:25] You picked up a bandage.
+[03:52:40] Poddy killed Sagos with FN F2000
+[03:52:40] Poddy killed Sagos with FN F2000- 2 left
+[03:52:40] Sagos juntou-se aos espectadores
+[03:52:40] k¦Poddy¦34¦202
+[03:52:48] Sagos *Morto*: eu achei 1 bug
+[03:52:49] U.S.G.N.: Ping/State 'playing'
+[03:53:01] Sagos *Morto*: n tava mostrando minha barra de HP
+[03:53:22] Poddy killed rM | null! 2 with FN F2000
+[03:53:22] Poddy killed rM | null! 2 with FN F2000- 1 left
+[03:53:22] Round Restart in 5 sec
+[03:53:22] rM | null! 2 juntou-se aos espectadores
+[03:53:22] Player Poddy has WON the round!
+[03:53:25] rM | null! 2 *Morto*: kk
+[03:53:27] Sagos juntou-se a Terrorista Forças
+[03:53:27] Poddy died
+[03:53:27] Poddy juntou-se aos espectadores
+[03:53:27] Poddy juntou-se a Countra-Terrorista Forças
+[03:53:27] rM | null! 2 juntou-se a Terrorista Forças
+[03:53:32] rM | null! 2: Sagos esse aqui tbm tem um erro
+[03:53:33] You picked up a bandage.
+[03:53:40] rM | null! 2: qnd vc joga uma arma com bala no chao
+[03:53:43] rM | null! 2: vc fica sem bala
+[03:53:47] rM | null! 2: nas outras
+[03:53:50] U.S.G.N.: Ping/State 'playing'
+[03:54:14] Sagos: eu prefiro o nosso sistema de bala
+[03:54:19] rM | null! 2: Eu tbm
+[03:54:21] rM | null! 2: mn
+[03:54:21] Sagos: pq esse aki vc n pode pegar bala se n tiver arma
+[03:54:23] Sagos: o nosso sim
+[03:54:26] rM | null! 2: n sei pq mais aqui ta mt lag
+[03:54:34] Sagos: pra mim ta normal
+[03:54:39] Sagos killed Poddy with SG550
+[03:54:39] Sagos killed Poddy with SG550- 2 left
+[03:54:39] Poddy juntou-se aos espectadores
+[03:54:43] Grey Matter conectou-se
+[03:54:44] Sagos killed rM | null! 2 with SG550
+[03:54:44] Sagos killed rM | null! 2 with SG550- 1 left
+[03:54:44] Round Restart in 5 sec
+[03:54:44] rM | null! 2 juntou-se aos espectadores
+[03:54:44] Player Sagos has WON the round!
+[03:54:49] Sagos died
+[03:54:49] Sagos juntou-se aos espectadores
+[03:54:49] Sagos juntou-se a Terrorista Forças
+[03:54:49] Poddy juntou-se a Countra-Terrorista Forças
+[03:54:49] rM | null! 2 juntou-se a Terrorista Forças
+[03:54:49] Grey Matter juntou-se a Countra-Terrorista Forças
+[03:54:50] U.S.G.N.: Ping/State 'playing'
+[03:54:50] rM | null! 2: Vc quer oq PC LIXAO
+[03:54:53] Sagos: WTF
+[03:54:53] rM | null! 2: cara
+[03:54:56] rM | null! 2: sdd do meu
+[03:54:57] Sagos: pq reinicio?
+[03:54:59] Sagos: eu ganhei?
+[03:55:05] rM | null! 2: s
+[03:55:09] You picked up a bandage.
+[03:55:12] rM | null! 2: UAi
+[03:55:14] rM | null! 2: outro bug
+[03:55:17] Sagos: os HUD bugo pra mim
+[03:55:25] You picked up a bandage.
+[03:55:25] rM | null! 2: pra mim tbm
+[03:55:25] Grey Matter killed Sagos with Mac 10
+[03:55:25] Grey Matter killed Sagos with Mac 10- 3 left
+[03:55:25] Sagos juntou-se aos espectadores
+[03:55:25] k¦Grey Matter¦82¦201
+[03:55:28] rM | null! 2: kkkk
+[03:55:34] rM | null! 2: eu peguei 3 bandage
+[03:55:38] rM | null! 2: aqui fala q so tenho 1
+[03:55:40] rM | null! 2: oO
+[03:55:50] U.S.G.N.: Ping/State 'playing'
+[03:56:02] Sagos *Morto*: man o nosso vai ser o melhor
+[03:56:15] rM | null! 2 killed Grey Matter with MP5
+[03:56:15] rM | null! 2 killed Grey Matter with MP5- 2 left
+[03:56:15] Grey Matter juntou-se aos espectadores
+[03:56:36] [SkY]DoesMinecraft conectou-se
+[03:56:47] rM | null! 2: uai
+[03:56:51] U.S.G.N.: Ping/State 'playing'
+[03:56:59] Poddy killed rM | null! 2 with SG550
+[03:56:59] Poddy killed rM | null! 2 with SG550- 1 left
+[03:56:59] Round Restart in 5 sec
+[03:56:59] rM | null! 2 juntou-se aos espectadores
+[03:56:59] Player Poddy has WON the round!
+[03:57:04] Sagos juntou-se a Terrorista Forças
+[03:57:04] Poddy died
+[03:57:04] Poddy juntou-se aos espectadores
+[03:57:04] Poddy juntou-se a Countra-Terrorista Forças
+[03:57:04] rM | null! 2 juntou-se a Terrorista Forças
+[03:57:04] Grey Matter juntou-se a Countra-Terrorista Forças
+[03:57:04] [SkY]DoesMinecraft juntou-se a Countra-Terrorista Forças
+[03:57:05] rM | null! 2: bandage bugado
+[03:57:06] phenix conectou-se
+[03:57:10] Poddy: 3 bandage xD
+[03:57:56] U.S.G.N.: Ping/State 'playing'
+[03:58:23] Sagos killed Poddy with M134
+[03:58:23] Sagos killed Poddy with M134- 4 left
+[03:58:23] Poddy juntou-se aos espectadores
+[03:58:34] Sagos killed [SkY]DoesMinecraft with M134
+[03:58:34] Sagos killed [SkY]DoesMinecraft with M134- 3 left
+[03:58:34] [SkY]DoesMinecraft juntou-se aos espectadores
+[03:58:51] Grey Matter killed Sagos with FN F2000
+[03:58:51] Grey Matter killed Sagos with FN F2000- 2 left
+[03:58:51] Sagos juntou-se aos espectadores
+[03:58:51] k¦Grey Matter¦82¦0
+[03:58:55] Grey Matter killed rM | null! 2 with FN F2000
+[03:58:55] Grey Matter killed rM | null! 2 with FN F2000- 1 left
+[03:58:55] Round Restart in 5 sec
+[03:58:55] rM | null! 2 juntou-se aos espectadores
+[03:58:55] Player Grey Matter has WON the round!
+[03:58:57] U.S.G.N.: Ping/State 'playing'
+[03:59:00] Sagos juntou-se a Terrorista Forças
+[03:59:00] Poddy juntou-se a Countra-Terrorista Forças
+[03:59:00] rM | null! 2 juntou-se a Terrorista Forças
+[03:59:00] Grey Matter died
+[03:59:00] Grey Matter juntou-se aos espectadores
+[03:59:00] Grey Matter juntou-se a Countra-Terrorista Forças
+[03:59:00] [SkY]DoesMinecraft juntou-se a Countra-Terrorista Forças
+[03:59:00] phenix juntou-se a Terrorista Forças
+[03:59:19] Sagos: tive uma idéia
+[03:59:23] rM | null! 2: ?
+[03:59:27] Sagos: nosso mapa vai ser uma ilha msm
+[03:59:32] Sagos: ao redor cheio de agua
+[03:59:34] rM | null! 2: ???
+[03:59:42] Sagos killed [SkY]DoesMinecraft with Scout
+[03:59:42] Sagos killed [SkY]DoesMinecraft with Scout- 5 left
+[03:59:42] [SkY]DoesMinecraft juntou-se aos espectadores
+[03:59:47] rM | null! 2: como assim
+[03:59:54] Grey Matter killed rM | null! 2 with SG550
+[03:59:54] Grey Matter killed rM | null! 2 with SG550- 4 left
+[03:59:54] rM | null! 2 juntou-se aos espectadores
+[03:59:55] Sagos: dps explico
+[03:59:57] U.S.G.N.: Ping/State 'playing'
+[03:59:58] Sagos: espera eu morrer kk
+[04:00:01] You picked up a bandage.
+[04:00:02] "  (1x)
+[04:00:28] "  (1x)
+[04:00:47] Poddy killed phenix with Elite
+[04:00:47] Poddy killed phenix with Elite- 3 left
+[04:00:47] phenix juntou-se aos espectadores
+[04:00:57] phenix deixou o jogo
+[04:00:58] U.S.G.N.: Ping/State 'playing'
+[04:01:02] Grey Matter killed Sagos with Glock
+[04:01:02] Grey Matter killed Sagos with Glock- 2 left
+[04:01:02] Sagos juntou-se aos espectadores
+[04:01:02] k¦Grey Matter¦100¦202
+[04:01:04] rM | null! 2 *Morto*: kkkkkk
+[04:01:07] Poddy killed Grey Matter with SG552
+[04:01:07] Poddy killed Grey Matter with SG552- 1 left
+[04:01:07] Round Restart in 5 sec
+[04:01:07] Grey Matter juntou-se aos espectadores
+[04:01:07] Player Poddy has WON the round!
+[04:01:08] rM | null! 2 *Morto*: eu falei
+[04:01:12] Sagos juntou-se a Terrorista Forças
+[04:01:12] Poddy died
+[04:01:12] Poddy juntou-se aos espectadores
+[04:01:12] Poddy juntou-se a Countra-Terrorista Forças
+[04:01:12] rM | null! 2 juntou-se a Terrorista Forças
+[04:01:12] Grey Matter juntou-se a Countra-Terrorista Forças
+[04:01:12] [SkY]DoesMinecraft juntou-se a Countra-Terrorista Forças
+[04:01:18] Sagos died
+[04:01:18] Sagos juntou-se aos espectadores
+[04:01:18] You're now spectator!
+[04:01:24] rM | null! 2 died
+[04:01:24] rM | null! 2 juntou-se aos espectadores
+[04:01:58] U.S.G.N.: Ping/State 'playing'
+[04:02:06] Grey Matter killed [SkY]DoesMinecraft with G3SG1
+[04:02:06] Grey Matter killed [SkY]DoesMinecraft with G3SG1- 2 left
+[04:02:06] [SkY]DoesMinecraft juntou-se aos espectadores
+[04:02:54] Poddy killed Grey Matter with FN F2000
+[04:02:54] Poddy killed Grey Matter with FN F2000- 1 left
+[04:02:54] Round Restart in 5 sec
+[04:02:54] Grey Matter juntou-se aos espectadores
+[04:02:54] Player Poddy has WON the round!
+[04:02:59] ULTRAMAN conectou-se
+[04:02:59] U.S.G.N.: Ping/State 'playing'
+[04:02:59] Poddy died
+[04:02:59] Poddy juntou-se aos espectadores
+[04:02:59] Poddy juntou-se a Countra-Terrorista Forças
+[04:02:59] rM | null! 2 juntou-se a Terrorista Forças
+[04:02:59] Grey Matter juntou-se a Countra-Terrorista Forças
+[04:02:59] [SkY]DoesMinecraft juntou-se a Countra-Terrorista Forças
+[04:02:59] ULTRAMAN juntou-se a Terrorista Forças
+[04:03:28] Vasya conectou-se
+[04:03:53] rM | null! 2 deixou o jogo
+[04:03:59] You're now playing game!
+[04:03:59] U.S.G.N.: Ping/State 'playing'
+[04:04:48] Poddy killed Grey Matter with AK-47
+[04:04:48] Poddy killed Grey Matter with AK-47- 3 left
+[04:04:48] Grey Matter juntou-se aos espectadores
+[04:04:56] ULTRAMAN died
+[04:04:56] ULTRAMAN juntou-se aos espectadores
+[04:04:56] ULTRAMAN died in Dead Zone-2 left
+[04:05:00] U.S.G.N.: Ping/State 'playing'
+[04:05:00] Poddy killed [SkY]DoesMinecraft with AK-47
+[04:05:00] Poddy killed [SkY]DoesMinecraft with AK-47- 1 left
+[04:05:00] Round Restart in 5 sec
+[04:05:00] [SkY]DoesMinecraft juntou-se aos espectadores
+[04:05:00] Player Poddy has WON the round!
+[04:05:05] ULTRAMAN deixou o jogo
+[04:05:05] Sagos juntou-se a Terrorista Forças
+[04:05:05] Poddy died
+[04:05:05] Poddy juntou-se aos espectadores
+[04:05:05] Poddy juntou-se a Countra-Terrorista Forças
+[04:05:05] Grey Matter juntou-se a Countra-Terrorista Forças
+[04:05:05] [SkY]DoesMinecraft juntou-se a Countra-Terrorista Forças
+[04:05:05] Vasya juntou-se a Countra-Terrorista Forças
+[04:05:07] Grey Matter deixou o jogo
+[04:05:17] Vasya killed Sagos with Knife
+[04:05:17] Vasya killed Sagos with Knife- 3 left
+[04:05:17] Sagos juntou-se aos espectadores
+[04:05:17] k¦Vasya¦100¦0
+[04:05:18] Sagos deixou o jogo
+[04:05:18] Disconnect Reason: Client request (Code 0)
+[04:05:18] ----- Disconnected -----
+[04:05:19] U.S.G.N.: Ping/State 'idle' (320 ms)
+[04:05:20] Cached servers added to list: 153
+[04:05:21] U.S.G.N.: Received serverlist (servers: 32)
+[04:05:21] U.S.G.N.: Received serverlist (servers: 150)
+[04:05:22] Connecting to 0.0.0.0:36963 (using U.S.G.N. ID #15431) ...
+[04:05:23] U.S.G.N.: Ping/State 'idle' (304 ms)
+[04:05:23] "  (1x)
+[04:05:28] M-NET: received join data from unexpected source (252, 89.40.113.103:20002)
+[04:05:35] Connecting to 0.0.0.0:36963 (using U.S.G.N. ID #15431) ...
+[04:06:02] "  (1x)
+[04:06:02] U.S.G.N.: Ping/State 'idle' (2523 ms)
+[04:06:06] M-NET: received join data from unexpected source (252, 192.168.1.31:36963)
+[04:06:06] U.S.G.N.: Received serverlist (servers: 32)
+[04:06:06] U.S.G.N.: Received serverlist (servers: 150)

@@ -1,0 +1,1 @@
+parse("mp_damagefactor 1000")

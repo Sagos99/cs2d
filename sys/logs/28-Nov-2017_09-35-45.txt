@@ -1,0 +1,567 @@
+CS2D 1.0.0.5 Logfile - 28 Nov 2017, 09:35:45
+
+[09:35:45] UDP socket initialized using port 36963
+[09:35:45] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[09:35:46] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[09:35:46] U.S.G.N.: Ping/State 'playing'
+[09:35:46] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[09:35:48] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[09:36:01] Starting server...
+[09:36:01] load map 'Battle Royale'
+[09:36:01] ----- Server started -----
+[09:36:01] Lua: Adding function 'falar' to hook 'say'
+[09:36:01] Lua: Adding function 'segundos' to hook 'second'
+[09:36:01] Lua: Adding function 'coletar' to hook 'walkover'
+[09:36:01] Lua: Adding function 'atacar' to hook 'attack'
+[09:36:01] Lua: Adding function 'atacar2' to hook 'attack2'
+[09:36:01] Lua: Adding function 'teclas' to hook 'serveraction'
+[09:36:01] Lua: Adding function 'mymenu' to hook 'menu'
+[09:36:01] Lua: Adding function 'ataque' to hook 'hit'
+[09:36:01] Lua: Adding function 'dropar' to hook 'drop'
+[09:36:01] Lua: Adding function 'mover' to hook 'movetile'
+[09:36:02] U.S.G.N.: Ping/State 'playing'
+[09:36:02] U.S.G.N.: Server added to serverlist
+[09:36:03] Sagos juntou-se a Countra-Terrorista Forças
+[09:36:06] [Info] Você equipou Colete 3
+[09:36:09] [Info] Você pegou 30 Balas de Rifle
+[09:36:47] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:36:48] U.S.G.N.: Serverlist entry updated
+[09:37:05] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[09:37:07] [Info] Você pegou 30 Balas de Rifle
+[09:37:07] [Info] Você equipou Famas
+[09:37:08] U.S.G.N.: Ping/State 'playing'
+[09:37:10] [Info] Você pegou 30 Balas de Rifle
+[09:37:13] "  (1x)
+[09:37:27] "  (1x)
+[09:37:32] [Info] Espaço insuficiente para carregar mais itens
+[09:37:33] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:37:33] U.S.G.N.: Serverlist entry updated
+[09:37:39] [Info] Você pegou 30 Balas de Rifle
+[09:38:08] U.S.G.N.: Ping/State 'playing'
+[09:38:18] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:38:18] U.S.G.N.: Serverlist entry updated
+[09:38:36] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[09:38:36] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[09:38:41] [Info] Você pegou 30 Balas de Rifle
+[09:38:41] [Info] Você equipou Famas
+[09:38:45] [Info] Você pegou 30 Balas de Rifle
+[09:38:48] "  (1x)
+[09:39:00] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:00]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:01] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:01]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:02] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:02]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:03] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:03]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:03] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:39:04] U.S.G.N.: Serverlist entry updated
+[09:39:04] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:04]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:05] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:05]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:06] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:06]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:07] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:07]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:08] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:08]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:09] U.S.G.N.: Ping/State 'playing'
+[09:39:09] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:09]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:10] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:10]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:11] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:11]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:12] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:12]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:14] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:14]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:15] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:15]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:16] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:16]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:17] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:17]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:18] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:18]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:19] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:19]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:20] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:20]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:21] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:21]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:22] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:22]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:23] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:23]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:24] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:24]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:25] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:25]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:26] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:26]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:27] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:27]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:28] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:28]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:29] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:29]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:30] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:30]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:31] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:31]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:32] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:32]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:33] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:33]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:34] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:34]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:35] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:35]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:36] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:36]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:37] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:37]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:38] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:38]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:39] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:39]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:40] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:40]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:41] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:41]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:42] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:42]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:43] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:43]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:44] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:44]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:45] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:45]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:46] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:46]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:47] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:47]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:48] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:48]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:49] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:49]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:49] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:39:50] U.S.G.N.: Serverlist entry updated
+[09:39:50] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:50]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:51] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:51]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:52] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:52]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:53] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:53]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:54] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:54]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:55] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:55]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:56] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:56]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:57] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:57]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:39:58] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:39:58]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:40:00] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:40:00]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:40:01] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:40:01]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:40:02] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:40:02]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:40:03] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:40:03]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:40:04] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:40:04]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:40:05] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:40:05]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:40:06] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:40:06]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:40:07] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2279: attempt to concatenate global 'a' (a nil value)
+[09:40:07]  -> sys/lua/SagosWins/Battle Royale.lua:2279: in function <sys/lua/SagosWins/Battle Royale.lua:2277>
+[09:40:08] ----- Mapchange -----
+[09:40:08] Starting server...
+[09:40:08] load map 'Battle Royale'
+[09:40:08] ----- Server started -----
+[09:40:08] parsing Lua server script (mp_luaserver = 'server.lua')
+[09:40:08] Lua: Adding function 'falar' to hook 'say'
+[09:40:08] Lua: Adding function 'segundos' to hook 'second'
+[09:40:08] Lua: Adding function 'coletar' to hook 'walkover'
+[09:40:08] Lua: Adding function 'atacar' to hook 'attack'
+[09:40:08] Lua: Adding function 'atacar2' to hook 'attack2'
+[09:40:08] Lua: Adding function 'teclas' to hook 'serveraction'
+[09:40:08] Lua: Adding function 'mymenu' to hook 'menu'
+[09:40:08] Lua: Adding function 'ataque' to hook 'hit'
+[09:40:08] Lua: Adding function 'dropar' to hook 'drop'
+[09:40:08] Lua: Adding function 'mover' to hook 'movetile'
+[09:40:08] U.S.G.N.: Sending serverlist ADD-request...
+[09:40:08] Minimap: Loaded from cache
+[09:40:08] U.S.G.N.: Serverlist entry updated
+[09:40:08] U.S.G.N.: Ping/State 'playing'
+[09:40:08] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[09:40:09] Sagos juntou-se a Countra-Terrorista Forças
+[09:40:10] Radar: Loaded from cache
+[09:40:32] ----- Mapchange -----
+[09:40:32] Starting server...
+[09:40:32] load map 'Battle Royale'
+[09:40:32] ----- Server started -----
+[09:40:32] parsing Lua server script (mp_luaserver = 'server.lua')
+[09:40:32] Lua: Adding function 'falar' to hook 'say'
+[09:40:32] Lua: Adding function 'segundos' to hook 'second'
+[09:40:32] Lua: Adding function 'coletar' to hook 'walkover'
+[09:40:32] Lua: Adding function 'atacar' to hook 'attack'
+[09:40:32] Lua: Adding function 'atacar2' to hook 'attack2'
+[09:40:32] Lua: Adding function 'teclas' to hook 'serveraction'
+[09:40:32] Lua: Adding function 'mymenu' to hook 'menu'
+[09:40:32] Lua: Adding function 'ataque' to hook 'hit'
+[09:40:32] Lua: Adding function 'dropar' to hook 'drop'
+[09:40:32] Lua: Adding function 'mover' to hook 'movetile'
+[09:40:33] Minimap: Loaded from cache
+[09:40:33] U.S.G.N.: Sending serverlist ADD-request...
+[09:40:33] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[09:40:33] U.S.G.N.: Serverlist entry updated
+[09:40:33] U.S.G.N.: Ping/State 'playing'
+[09:40:34] Sagos juntou-se a Countra-Terrorista Forças
+[09:40:34] Radar: Loaded from cache
+[09:40:45] generating stats...
+[09:40:45] stats generated in 1 ms!
+[09:41:18] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:41:19] U.S.G.N.: Serverlist entry updated
+[09:41:30] ----- Mapchange -----
+[09:41:30] Starting server...
+[09:41:30] load map 'Battle Royale'
+[09:41:30] ----- Server started -----
+[09:41:30] parsing Lua server script (mp_luaserver = 'server.lua')
+[09:41:30] Lua: Adding function 'falar' to hook 'say'
+[09:41:30] Lua: Adding function 'segundos' to hook 'second'
+[09:41:30] Lua: Adding function 'coletar' to hook 'walkover'
+[09:41:30] Lua: Adding function 'atacar' to hook 'attack'
+[09:41:30] Lua: Adding function 'atacar2' to hook 'attack2'
+[09:41:30] Lua: Adding function 'teclas' to hook 'serveraction'
+[09:41:30] Lua: Adding function 'mymenu' to hook 'menu'
+[09:41:30] Lua: Adding function 'ataque' to hook 'hit'
+[09:41:30] Lua: Adding function 'dropar' to hook 'drop'
+[09:41:30] Lua: Adding function 'mover' to hook 'movetile'
+[09:41:30] Minimap: Loaded from cache
+[09:41:31] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[09:41:31] U.S.G.N.: Sending serverlist ADD-request...
+[09:41:31] U.S.G.N.: Serverlist entry updated
+[09:41:31] U.S.G.N.: Ping/State 'playing'
+[09:41:32] Sagos juntou-se a Countra-Terrorista Forças
+[09:41:33] Radar: Loaded from cache
+[09:42:16] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:42:17] U.S.G.N.: Serverlist entry updated
+[09:42:32] U.S.G.N.: Ping/State 'playing'
+[09:43:01] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:43:02] U.S.G.N.: Serverlist entry updated
+[09:43:32] U.S.G.N.: Ping/State 'playing'
+[09:43:47] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:43:47] U.S.G.N.: Serverlist entry updated
+[09:44:32] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:44:33] U.S.G.N.: Ping/State 'playing'
+[09:44:33] U.S.G.N.: Serverlist entry updated
+[09:45:18] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:45:18] U.S.G.N.: Serverlist entry updated
+[09:45:33] U.S.G.N.: Ping/State 'playing'
+[09:45:45] generating stats...
+[09:45:45] stats generated in 1 ms!
+[09:46:03] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:46:03] U.S.G.N.: Serverlist entry updated
+[09:46:34] U.S.G.N.: Ping/State 'playing'
+[09:46:48] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:46:49] U.S.G.N.: Serverlist entry updated
+[09:47:34] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:47:34] U.S.G.N.: Ping/State 'playing'
+[09:47:34] U.S.G.N.: Serverlist entry updated
+[09:48:19] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:48:19] U.S.G.N.: Serverlist entry updated
+[09:48:35] U.S.G.N.: Ping/State 'playing'
+[09:49:05] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:49:05] U.S.G.N.: Serverlist entry updated
+[09:49:30] ----- Mapchange -----
+[09:49:30] Starting server...
+[09:49:30] load map 'Battle Royale'
+[09:49:30] ----- Server started -----
+[09:49:30] parsing Lua server script (mp_luaserver = 'server.lua')
+[09:49:30] Lua: Adding function 'falar' to hook 'say'
+[09:49:30] Lua: Adding function 'segundos' to hook 'second'
+[09:49:30] Lua: Adding function 'coletar' to hook 'walkover'
+[09:49:30] Lua: Adding function 'atacar' to hook 'attack'
+[09:49:30] Lua: Adding function 'atacar2' to hook 'attack2'
+[09:49:30] Lua: Adding function 'teclas' to hook 'serveraction'
+[09:49:30] Lua: Adding function 'mymenu' to hook 'menu'
+[09:49:30] Lua: Adding function 'ataque' to hook 'hit'
+[09:49:30] Lua: Adding function 'dropar' to hook 'drop'
+[09:49:30] Lua: Adding function 'mover' to hook 'movetile'
+[09:49:30] Lua: Adding function 'sempre' to hook 'always'
+[09:49:30] Minimap: Loaded from cache
+[09:49:30] U.S.G.N.: Sending serverlist ADD-request...
+[09:49:30] U.S.G.N.: Ping/State 'playing'
+[09:49:30] U.S.G.N.: Serverlist entry updated
+[09:49:31] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[09:49:31] Sagos juntou-se a Countra-Terrorista Forças
+[09:49:31] Radar: Loaded from cache
+[09:50:15] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:50:16] U.S.G.N.: Serverlist entry updated
+[09:50:31] U.S.G.N.: Ping/State 'playing'
+[09:50:45] generating stats...
+[09:50:45] stats generated in 1 ms!
+[09:51:01] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:51:01] U.S.G.N.: Serverlist entry updated
+[09:51:31] U.S.G.N.: Ping/State 'playing'
+[09:51:46] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:51:47] U.S.G.N.: Serverlist entry updated
+[09:52:31] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:52:32] U.S.G.N.: Serverlist entry updated
+[09:52:32] U.S.G.N.: Ping/State 'playing'
+[09:53:17] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:53:17] U.S.G.N.: Serverlist entry updated
+[09:53:32] U.S.G.N.: Ping/State 'playing'
+[09:54:02] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:54:02] U.S.G.N.: Serverlist entry updated
+[09:54:33] U.S.G.N.: Ping/State 'playing'
+[09:54:48] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:54:48] U.S.G.N.: Serverlist entry updated
+[09:55:33] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:55:33] U.S.G.N.: Ping/State 'playing'
+[09:55:33] U.S.G.N.: Serverlist entry updated
+[09:55:45] generating stats...
+[09:55:45] stats generated in 1 ms!
+[09:56:18] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:56:19] U.S.G.N.: Serverlist entry updated
+[09:56:34] U.S.G.N.: Ping/State 'playing'
+[09:57:04] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:57:04] U.S.G.N.: Serverlist entry updated
+[09:57:35] U.S.G.N.: Ping/State 'playing'
+[09:57:49] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:58:34] "  (1x)
+[09:58:35] U.S.G.N.: Serverlist entry updated
+[09:58:35] U.S.G.N.: Ping/State 'playing'
+[09:59:20] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:59:20] U.S.G.N.: Serverlist entry updated
+[09:59:35] U.S.G.N.: Ping/State 'playing'
+[10:00:05] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:00:06] U.S.G.N.: Serverlist entry updated
+[10:00:36] U.S.G.N.: Ping/State 'playing'
+[10:00:45] generating stats...
+[10:00:45] stats generated in 1 ms!
+[10:00:50] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:00:51] U.S.G.N.: Serverlist entry updated
+[10:01:36] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:01:36] U.S.G.N.: Serverlist entry updated
+[10:01:36] U.S.G.N.: Ping/State 'playing'
+[10:02:21] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:02:22] U.S.G.N.: Serverlist entry updated
+[10:02:37] U.S.G.N.: Ping/State 'playing'
+[10:03:07] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:03:07] U.S.G.N.: Serverlist entry updated
+[10:03:37] U.S.G.N.: Ping/State 'playing'
+[10:03:52] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:03:53] U.S.G.N.: Serverlist entry updated
+[10:04:37] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:04:38] ----- Mapchange -----
+[10:04:38] Starting server...
+[10:04:38] load map 'Battle Royale'
+[10:04:38] ----- Server started -----
+[10:04:38] parsing Lua server script (mp_luaserver = 'server.lua')
+[10:04:38] Lua: Adding function 'falar' to hook 'say'
+[10:04:38] Lua: Adding function 'segundos' to hook 'second'
+[10:04:38] Lua: Adding function 'coletar' to hook 'walkover'
+[10:04:38] Lua: Adding function 'atacar' to hook 'attack'
+[10:04:38] Lua: Adding function 'atacar2' to hook 'attack2'
+[10:04:38] Lua: Adding function 'teclas' to hook 'serveraction'
+[10:04:38] Lua: Adding function 'mymenu' to hook 'menu'
+[10:04:38] Lua: Adding function 'ataque' to hook 'hit'
+[10:04:38] Lua: Adding function 'dropar' to hook 'drop'
+[10:04:38] Lua: Adding function 'mover' to hook 'movetile'
+[10:04:38] Lua: Adding function 'sempre' to hook 'always'
+[10:04:38] U.S.G.N.: Ping/State 'playing'
+[10:04:38] U.S.G.N.: Serverlist entry updated
+[10:04:38] Minimap: Loaded from cache
+[10:04:40] Sagos juntou-se a Countra-Terrorista Forças
+[10:04:40] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[10:04:40] Radar: Loaded from cache
+[10:05:06] [b]Scrap conectou-se
+[10:05:06] [b]Scrap juntou-se a Terrorista Forças
+[10:05:13] Sagos killed [b]Scrap with Knife
+[10:05:23] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:05:23] U.S.G.N.: Serverlist entry updated
+[10:05:38] U.S.G.N.: Ping/State 'playing'
+[10:05:45] generating stats...
+[10:05:45] stats generated in 1 ms!
+[10:06:08] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:06:09] U.S.G.N.: Serverlist entry updated
+[10:06:39] U.S.G.N.: Ping/State 'playing'
+[10:06:42] ----- Mapchange -----
+[10:06:42] Starting server...
+[10:06:42] load map 'Battle Royale'
+[10:06:42] ----- Server started -----
+[10:06:42] parsing Lua server script (mp_luaserver = 'server.lua')
+[10:06:42] Lua: Adding function 'falar' to hook 'say'
+[10:06:42] Lua: Adding function 'segundos' to hook 'second'
+[10:06:42] Lua: Adding function 'coletar' to hook 'walkover'
+[10:06:42] Lua: Adding function 'atacar' to hook 'attack'
+[10:06:42] Lua: Adding function 'atacar2' to hook 'attack2'
+[10:06:42] Lua: Adding function 'teclas' to hook 'serveraction'
+[10:06:42] Lua: Adding function 'mymenu' to hook 'menu'
+[10:06:42] Lua: Adding function 'ataque' to hook 'hit'
+[10:06:42] Lua: Adding function 'dropar' to hook 'drop'
+[10:06:42] Lua: Adding function 'mover' to hook 'movetile'
+[10:06:42] Lua: Adding function 'sempre' to hook 'always'
+[10:06:42] Minimap: Loaded from cache
+[10:06:42] U.S.G.N.: Sending serverlist ADD-request...
+[10:06:43] U.S.G.N.: Serverlist entry updated
+[10:06:43] U.S.G.N.: Ping/State 'playing'
+[10:06:43] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[10:06:44] Sagos juntou-se a Countra-Terrorista Forças
+[10:06:44] Radar: Loaded from cache
+[10:06:46] [b]PlayWithJoystick conectou-se
+[10:06:46] [b]PlayWithJoystick juntou-se a Terrorista Forças
+[10:06:46] [b]Cutthroat conectou-se
+[10:06:46] [b]Cutthroat juntou-se a Countra-Terrorista Forças
+[10:06:46] [b]L0lz0r conectou-se
+[10:06:46] [b]L0lz0r juntou-se a Terrorista Forças
+[10:06:46] [b]0_o conectou-se
+[10:06:46] [b]0_o juntou-se a Countra-Terrorista Forças
+[10:06:48] [b]L0lz0r killed Sagos with Knife
+[10:06:49] LUA ERROR: bots/includes/collect.lua:22: attempt to call global 'item' (a table value)
+[10:06:49]  -> bots/includes/collect.lua:22: in function 'fai_collect'
+[10:06:49]  -> bots/Standard AI.lua:108: in function <bots/Standard AI.lua:83>
+[10:06:49] Freezing bots to stop Lua error msg flood! Use 'bot_freeze 0' to unfreeze bots!
+[10:06:49] [b]Cutthroat killed himself with HE
+[10:06:49] [b]Cutthroat killed [b]L0lz0r with HE
+[10:06:58] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[10:07:11] ----- Mapchange -----
+[10:07:11] Starting server...
+[10:07:11] load map 'Battle Royale'
+[10:07:11] ----- Server started -----
+[10:07:11] parsing Lua server script (mp_luaserver = 'server.lua')
+[10:07:11] Lua: Adding function 'falar' to hook 'say'
+[10:07:11] Lua: Adding function 'segundos' to hook 'second'
+[10:07:11] Lua: Adding function 'coletar' to hook 'walkover'
+[10:07:11] Lua: Adding function 'atacar' to hook 'attack'
+[10:07:11] Lua: Adding function 'atacar2' to hook 'attack2'
+[10:07:11] Lua: Adding function 'teclas' to hook 'serveraction'
+[10:07:11] Lua: Adding function 'mymenu' to hook 'menu'
+[10:07:11] Lua: Adding function 'ataque' to hook 'hit'
+[10:07:11] Lua: Adding function 'dropar' to hook 'drop'
+[10:07:11] Lua: Adding function 'mover' to hook 'movetile'
+[10:07:11] Lua: Adding function 'sempre' to hook 'always'
+[10:07:11] Minimap: Loaded from cache
+[10:07:12] U.S.G.N.: Sending serverlist ADD-request...
+[10:07:12] U.S.G.N.: Serverlist entry updated
+[10:07:12] U.S.G.N.: Ping/State 'playing'
+[10:07:14] Sagos juntou-se a Countra-Terrorista Forças
+[10:07:14] Radar: Loaded from cache
+[10:07:27] [b]Assassin conectou-se
+[10:07:27] [b]Assassin juntou-se a Countra-Terrorista Forças
+[10:07:33] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[10:07:57] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:07:57] U.S.G.N.: Serverlist entry updated
+[10:08:00] Sagos has been slapped
+[10:08:04] ----- Mapchange -----
+[10:08:04] Starting server...
+[10:08:04] load map 'Battle Royale'
+[10:08:04] ----- Server started -----
+[10:08:04] parsing Lua server script (mp_luaserver = 'server.lua')
+[10:08:04] Lua: Adding function 'falar' to hook 'say'
+[10:08:04] Lua: Adding function 'segundos' to hook 'second'
+[10:08:04] Lua: Adding function 'coletar' to hook 'walkover'
+[10:08:04] Lua: Adding function 'atacar' to hook 'attack'
+[10:08:04] Lua: Adding function 'atacar2' to hook 'attack2'
+[10:08:04] Lua: Adding function 'teclas' to hook 'serveraction'
+[10:08:04] Lua: Adding function 'mymenu' to hook 'menu'
+[10:08:04] Lua: Adding function 'ataque' to hook 'hit'
+[10:08:04] Lua: Adding function 'dropar' to hook 'drop'
+[10:08:04] Lua: Adding function 'mover' to hook 'movetile'
+[10:08:04] Lua: Adding function 'sempre' to hook 'always'
+[10:08:04] Minimap: Loaded from cache
+[10:08:04] U.S.G.N.: Sending serverlist ADD-request...
+[10:08:04] U.S.G.N.: Ping/State 'playing'
+[10:08:04] U.S.G.N.: Serverlist entry updated
+[10:08:08] Sagos juntou-se a Countra-Terrorista Forças
+[10:08:08] Radar: Loaded from cache
+[10:08:15] Sagos has been slapped
+[10:08:16] "  (1x)
+[10:08:17] "  (1x)
+[10:08:18] "  (3x)
+[10:08:20] "  (2x)
+[10:08:23] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[10:08:37] [b]CS2D.com conectou-se
+[10:08:37] [b]CS2D.com juntou-se a Terrorista Forças
+[10:08:49] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:08:50] U.S.G.N.: Serverlist entry updated
+[10:09:05] U.S.G.N.: Ping/State 'playing'
+[10:09:35] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:09:35] U.S.G.N.: Serverlist entry updated
+[10:09:55] ----- Mapchange -----
+[10:09:55] Starting server...
+[10:09:55] load map 'Battle Royale'
+[10:09:55] ----- Server started -----
+[10:09:55] parsing Lua server script (mp_luaserver = 'server.lua')
+[10:09:55] Lua: Adding function 'falar' to hook 'say'
+[10:09:55] Lua: Adding function 'segundos' to hook 'second'
+[10:09:55] Lua: Adding function 'coletar' to hook 'walkover'
+[10:09:55] Lua: Adding function 'atacar' to hook 'attack'
+[10:09:55] Lua: Adding function 'atacar2' to hook 'attack2'
+[10:09:55] Lua: Adding function 'teclas' to hook 'serveraction'
+[10:09:55] Lua: Adding function 'mymenu' to hook 'menu'
+[10:09:55] Lua: Adding function 'ataque' to hook 'hit'
+[10:09:55] Lua: Adding function 'dropar' to hook 'drop'
+[10:09:55] Lua: Adding function 'mover' to hook 'movetile'
+[10:09:55] Lua: Adding function 'sempre' to hook 'always'
+[10:09:55] Minimap: Loaded from cache
+[10:09:56] U.S.G.N.: Sending serverlist ADD-request...
+[10:09:57] U.S.G.N.: Serverlist entry updated
+[10:09:57] U.S.G.N.: Ping/State 'playing'
+[10:09:57] Sagos juntou-se a Countra-Terrorista Forças
+[10:09:57] Radar: Loaded from cache
+[10:10:03] [b]D0om conectou-se
+[10:10:03] [b]D0om juntou-se a Terrorista Forças
+[10:10:05] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[10:10:42] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:10:42] U.S.G.N.: Serverlist entry updated
+[10:10:45] generating stats...
+[10:10:45] stats generated in 1 ms!
+[10:10:56] FLOOD WARNING: 176.114.188.224 seems to flood msg type inforeq - ignoring.
+[10:10:57] U.S.G.N.: Ping/State 'playing'
+[10:11:11] ----- Mapchange -----
+[10:11:11] Starting server...
+[10:11:11] load map 'Battle Royale'
+[10:11:12] ----- Server started -----
+[10:11:12] parsing Lua server script (mp_luaserver = 'server.lua')
+[10:11:12] Lua: Adding function 'falar' to hook 'say'
+[10:11:12] Lua: Adding function 'segundos' to hook 'second'
+[10:11:12] Lua: Adding function 'coletar' to hook 'walkover'
+[10:11:12] Lua: Adding function 'atacar' to hook 'attack'
+[10:11:12] Lua: Adding function 'atacar2' to hook 'attack2'
+[10:11:12] Lua: Adding function 'teclas' to hook 'serveraction'
+[10:11:12] Lua: Adding function 'mymenu' to hook 'menu'
+[10:11:12] Lua: Adding function 'ataque' to hook 'hit'
+[10:11:12] Lua: Adding function 'dropar' to hook 'drop'
+[10:11:12] Lua: Adding function 'mover' to hook 'movetile'
+[10:11:12] Lua: Adding function 'sempre' to hook 'always'
+[10:11:12] Minimap: Loaded from cache
+[10:11:12] U.S.G.N.: Sending serverlist ADD-request...
+[10:11:13] U.S.G.N.: Ping/State 'playing'
+[10:11:13] U.S.G.N.: Serverlist entry updated
+[10:11:13] Sagos juntou-se a Countra-Terrorista Forças
+[10:11:13] Radar: Loaded from cache
+[10:11:19] [b]WAR! conectou-se
+[10:11:19] [b]WAR! juntou-se a Terrorista Forças
+[10:11:45] [b]WAR! died
+[10:11:45] LUA ERROR: bots/includes/collect.lua:22: attempt to call global 'item' (a table value)
+[10:11:45]  -> bots/includes/collect.lua:22: in function 'fai_collect'
+[10:11:45]  -> bots/Standard AI.lua:108: in function <bots/Standard AI.lua:83>
+[10:11:45] Freezing bots to stop Lua error msg flood! Use 'bot_freeze 0' to unfreeze bots!
+[10:11:57] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:11:57] U.S.G.N.: Serverlist entry updated
+[10:12:13] U.S.G.N.: Ping/State 'playing'
+[10:12:43] U.S.G.N.: Sending serverlist UPDATE-request...
+[10:12:44] U.S.G.N.: Serverlist entry updated
+[10:13:13] U.S.G.N.: Ping/State 'playing'
+[10:13:15] Servidor Desligado

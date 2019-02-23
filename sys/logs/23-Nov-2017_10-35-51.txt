@@ -1,0 +1,1168 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 10:35:51
+
+[10:35:51] UDP socket initialized using port 36963
+[10:35:52] U.S.G.N.: Your game version is up to date!
+[10:35:52] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[10:35:53] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[10:35:53] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[10:35:55] Cached servers added to list: 119
+[10:35:56] U.S.G.N.: Received serverlist (servers: 70)
+[10:35:56] U.S.G.N.: Received serverlist (servers: 150)
+[10:36:11] Connecting to 52.67.23.129:36964 (using U.S.G.N. ID #15431) ...
+[10:36:11] U.S.G.N.: Ping/State 'idle' (272 ms)
+[10:36:11] "  (1x)
+[10:36:11] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[10:36:11] Checking 'gfx/hc/top30.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/hc/attribs/angel.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/devil.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/gandalf_hat.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/graduation_hat.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/metal_helmet_adm.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/metal_helmet_mod.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/metal_helmet_vip.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/party_hat.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/pirate_hat.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/pumpkin_head.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/santa_hat.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/snowman.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/spear.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/umbrella_ct.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/umbrella_t.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/angry.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/cheeky.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/crying.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/cursing.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/evil.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/frowning.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/heart.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/laughing.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/skeptical.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/smiling.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/smiling_big.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/speechbubble.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/surprised.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/uneasy.png': Already exists.
+[10:36:11] Checking 'gfx/hc/emoticons/winking.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/soldado ct.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/hc/attribs/soldado tt.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/hc/attribs/ninja white.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/hc/attribs/ninja_black.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/hc/attribs/skull.png': Already exists.
+[10:36:11] Checking 'gfx/hc/attribs/superarmor.bmp': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/serverlove1.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/circle_.png': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/admin join23.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/join20.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end1.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end13.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end3.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end4.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end14.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end15.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end12.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end8.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end9.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end10.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove.foromx.net/end11.ogg': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/serverlove/1.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/serverlove/2.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/serverlove/3.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/serverlove/4.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/serverlove/5.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/serverlove/6.png': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove/1.wav': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove/2.wav': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove/3.wav': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove/4.wav': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove/5.wav': Does not exist. Request transfer!
+[10:36:11] Checking 'sfx/serverlove/6.wav': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/hc/Top30.png': Does not exist. Request transfer!
+[10:36:11] Checking 'gfx/hc/attribs/ironman.png': Does not exist. Request transfer!
+[10:36:11] Requesting 35 files from server...
+[10:36:11] Downloading 'gfx/hc/top30.png' from server...
+[10:36:12] Downloading 'gfx/hc/attribs/soldado ct.png' from server...
+[10:36:12] Downloading 'gfx/hc/attribs/soldado tt.png' from server...
+[10:36:12] Downloading 'gfx/hc/attribs/ninja white.png' from server...
+[10:36:12] Downloading 'gfx/hc/attribs/ninja_black.png' from server...
+[10:36:12] Downloading 'gfx/hc/attribs/superarmor.bmp' from server...
+[10:36:12] Downloading 'gfx/serverlove1.png' from server...
+[10:36:15] Downloading 'gfx/circle_.png' from server...
+[10:36:15] Downloading 'sfx/serverlove.foromx.net/admin join23.ogg' from server...
+[10:36:21] Created directory 'sfx/serverlove.foromx.net' for received files
+[10:36:21] Downloading 'sfx/serverlove.foromx.net/join20.ogg' from server...
+[10:36:30] Downloading 'sfx/serverlove.foromx.net/end1.ogg' from server...
+[10:36:40] Downloading 'sfx/serverlove.foromx.net/end13.ogg' from server...
+[10:36:47] Downloading 'sfx/serverlove.foromx.net/end3.ogg' from server...
+[10:36:54] Downloading 'sfx/serverlove.foromx.net/end4.ogg' from server...
+[10:37:05] Downloading 'sfx/serverlove.foromx.net/end14.ogg' from server...
+[10:37:11] Downloading 'sfx/serverlove.foromx.net/end15.ogg' from server...
+[10:37:11] U.S.G.N.: Ping/State 'idle' (272 ms)
+[10:37:18] Downloading 'sfx/serverlove.foromx.net/end12.ogg' from server...
+[10:37:27] Downloading 'sfx/serverlove.foromx.net/end8.ogg' from server...
+[10:37:32] Downloading 'sfx/serverlove.foromx.net/end9.ogg' from server...
+[10:37:38] Downloading 'sfx/serverlove.foromx.net/end10.ogg' from server...
+[10:37:45] Downloading 'sfx/serverlove.foromx.net/end11.ogg' from server...
+[10:37:52] Downloading 'gfx/serverlove/1.png' from server...
+[10:37:53] Created directory 'gfx/serverlove' for received files
+[10:37:53] Downloading 'gfx/serverlove/2.png' from server...
+[10:37:55] Downloading 'gfx/serverlove/3.png' from server...
+[10:37:56] Downloading 'gfx/serverlove/4.png' from server...
+[10:37:58] Downloading 'gfx/serverlove/5.png' from server...
+[10:38:00] Downloading 'gfx/serverlove/6.png' from server...
+[10:38:01] Downloading 'sfx/serverlove/1.wav' from server...
+[10:38:07] Created directory 'sfx/serverlove' for received files
+[10:38:07] Downloading 'sfx/serverlove/2.wav' from server...
+[10:38:10] Downloading 'sfx/serverlove/3.wav' from server...
+[10:38:12] U.S.G.N.: Ping/State 'idle' (272 ms)
+[10:38:13] Downloading 'sfx/serverlove/4.wav' from server...
+[10:38:16] Downloading 'sfx/serverlove/5.wav' from server...
+[10:38:19] Downloading 'sfx/serverlove/6.wav' from server...
+[10:38:23] Downloading 'gfx/hc/Top30.png' from server...
+[10:38:24] Downloading 'gfx/hc/attribs/ironman.png' from server...
+[10:38:24] load map 'awp_gray'
+[10:38:24] ----- Server joined -----
+[10:38:24] [SERVER]: Welcome to Awp Grey server. Sagos!
+[10:38:24] [SERVER]: Your user level is: USER.
+[10:38:25] U.S.G.N.: Ping/State 'playing'
+[10:38:31] Sagos juntou-se a Terrorista Forças
+[10:38:34] ServerLove.foromx.net
+[10:38:56] Sagos killed mqs with Knife
+[10:39:01] ServerLove.foromx.net
+[10:39:02] mqs: fdp KKKKKKKKK
+[10:39:06] Sagos: aushasu
+[10:39:21] [SERVER]: F2 for command menu.
+[10:39:26] U.S.G.N.: Ping/State 'playing'
+[10:39:35] Sagos killed mqs with AWP
+[10:39:35] Sagos Reached 2 KpD!
+[10:39:40] ServerLove.foromx.net
+[10:40:11] Sagos killed mqs with AWP
+[10:40:11] Sagos Reached 3 KpD!
+[10:40:16] ServerLove.foromx.net
+[10:40:21] [SERVER]: F2 for command menu.
+[10:40:26] mqs killed Sagos with AWP
+[10:40:26] k¦mqs¦100¦100
+[10:40:26] U.S.G.N.: Ping/State 'playing'
+[10:40:31] ServerLove.foromx.net
+[10:40:50] mqs killed Sagos with AWP
+[10:40:50] k¦mqs¦100¦100
+[10:40:55] ServerLove.foromx.net
+[10:41:14] mqs killed Sagos with AWP
+[10:41:14] k¦mqs¦100¦100
+[10:41:19] ServerLove.foromx.net
+[10:41:21] [SERVER]: F2 for command menu.
+[10:41:27] U.S.G.N.: Ping/State 'playing'
+[10:41:33] Sagos killed mqs with AWP
+[10:41:38] ServerLove.foromx.net
+[10:41:56] Sagos killed mqs with Knife
+[10:42:01] ServerLove.foromx.net
+[10:42:17] Sagos killed mqs with AWP
+[10:42:21] [SERVER]: F2 for command menu.
+[10:42:22] ServerLove.foromx.net
+[10:42:27] U.S.G.N.: Ping/State 'playing'
+[10:42:39] Sagos killed mqs with (Head)AWP
+[10:42:39] Sagos has done a Headshot kill! 
+[10:42:44] ServerLove.foromx.net
+[10:42:57] Sagos killed mqs with AWP
+[10:43:02] ServerLove.foromx.net
+[10:43:21] Sagos killed mqs with Knife
+[10:43:21] [SERVER]: F2 for command menu.
+[10:43:26] ServerLove.foromx.net
+[10:43:28] U.S.G.N.: Ping/State 'playing'
+[10:43:42] Sagos killed mqs with AWP
+[10:43:47] ServerLove.foromx.net
+[10:43:58] Sagos killed mqs with (Head)AWP
+[10:43:58] Sagos has done a Headshot kill! 
+[10:44:03] ServerLove.foromx.net
+[10:44:21] [SERVER]: F2 for command menu.
+[10:44:23] mqs killed Sagos with AWP
+[10:44:23] k¦mqs¦100¦0
+[10:44:28] U.S.G.N.: Ping/State 'playing'
+[10:44:28] ServerLove.foromx.net
+[10:44:44] Sagos killed mqs with (Head)AWP
+[10:44:44] Sagos has done a Headshot kill! 
+[10:44:49] ServerLove.foromx.net
+[10:45:01] Sagos killed mqs with AWP
+[10:45:06] ServerLove.foromx.net
+[10:45:16] mqs killed Sagos with Knife
+[10:45:16] k¦mqs¦100¦0
+[10:45:21] [SERVER]: F2 for command menu.
+[10:45:21] ServerLove.foromx.net
+[10:45:29] U.S.G.N.: Ping/State 'playing'
+[10:45:31] Sagos killed mqs with AWP
+[10:45:36] ServerLove.foromx.net
+[10:45:46] Sagos killed mqs with (Head)AWP
+[10:45:46] Sagos has done a Headshot kill! 
+[10:45:51] ServerLove.foromx.net
+[10:46:03] Sagos killed mqs with AWP
+[10:46:08] ServerLove.foromx.net
+[10:46:17] Sagos killed mqs with AWP
+[10:46:21] [SERVER]: F2 for command menu.
+[10:46:22] ServerLove.foromx.net
+[10:46:29] U.S.G.N.: Ping/State 'playing'
+[10:46:31] Sagos killed mqs with AWP
+[10:46:36] ServerLove.foromx.net
+[10:46:45] Sagos killed mqs with AWP
+[10:46:50] ServerLove.foromx.net
+[10:46:58] nyX' conectou-se
+[10:47:01] nyX' juntou-se a Terrorista Forças
+[10:47:06] mqs killed Sagos with AWP
+[10:47:06] k¦mqs¦100¦0
+[10:47:14] nyX' killed mqs with AWP
+[10:47:19] ServerLove.foromx.net
+[10:47:21] [SERVER]: F2 for command menu.
+[10:47:32] mqs killed nyX' with AWP
+[10:47:45] mqs killed Sagos with AWP
+[10:47:45] k¦mqs¦100¦100
+[10:47:50] ServerLove.foromx.net
+[10:47:58] ----- Disconnected -----
+[10:48:00] Cached servers added to list: 119
+[10:48:09] U.S.G.N.: Ping/State 'idle' (272 ms)
+[10:48:11] U.S.G.N.: Received serverlist (servers: 91)
+[10:48:11] U.S.G.N.: Received serverlist (servers: 150)
+[10:48:20] Connecting to 52.67.23.129:36964 (using U.S.G.N. ID #15431) ...
+[10:48:21] U.S.G.N.: Ping/State 'idle' (272 ms)
+[10:48:21] "  (1x)
+[10:48:21] [SERVER]: F2 for command menu.
+[10:48:23] U.S.G.N.: Received serverlist (servers: 90)
+[10:48:23] U.S.G.N.: Received serverlist (servers: 150)
+[10:48:26] Connecting to 52.67.23.129:36964 (using U.S.G.N. ID #15431) ...
+[10:48:26] U.S.G.N.: Ping/State 'idle' (432 ms)
+[10:48:31] Connecting to 52.67.23.129:36964 (using U.S.G.N. ID #15431) ...
+[10:48:33] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[10:48:33] Checking 'gfx/hc/top30.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/angel.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/devil.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/gandalf_hat.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/graduation_hat.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/metal_helmet_adm.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/metal_helmet_mod.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/metal_helmet_vip.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/party_hat.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/pirate_hat.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/pumpkin_head.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/santa_hat.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/snowman.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/spear.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/umbrella_ct.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/umbrella_t.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/angry.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/cheeky.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/crying.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/cursing.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/evil.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/frowning.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/heart.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/laughing.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/skeptical.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/smiling.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/smiling_big.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/speechbubble.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/surprised.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/uneasy.png': Already exists.
+[10:48:33] Checking 'gfx/hc/emoticons/winking.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/soldado ct.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/soldado tt.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/ninja white.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/ninja_black.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/skull.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/superarmor.bmp': Already exists.
+[10:48:33] Checking 'gfx/serverlove1.png': Already exists.
+[10:48:33] Checking 'gfx/circle_.png': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/admin join23.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/join20.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end1.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end13.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end3.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end4.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end14.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end15.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end12.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end8.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end9.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end10.ogg': Already exists.
+[10:48:33] Checking 'sfx/serverlove.foromx.net/end11.ogg': Already exists.
+[10:48:33] Checking 'gfx/serverlove/1.png': Already exists.
+[10:48:33] Checking 'gfx/serverlove/2.png': Already exists.
+[10:48:33] Checking 'gfx/serverlove/3.png': Already exists.
+[10:48:33] Checking 'gfx/serverlove/4.png': Already exists.
+[10:48:33] Checking 'gfx/serverlove/5.png': Already exists.
+[10:48:33] Checking 'gfx/serverlove/6.png': Already exists.
+[10:48:33] Checking 'sfx/serverlove/1.wav': Already exists.
+[10:48:33] Checking 'sfx/serverlove/2.wav': Already exists.
+[10:48:33] Checking 'sfx/serverlove/3.wav': Already exists.
+[10:48:33] Checking 'sfx/serverlove/4.wav': Already exists.
+[10:48:33] Checking 'sfx/serverlove/5.wav': Already exists.
+[10:48:33] Checking 'sfx/serverlove/6.wav': Already exists.
+[10:48:33] Checking 'gfx/hc/Top30.png': Already exists.
+[10:48:33] Checking 'gfx/hc/attribs/ironman.png': Already exists.
+[10:48:33] Requesting 0 files from server...
+[10:48:33] load map 'awp_gray'
+[10:48:33] ----- Server joined -----
+[10:48:33] [SERVER]: Welcome to Awp Grey server. Sagos!
+[10:48:33] [SERVER]: Your user level is: USER.
+[10:48:34] U.S.G.N.: Ping/State 'playing'
+[10:48:37] Sagos juntou-se a Countra-Terrorista Forças
+[10:48:45] Sagos: rank
+[10:48:45] r¦Sagos¦94 of 2859¦125,125,89,1.40,1 h 12 m
+[10:48:52] Sagos deixou o jogo
+[10:48:52] Disconnect Reason: Client request (Code 0)
+[10:48:52] ----- Disconnected -----
+[10:48:52] U.S.G.N.: Ping/State 'idle' (272 ms)
+[10:48:53] Cached servers added to list: 119
+[10:48:54] U.S.G.N.: Received serverlist (servers: 92)
+[10:48:54] U.S.G.N.: Received serverlist (servers: 150)
+[10:49:00] Connecting to 177.45.57.30:27300 (using U.S.G.N. ID #15431) ...
+[10:49:09] load map 'dm_laser'
+[10:49:09] ----- Server joined -----
+[10:49:12] Sagos juntou-se a Countra-Terrorista Forças
+[10:49:15] U.S.G.N.: Ping/State 'playing'
+[10:49:16] Sagos killed Botzinho with Laser
+[10:49:20] Sagos died
+[10:49:20] Sagos juntou-se a Terrorista Forças
+[10:49:33] vova.lebedev.29 killed Sagos with Laser
+[10:49:33] k¦vova.lebedev.29¦100¦0
+[10:49:33] vova.lebedev.29 died
+[10:49:48] Sagos killed vova.lebedev.29 with Knife
+[10:50:03] Sagos killed vova.lebedev.29 with Laser
+[10:50:15] U.S.G.N.: Ping/State 'playing'
+[10:50:18] Sagos killed vova.lebedev.29 with Laser
+[10:50:33] "  (1x)
+[10:50:51] Sagos killed vova.lebedev.29 with Knife
+[10:51:06] Botzinho killed vova.lebedev.29 with AK-47
+[10:51:15] U.S.G.N.: Ping/State 'playing'
+[10:51:21] vova.lebedev.29 killed Botzinho with Laser
+[10:51:22] Sagos killed vova.lebedev.29 with Laser
+[10:51:48] vova.lebedev.29 killed Sagos with Laser
+[10:51:48] k¦vova.lebedev.29¦100¦0
+[10:51:54] vova.lebedev.29 killed Botzinho with Laser
+[10:51:57] Sagos deixou o jogo
+[10:51:57] Disconnect Reason: Client request (Code 0)
+[10:51:57] ----- Disconnected -----
+[10:51:58] U.S.G.N.: Ping/State 'idle' (288 ms)
+[10:52:58] Cached servers added to list: 119
+[10:52:58] U.S.G.N.: Ping/State 'idle' (272 ms)
+[10:52:59] U.S.G.N.: Received serverlist (servers: 85)
+[10:52:59] U.S.G.N.: Received serverlist (servers: 150)
+[10:53:13] Connecting to 177.45.57.30:27015 (using U.S.G.N. ID #15431) ...
+[10:53:13] U.S.G.N.: Ping/State 'idle' (272 ms)
+[10:53:13] "  (1x)
+[10:53:14] load map 'de_dust2'
+[10:53:14] ----- Server joined -----
+[10:53:14] U.S.G.N.: Ping/State 'playing'
+[10:53:20] Sagos juntou-se a Terrorista Forças
+[10:53:34] Sagos killed Troni with AK-47
+[10:53:35] Lexs killed yusufmaliktrabzon with M4A1
+[10:53:41] Troni deixou o jogo
+[10:53:54] Sagos killed Lexs with Knife
+[10:54:08] Sagos killed Botzinho with AK-47
+[10:54:15] U.S.G.N.: Ping/State 'playing'
+[10:54:34] Sagos killed Botzinho with AK-47
+[10:54:39] Sagos (Time): go for ct
+[10:54:52] Cinderelison killed Lexs with AK-47
+[10:55:08] Sagos killed Botzinho with AK-47
+[10:55:15] U.S.G.N.: Ping/State 'playing'
+[10:55:16] Sagos killed Lexs with AK-47
+[10:55:18] Lexs deixou o jogo
+[10:55:21] * Auto Teambalance *
+[10:55:21] Sagos juntou-se a Countra-Terrorista Forças
+[10:55:43] Sagos killed yusufmaliktrabzon with Knife
+[10:56:10] Sagos killed Cinderelison with M4A1
+[10:56:16] U.S.G.N.: Ping/State 'playing'
+[10:57:00] Sagos killed Cinderelison with AK-47
+[10:57:11] Allarakbah conectou-se
+[10:57:16] U.S.G.N.: Ping/State 'playing'
+[10:57:18] Allarakbah juntou-se a Countra-Terrorista Forças
+[10:57:41] Sagos killed yusufmaliktrabzon with Knife
+[10:58:01] Sagos killed yusufmaliktrabzon with M4A1
+[10:58:15] Sagos killed Cinderelison with M4A1
+[10:58:22] U.S.G.N.: Ping/State 'playing'
+[10:58:29] Sagos: Allarabah
+[10:58:31] Sagos: go for tr
+[10:58:38] Allarakbah killed yusufmaliktrabzon with Deagle
+[10:58:45] Allarakbah died
+[10:58:45] Allarakbah juntou-se a Terrorista Forças
+[10:58:48] Sagos: thanks
+[10:59:22] U.S.G.N.: Ping/State 'playing'
+[10:59:28] Cinderelison killed Botzinho with AK-47
+[10:59:56] Sagos killed Cinderelison with Knife
+[11:00:22] Sagos killed yusufmaliktrabzon with M4A1
+[11:00:23] U.S.G.N.: Ping/State 'playing'
+[11:00:31] Botzinho killed Allarakbah with M249
+[11:00:47] Cinderelison killed Sagos with AK-47
+[11:00:47] k¦Cinderelison¦36¦12
+[11:01:19] Cinderelison killed Botzinho with M4A1
+[11:01:23] U.S.G.N.: Ping/State 'playing'
+[11:01:39] Sagos killed yusufmaliktrabzon with M4A1
+[11:01:42] Sagos killed Allarakbah with M4A1
+[11:02:02] Sagos killed Cinderelison with M4A1
+[11:02:24] U.S.G.N.: Ping/State 'playing'
+[11:02:30] Sagos killed yusufmaliktrabzon with Knife
+[11:02:31] Sagos killed Allarakbah with Knife
+[11:02:51] Sagos killed Cinderelison with M4A1
+[11:03:01] Sagos: rank
+[11:03:01] r¦Sagos¦60 of 361¦29,20,1,20.00,9 m 36 s
+[11:03:14] Sagos killed Cinderelison with M4A1
+[11:03:15] Sagos killed Allarakbah with M4A1
+[11:03:16] Sagos killed yusufmaliktrabzon with M4A1
+[11:03:24] U.S.G.N.: Ping/State 'playing'
+[11:03:39] Sagos killed Allarakbah with Knife
+[11:03:40] Sagos killed yusufmaliktrabzon with Knife
+[11:03:42] Botzinho killed Cinderelison with M4A1
+[11:04:03] Botzinho killed Allarakbah with M4A1
+[11:04:04] Sagos killed yusufmaliktrabzon with M4A1
+[11:04:25] U.S.G.N.: Ping/State 'playing'
+[11:04:32] Sagos killed Cinderelison with M4A1
+[11:04:54] Sagos killed Allarakbah with M4A1
+[11:04:55] Botzinho killed yusufmaliktrabzon with M4A1
+[11:05:13] Sagos killed Cinderelison with Deagle
+[11:05:25] U.S.G.N.: Ping/State 'playing'
+[11:05:37] Sagos killed yusufmaliktrabzon with Knife
+[11:05:38] Sagos killed Allarakbah with Knife
+[11:05:58] Sagos killed Cinderelison with Knife
+[11:06:26] U.S.G.N.: Ping/State 'playing'
+[11:06:34] Sagos killed Cinderelison with AWP
+[11:06:42] Sagos killed Allarakbah with Deagle
+[11:06:42] Sagos killed yusufmaliktrabzon with Deagle
+[11:07:07] Sagos killed yusufmaliktrabzon with AWP
+[11:07:12] Botzinho killed Allarakbah with M249
+[11:07:20] Sagos killed Cinderelison with AWP
+[11:07:26] U.S.G.N.: Ping/State 'playing'
+[11:07:53] Cinderelison killed Botzinho with Deagle
+[11:08:08] Sagos killed Cinderelison with M4A1
+[11:08:14] Sagos killed yusufmaliktrabzon with Knife
+[11:08:16] Sagos killed Allarakbah with Deagle
+[11:08:27] U.S.G.N.: Ping/State 'playing'
+[11:08:41] Sagos killed yusufmaliktrabzon with Deagle
+[11:08:43] Sagos killed Cinderelison with Deagle
+[11:08:44] Sagos killed Allarakbah with Deagle
+[11:09:09] Sagos killed Cinderelison with Deagle
+[11:09:14] Sagos killed Allarakbah with Deagle
+[11:09:16] Sagos killed yusufmaliktrabzon with Deagle
+[11:09:23] Sagos: rank
+[11:09:23] r¦Sagos¦27 of 361¦58,46,1,46.00,15 m 55 s
+[11:09:27] U.S.G.N.: Ping/State 'playing'
+[11:09:33] artembaturin2007 conectou-se
+[11:09:44] Sagos killed yusufmaliktrabzon with M4A1
+[11:09:45] Sagos killed Allarakbah with M4A1
+[11:09:49] artembaturin2007 juntou-se a Countra-Terrorista Forças
+[11:09:52] Sagos killed Cinderelison with M4A1
+[11:10:12] Sagos killed Allarakbah with M4A1
+[11:10:14] Sagos killed Cinderelison with M4A1
+[11:10:17] Sagos killed yusufmaliktrabzon with M4A1
+[11:10:22] epic007 conectou-se
+[11:10:23] Shaq conectou-se
+[11:10:28] U.S.G.N.: Ping/State 'playing'
+[11:10:30] Shaq juntou-se a Countra-Terrorista Forças
+[11:10:36] epic007 juntou-se a Terrorista Forças
+[11:10:38] Sagos killed epic007 with M4A1
+[11:10:39] Sagos killed yusufmaliktrabzon with M4A1
+[11:10:54] Cinderelison killed Botzinho with AK-47
+[11:11:13] Sagos killed Allarakbah with HE
+[11:11:22] Cinderelison killed Sagos with AK-47
+[11:11:22] k¦Cinderelison¦36¦12
+[11:11:22] Shaq killed Cinderelison with M4A1
+[11:11:28] U.S.G.N.: Ping/State 'playing'
+[11:11:43] Sagos: rank
+[11:11:43] r¦Sagos¦24 of 361¦67,55,2,27.50,18 m 13 s
+[11:11:54] Sagos killed Allarakbah with M4A1
+[11:12:01] Allarakbah deixou o jogo
+[11:12:02] Sagos killed yusufmaliktrabzon with HE
+[11:12:13] Cinderelison killed Botzinho with AK-47
+[11:12:18] Shaq (Time): b
+[11:12:24] Sagos killed epic007 with M4A1
+[11:12:28] Cinderelison killed Sagos with AK-47
+[11:12:28] k¦Cinderelison¦100¦100
+[11:12:29] U.S.G.N.: Ping/State 'playing'
+[11:12:39] zDiiego_BR conectou-se
+[11:12:47] artembaturin2007 killed Cinderelison with M4A1
+[11:12:51] zDiiego_BR juntou-se a Countra-Terrorista Forças
+[11:12:52] * Auto Teambalance *
+[11:12:52] zDiiego_BR juntou-se a Terrorista Forças
+[11:13:15] artembaturin2007 killed epic007 with M4A1
+[11:13:16] Sagos killed zDiiego_BR with M4A1
+[11:13:34] U.S.G.N.: Ping/State 'playing'
+[11:13:38] Cinderelison killed Botzinho with AK-47
+[11:13:44] Cinderelison killed Sagos with AK-47
+[11:13:44] k¦Cinderelison¦36¦12
+[11:13:44] yusufmaliktrabzon killed Shaq with AK-47
+[11:14:19] Vitey conectou-se
+[11:14:34] Pirulito conectou-se
+[11:14:35] U.S.G.N.: Ping/State 'playing'
+[11:14:37] Senhor73Anos conectou-se
+[11:14:47] DAANIMAL conectou-se
+[11:14:53] Senhor73Anos juntou-se a Terrorista Forças
+[11:14:56] DAANIMAL juntou-se a Terrorista Forças
+[11:14:57] Pirulito juntou-se a Countra-Terrorista Forças
+[11:14:58] Cinderelison killed artembaturin2007 with AK-47
+[11:15:14] nexZ conectou-se
+[11:15:22] Sagos killed yusufmaliktrabzon with HE
+[11:15:22] nexZ deixou o jogo
+[11:15:27] Pirulito killed Senhor73Anos with M4A1
+[11:15:29] Cinderelison killed artembaturin2007 with M4A1
+[11:15:34] Sagos killed DAANIMAL with M4A1
+[11:15:35] Pirulito killed epic007 with M4A1
+[11:15:35] U.S.G.N.: Ping/State 'playing'
+[11:15:48] Cinderelison killed Shaq with M4A1
+[11:15:48] Cinderelison killed Botzinho with M4A1
+[11:15:48] epic007 deixou o jogo
+[11:15:50] zDiiego_BR killed Pirulito with AK-47
+[11:15:51] artembaturin2007 deixou o jogo
+[11:16:06] Monkey conectou-se
+[11:16:08] Monkey juntou-se a Countra-Terrorista Forças
+[11:16:12] karpihin30 conectou-se
+[11:16:18] Cinderelison killed Sagos with M4A1
+[11:16:18] k¦Cinderelison¦50¦30
+[11:16:20] Sagos killed zDiiego_BR with HE
+[11:16:21] karpihin30 juntou-se a Countra-Terrorista Forças
+[11:16:44] Pirulito killed yusufmaliktrabzon with M4A1
+[11:16:44] Vitey juntou-se a Terrorista Forças
+[11:16:46] U.S.G.N.: Ping/State 'playing'
+[11:16:49] Pirulito killed Senhor73Anos with M4A1
+[11:16:49] zDiiego_BR killed Botzinho with AK-47
+[11:16:57] zDiiego_BR killed karpihin30 with AK-47
+[11:16:59] Sagos killed zDiiego_BR with M4A1
+[11:17:00] Pirulito killed DAANIMAL with M4A1
+[11:17:12] Sagos killed Cinderelison with M4A1
+[11:17:31] kalopz conectou-se
+[11:17:32] Senhor73Anos killed Botzinho with Galil
+[11:17:35] Shaq killed Senhor73Anos with AWP
+[11:17:41] kalopz juntou-se a Countra-Terrorista Forças
+[11:17:43] MrBodo conectou-se
+[11:17:44] Sagos killed Cinderelison with M4A1
+[11:17:45] Shaq killed Vitey with AWP
+[11:17:46] U.S.G.N.: Ping/State 'playing'
+[11:17:46] Sagos killed yusufmaliktrabzon with M4A1
+[11:17:48] Player conectou-se
+[11:17:52] MrBodo juntou-se a Countra-Terrorista Forças
+[11:17:53] Vitey deixou o jogo
+[11:17:58] Pirulito killed DAANIMAL with M4A1
+[11:17:59] Pirulito killed zDiiego_BR with M4A1
+[11:18:01] Monkey: aff
+[11:18:04] * Auto Teambalance *
+[11:18:04] MrBodo juntou-se a Terrorista Forças
+[11:18:07] Sagos: passa tr monkey
+[11:18:15] Monkey: quero conquista m4
+[11:18:22] Player juntou-se a Terrorista Forças
+[11:18:30] Sagos: vai tr e pega uma m4 ué
+[11:18:30] Botzinho killed DAANIMAL with M4A1
+[11:18:31] Cinderelison killed Botzinho with AK-47
+[11:18:31] Monkey killed yusufmaliktrabzon with M4A1
+[11:18:38] karpihin30 killed zDiiego_BR with M4A1
+[11:18:39] Monkey: e msm
+[11:18:42] Sagos killed Player with M4A1
+[11:18:43] Monkey killed MrBodo with M4A1
+[11:18:44] Monkey killed Cinderelison with M4A1
+[11:18:47] U.S.G.N.: Ping/State 'playing'
+[11:18:51] Cinderelison deixou o jogo
+[11:18:54] Senhor73Anos killed Shaq with AK-47
+[11:19:07] Sagos: ta fazendo tds as conquista?
+[11:19:08] TSocket: 'cdn.akamai.steamstatic.com' Time Out (stage: 3)
+[11:19:09] Monkey: ss
+[11:19:16] Sagos: quer q eu abra um sv pra gente fazer junto?
+[11:19:17] Monkey killed Senhor73Anos with Deagle
+[11:19:26] Monkey: contra bot nao vale :/
+[11:19:37] Sagos: mas tem uma q tem q mata bot kk
+[11:19:40] DAANIMAL killed Botzinho with Deagle
+[11:19:43] Monkey: opa
+[11:19:46] Monkey: qntos bots?
+[11:19:47] Shaq killed Player with G3SG1
+[11:19:48] Monkey: dps vamos entao
+[11:19:50] yusufmaliktrabzon killed Monkey with AK-47
+[11:19:51] Pirulito killed MrBodo with AK-47
+[11:19:54] Sagos: vou ver
+[11:19:55] MrBodo deixou o jogo
+[11:19:56] Sagos killed DAANIMAL with M4A1
+[11:19:57] Pirulito killed Senhor73Anos with AK-47
+[11:19:58] kalopz killed zDiiego_BR with M4A1
+[11:20:17] Pirulito killed yusufmaliktrabzon with AK-47
+[11:20:22] * Auto Teambalance *
+[11:20:22] kalopz juntou-se a Terrorista Forças
+[11:20:23] Monkey: Mata 10 , 50 , 100 , 1000 e 5000 bots 
+[11:20:32] U.S.G.N.: Ping/State 'playing'
+[11:20:34] kalopz deixou o jogo
+[11:20:38] Sagos: posso fazer um script q mata 5k rapidão
+[11:20:42] Monkey: Opa
+[11:20:46] Senhor73Anos killed karpihin30 with SG552
+[11:20:50] yusufmaliktrabzon killed Monkey with AK-47
+[11:20:51] Duthorn conectou-se
+[11:20:52] Senhor73Anos killed Shaq with SG552
+[11:20:53] kalopz conectou-se
+[11:20:54] TioLu conectou-se
+[11:20:54] Sagos killed zDiiego_BR with M4A1
+[11:20:56] Sagos killed Player with M4A1
+[11:20:58] Pirulito killed DAANIMAL with AK-47
+[11:20:59] Shaq deixou o jogo
+[11:20:59] Pirulito killed Senhor73Anos with AK-47
+[11:21:03] DAANIMAL deixou o jogo
+[11:21:03] kalopz juntou-se a Terrorista Forças
+[11:21:04] Duthorn juntou-se a Terrorista Forças
+[11:21:07] TioLu juntou-se a Countra-Terrorista Forças
+[11:21:28] Sagos killed yusufmaliktrabzon with M4A1
+[11:21:33] U.S.G.N.: Ping/State 'playing'
+[11:21:34] Monkey: vamo entao sagoa
+[11:21:40] Sagos: blz 
+[11:21:42] Monkey: qual
+[11:21:44] Sagos: pegou da m4 ja?
+[11:21:44] Monkey: nome do sv?
+[11:21:47] Monkey: nao
+[11:21:47] Player Alterou seu nome para BigBomber
+[11:21:48] Sagos: pega aki 1°
+[11:21:49] Botzinho killed Duthorn with Famas
+[11:21:50] Monkey: vou pegar dps
+[11:21:51] kalopz killed Botzinho with AK-47
+[11:21:52] Monkey: ok
+[11:21:54] Sagos: vou ver uma aki pra eu fazer
+[11:21:55] zDiiego_BR deixou o jogo
+[11:21:57] Pirulito killed Senhor73Anos with AK-47
+[11:22:00] TioLu killed kalopz with USP
+[11:22:03] Monkey: eu ja fiz a da ak
+[11:22:05] Monkey: awp
+[11:22:11] BigBomber killed Monkey with AK-47
+[11:22:14] Pirulito killed BigBomber with AK-47
+[11:22:18] Monkey deixou o jogo
+[11:22:24] Monkey conectou-se
+[11:22:26] Monkey juntou-se a Countra-Terrorista Forças
+[11:22:28] yusufmaliktrabzon killed karpihin30 with AK-47
+[11:22:30] yusufmaliktrabzon killed Pirulito with AK-47
+[11:22:33] Zeca PauGordinho conectou-se
+[11:22:34] U.S.G.N.: Ping/State 'playing'
+[11:22:36] yusufmaliktrabzon killed TioLu with AK-47
+[11:22:39] Zeca PauGordinho juntou-se a Countra-Terrorista Forças
+[11:22:49] Sagos killed yusufmaliktrabzon with Deagle
+[11:22:52] Pirulito juntou-se a Terrorista Forças
+[11:23:09] Sagos killed Senhor73Anos with M4A1
+[11:23:17] kalopz killed Botzinho with AK-47
+[11:23:21] Monkey killed BigBomber with M4A1
+[11:23:22] Senhor73Anos deixou o jogo
+[11:23:25] Sagos killed yusufmaliktrabzon with M4A1
+[11:23:31] karpihin30 killed Pirulito with M4A1
+[11:23:32] ObscureNetwork conectou-se
+[11:23:34] U.S.G.N.: Ping/State 'playing'
+[11:23:34] kalopz killed karpihin30 with AK-47
+[11:23:35] Sagos: ae
+[11:23:36] Monkey: sagos
+[11:23:38] Sagos: acabei de pega 1
+[11:23:40] Monkey: é o sagoswin?
+[11:23:42] Sagos: mata 100 inimigo
+[11:23:43] ObscureNetwork juntou-se a Terrorista Forças
+[11:23:43] Sagos: s
+[11:23:43] ahmet-2222 conectou-se
+[11:23:46] Monkey: OLOCO
+[11:23:55] kalopz killed Zeca PauGordinho with AK-47
+[11:23:57] ahmet-2222 juntou-se a Countra-Terrorista Forças
+[11:23:58] Sagos killed kalopz with M4A1
+[11:24:00] Monkey killed Duthorn with M4A1
+[11:24:06] Sagos: kk peguei outra
+[11:24:09] Sagos: 10 assistencia
+[11:24:27] yusufmaliktrabzon killed Botzinho with AK-47
+[11:24:30] Pirulito killed Monkey with AK-47
+[11:24:31] Sagos killed Pirulito with M4A1
+[11:24:33] TioLu killed yusufmaliktrabzon with AWP
+[11:24:35] U.S.G.N.: Ping/State 'playing'
+[11:24:37] Zeca PauGordinho killed ObscureNetwork with M4A1
+[11:24:43] Sagos killed Duthorn with M4A1
+[11:25:04] Sagos killed kalopz with AK-47
+[11:25:12] BigBomber killed ahmet-2222 with AK-47
+[11:25:14] BigBomber killed TioLu with AK-47
+[11:25:18] karpihin30 died
+[11:25:18] BigBomber died
+[11:25:18] Zeca PauGordinho died
+[11:25:28] ahmet-2222 died
+[11:25:28] ahmet-2222 juntou-se a Countra-Terrorista Forças
+[11:25:33] tiagogameraprigio conectou-se
+[11:25:35] U.S.G.N.: Ping/State 'playing'
+[11:25:38] Sagos killed BigBomber with M4A1
+[11:25:40] tiagogameraprigio juntou-se a Countra-Terrorista Forças
+[11:25:46] Sagos killed Pirulito with M4A1
+[11:25:50] Sagos killed yusufmaliktrabzon with M4A1
+[11:26:00] Pirulito deixou o jogo
+[11:26:08] Botzinho killed kalopz with Aug
+[11:26:10] Botzinho killed Duthorn with Aug
+[11:26:11] ObscureNetwork killed TioLu with P90
+[11:26:11] Botzinho killed ObscureNetwork with Aug
+[11:26:16] * Auto Teambalance *
+[11:26:16] tiagogameraprigio juntou-se a Terrorista Forças
+[11:26:18] Sagos: são chata essas conquistas
+[11:26:20] ObscureNetwork: N manjo nada nessa porra kkkkk
+[11:26:27] Sagos: começou hj?
+[11:26:29] Monkey: obscure
+[11:26:29] Pirulito conectou-se
+[11:26:30] Botzinho killed kalopz with Aug
+[11:26:31] Monkey: Cria USGN
+[11:26:31] Botzinho killed Duthorn with Aug
+[11:26:33] ObscureNetwork: Sim
+[11:26:35] tiagogameraprigio killed Botzinho with AK-47
+[11:26:35] Pirulito deixou o jogo
+[11:26:36] U.S.G.N.: Ping/State 'playing'
+[11:26:45] Monkey killed ObscureNetwork with M4A1
+[11:26:46] Sagos: eu jogo a 8 anos .-.
+[11:26:52] Monkey: eu jogo a 6
+[11:26:56] Sagos killed tiagogameraprigio with M4A1
+[11:26:57] Sagos killed BigBomber with M4A1
+[11:27:00] Sagos killed yusufmaliktrabzon with M4A1
+[11:27:06] Zeca PauGordinho deixou o jogo
+[11:27:07] ObscureNetwork: Eu achei que era um jogo novo seloc
+[11:27:08] karpihin30 deixou o jogo
+[11:27:13] BigBomber deixou o jogo
+[11:27:13] Sagos: novo na steam
+[11:27:13] Monkey: ESSE JOGO TEM DESDE 2004
+[11:27:18] ObscureNetwork: pqpppppp
+[11:27:28] Monkey killed yusufmaliktrabzon with M4A1
+[11:27:36] U.S.G.N.: Ping/State 'playing'
+[11:27:36] Monkey (Time): ja pegou conqsta ak?
+[11:27:43] Botzinho killed tiagogameraprigio with M4A1
+[11:27:44] Sagos (Time): vou ver
+[11:27:44] Monkey: falei pros meus amigos desse
+[11:27:45] Duthorn killed TioLu with AK-47
+[11:27:46] Monkey: jogo
+[11:27:50] tiagogameraprigio deixou o jogo
+[11:27:52] yusufmaliktrabzon deixou o jogo
+[11:27:52] TioLu deixou o jogo
+[11:27:53] Monkey: eles pensam que e igual
+[11:27:55] Monkey: cs 1.6
+[11:27:55] Sagos (Time): nops
+[11:27:58] yusufmaliktrabzon conectou-se
+[11:28:00] Monkey: ''vou matar all''
+[11:28:04] Sagos: kk
+[11:28:05] ahmet-2222: anan
+[11:28:05] yusufmaliktrabzon deixou o jogo
+[11:28:05] Sagos died
+[11:28:05] Sagos juntou-se a Terrorista Forças
+[11:28:12] tiagogameraprigio conectou-se
+[11:28:19] kalopz killed ahmet-2222 with AK-47
+[11:28:24] Botzinho killed kalopz with M4A1
+[11:28:27] ObscureNetwork killed Botzinho with P90
+[11:28:28] Monkey killed ObscureNetwork with M4A1
+[11:28:36] ObscureNetwork *Morto*: Matei um pelo menos kkk
+[11:28:42] U.S.G.N.: Ping/State 'playing'
+[11:28:48] ObscureNetwork *Morto*: Porra desde 2004 seloc
+[11:29:00] Sagos *Morto*: teve mt coisa q mudo nesse jogo
+[11:29:16] ObscureNetwork *Morto*: Eu nem sei os comandos nem nada, deveria ter
+[11:29:21] ObscureNetwork *Morto*: Um tutorialzinho basico
+[11:29:21] Duthorn killed Monkey with AK-47
+[11:29:23] Monkey *Morto*: A NAO
+[11:29:26] tiagogameraprigio juntou-se a Countra-Terrorista Forças
+[11:29:26] ObscureNetwork: Caralho tem ate flash KKK
+[11:29:28] kalopz: lul
+[11:29:37] freak @cs2d.com.br conectou-se
+[11:29:39] Sagos: tem tudo do 1.6 e mt mais coisa
+[11:29:40] freak @cs2d.com.br juntou-se a Terrorista Forças
+[11:29:42] U.S.G.N.: Ping/State 'playing'
+[11:29:43] Botzinho killed Duthorn with HE
+[11:29:43] Monkey: tem laser
+[11:29:57] freak @cs2d.com.br killed Botzinho with AK-47
+[11:30:05] ahmet-2222 killed ObscureNetwork with M4A1
+[11:30:06] freak @cs2d.com.br killed Monkey with AK-47
+[11:30:08] freak @cs2d.com.br killed ahmet-2222 with AK-47
+[11:30:11] freak @cs2d.com.br killed tiagogameraprigio with AK-47
+[11:30:13] Sagos: ashuhuash
+[11:30:14] Sexton_CampNet 24 Mb conectou-se
+[11:30:17] Sagos: agr os tr começa ganha
+[11:30:18] ahmet-2222 died
+[11:30:18] ahmet-2222 juntou-se a Terrorista Forças
+[11:30:21] Sexton_CampNet 24 Mb juntou-se a Countra-Terrorista Forças
+[11:30:26] Monkey: 6x4
+[11:30:35] freak @cs2d.com.br killed Botzinho with AK-47
+[11:30:38] freak @cs2d.com.br killed tiagogameraprigio with AK-47
+[11:30:39] TSocket: 'cdn.akamai.steamstatic.com' Time Out (stage: 3)
+[11:30:43] U.S.G.N.: Ping/State 'playing'
+[11:30:43] tiagogameraprigio deixou o jogo
+[11:30:53] Sagos: calma mano kk
+[11:30:57] tiagogameraprigio conectou-se
+[11:30:58] Sagos: sou aliado
+[11:31:01] ObscureNetwork: KKKKKKK mals
+[11:31:05] tiagogameraprigio juntou-se a Countra-Terrorista Forças
+[11:31:07] Duthorn killed Monkey with AK-47
+[11:31:12] * Auto Teambalance *
+[11:31:12] freak @cs2d.com.br juntou-se a Countra-Terrorista Forças
+[11:31:18] victordan878 conectou-se
+[11:31:25] Player conectou-se
+[11:31:25] freak @cs2d.com.br killed kalopz with M4A1
+[11:31:26] freak @cs2d.com.br killed Duthorn with M4A1
+[11:31:28] freak @cs2d.com.br killed ahmet-2222 with M4A1
+[11:31:28] Sagos killed Monkey with AK-47
+[11:31:30] Player juntou-se a Terrorista Forças
+[11:31:30] Monkey deixou o jogo
+[11:31:33] Sagos: wtf monkey
+[11:31:34] victordan878 juntou-se a Countra-Terrorista Forças
+[11:31:36] Monkey conectou-se
+[11:31:37] Sagos killed tiagogameraprigio with AK-47
+[11:31:38] Monkey juntou-se a Countra-Terrorista Forças
+[11:31:38] ahmet-2222 deixou o jogo
+[11:31:40] Sagos killed Botzinho with AK-47
+[11:31:42] freak @cs2d.com.br killed ObscureNetwork with M4A1
+[11:31:43] U.S.G.N.: Ping/State 'playing'
+[11:31:43] freak @cs2d.com.br killed Sagos with M4A1
+[11:31:43] k¦freak @cs2d.com.br¦34¦9
+[11:31:49] Player Alterou seu nome para Sergeant
+[11:31:49] Sagos: T.T
+[11:31:51] Sergeant: Oi sagus
+[11:31:53] Sagos: to acostumado awp_grey
+[11:31:56] ObscureNetwork: af preciso treinar mais essa porra
+[11:31:59] Sagos: eae Sergeant ^^
+[11:32:02] Duthorn killed Botzinho with AK-47
+[11:32:04] freak @cs2d.com.br killed Sagos with M4A1
+[11:32:04] k¦freak @cs2d.com.br¦17¦0
+[11:32:05] Sergeant: sou eu do skype gay
+[11:32:08] klan oP * fede conectou-se
+[11:32:11] klan oP * fede juntou-se a Terrorista Forças
+[11:32:14] Duthorn killed Sexton_CampNet 24 Mb with AK-47
+[11:32:18] victordan878 killed kalopz with M4A1
+[11:32:20] victordan878 killed Duthorn with M4A1
+[11:32:23] Sergeant killed tiagogameraprigio with AK-47
+[11:32:27] Duthorn *Morto*: ta lagado cocozao
+[11:32:28] freak @cs2d.com.br killed ObscureNetwork with M4A1
+[11:32:30] Monkey: fdp
+[11:32:35] Monkey: eae frwk
+[11:32:37] ObscureNetwork *Morto*: Caralho como jogar de AWP nessa porra OPDSKAODSAKP
+[11:32:37] Sexton_CampNet 24 Mb *Morto*: JOSEFAUDO[
+[11:32:44] ObscureNetwork *Morto*: q brisa velho pqp
+[11:32:49] U.S.G.N.: Ping/State 'playing'
+[11:32:50] ObscureNetwork *Morto*: gostei do jogo
+[11:32:52] Sagos *Morto*: a awp nesse jogo da mais dano com zoom
+[11:33:02] Sexton_CampNet 24 Mb *Morto*: TCHAU GENTE VO VIRA UM MINECRAFT
+[11:33:06] Sagos *Morto*: flws
+[11:33:06] Monkey killed Sergeant with M4A1
+[11:33:08] Sergeant *Morto*: KE
+[11:33:08] Monkey: foge nao
+[11:33:11] Sexton_CampNet 24 Mb deixou o jogo
+[11:33:11] klan oP * fede Alterou seu nome para Fede el pro feta jeje
+[11:33:14] JhooowZ conectou-se
+[11:33:15] Sagos: Sergeant eu nem uso mais skype
+[11:33:18] Sergeant: ;-;
+[11:33:21] JhooowZ juntou-se a Terrorista Forças
+[11:33:21] JhooowZ juntou-se a Countra-Terrorista Forças
+[11:33:23] Sergeant: sou o Carlos gay
+[11:33:25] freak @cs2d.com.br killed Fede el pro feta jeje with M4A1
+[11:33:28] Sagos: ata kk
+[11:33:29] freak @cs2d.com.br killed Duthorn with M4A1
+[11:33:29] Sagos killed freak @cs2d.com.br with AK-47
+[11:33:32] ObscureNetwork killed victordan878 with UMP45
+[11:33:33] kalopz killed tiagogameraprigio with AK-47
+[11:33:36] Sergeant: vc vive falando da dari
+[11:33:37] tiagogameraprigio deixou o jogo
+[11:33:39] Sergeant: e do battle
+[11:33:46] r¦freak @cs2d.com.br¦1 of 361¦502,499,87,5.73,2 h 56 m
+[11:33:48] Sagos: quer ver o script q to fazendo do battle?
+[11:33:49] U.S.G.N.: Ping/State 'playing'
+[11:33:51] Sergeant: opa
+[11:33:51] Sagos: rank
+[11:33:51] r¦Sagos¦22 of 361¦100,88,8,11.00,40 m 11 s
+[11:33:54] Botzinho killed Sergeant with Aug
+[11:33:56] Sagos: ta quase pronto ja
+[11:33:56] Fede el pro feta jeje deixou o jogo
+[11:34:03] freak @cs2d.com.br deixou o jogo
+[11:34:04] Monkey killed ObscureNetwork with M4A1
+[11:34:11] Sagos killed Monkey with AK-47
+[11:34:35] Sagos killed Botzinho with AK-47
+[11:34:38] Sagos: bot '-'
+[11:34:49] U.S.G.N.: Ping/State 'playing'
+[11:34:55] JhooowZ died
+[11:35:01] Sergeant: tu me ouve? Sagus comprei mic hj cedo
+[11:35:18] Memes conectou-se
+[11:35:38] JhooowZ killed Sagos with M4A1
+[11:35:38] k¦JhooowZ¦100¦100
+[11:35:38] Sergeant killed Monkey with AK-47
+[11:35:40] Monkey *Morto*: levo
+[11:35:41] Monkey *Morto*: KAPOKAPOAKAOPKA
+[11:35:43] T_e_N_Ñ--BUNNY conectou-se
+[11:35:46] Memes juntou-se a Countra-Terrorista Forças
+[11:35:48] Sagos *Morto*: cego n vale .-.
+[11:35:50] Sergeant killed Botzinho with M4A1
+[11:35:54] Monkey *Morto*: ia leva 2
+[11:35:55] U.S.G.N.: Ping/State 'playing'
+[11:35:57] Monkey *Morto*: mas o outro deu sorte
+[11:36:00] T_e_N_Ñ--BUNNY juntou-se a Countra-Terrorista Forças
+[11:36:04] Sergeant killed victordan878 with M4A1
+[11:36:05] Sergeant killed JhooowZ with M4A1
+[11:36:09] Monkey *Morto*: ele atirou e acertou eu ainda cego
+[11:36:12] Sergeant: Bora sagos
+[11:36:16] Sergeant: mostra o negocio lá do battle
+[11:36:18] victordan878 deixou o jogo
+[11:36:22] Sagos: ta me ouvindo?
+[11:36:26] Sergeant: n sei
+[11:36:30] Botzinho killed Sergeant with UMP45
+[11:36:39] T_e_N_Ñ--BUNNY killed ObscureNetwork with P90
+[11:36:49] Sagos killed T_e_N_Ñ--BUNNY with AK-47
+[11:36:53] Sagos killed Monkey with AK-47
+[11:36:55] U.S.G.N.: Ping/State 'playing'
+[11:36:56] Sagos killed Memes with AK-47
+[11:36:58] Sagos killed JhooowZ with AK-47
+[11:37:03] Sagos: asuahsuahs
+[11:37:13] Sagos: falta o bot
+[11:37:19] Sagos: ae galera pra qm é novo
+[11:37:27] Sagos: é só ficar parado q o bot n consegue mirar em vc
+[11:37:35] Sergeant: fala sagos agr
+[11:37:44] Sergeant: n ;-;ç
+[11:37:45] Sagos: eu te ouço
+[11:37:48] Sagos: vc q n me ouve
+[11:37:51] Sergeant: ve na configuração
+[11:37:56] Sergeant: to ouvindo som dos negocio tudo
+[11:37:56] U.S.G.N.: Ping/State 'playing'
+[11:38:04] Monkey killed Sergeant with AWP
+[11:38:15] kalopz killed Botzinho with M4A1
+[11:38:18] JhooowZ killed ObscureNetwork with M4A1
+[11:38:30] Duthorn killed Memes with AK-47
+[11:38:33] Duthorn killed T_e_N_Ñ--BUNNY with AK-47
+[11:38:34] Sagos: aki ta normal man
+[11:38:49] Sagos killed JhooowZ with AK-47
+[11:38:57] U.S.G.N.: Ping/State 'playing'
+[11:39:03] Sagos killed Monkey with Knife
+[11:39:05] Sagos: kk
+[11:39:09] Sergeant: tava mutado pra mim man KKKKKKKKKKKKKKKKKKKKKKKKKK
+[11:39:12] Sergeant: fala agr
+[11:39:15] Sergeant: ouvi
+[11:39:17] Sergeant: kkkkkkkkkkk
+[11:39:25] Sergeant killed Botzinho with AK-47
+[11:39:28] JhooowZ killed Sergeant with M4A1
+[11:39:34] Monkey killed ObscureNetwork with USP
+[11:39:41] Sagos killed T_e_N_Ñ--BUNNY with AK-47
+[11:39:44] Duthorn killed Memes with AK-47
+[11:39:57] U.S.G.N.: Ping/State 'playing'
+[11:40:05] Monkey killed Sagos with AWP
+[11:40:05] k¦Monkey¦100¦65
+[11:40:21] Sergeant *Morto*: kkkkkkk
+[11:40:23] fran357 conectou-se
+[11:40:27] ObscureNetwork *Morto*: Nao tem como coloocar fullscreen?
+[11:40:29] Duthorn killed Monkey with AK-47
+[11:40:30] Duthorn killed JhooowZ with AK-47
+[11:40:32] Monkey *Morto*: burro
+[11:40:34] fran357 juntou-se a Countra-Terrorista Forças
+[11:40:34] Monkey *Morto*: ele ficou parado
+[11:40:38] Sagos: tem como s
+[11:40:53] Sergeant killed Monkey with AWP
+[11:40:58] U.S.G.N.: Ping/State 'playing'
+[11:40:58] Monkey deixou o jogo
+[11:41:04] Sagos killed T_e_N_Ñ--BUNNY with AWP
+[11:41:20] T_e_N_Ñ--BUNNY deixou o jogo
+[11:41:31] Botzinho killed ObscureNetwork with M4A1
+[11:41:35] Duthorn killed fran357 with AK-47
+[11:41:42] Sergeant killed JhooowZ with AWP
+[11:41:48] Sagos killed Memes with AK-47
+[11:41:56] Sagos killed Botzinho with AK-47
+[11:41:58] U.S.G.N.: Ping/State 'playing'
+[11:41:59] Memes deixou o jogo
+[11:42:01] * Auto Teambalance *
+[11:42:01] Sergeant juntou-se a Countra-Terrorista Forças
+[11:42:05] Sagos: rank
+[11:42:05] r¦Sagos¦20 of 361¦112,100,10,10.00,48 m 21 s
+[11:42:07] Sergeant: ;-;
+[11:42:17] fran357 killed Sagos with MP5
+[11:42:17] k¦fran357¦40¦0
+[11:42:19] ObscureNetwork killed fran357 with AWP
+[11:42:24] Sergeant killed ObscureNetwork with AK-47
+[11:42:30] ObscureNetwork *Morto*: Matei 1 de awp kkk
+[11:42:34] Krodu conectou-se
+[11:42:40] ObscureNetwork (Time) *Morto*: Sim e bem dificil
+[11:42:42] kalopz killed Sergeant with AK-47
+[11:42:45] Sergeant juntou-se a Terrorista Forças
+[11:42:46] Duthorn killed Botzinho with Glock
+[11:42:51] Sergeant *Morto*: mostra o script lá
+[11:42:54] ObscureNetwork (Time) *Morto*: Sim
+[11:42:58] U.S.G.N.: Ping/State 'playing'
+[11:43:03] kalopz killed JhooowZ with AK-47
+[11:43:08] * Auto Teambalance *
+[11:43:08] Sergeant juntou-se a Countra-Terrorista Forças
+[11:43:11] Krodu juntou-se a Countra-Terrorista Forças
+[11:43:18] Sagos: meee
+[11:43:22] Sagos: n posso mais fala no mic
+[11:43:26] Sagos: falo que usei mt '-'
+[11:43:30] Sergeant killed Sagos with M3
+[11:43:30] k¦Sergeant¦100¦0
+[11:43:32] kalopz killed Botzinho with AK-47
+[11:43:33] Sergeant: opa
+[11:43:36] kalopz killed fran357 with AK-47
+[11:43:37] HrySK conectou-se
+[11:43:44] HrySK juntou-se a Terrorista Forças
+[11:43:44] ObscureNetwork killed Krodu with AK-47
+[11:43:45] tiagogameraprigio conectou-se
+[11:43:50] Sergeant killed ObscureNetwork with M3
+[11:43:53] tiagogameraprigio juntou-se a Terrorista Forças
+[11:43:58] kalopz killed Sergeant with AK-47
+[11:43:59] Sergeant *Morto*: ;-;
+[11:43:59] U.S.G.N.: Ping/State 'playing'
+[11:44:02] Sagos *Morto*: safado de m3
+[11:44:04] Sergeant *Morto*: kkkkkkkk
+[11:44:07] Sergeant *Morto*: foi oq deu pra comprar
+[11:44:07] Sagos *Morto*: liguei o sv
+[11:44:09] Duthorn killed JhooowZ with AK-47
+[11:44:11] Sergeant *Morto*: blz
+[11:44:13] Sergeant deixou o jogo
+[11:44:14] * Auto Teambalance *
+[11:44:14] tiagogameraprigio juntou-se a Countra-Terrorista Forças
+[11:44:20] Sagos deixou o jogo
+[11:44:20] Disconnect Reason: Client request (Code 0)
+[11:44:20] ----- Disconnected -----
+[11:44:20] U.S.G.N.: Ping/State 'idle' (272 ms)
+[11:44:21] Cached servers added to list: 119
+[11:44:21] U.S.G.N.: Received serverlist (servers: 88)
+[11:44:21] U.S.G.N.: Received serverlist (servers: 150)
+[11:44:28] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[11:44:28] NET: received incomplete precon. authcode (192.168.1.31:36963)
+[11:44:28] U.S.G.N.: Ping/State 'idle' (256 ms)
+[11:44:28] "  (1x)
+[11:44:32] U.S.G.N.: Received serverlist (servers: 90)
+[11:44:32] U.S.G.N.: Received serverlist (servers: 150)
+[11:44:44] Starting server...
+[11:44:44] load map 'Battle Royale'
+[11:44:44] ----- Server started -----
+[11:44:44] Lua: Adding function 'falar' to hook 'say'
+[11:44:44] Lua: Adding function 'segundos' to hook 'second'
+[11:44:44] Lua: Adding function 'coletar' to hook 'walkover'
+[11:44:44] Lua: Adding function 'atacar' to hook 'attack'
+[11:44:44] Lua: Adding function 'atacar2' to hook 'attack2'
+[11:44:44] Lua: Adding function 'teclas' to hook 'serveraction'
+[11:44:44] Lua: Adding function 'mymenu' to hook 'menu'
+[11:44:44] Lua: Adding function 'ataque' to hook 'hit'
+[11:44:44] Lua: Adding function 'dropar' to hook 'drop'
+[11:44:44] Lua: Adding function 'mover' to hook 'movetile'
+[11:44:45] Sagos juntou-se a Countra-Terrorista Forças
+[11:44:47] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[11:44:50] U.S.G.N.: Ping/State 'playing'
+[11:44:55] Servidor Desligado
+[11:44:55] ----- Disconnected -----
+[11:44:56] Cached servers added to list: 119
+[11:44:56] U.S.G.N.: Ping/State 'idle' (256 ms)
+[11:44:57] U.S.G.N.: Received serverlist (servers: 90)
+[11:44:57] U.S.G.N.: Received serverlist (servers: 150)
+[11:45:01] Starting server...
+[11:45:01] load map 'Battle Royale'
+[11:45:01] ----- Server started -----
+[11:45:01] Lua: Adding function 'falar' to hook 'say'
+[11:45:01] Lua: Adding function 'segundos' to hook 'second'
+[11:45:01] Lua: Adding function 'coletar' to hook 'walkover'
+[11:45:01] Lua: Adding function 'atacar' to hook 'attack'
+[11:45:01] Lua: Adding function 'atacar2' to hook 'attack2'
+[11:45:01] Lua: Adding function 'teclas' to hook 'serveraction'
+[11:45:01] Lua: Adding function 'mymenu' to hook 'menu'
+[11:45:01] Lua: Adding function 'ataque' to hook 'hit'
+[11:45:01] Lua: Adding function 'dropar' to hook 'drop'
+[11:45:01] Lua: Adding function 'mover' to hook 'movetile'
+[11:45:02] U.S.G.N.: Ping/State 'playing'
+[11:45:02] U.S.G.N.: Serverlist entry updated
+[11:45:02] Sagos juntou-se a Countra-Terrorista Forças
+[11:45:04] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[11:45:08] [Info] Você pegou 15 Balas de Pistola
+[11:45:11] "  (1x)
+[11:45:14] "  (1x)
+[11:45:29] [Info] Espaço insuficiente para carregar mais itens
+[11:45:36] [Info] Você pegou 15 Balas de Pistola
+[11:45:38] U.S.G.N.: Player (200.7.11.253) joining with U.S.G.N. ID #118435 - verifying...
+[11:45:38] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #118435
+[11:45:38] Player conectou-se
+[11:45:38] Player is using IP 200.7.11.253:53102 and U.S.G.N. ID #118435
+[11:45:38] Starting transfer to Player (files: 2) ...
+[11:45:38] Player needs 2 files. Starting to send files...
+[11:45:38] Sending 'gfx/tiles/besto2.bmp' to Player...
+[11:45:47] U.S.G.N.: Serverlist entry updated
+[11:45:56] Sending 'maps/Battle Royale.map' to Player...
+[11:45:59] Player juntou-se a Terrorista Forças
+[11:46:08] U.S.G.N.: Ping/State 'playing'
+[11:46:10] Player: ;-; habilita o voice 
+[11:46:17] Sagos: vc é o carlos?
+[11:46:20] Player: é 
+[11:46:22] Player Alterou seu nome para Sergeant
+[11:46:28] voice chat For All
+[11:46:33] U.S.G.N.: Serverlist entry updated
+[11:46:48] Sergeant: tá bom kkj
+[11:46:58] Sergeant: sua voz ta engraçada KKKKKKKKK
+[11:47:08] Sagos: engraçada pq?
+[11:47:08] U.S.G.N.: Ping/State 'playing'
+[11:47:13] Sergeant: vc fala engraçado po kkkkk
+[11:47:17] Sagos: mDs '-'
+[11:47:18] Sergeant killed Sagos with Knife
+[11:47:18] U.S.G.N.: Serverlist entry updated
+[11:47:21] Sagos *Morto*: vou ligar o mapa no awp grey
+[11:47:24] Sergeant: blz
+[11:47:41] Stevie Wonder Baiano conectou-se
+[11:47:41] Stevie Wonder Baiano is using IP 186.207.166.128:26277 and no U.S.G.N. ID
+[11:47:41] Starting transfer to Stevie Wonder Baiano (files: 2) ...
+[11:47:41] Stevie Wonder Baiano needs 2 files. Starting to send files...
+[11:47:41] Sending 'gfx/tiles/besto2.bmp' to Stevie Wonder Baiano...
+[11:47:49] Sergeant killed Sagos with M4A1
+[11:47:57] Sergeant: dps me manda solicitação na steam
+[11:47:59] Sending 'maps/Battle Royale.map' to Stevie Wonder Baiano...
+[11:48:04] U.S.G.N.: Serverlist entry updated
+[11:48:06] Stevie Wonder Baiano juntou-se a Terrorista Forças
+[11:48:14] U.S.G.N.: Ping/State 'playing'
+[11:48:17] ----- Mapchange -----
+[11:48:17] Starting server...
+[11:48:17] load map 'awp_grey SagosWins'
+[11:48:17] ----- Server started -----
+[11:48:17] Carregando Script ServeR ControL 4.5 Aguarde...
+[11:48:18] Lua: Adding function 'senha' to hook 'say'
+[11:48:18] Lua: Adding function 'sayr' to hook 'say'
+[11:48:18] Lua: Adding function 'aleatorio' to hook 'say'
+[11:48:18] Lua: Adding function 'clanentranosv' to hook 'join'
+[11:48:18] Lua: Adding function 'atacar' to hook 'attack'
+[11:48:18] Lua: Adding function 'Lsvname' to hook 'second'
+[11:48:18] Lua: Adding function 'zerar_contagem' to hook 'leave'
+[11:48:18] Lua: Adding function 'soknf' to hook 'say'
+[11:48:18] Lua: Adding function 'knife' to hook 'walkover'
+[11:48:18] Lua: Adding function 'menuu' to hook 'serveraction'
+[11:48:18] Lua: Adding function 'menuadm' to hook 'menu'
+[11:48:18] Lua: Adding function 'ajudareset' to hook 'minute'
+[11:48:18] Lua: Adding function 'explosao' to hook 'always'
+[11:48:18] Lua: Adding function 'antikhack' to hook 'movetile'
+[11:48:18] Lua: Adding function 'contagemmm' to hook 'second'
+[11:48:18] Lua: Adding function 'matematicaaaa' to hook 'startround'
+[11:48:18] Lua: Adding function 'Criaturas' to hook 'clientdata'
+[11:48:18] Lua: Adding function 'credito' to hook 'minute'
+[11:48:18] Lua: Adding function 'resetarscore' to hook 'say'
+[11:48:18] Lua: Adding function 'ativar' to hook 'movetile'
+[11:48:18] Lua: Adding function 'resultadoo' to hook 'say'
+[11:48:18] Lua: Adding function 'valor_normal' to hook 'startround'
+[11:48:18] Lua: Adding function 'tempoo' to hook 'second'
+[11:48:18] Lua: Adding function 'coletando' to hook 'second'
+[11:48:18] Lua: Adding function 'admnmorre' to hook 'hit'
+[11:48:18] Lua: Adding function 'matanca' to hook 'kill'
+[11:48:18] O Script ServeR ControL 4.5 Esta Pronto Para Uso!
+[11:48:18] Lua: Adding function 'acertar' to hook 'hit'
+[11:48:18] Lua: Adding function 'nascer' to hook 'join'
+[11:48:18] Lua: Adding function 'deixar' to hook 'leave'
+[11:48:18] Lua: Adding function 'inicioRodada' to hook 'startround'
+[11:48:18] Lua: Adding function 'segundos' to hook 'second'
+[11:48:18] »ADM« Sagos Entrou no servidor!
+[11:48:18] U.S.G.N.: Serverlist entry updated
+[11:48:18] U.S.G.N.: Ping/State 'playing'
+[11:48:19] Sagos juntou-se a Countra-Terrorista Forças
+[11:48:23] Todos os jogadores ganhou: Rocket Launcher
+[11:48:28] U.S.G.N.: Player (200.7.11.253) joining with U.S.G.N. ID #118435 - verifying...
+[11:48:28] Stevie Wonder Baiano conectou-se
+[11:48:28] Stevie Wonder Baiano is using IP 186.207.166.128:26277 and no U.S.G.N. ID
+[11:48:28] Starting transfer to Stevie Wonder Baiano (files: 7) ...
+[11:48:29] Stevie Wonder Baiano needs 6 files. Starting to send files...
+[11:48:29] Sending 'gfx/tiles/fruitpapje1.bmp' to Stevie Wonder Baiano...
+[11:48:29] Todos os jogadores ganhou: Medic Armor
+[11:48:29] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #118435
+[11:48:29] Player conectou-se
+[11:48:29] Player is using IP 200.7.11.253:53102 and U.S.G.N. ID #118435
+[11:48:29] Starting transfer to Player (files: 7) ...
+[11:48:29] Player needs 5 files. Starting to send files...
+[11:48:30] U.S.G.N.: Tapioka*#&% (201.3.20.209) joining with U.S.G.N. ID #161882 - verifying...
+[11:48:31] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Stevie Wonder Baiano...
+[11:48:31] Sending 'gfx/sagoswins/bomba.png' to Stevie Wonder Baiano...
+[11:48:31] Sending 'gfx/SagosWins/laser.bmp' to Stevie Wonder Baiano...
+[11:48:31] Sending 'gfx/SagosWins/bomba.png' to Stevie Wonder Baiano...
+[11:48:32] Sending 'maps/awp_grey SagosWins.map' to Stevie Wonder Baiano...
+[11:48:32] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Player...
+[11:48:32] Sending 'gfx/sagoswins/bomba.png' to Player...
+[11:48:32] Sending 'gfx/SagosWins/laser.bmp' to Player...
+[11:48:32] Sending 'gfx/SagosWins/bomba.png' to Player...
+[11:48:32] Sending 'maps/awp_grey SagosWins.map' to Player...
+[11:48:32] U.S.G.N.: 201.3.20.209 is NOT LOGGED IN!
+[11:48:34] Player juntou-se a Terrorista Forças
+[11:48:35] Todos os jogadores ganhou: SG552
+[11:48:44] Stevie Wonder Baiano Seu Ping Esta 3269 Feche Todos os Programas Ou Sera Kikado!
+[11:48:45] Sagos killed by Explosão
+[11:48:47] Stevie Wonder Baiano juntou-se a Countra-Terrorista Forças
+[11:48:49] Player Seu Ping Esta 652 Feche Todos os Programas Ou Sera Kikado!
+[11:48:50] Todos os jogadores ganhou: Machete
+[11:48:51] Para Ver a USGN de um Jogador Digite !usgn <id>
+[11:48:51] generating stats...
+[11:48:51] stats generated in 1 ms!
+[11:48:53] U.S.G.N.: Tapioka*#&% (201.3.20.209) joining with U.S.G.N. ID #161882 - verifying...
+[11:48:53] U.S.G.N.: 201.3.20.209 is NOT LOGGED IN!
+[11:49:00] Sagos killed by Explosão
+[11:49:00] Stevie Wonder Baiano killed by Explosão
+[11:49:04] U.S.G.N.: Serverlist entry updated

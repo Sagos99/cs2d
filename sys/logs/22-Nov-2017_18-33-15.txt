@@ -1,0 +1,108 @@
+CS2D 1.0.0.5 Logfile - 22 Nov 2017, 18:33:15
+
+[18:33:15] UDP socket initialized using port 36963
+[18:33:15] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[18:33:18] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[18:33:19] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[18:33:23] Starting server...
+[18:33:23] load map 'Battle Royale'
+[18:33:24] ----- Server started -----
+[18:33:24] Lua: Adding function 'falar' to hook 'say'
+[18:33:24] Lua: Adding function 'segundos' to hook 'second'
+[18:33:24] Lua: Adding function 'coletar' to hook 'walkover'
+[18:33:24] Lua: Adding function 'atacar' to hook 'attack'
+[18:33:24] Lua: Adding function 'atacar2' to hook 'attack2'
+[18:33:24] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:33:24] Lua: Adding function 'mymenu' to hook 'menu'
+[18:33:24] Lua: Adding function 'ataque' to hook 'hit'
+[18:33:24] Lua: Adding function 'dropar' to hook 'drop'
+[18:33:24] Lua: Adding function 'mover' to hook 'movetile'
+[18:33:27] Sagos juntou-se a Countra-Terrorista Forças
+[18:33:30] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[18:33:34] U.S.G.N.: Server added to serverlist
+[18:33:52] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[18:35:56] U.S.G.N.: Ping/State 'playing'
+[18:36:08] U.S.G.N.: null' (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:36:09] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:36:09] null' conectou-se
+[18:36:09] null' is using IP 177.185.53.199:50373 and U.S.G.N. ID #14465
+[18:36:09] JOIN FAILURE: null' (177.185.53.199:50373) can't join (map differs)
+[18:36:10] U.S.G.N.: null' (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:36:11] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:36:11] null' conectou-se
+[18:36:11] null' is using IP 177.185.53.199:50373 and U.S.G.N. ID #14465
+[18:36:11] Starting transfer to null' (files: 2) ...
+[18:36:11] null' needs 1 file. Starting to send file...
+[18:36:11] Sending 'maps/Battle Royale.map' to null'...
+[18:36:14] null' juntou-se a Countra-Terrorista Forças
+[18:37:56] U.S.G.N.: Ping/State 'playing'
+[18:38:08] generating stats...
+[18:38:08] stats generated in 1 ms!
+[18:38:26] Sagos: eae
+[18:38:27] Sagos: voltei
+[18:39:36] [Info] Você pegou Kit Médico
+[18:39:47] [Info] Você pegou Analgésico
+[18:40:22] [Info] Você já tem uma USP no inventário
+[18:40:25] [Info] Você equipou: USP
+[18:40:26] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[18:40:28] U.S.G.N.: Ping/State 'playing'
+[18:41:36] [Info] Você pegou 15 Balas de Pistola
+[18:41:39] Sagos killed null' with Gas Grenade
+[18:41:46] [Info] Você pegou Kit Médico
+[18:41:50] U.S.G.N.: Ping/State 'playing'
+[18:41:57] Sagos killed null' with USP
+[18:42:01] Sagos: dx eu testa uma coisa
+[18:42:03] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[18:42:04] null': Os itens fica salvo
+[18:42:06] [Info] Você já tem uma USP no inventário
+[18:42:10] null' killed Sagos with Knife
+[18:42:17] null': uai
+[18:42:22] Sagos: é achei 1 bug
+[18:42:27] null': Eu vi
+[18:42:32] Sagos: só dou dano quando tenho bala
+[18:42:38] Sagos: olha
+[18:42:39] U.S.G.N.: Serverlist entry updated
+[18:42:44] Sagos: agr vou pegar bala
+[18:42:46] [Info] Você pegou 15 Balas de Pistola
+[18:42:50] null': adksada
+[18:42:51] U.S.G.N.: Ping/State 'playing'
+[18:42:53] Sagos: vou arrumar kkk
+[18:42:58] null': Ok
+[18:43:08] generating stats...
+[18:43:08] stats generated in 2 ms!
+[18:43:18] Sagos: achou algum bug?
+[18:43:24] U.S.G.N.: Serverlist entry updated
+[18:43:26] null': Mn os itens tá salvando dps q eu morro
+[18:43:30] null': e retorno
+[18:43:33] null': E normal?
+[18:43:47] Sagos: s
+[18:43:54] Sagos: pq dps 
+[18:43:57] U.S.G.N.: Ping/State 'playing'
+[18:43:57] Sagos: n vai da pra reviver
+[18:44:01] null': Atah
+[18:44:02] null': pdpa
+[18:44:04] Sagos: e no novo round vai resetar tudo
+[18:44:04] null': :D
+[18:44:57] U.S.G.N.: Ping/State 'playing'
+[18:45:40] U.S.G.N.: Serverlist entry updated
+[18:45:57] U.S.G.N.: Ping/State 'playing'
+[18:46:26] U.S.G.N.: Serverlist entry updated
+[18:47:03] U.S.G.N.: Ping/State 'playing'
+[18:48:04] "  (1x)
+[18:48:08] generating stats...
+[18:48:08] stats generated in 1 ms!
+[18:49:31] Sagos killed null' with USP
+[18:49:45] U.S.G.N.: Ping/State 'playing'
+[18:50:13] U.S.G.N.: Serverlist entry updated
+[18:50:30] [Info] Você pegou Analgésico
+[18:50:33] [Info] Você pegou Ligadura
+[18:50:36] "  (1x)
+[18:50:37] [Info] Espaço insuficiente para carregar mais itens
+[18:50:38] "  (3x)
+[18:50:38] "  (1x)
+[18:50:50] U.S.G.N.: Ping/State 'playing'
+[18:50:58] U.S.G.N.: Serverlist entry updated
+[18:51:27] Servidor Desligado
+[18:51:28] U.S.G.N.: Server removed from serverlist
+[18:51:28] ----- Disconnected -----
+[18:51:29] U.S.G.N.: Ping/State 'idle' (272 ms)

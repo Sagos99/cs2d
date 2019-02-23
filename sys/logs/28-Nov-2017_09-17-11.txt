@@ -1,0 +1,242 @@
+CS2D 1.0.0.5 Logfile - 28 Nov 2017, 09:17:11
+
+[09:17:11] UDP socket initialized using port 36963
+[09:17:11] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[09:17:12] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[09:17:12] U.S.G.N.: Ping/State 'playing'
+[09:17:12] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[09:17:13] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[09:17:16] Starting server...
+[09:17:16] load map 'Battle Royale'
+[09:17:17] ----- Server started -----
+[09:17:17] Lua: Adding function 'falar' to hook 'say'
+[09:17:17] Lua: Adding function 'segundos' to hook 'second'
+[09:17:17] Lua: Adding function 'coletar' to hook 'walkover'
+[09:17:17] Lua: Adding function 'atacar' to hook 'attack'
+[09:17:17] Lua: Adding function 'atacar2' to hook 'attack2'
+[09:17:17] Lua: Adding function 'teclas' to hook 'serveraction'
+[09:17:17] Lua: Adding function 'mymenu' to hook 'menu'
+[09:17:17] Lua: Adding function 'ataque' to hook 'hit'
+[09:17:17] Lua: Adding function 'dropar' to hook 'drop'
+[09:17:17] Lua: Adding function 'mover' to hook 'movetile'
+[09:17:17] U.S.G.N.: Ping/State 'playing'
+[09:17:17] U.S.G.N.: Server added to serverlist
+[09:17:19] Sagos juntou-se a Countra-Terrorista Forças
+[09:17:22] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[09:18:00] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[09:18:02] [Info] Você pegou 30 Balas de Rifle
+[09:18:02] [Info] Você equipou Famas
+[09:18:02] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:18:03] U.S.G.N.: Serverlist entry updated
+[09:18:14] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[09:18:16] [Info] Você já tem Famas no inventário
+[09:18:18] [Info] Você pegou 10 Balas de Shotgun
+[09:18:18] U.S.G.N.: Ping/State 'playing'
+[09:18:24] [Info] Você já tem Famas no inventário
+[09:18:27] [Info] Você equipou: Famas
+[09:18:48] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:18:48] U.S.G.N.: Serverlist entry updated
+[09:18:51] [Info] Sem balas de shotgun, sua M3 foi guardada no inventário
+[09:18:56] [Info] Você pegou 10 Balas de Shotgun
+[09:18:56] [Info] Você equipou M3
+[09:18:59] [Info] Você pegou 10 Balas de Shotgun
+[09:19:02] "  (1x)
+[09:19:04] [Info] Você equipou Colete 3
+[09:19:07] [Info] Você pegou 10 Balas de Shotgun
+[09:19:09] "  (1x)
+[09:19:18] U.S.G.N.: Ping/State 'playing'
+[09:19:33] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:19:33] U.S.G.N.: Serverlist entry updated
+[09:20:03] [Info] Você pegou 10 Balas de Shotgun
+[09:20:03] "  (1x)
+[09:20:18] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:20:19] U.S.G.N.: Serverlist entry updated
+[09:20:19] U.S.G.N.: Ping/State 'playing'
+[09:20:43] [Info] Você pegou 10 Balas de Shotgun
+[09:20:45] "  (1x)
+[09:21:03] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:21:04] U.S.G.N.: Serverlist entry updated
+[09:21:11] O jogo irá começar dentro de: 30 segundos
+[09:21:12] O jogo irá começar dentro de: 29 segundos
+[09:21:13] O jogo irá começar dentro de: 28 segundos
+[09:21:14] O jogo irá começar dentro de: 27 segundos
+[09:21:15] O jogo irá começar dentro de: 26 segundos
+[09:21:16] O jogo irá começar dentro de: 25 segundos
+[09:21:18] O jogo irá começar dentro de: 24 segundos
+[09:21:19] O jogo irá começar dentro de: 23 segundos
+[09:21:19] U.S.G.N.: Ping/State 'playing'
+[09:21:20] O jogo irá começar dentro de: 22 segundos
+[09:21:21] O jogo irá começar dentro de: 21 segundos
+[09:21:22] O jogo irá começar dentro de: 20 segundos
+[09:21:23] O jogo irá começar dentro de: 19 segundos
+[09:21:24] O jogo irá começar dentro de: 18 segundos
+[09:21:25] O jogo irá começar dentro de: 17 segundos
+[09:21:26] O jogo irá começar dentro de: 16 segundos
+[09:21:27] O jogo irá começar dentro de: 15 segundos
+[09:21:28] O jogo irá começar dentro de: 14 segundos
+[09:21:29] O jogo irá começar dentro de: 13 segundos
+[09:21:30] O jogo irá começar dentro de: 12 segundos
+[09:21:31] O jogo irá começar dentro de: 11 segundos
+[09:21:32] O jogo irá começar dentro de: 10 segundos
+[09:21:33] O jogo irá começar dentro de: 9 segundos
+[09:21:34] O jogo irá começar dentro de: 8 segundos
+[09:21:35] O jogo irá começar dentro de: 7 segundos
+[09:21:36] O jogo irá começar dentro de: 6 segundos
+[09:21:37] O jogo irá começar dentro de: 5 segundos
+[09:21:38] O jogo irá começar dentro de: 4 segundos
+[09:21:39] O jogo irá começar dentro de: 3 segundos
+[09:21:40] O jogo irá começar dentro de: 2 segundos
+[09:21:41] O jogo irá começar dentro de: 1 segundos
+[09:21:42] O jogo irá começar dentro de: 0 segundos
+[09:21:49] U.S.G.N.: Sending serverlist UPDATE-request...
+[09:21:49] U.S.G.N.: Serverlist entry updated
+[09:22:10] generating stats...
+[09:22:10] stats generated in 0 ms!
+[09:22:19] U.S.G.N.: Ping/State 'playing'
+[09:22:23] Servidor Desligado
+[09:22:23] U.S.G.N.: Sending serverlist DELETE-request...
+[09:22:23] U.S.G.N.: Server removed from serverlist
+[09:22:23] ----- Disconnected -----
+[09:22:24] U.S.G.N.: Ping/State 'idle' (283 ms)
+[09:23:25] "  (1x)
+[09:24:25] U.S.G.N.: Ping/State 'idle' (317 ms)
+[09:25:25] "  (1x)
+[09:26:14] Cached servers added to list: 35
+[09:26:14] U.S.G.N.: Requesting serverlist...
+[09:26:15] U.S.G.N.: Received serverlist (servers: 49)
+[09:26:15] U.S.G.N.: Received serverlist (servers: 150)
+[09:26:26] U.S.G.N.: Ping/State 'idle' (300 ms)
+[09:26:42] Connecting to 191.19.0.58:30001 (using U.S.G.N. ID #15431) ...
+[09:26:42] U.S.G.N.: Ping/State 'idle' (731 ms)
+[09:26:42] "  (1x)
+[09:26:44] Checking 'gfx/tiles/hal copy.bmp': Already exists.
+[09:26:44] Checking 'sfx/env/siren.wav': Already exists.
+[09:26:44] Checking 'gfx/sprites/gun copy.bmp': Already exists.
+[09:26:44] Checking 'gfx/the admin/devil.png': Already exists.
+[09:26:44] Checking 'gfx/the admin/angel.png': Already exists.
+[09:26:44] Checking 'gfx/the admin/gandalf.png': Already exists.
+[09:26:44] Checking 'gfx/the admin/marine_hat.png': Already exists.
+[09:26:44] Checking 'gfx/the admin/metalhelm.png': Already exists.
+[09:26:44] Checking 'gfx/the admin/pirate.png': Already exists.
+[09:26:44] Checking 'gfx/the admin/santa_hat.png': Already exists.
+[09:26:44] Checking 'gfx/the admin/smile.png': Already exists.
+[09:26:44] Checking 'gfx/the admin/spear.png': Already exists.
+[09:26:44] Checking 'maps/zm_bunker [ms]m111 V0.2.map': Does not exist. Request transfer!
+[09:26:44] Requesting 1 file from server...
+[09:26:44] Downloading 'maps/zm_bunker [ms]m111 V0.2.map' from server...
+[09:26:44] load map 'zm_bunker [ms]m111 V0.2'
+[09:26:46] receiving server data (109 b)
+[09:26:46] receiving player data (438 b, 8)
+[09:26:46] receiving player data (472 b, 8)
+[09:26:46] receiving player data (480 b, 8)
+[09:26:46] receiving player data (302 b, 5)
+[09:26:46] receiving player data (0 b, 0)
+[09:26:46] receiving hostage data (0 b, 0)
+[09:26:46] receiving item data (880 b, 80)
+[09:26:46] receiving item data (385 b, 35)
+[09:26:46] receiving item data (0 b, 0)
+[09:26:46] receiving entity states (265 b, 53)
+[09:26:46] receiving entity states (0 b, 0)
+[09:26:46] U.S.G.N.: Ping/State 'idle' (499 ms)
+[09:26:47] receiving dynamic object data (900 b, 60)
+[09:26:47] receiving dynamic object data (315 b, 21)
+[09:26:47] receiving dynamic object data (0 b, 0)
+[09:26:47] receiving projectile data (7 b, 1)
+[09:26:47] receiving projectile data (0 b, 0)
+[09:26:47] receiving dynamic object image data (0 b, 0)
+[09:26:47] receiving tween data (0 b, 0)
+[09:26:47] receiving custom tile data (0 b, 0)
+[09:26:47] receiving map cycle size: 12
+[09:26:47] receiving map cycle data (231 b, 10)
+[09:26:47] receiving map cycle data (27 b, 2)
+[09:26:47] receiving final ACK (7 b)
+[09:26:47] switching to ingame mode...
+[09:26:47] ----- Server joined -----
+[09:26:48] ZOMG conectou-se
+[09:26:48] ZOMG juntou-se a Zombies
+[09:26:48] âª V.A.C hellcase.com killed nigos44 with Claw
+[09:26:48] nigos44 juntou-se a Zombies
+[09:26:48] Bohedar killed Pudim with Claw
+[09:26:48] Pudim juntou-se a Zombies
+[09:26:51] You can't join the survivors now!
+[09:26:51] Server will try to make you a survivor next round
+[09:26:52] Sagos juntou-se a Zombies
+[09:26:58] Avatar: #76561198297232373 (Steam) downloaded and loaded
+[09:26:59] Avatar: #76561198153860943 (Steam) downloaded and loaded
+[09:26:59] Avatar: #151866 (USGN) downloaded and loaded
+[09:27:00] Avatar: #76561198418598591 (Steam) downloaded and loaded
+[09:27:00] Teleporter is not charged! Please wait!
+[09:27:01] "  (1x)
+[09:27:10] MatuMbaMan deixou o jogo
+[09:27:10] Mac Man conectou-se
+[09:27:10] Mac Man juntou-se a Zombies
+[09:27:15] [v£®] »»»v.£.Þ.£.®¹««« killed If with Turret
+[09:27:19] â­Birdâ­ deixou o jogo
+[09:27:19] Blowball conectou-se
+[09:27:19] Blowball juntou-se a Zombies
+[09:27:25] Avatar: #76561198449533643 (Steam) downloaded and loaded
+[09:27:25] Avatar: #76561198754926549 (Steam) downloaded and loaded
+[09:27:25] »»»Mast£®-Zombi£s B®«««
+[09:27:25] Thanks for playing!
+[09:27:26] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[09:27:26] Avatar: #76561198350590933 (Steam) downloaded and loaded
+[09:27:27] If deixou o jogo
+[09:27:27] Assassin conectou-se
+[09:27:27] Assassin juntou-se a Zombies
+[09:27:44] [v£®] »»»v.£.Þ.£.®¹««« killed Artem BLED with Machete
+[09:27:44] [v£®] »»»v.£.Þ.£.®¹««« killed âª V.A.C hellcase.com with Machete
+[09:27:45] [v£®] »»»v.£.Þ.£.®¹««« killed Pudim with Machete
+[09:27:47] [v£®] »»»v.£.Þ.£.®¹««« killed nigos44 with Machete
+[09:27:48] [v£®] »»»v.£.Þ.£.®¹««« killed igioczko with Turret
+[09:27:52] U.S.G.N.: Ping/State 'playing'
+[09:27:56] [v£®] »»»v.£.Þ.£.®¹««« killed âª V.A.C hellcase.com with Machete
+[09:27:58] [v£®] »»»v.£.Þ.£.®¹««« killed Sagos with Turret
+[09:27:58] k¦[v£®] »»»v.£.Þ.£.®¹«««¦100¦202
+[09:28:01] [v£®] »»»v.£.Þ.£.®¹««« killed Bohedar with Machete
+[09:28:01] [v£®] »»»v.£.Þ.£.®¹««« killed Artem BLED with Machete
+[09:28:03] [v£®] »»»v.£.Þ.£.®¹««« killed nigos44 with Turret
+[09:28:22] Sagos killed [v£®] »»»v.£.Þ.£.®¹««« with Claw
+[09:28:22] [v£®] »»»v.£.Þ.£.®¹««« juntou-se a Zombies
+[09:28:25] »»»Mast£®-Zombi£s B®«««
+[09:28:25] Thanks for playing!
+[09:28:27] Ping of Death juntou-se a Zombies
+[09:28:27] Deagle Master juntou-se a Survivors
+[09:28:27] WAR! juntou-se a Zombies
+[09:28:27] CS2D rocks! juntou-se a Survivors
+[09:28:27] Linux Lover juntou-se a Zombies
+[09:28:27] I Killer juntou-se a Survivors
+[09:28:27] L0lz0r juntou-se a Zombies
+[09:28:27] yeah juntou-se a Survivors
+[09:28:27] igioczko juntou-se a Survivors
+[09:28:27] D0om juntou-se a Zombies
+[09:28:27] [v£®] »»»v.£.Þ.£.®¹««« juntou-se a Survivors
+[09:28:27] nigos44 juntou-se a Survivors
+[09:28:27] m00h juntou-se a Zombies
+[09:28:27] 0_o juntou-se a Zombies
+[09:28:27] Sans_708 juntou-se a Survivors
+[09:28:27] Player juntou-se a Zombies
+[09:28:27] Soldier juntou-se a Zombies
+[09:28:27] Pudim juntou-se a Survivors
+[09:28:27] âª V.A.C hellcase.com juntou-se a Survivors
+[09:28:27] 0wn4ge juntou-se a Zombies
+[09:28:27] Bohedar juntou-se a Survivors
+[09:28:27] Master of Disaster juntou-se a Zombies
+[09:28:27] Executor juntou-se a Zombies
+[09:28:27] Artem BLED juntou-se a Survivors
+[09:28:27] Uber Killer juntou-se a Zombies
+[09:28:27] Sagos juntou-se a Survivors
+[09:28:27] ZOMG juntou-se a Zombies
+[09:28:27] Mac Man juntou-se a Survivors
+[09:28:27] Blowball juntou-se a Zombies
+[09:28:27] Assassin juntou-se a Survivors
+[09:28:28] Bohedar: ey
+[09:28:37] LILI TORONTO conectou-se
+[09:28:44] LILI TORONTO juntou-se a Survivors
+[09:28:48] LILI TORONTO deixou o jogo
+[09:28:53] U.S.G.N.: Ping/State 'playing'
+[09:28:57] Sagos deixou o jogo
+[09:28:57] Disconnect Reason: Client request (Code 0)
+[09:28:57] ----- Disconnected -----
+[09:28:59] U.S.G.N.: Ping/State 'idle' (1433 ms)
+[09:29:59] U.S.G.N.: Ping/State 'idle' (483 ms)
+[09:31:00] U.S.G.N.: Ping/State 'idle' (716 ms)

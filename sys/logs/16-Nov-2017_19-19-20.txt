@@ -1,0 +1,711 @@
+CS2D 1.0.0.5 Logfile - 16 Nov 2017, 19:19:20
+
+[19:19:20] UDP socket initialized using port 36963
+[19:19:20] U.S.G.N.: Your game version is up to date!
+[19:19:21] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[19:19:21] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[19:19:24] starting server...
+[19:19:24] load map 'Battle Royale'
+[19:19:24] ----- Server started -----
+[19:19:24] Lua: Adding function 'falar' to hook 'say'
+[19:19:24] Lua: Adding function 'segundos' to hook 'second'
+[19:19:24] Lua: Adding function 'coletar' to hook 'walkover'
+[19:19:24] Lua: Adding function 'atacar' to hook 'attack'
+[19:19:24] Lua: Adding function 'teclas' to hook 'serveraction'
+[19:19:24] Lua: Adding function 'mymenu' to hook 'menu'
+[19:19:25] U.S.G.N.: Ping/State 'playing'
+[19:19:25] U.S.G.N.: Server added to serverlist
+[19:19:29] Sagos juntou-se a Countra-Terrorista Forças
+[19:19:31] Sem balas de pistola, sua arma foi guardada no inventário
+[19:20:10] U.S.G.N.: Serverlist entry updated
+[19:20:25] U.S.G.N.: Ping/State 'playing'
+[19:20:56] U.S.G.N.: Serverlist entry updated
+[19:21:21] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[19:21:22] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[19:21:22] pL. null' Cloud9 conectou-se
+[19:21:22] pL. null' Cloud9 is using IP 177.185.53.199:58957 and U.S.G.N. ID #14465
+[19:21:22] Starting transfer to pL. null' Cloud9 (files: 2) ...
+[19:21:22] pL. null' Cloud9 needs 1 file. Starting to send file...
+[19:21:22] Sending 'gfx/battle royale/avião.bmp' to pL. null' Cloud9...
+[19:21:26] U.S.G.N.: Ping/State 'playing'
+[19:21:31] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[19:21:36] pL. null' Cloud9: asdkasjdkasdkas
+[19:21:38] pL. null' Cloud9: AI SIM
+[19:21:41] U.S.G.N.: Serverlist entry updated
+[19:22:00] pL. null' Cloud9: Vey
+[19:22:04] Sagos: pega bala aki
+[19:22:20] pL. null' Cloud9: Inifinita
+[19:22:22] Sagos: vc só vai poder da 15 tiro agr
+[19:22:26] U.S.G.N.: Serverlist entry updated
+[19:22:26] U.S.G.N.: Ping/State 'playing'
+[19:22:35] Sagos: tenta da mais tiro q isso
+[19:22:47] Sagos: n ta infinito
+[19:22:56] Você pegou 15 Balas de Pistola
+[19:23:05] Sem balas de pistola, sua arma foi guardada no inventário
+[19:23:12] U.S.G.N.: Serverlist entry updated
+[19:23:27] U.S.G.N.: Ping/State 'playing'
+[19:23:34] Sagos: vou fazer uma HUD pra mostrar a quantida
+[19:23:38] Sagos: quantidade de bala atual
+[19:23:46] Sagos: tenta pegar varias bala
+[19:23:47] pL. null' Cloud9: Mais seu script já tá quase igual do pau
+[19:23:50] pL. null' Cloud9: paulo
+[19:23:52] pL. null' Cloud9: kask
+[19:24:00] Sagos: vai fala q n tem espaço
+[19:24:01] Você pegou 15 Balas de Pistola
+[19:24:02] Você pegou 30 Balas de Rifle
+[19:24:02] Você pegou Kit
+[19:24:02] Você pegou Kit Full
+[19:24:05] pL. null' Cloud9: N
+[19:24:06] Você pegou 15 Balas de Pistola
+[19:24:06] pL. null' Cloud9: tem
+[19:24:12] Sagos: agr da uns tiro
+[19:24:17] Sagos: vai liberar espaço
+[19:24:19] generating stats...
+[19:24:19] stats generated in 2 ms!
+[19:24:20] pL. null' Cloud9: tem tenho arma
+[19:24:25] Sagos: kk ent vc ta sem bala
+[19:24:27] U.S.G.N.: Ping/State 'playing'
+[19:24:28] Espaço insuficiente para carregar mais itens
+[19:24:39] pL. null' Cloud9: Espaço insuficiente
+[19:24:41] Sagos: ainda n fiz pra dropar as coisas da moch
+[19:24:42] U.S.G.N.: Serverlist entry updated
+[19:24:44] Sagos: mochila
+[19:25:09] Você pegou 15 Balas de Pistola
+[19:25:13] Espaço insuficiente para carregar mais itens
+[19:25:15] Sagos: olha
+[19:25:19] Sagos: n consigo pega bala
+[19:25:22] Sagos: espaço insificiente
+[19:25:23] Espaço insuficiente para carregar mais itens
+[19:25:24] "  (2x)
+[19:25:24] "  (1x)
+[19:25:27] Sagos: agr vou atirar
+[19:25:28] U.S.G.N.: Serverlist entry updated
+[19:25:28] U.S.G.N.: Ping/State 'playing'
+[19:25:35] Sagos: agr posso pegar
+[19:25:36] Espaço insuficiente para carregar mais itens
+[19:25:43] Você pegou 15 Balas de Pistola
+[19:25:50] "  (1x)
+[19:26:04] Sem balas de pistola, sua arma foi guardada no inventário
+[19:26:06] Você pegou 15 Balas de Pistola
+[19:26:29] U.S.G.N.: Ping/State 'playing'
+[19:26:29] pL. null' Cloud9: Conheçe um tal de
+[19:26:34] pL. null' Cloud9: lucasSWAT?
+[19:26:41] ----- Mapchange -----
+[19:26:41] starting server...
+[19:26:41] load map 'Construa Sua Casa! Editado Por Dayo'
+[19:26:41] LOAD MAP RES.: failed to load sound 'sfx/bel2samp.wav'
+[19:26:41] "  (17x)
+[19:26:41] LOAD MAP RES.: failed to load image 'gfx/Dayo/Map By Dayo.bmp'
+[19:26:41] "  (1x)
+[19:26:41] ----- Server started -----
+[19:26:41] Lua: Adding function 'falar' to hook 'say'
+[19:26:41] Lua: Adding function 'segundos' to hook 'second'
+[19:26:41] Lua: Adding function 'coletar' to hook 'walkover'
+[19:26:41] Lua: Adding function 'atacar' to hook 'attack'
+[19:26:41] Lua: Adding function 'teclas' to hook 'serveraction'
+[19:26:41] Lua: Adding function 'mymenu' to hook 'menu'
+[19:26:42] U.S.G.N.: Ping/State 'playing'
+[19:26:42] U.S.G.N.: Serverlist entry updated
+[19:26:44] Sagos juntou-se a Countra-Terrorista Forças
+[19:26:51] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[19:26:53] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[19:26:53] pL. null' Cloud9 conectou-se
+[19:26:53] pL. null' Cloud9 is using IP 177.185.53.199:58957 and U.S.G.N. ID #14465
+[19:26:53] Starting transfer to pL. null' Cloud9 (files: 9) ...
+[19:26:54] pL. null' Cloud9 needs 6 files. Starting to send files...
+[19:26:54] Sending 'gfx/tiles/druglab.bmp' to pL. null' Cloud9...
+[19:26:59] Sending 'gfx/cars/porshe.png' to pL. null' Cloud9...
+[19:26:59] Sending 'gfx/-{( Bruno R Z )}-/-{( Objetos )}-/-{( Cama 1 )}-.bmp' to pL. null' Cloud9...
+[19:26:59] Sending 'gfx/(-{FØÐÁ$TÏiles/Agua 256x256.bmp' to pL. null' Cloud9...
+[19:27:00] Sending 'gfx/block.png' to pL. null' Cloud9...
+[19:27:00] Sending 'maps/Construa Sua Casa! Editado Por Dayo.map' to pL. null' Cloud9...
+[19:27:03] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[19:27:08] pL. null' Cloud9 killed Sagos with Machete
+[19:27:27] U.S.G.N.: Serverlist entry updated
+[19:27:28] Você pegou Kit Full
+[19:27:29] U.S.G.N.: Paulo Henrique (177.97.233.134) joining with U.S.G.N. ID #81347 - verifying...
+[19:27:30] U.S.G.N.: 177.97.233.134 is using U.S.G.N. ID #81347
+[19:27:30] Paulo Henrique conectou-se
+[19:27:30] Paulo Henrique is using IP 177.97.233.134:62615 and U.S.G.N. ID #81347
+[19:27:30] Starting transfer to Paulo Henrique (files: 9) ...
+[19:27:30] Paulo Henrique needs 7 files. Starting to send files...
+[19:27:30] Sending 'gfx/tiles/druglab.bmp' to Paulo Henrique...
+[19:27:35] Sending 'gfx/cars/porshe.png' to Paulo Henrique...
+[19:27:35] Sending 'gfx/bed.png' to Paulo Henrique...
+[19:27:35] Sending 'gfx/-{( Bruno R Z )}-/-{( Objetos )}-/-{( Cama 1 )}-.bmp' to Paulo Henrique...
+[19:27:35] Sending 'gfx/(-{FØÐÁ$TÏiles/Agua 256x256.bmp' to Paulo Henrique...
+[19:27:35] Sending 'gfx/block.png' to Paulo Henrique...
+[19:27:35] Sending 'maps/Construa Sua Casa! Editado Por Dayo.map' to Paulo Henrique...
+[19:27:38] Paulo Henrique juntou-se a Terrorista Forças
+[19:27:42] Paulo Henrique: vlw seus troxa
+[19:27:42] U.S.G.N.: Ping/State 'playing'
+[19:27:43] Paulo Henrique: falo
+[19:27:44] Paulo Henrique deixou o jogo
+[19:27:53] pL. null' Cloud9: asdkasd
+[19:27:58] pL. null' Cloud9: Ele tava me pedindo o mapa
+[19:28:00] pL. null' Cloud9: ksdkask
+[19:28:12] U.S.G.N.: Serverlist entry updated
+[19:28:21] pL. null' Cloud9: Mn
+[19:28:38] pL. null' Cloud9: dps vc me da umas "AULA BASICA"
+[19:28:41] pL. null' Cloud9: sobre lua ?
+[19:28:42] U.S.G.N.: Ping/State 'playing'
+[19:28:46] Sagos: s
+[19:28:49] pL. null' Cloud9: Eu só tó ajudando em
+[19:28:53] pL. null' Cloud9: Bugs
+[19:28:56] pL. null' Cloud9: e ideias
+[19:28:58] U.S.G.N.: Serverlist entry updated
+[19:29:04] pL. null' Cloud9: Queria ajudar em script tbm 
+[19:29:09] pL. null' Cloud9: séria mais rapido
+[19:29:18] pL. null' Cloud9: o Paulo aprendou onde?
+[19:29:19] generating stats...
+[19:29:19] stats generated in 1 ms!
+[19:29:21] Sagos: n sei
+[19:29:30] Sagos: ele só me falo que agr sabe programar kk
+[19:29:40] pL. null' Cloud9: Atah
+[19:29:43] pL. null' Cloud9: ele aprendeu bem em
+[19:29:43] U.S.G.N.: Serverlist entry updated
+[19:29:43] U.S.G.N.: Ping/State 'playing'
+[19:29:52] pL. null' Cloud9: a uns meses atras ele nem sabia direito
+[19:30:01] pL. null' Cloud9: só pegava o base e fazia o resto
+[19:30:05] Sagos: vou liga o sv no meu script de jumper
+[19:30:12] pL. null' Cloud9: Ok
+[19:30:29] U.S.G.N.: Serverlist entry updated
+[19:30:43] U.S.G.N.: Ping/State 'playing'
+[19:30:48] ----- Mapchange -----
+[19:30:48] starting server...
+[19:30:48] load map 'awp_grey Jumper'
+[19:30:48] ----- Server started -----
+[19:30:48] Lua: Adding function 'paladino' to hook 'walkover'
+[19:30:48] Lua: Adding function 'teleport' to hook 'flashlight'
+[19:30:48] Lua: Adding function 'telepoort' to hook 'clientdata'
+[19:30:48] Lua: Adding function 'temmpo' to hook 'second'
+[19:30:48] Lua: Adding function 'tempozero' to hook 'startround'
+[19:30:48] Lua: Adding function 'choque' to hook 'hit'
+[19:30:48] Lua: Adding function 'contas' to hook 'always'
+[19:30:49] U.S.G.N.: Serverlist entry updated
+[19:30:49] U.S.G.N.: Ping/State 'playing'
+[19:30:49] Sagos juntou-se a Countra-Terrorista Forças
+[19:30:58] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[19:30:59] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[19:30:59] pL. null' Cloud9 conectou-se
+[19:30:59] pL. null' Cloud9 is using IP 177.185.53.199:58957 and U.S.G.N. ID #14465
+[19:30:59] Starting transfer to pL. null' Cloud9 (files: 3) ...
+[19:30:59] pL. null' Cloud9 needs 1 file. Starting to send file...
+[19:30:59] Sending 'maps/awp_grey Jumper.map' to pL. null' Cloud9...
+[19:31:01] pL. null' Cloud9 juntou-se a Terrorista Forças
+[19:31:13] pL. null' Cloud9: ?
+[19:31:21] Sagos killed pL. null' Cloud9 with Knife
+[19:31:24] Sagos: kk
+[19:31:30] Sagos: preciso muda o botão de teleport
+[19:31:34] U.S.G.N.: Serverlist entry updated
+[19:31:41] Sagos: antigamente n tinha essa lanterna
+[19:31:49] U.S.G.N.: Ping/State 'playing'
+[19:31:51] pL. null' Cloud9: como teleporta?
+[19:31:54] Sagos: F
+[19:31:57] Sagos: mas só CT pode
+[19:32:01] pL. null' Cloud9 died
+[19:32:01] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[19:32:01] Sagos died
+[19:32:01] Sagos juntou-se a Terrorista Forças
+[19:32:07] Sagos killed pL. null' Cloud9 with AWP
+[19:32:12] "  (1x)
+[19:32:19] U.S.G.N.: Serverlist entry updated
+[19:33:19] Sagos killed pL. null' Cloud9 with AWP
+[19:33:21] pL. null' Cloud9: asdksa
+[19:33:21] Sagos: kkkkkkkkkk
+[19:33:24] pL. null' Cloud9: sadkasdksa
+[19:33:27] Sagos: a Deagle impede vc de teleporta
+[19:33:32] pL. null' Cloud9: atah
+[19:33:33] pL. null' Cloud9: dka
+[19:33:35] pL. null' Cloud9: atah
+[19:33:37] Sagos killed pL. null' Cloud9 with AWP
+[19:33:40] pL. null' Cloud9 *Morto*: e igual o filme ?
+[19:33:42] Sagos: ss
+[19:34:15] Sagos killed pL. null' Cloud9 with Machete
+[19:34:19] generating stats...
+[19:34:19] stats generated in 1 ms!
+[19:34:28] Sagos killed pL. null' Cloud9 with AWP
+[19:34:30] pL. null' Cloud9: asdkasdk
+[19:34:30] Sagos: kkkkkkkkkk
+[19:34:36] pL. null' Cloud9: Da mo gelo
+[19:35:05] pL. null' Cloud9: asdkiaskjd
+[19:35:44] pL. null' Cloud9: da raive ne
+[19:35:45] pL. null' Cloud9: kasdksad
+[19:35:52] Sagos: vou mata ainda
+[19:36:01] pL. null' Cloud9: kkkkkk
+[19:36:38] pL. null' Cloud9: asdksa
+[19:37:01] Sagos killed pL. null' Cloud9 with AWP
+[19:37:05] Sagos: huashuashuashuash
+[19:37:07] pL. null' Cloud9: KKKKKKKKKKKKKK
+[19:37:10] pL. null' Cloud9: q medo vey
+[19:37:23] pL. null' Cloud9: Da mo agunia
+[19:37:45] Sagos: dx eu ser o Jumper dps
+[19:37:50] pL. null' Cloud9: Ok
+[19:38:02] Sagos killed pL. null' Cloud9 with AWP
+[19:38:05] pL. null' Cloud9 juntou-se a Terrorista Forças
+[19:38:05] Sagos died
+[19:38:05] Sagos juntou-se a Countra-Terrorista Forças
+[19:38:51] pL. null' Cloud9 killed Sagos with AWP
+[19:38:52] pL. null' Cloud9: asdkas
+[19:38:54] pL. null' Cloud9: KKKKK
+[19:38:57] Sagos: kkkkkkk dificil
+[19:39:08] Sagos killed pL. null' Cloud9 with Knife
+[19:39:13] Sagos: asuhaushuahs
+[19:39:14] pL. null' Cloud9: asdkaskdas
+[19:39:19] generating stats...
+[19:39:19] stats generated in 2 ms!
+[19:39:25] pL. null' Cloud9 killed Sagos with AWP
+[19:39:31] Sagos: afff kkkkkk
+[19:39:33] pL. null' Cloud9: adslasd
+[19:39:36] Você Não Pode Teleportar Para uma Parede!
+[19:39:43] pL. null' Cloud9: peguei ainda
+[19:39:50] pL. null' Cloud9: a
+[19:39:51] pL. null' Cloud9: kkkkkkkkk
+[19:40:05] pL. null' Cloud9 killed Sagos with AWP
+[19:40:08] pL. null' Cloud9: GRRRR
+[19:40:10] pL. null' Cloud9: kkkkkkkkkkkkkkkkk
+[19:40:11] Sagos: 10 HP
+[19:40:13] Sagos: cagado
+[19:40:38] pL. null' Cloud9 killed Sagos with AWP
+[19:40:38] U.S.G.N.: Ping/State 'playing'
+[19:40:38] U.S.G.N.: Serverlist entry updated
+[19:40:40] pL. null' Cloud9: xaskdaskdkasd
+[19:40:42] pL. null' Cloud9: MITo
+[19:41:05] Sagos killed pL. null' Cloud9 with Knife
+[19:41:07] Sagos: kkkkkkkkkkkkk
+[19:41:11] pL. null' Cloud9: KKKKKKKKKKKKKKKKKK
+[19:41:24] U.S.G.N.: Serverlist entry updated
+[19:41:24] pL. null' Cloud9 killed Sagos with AWP
+[19:41:26] pL. null' Cloud9: asdkas
+[19:41:29] Sagos: mosquei
+[19:41:30] pL. null' Cloud9: laguei
+[19:41:39] U.S.G.N.: Ping/State 'playing'
+[19:41:44] Sagos killed pL. null' Cloud9 with Knife
+[19:41:50] pL. null' Cloud9: KKKKKKK q susto
+[19:41:52] Sagos: kkkkkk
+[19:42:09] U.S.G.N.: Serverlist entry updated
+[19:42:10] pL. null' Cloud9 killed Sagos with AWP
+[19:42:13] pL. null' Cloud9: KKKKKKKKK
+[19:42:18] Sagos: esse tiro ai foi mentira
+[19:42:39] U.S.G.N.: Ping/State 'playing'
+[19:42:54] U.S.G.N.: Serverlist entry updated
+[19:42:59] Sagos killed pL. null' Cloud9 with Knife
+[19:43:05] pL. null' Cloud9: kkkkkkkkk
+[19:43:07] pL. null' Cloud9: pego ainda
+[19:43:09] pL. null' Cloud9 killed Sagos with Machete
+[19:43:11] pL. null' Cloud9: asdkaskdaskdkasdkas
+[19:43:12] pL. null' Cloud9: KKKKKKKKKKKKKK
+[19:43:14] Sagos: merda kkkkkkkkkk
+[19:43:40] U.S.G.N.: Serverlist entry updated
+[19:43:40] U.S.G.N.: Ping/State 'playing'
+[19:43:48] pL. null' Cloud9 killed Sagos with AWP
+[19:43:53] Sagos: é mt dificil
+[19:44:01] pL. null' Cloud9: dificik
+[19:44:03] pL. null' Cloud9: askdas
+[19:44:07] pL. null' Cloud9: dificil e te mata
+[19:44:13] Você Não Pode Teleportar Para uma Parede!
+[19:44:16] Sagos: nuss
+[19:44:19] generating stats...
+[19:44:19] stats generated in 1 ms!
+[19:44:21] pL. null' Cloud9: quase
+[19:44:22] Sagos: nunca apertei F tão rapido
+[19:44:25] U.S.G.N.: Serverlist entry updated
+[19:44:30] pL. null' Cloud9 killed Sagos with AWP
+[19:44:34] pL. null' Cloud9: ta neh
+[19:44:39] pL. null' Cloud9: 500 ping
+[19:44:40] U.S.G.N.: Ping/State 'playing'
+[19:44:40] pL. null' Cloud9: 200
+[19:44:43] pL. null' Cloud9: 32
+[19:44:44] Sagos: é meu pai '-'
+[19:45:10] Sagos killed pL. null' Cloud9 with Knife
+[19:45:12] Sagos: uia
+[19:45:15] Sagos: n sei como errou
+[19:45:16] pL. null' Cloud9: errei :C
+[19:45:20] pL. null' Cloud9 killed Sagos with AWP
+[19:45:26] Sagos: vc errou a deagle
+[19:45:32] pL. null' Cloud9 killed Sagos with AWP
+[19:45:34] pL. null' Cloud9: adlokasdkas
+[19:45:38] Sagos: errou a deagle dnv 
+[19:45:39] Sagos: kkkk
+[19:45:41] U.S.G.N.: Ping/State 'playing'
+[19:45:41] pL. null' Cloud9: Reação ta a mil
+[19:45:56] U.S.G.N.: Serverlist entry updated
+[19:45:56] Sagos killed pL. null' Cloud9 with Knife
+[19:45:59] Sagos: kkkkkkkkkkkkkkkkkkkkkk
+[19:46:02] pL. null' Cloud9: WHAT KKKKKKKKKKKKKKKKKK
+[19:46:32] Sagos killed pL. null' Cloud9 with Knife
+[19:46:41] U.S.G.N.: Ping/State 'playing'
+[19:46:41] U.S.G.N.: Serverlist entry updated
+[19:46:42] pL. null' Cloud9 killed Sagos with AWP
+[19:46:45] pL. null' Cloud9 died
+[19:46:45] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[19:46:47] Sagos died
+[19:46:47] Sagos juntou-se a Terrorista Forças
+[19:46:48] pL. null' Cloud9: Minha vez
+[19:47:01] ERROR: setpos - position is out of map bounds!
+[19:47:03] Sagos killed pL. null' Cloud9 with AWP
+[19:47:06] Sagos: xD
+[19:47:10] pL. null' Cloud9: meee
+[19:47:13] pL. null' Cloud9: eu tava no tubo
+[19:47:19] Sagos killed pL. null' Cloud9 with AWP
+[19:47:24] pL. null' Cloud9: 400 ping kkkkkkkkkkkkkk
+[19:47:27] U.S.G.N.: Serverlist entry updated
+[19:47:42] U.S.G.N.: Ping/State 'playing'
+[19:47:54] Sagos killed pL. null' Cloud9 with AWP
+[19:48:03] pL. null' Cloud9: tem outro script ai ?
+[19:48:09] Sagos: vou ver
+[19:48:13] pL. null' Cloud9: Vc consegue fazer visualua ?
+[19:48:32] Sagos: q isso?
+[19:48:43] U.S.G.N.: Ping/State 'playing'
+[19:48:43] pL. null' Cloud9: Lua com imagem
+[19:48:46] pL. null' Cloud9: tipo botao
+[19:48:50] Sagos: n
+[19:48:55] pL. null' Cloud9: :C
+[19:48:58] U.S.G.N.: Serverlist entry updated
+[19:49:01] pL. null' Cloud9: paulo falaou q ta fazedno
+[19:49:04] pL. null' Cloud9: q vai fazer
+[19:49:08] pL. null' Cloud9: inventario com imager
+[19:49:12] pL. null' Cloud9: Visualua
+[19:49:19] generating stats...
+[19:49:19] stats generated in 1 ms!
+[19:49:44] U.S.G.N.: Serverlist entry updated
+[19:49:44] U.S.G.N.: Ping/State 'playing'
+[19:49:49] Sagos: n tem script legal aki
+[19:50:29] U.S.G.N.: Serverlist entry updated
+[19:50:31] pL. null' Cloud9: :C
+[19:50:39] pL. null' Cloud9: Queria criar um de survival puro
+[19:50:44] U.S.G.N.: Ping/State 'playing'
+[19:50:44] pL. null' Cloud9: Tipo ark survival
+[19:50:51] pL. null' Cloud9: ou um RPG com pets
+[19:50:52] pL. null' Cloud9: e talz
+[19:50:53] pL. null' Cloud9: :C
+[19:50:57] pL. null' Cloud9: mais n posso
+[19:51:02] ----- Mapchange -----
+[19:51:02] starting server...
+[19:51:02] load map 'awp_grey SagosWins'
+[19:51:02] ----- Server started -----
+[19:51:02] Lua: Adding function 'ativando_bola_de_fogo' to hook 'serveraction'
+[19:51:02] Lua: Adding function 'movimento' to hook 'always'
+[19:51:03] Sagos juntou-se a Countra-Terrorista Forças
+[19:51:12] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[19:51:17] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[19:51:17] pL. null' Cloud9 conectou-se
+[19:51:17] pL. null' Cloud9 is using IP 177.185.53.199:58957 and U.S.G.N. ID #14465
+[19:51:17] Starting transfer to pL. null' Cloud9 (files: 4) ...
+[19:51:18] pL. null' Cloud9 needs or accepts no files.
+[19:51:18] U.S.G.N.: Ping/State 'playing'
+[19:51:22] pL. null' Cloud9 juntou-se a Terrorista Forças
+[19:51:23] U.S.G.N.: Serverlist entry updated
+[19:51:36] pL. null' Cloud9: E o aviao ?
+[19:51:43] Sagos: acabei n fazendo
+[19:52:02] pL. null' Cloud9: e flare ?
+[19:52:08] U.S.G.N.: Serverlist entry updated
+[19:52:14] ERROR: Unknown command 'n' (n)
+[19:52:14] Use quotation marks for parameters with blanks. e.g.: mp_unbuyable "Tactical Shield"
+[19:52:14] Visit CS2D.com/help for a command reference
+[19:52:16] Sagos: n
+[19:52:18] U.S.G.N.: Ping/State 'playing'
+[19:52:22] Sagos: as vezes mata
+[19:52:25] Sagos: as vezes n '-'
+[19:52:29] Sagos: ta errado esse script
+[19:53:17] Sagos: tem um parecido com esse
+[19:53:19] Sagos: q sempre mata
+[19:53:22] Sagos: mas faz mt barulho
+[19:53:24] U.S.G.N.: Ping/State 'playing'
+[19:53:25] pL. null' Cloud9: Eu sei
+[19:53:31] pL. null' Cloud9: Minhoca de fogo
+[19:53:33] Sagos: kk
+[19:53:34] Sagos: s
+[19:53:39] U.S.G.N.: Serverlist entry updated
+[19:53:47] ----- Mapchange -----
+[19:53:47] starting server...
+[19:53:47] load map 'Awp_grey Sagoswins'
+[19:53:47] ----- Server started -----
+[19:53:47] Lua: Adding function 'minhocadefogo' to hook 'always'
+[19:53:47] Lua: Adding function 'ativaraboladefogo' to hook 'serveraction'
+[19:53:48] U.S.G.N.: Serverlist entry updated
+[19:53:48] U.S.G.N.: Ping/State 'playing'
+[19:53:49] Sagos juntou-se a Countra-Terrorista Forças
+[19:53:58] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[19:53:59] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[19:53:59] pL. null' Cloud9 conectou-se
+[19:53:59] pL. null' Cloud9 is using IP 177.185.53.199:58957 and U.S.G.N. ID #14465
+[19:53:59] Starting transfer to pL. null' Cloud9 (files: 4) ...
+[19:53:59] pL. null' Cloud9 needs or accepts no files.
+[19:54:19] generating stats...
+[19:54:19] stats generated in 1 ms!
+[19:54:31] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[19:54:33] U.S.G.N.: Serverlist entry updated
+[19:54:35] pL. null' Cloud9: Laga tbm ksdks
+[19:54:39] Sagos: kkkkkkk
+[19:54:41] Sagos: mt
+[19:54:42] Sagos: vou ativa
+[19:54:48] U.S.G.N.: Ping/State 'playing'
+[19:54:49] pL. null' Cloud9: uai 
+[19:54:52] Sagos killed by Explosão
+[19:54:55] pL. null' Cloud9: esse ta melhor q o outro
+[19:55:11] Sagos: ficou preso
+[19:55:14] pL. null' Cloud9: asdkasdas
+[19:55:18] Sagos: esse foi a 1° versão q eu fiz
+[19:55:18] U.S.G.N.: Serverlist entry updated
+[19:55:34] pL. null' Cloud9: Mn
+[19:55:39] pL. null' Cloud9: perai rapidim
+[19:55:43] pL. null' Cloud9: vou ver se um server ta aberto
+[19:55:46] pL. null' Cloud9: feche aqui n
+[19:55:49] U.S.G.N.: Ping/State 'playing'
+[19:55:57] Sagos: ok
+[19:55:58] ----- Mapchange -----
+[19:55:58] starting server...
+[19:55:58] load map 'Awp_grey Sagoswins'
+[19:55:58] ----- Server started -----
+[19:55:58] Lua: Adding function 'acertar' to hook 'hit'
+[19:55:58] Lua: Adding function 'nascer' to hook 'join'
+[19:55:58] Lua: Adding function 'deixar' to hook 'leave'
+[19:55:58] Lua: Adding function 'inicioRodada' to hook 'startround'
+[19:55:58] Lua: Adding function 'segundos' to hook 'second'
+[19:55:58] Todos os jogadores ganhou: Portal Gun
+[19:56:00] Sagos juntou-se a Countra-Terrorista Forças
+[19:56:04] Todos os jogadores ganhou: Mac 10
+[19:56:04] U.S.G.N.: Ping/State 'playing'
+[19:56:08] [b]Ping of Death conectou-se
+[19:56:08] [b]Ping of Death juntou-se a Terrorista Forças
+[19:56:09] U.S.G.N.: Serverlist entry updated
+[19:56:34] [b]Ping of Death killed by Explosão
+[19:56:39] Todos os jogadores ganhou: Air Strike
+[19:56:55] U.S.G.N.: Serverlist entry updated
+[19:57:05] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[19:57:05] U.S.G.N.: Ping/State 'playing'
+[19:57:06] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[19:57:06] pL. null' Cloud9 conectou-se
+[19:57:06] pL. null' Cloud9 is using IP 177.185.53.199:58957 and U.S.G.N. ID #14465
+[19:57:06] Starting transfer to pL. null' Cloud9 (files: 5) ...
+[19:57:06] pL. null' Cloud9 needs 1 file. Starting to send file...
+[19:57:06] Sending 'gfx/SagosWins/bomba.png' to pL. null' Cloud9...
+[19:57:09] [b]Ping of Death killed by Explosão
+[19:57:12] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[19:57:12] [b]Ping of Death deixou o jogo (kickado)
+[19:57:14] Todos os jogadores ganhou: Grenade Launcher
+[19:57:22] pL. null' Cloud9: q isso
+[19:57:26] Sagos: pega pega
+[19:57:35] Sagos: se o tempo acaba
+[19:57:39] Sagos: e a bomba estiver com vc
+[19:57:40] U.S.G.N.: Serverlist entry updated
+[19:57:42] Sagos: vc morre
+[19:57:45] pL. null' Cloud9 killed by Explosão
+[19:57:47] Sagos: kkkkkkk
+[19:57:50] Todos os jogadores ganhou: XM1014
+[19:57:55] ERROR: equip - cannot equip 70 - Red Flag (this would lead to problems)!
+[19:57:55] "  (1x)
+[19:57:55] Todos os jogadores ganhou: Red Flag
+[19:58:05] U.S.G.N.: Ping/State 'playing'
+[19:58:26] U.S.G.N.: Serverlist entry updated
+[19:58:26] Sagos killed by Explosão
+[19:58:26] pL. null' Cloud9 killed by Explosão
+[19:58:28] pL. null' Cloud9 *Morto*: asdosad
+[19:58:28] Sagos *Morto*: aaaaaaaaaa
+[19:58:29] Todos os jogadores ganhou: Stealth Suit
+[19:58:30] pL. null' Cloud9: KKKKKKKKKKKKKK
+[19:58:56] Sagos: flw kk
+[19:58:59] pL. null' Cloud9 killed by Explosão
+[19:59:02] Todos os jogadores ganhou: Gut Bomb
+[19:59:06] U.S.G.N.: Ping/State 'playing'
+[19:59:11] U.S.G.N.: Serverlist entry updated
+[19:59:19] generating stats...
+[19:59:19] stats generated in 1 ms!
+[19:59:33] pL. null' Cloud9 killed by Explosão
+[19:59:35] Sagos: uhasuahsuahs
+[19:59:36] Todos os jogadores ganhou: G3SG1
+[19:59:39] pL. null' Cloud9: KKKK
+[19:59:56] U.S.G.N.: Serverlist entry updated
+[20:00:06] Sagos killed by Explosão
+[20:00:06] U.S.G.N.: Ping/State 'playing'
+[20:00:08] pL. null' Cloud9: asdaoskdksadkas
+[20:00:09] Todos os jogadores ganhou: P90
+[20:00:39] pL. null' Cloud9 killed by Explosão
+[20:00:41] U.S.G.N.: Serverlist entry updated
+[20:00:42] Todos os jogadores ganhou: Gas Grenade
+[20:01:07] U.S.G.N.: Ping/State 'playing'
+[20:01:08] Sagos: kkkkkkkkkkk
+[20:01:12] Sagos killed by Explosão
+[20:01:12] pL. null' Cloud9 killed by Explosão
+[20:01:14] Sagos *Morto*: aaaaaaa
+[20:01:14] pL. null' Cloud9 *Morto*: askdasd
+[20:01:15] Todos os jogadores ganhou: M3
+[20:01:27] U.S.G.N.: Serverlist entry updated
+[20:01:46] pL. null' Cloud9 killed by Explosão
+[20:01:48] Sagos: kkkkk
+[20:01:49] Todos os jogadores ganhou: Primary Ammo
+[20:01:51] pL. null' Cloud9: KKKKK
+[20:01:52] Sagos: esse script é da hr
+[20:02:01] pL. null' Cloud9: q lag
+[20:02:07] Sagos: sorry
+[20:02:07] U.S.G.N.: Ping/State 'playing'
+[20:02:12] U.S.G.N.: Serverlist entry updated
+[20:02:19] pL. null' Cloud9 killed by Explosão
+[20:02:20] Sagos: uia
+[20:02:21] Sagos: q sorte
+[20:02:22] Todos os jogadores ganhou: M4A1
+[20:02:23] pL. null' Cloud9: KKKKKKKK
+[20:02:52] pL. null' Cloud9 killed by Explosão
+[20:02:55] Todos os jogadores ganhou: Money
+[20:02:57] U.S.G.N.: Serverlist entry updated
+[20:03:02] pL. null' Cloud9: Vamo fazer um survival?
+[20:03:05] pL. null' Cloud9: no proximo
+[20:03:08] U.S.G.N.: Ping/State 'playing'
+[20:03:09] pL. null' Cloud9: dps do battle
+[20:03:12] Sagos: como vai ser?
+[20:03:25] Sagos killed by Explosão
+[20:03:26] pL. null' Cloud9: e noix
+[20:03:27] pL. null' Cloud9: asdksakdaslkdsakld
+[20:03:28] Todos os jogadores ganhou: Chainsaw
+[20:03:43] U.S.G.N.: Serverlist entry updated
+[20:03:59] Sagos killed by Explosão
+[20:04:02] Todos os jogadores ganhou: MP5
+[20:04:08] U.S.G.N.: Ping/State 'playing'
+[20:04:18] pL. null' Cloud9: askd
+[20:04:19] generating stats...
+[20:04:19] stats generated in 1 ms!
+[20:04:28] U.S.G.N.: Serverlist entry updated
+[20:04:32] pL. null' Cloud9 killed by Explosão
+[20:04:35] Todos os jogadores ganhou: Super Armor
+[20:04:35] Sagos: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[20:04:38] pL. null' Cloud9: jkasdfkaskdaskdk
+[20:04:48] pL. null' Cloud9: Vai ter
+[20:05:07] pL. null' Cloud9: ?
+[20:05:09] U.S.G.N.: Ping/State 'playing'
+[20:05:09] pL. null' Cloud9: KKKKKKKKKKKKK
+[20:05:10] Todos os jogadores ganhou: Grenade Launcher
+[20:05:11] Sagos: super armor kkkkkkkkkkkk
+[20:05:14] U.S.G.N.: Serverlist entry updated
+[20:05:14] Sagos: mee 
+[20:05:16] Todos os jogadores ganhou: Galil
+[20:05:47] pL. null' Cloud9 killed by Explosão
+[20:05:50] Todos os jogadores ganhou: SG552
+[20:05:51] pL. null' Cloud9: Vai ter animais
+[20:05:59] U.S.G.N.: Serverlist entry updated
+[20:06:00] pL. null' Cloud9: Tem como fazer sistema de crafitar ?
+[20:06:03] Sagos: s
+[20:06:09] U.S.G.N.: Ping/State 'playing'
+[20:06:20] pL. null' Cloud9 killed by Explosão
+[20:06:23] Todos os jogadores ganhou: HE
+[20:06:24] pL. null' Cloud9: Me kk
+[20:06:33] pL. null' Cloud9: asldasd
+[20:06:37] pL. null' Cloud9: perai
+[20:06:40] pL. null' Cloud9: vou no mercado
+[20:06:43] pL. null' Cloud9: rapida1
+[20:06:44] Sagos: ok
+[20:06:44] U.S.G.N.: Serverlist entry updated
+[20:06:45] pL. null' Cloud9 died
+[20:06:45] pL. null' Cloud9 juntou-se aos espectadores
+[20:06:48] Todos os jogadores ganhou: AWP
+[20:06:53] Todos os jogadores ganhou: Flamethrower
+[20:06:58] Todos os jogadores ganhou: Gas Grenade
+[20:07:03] Todos os jogadores ganhou: Five-Seven
+[20:07:08] Todos os jogadores ganhou: SG550
+[20:07:10] U.S.G.N.: Ping/State 'playing'
+[20:07:28] [b]Feuersturm conectou-se
+[20:07:28] [b]Feuersturm juntou-se a Terrorista Forças
+[20:07:30] U.S.G.N.: Serverlist entry updated
+[20:07:31] Todos os jogadores ganhou: AK-47
+[20:08:02] [b]Feuersturm killed by Explosão
+[20:08:07] Todos os jogadores ganhou: M4A1
+[20:08:10] U.S.G.N.: Ping/State 'playing'
+[20:08:15] U.S.G.N.: Serverlist entry updated
+[20:08:37] [b]Feuersturm killed by Explosão
+[20:08:41] Todos os jogadores ganhou: AK-47
+[20:09:00] U.S.G.N.: Serverlist entry updated
+[20:09:10] U.S.G.N.: Ping/State 'playing'
+[20:09:12] [b]Feuersturm killed by Explosão
+[20:09:17] Todos os jogadores ganhou: Flare
+[20:09:19] Todos os jogadores ganhou: M249
+[20:09:19] generating stats...
+[20:09:19] stats generated in 1 ms!
+[20:09:46] U.S.G.N.: Serverlist entry updated
+[20:09:49] Sagos killed by Explosão
+[20:09:55] Todos os jogadores ganhou: RPG Launcher
+[20:10:11] U.S.G.N.: Ping/State 'playing'
+[20:10:25] [b]Feuersturm killed by Explosão
+[20:10:30] Todos os jogadores ganhou: FN F2000
+[20:10:31] U.S.G.N.: Serverlist entry updated
+[20:11:00] Sagos killed by Explosão
+[20:11:05] Player conectou-se
+[20:11:05] Player is using IP 212.237.119.164:46782 and no U.S.G.N. ID
+[20:11:05] ERROR: equip - cannot equip 56 - Defuse Kit (this would lead to problems)!
+[20:11:05] "  (3x)
+[20:11:05] Todos os jogadores ganhou: Defuse Kit
+[20:11:05] Starting transfer to Player (files: 6) ...
+[20:11:06] Player needs 5 files. Starting to send files...
+[20:11:06] Sending 'gfx/tiles/fruitpapje1.bmp' to Player...
+[20:11:07] [b]Feuersturm deixou o jogo (kickado)
+[20:11:08] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Player...
+[20:11:08] Sending 'gfx/battle royale/avião.bmp' to Player...
+[20:11:09] Sending 'gfx/SagosWins/bomba.png' to Player...
+[20:11:09] Sending 'maps/Awp_grey Sagoswins.map' to Player...
+[20:11:10] Todos os jogadores ganhou: Primary Ammo
+[20:11:11] U.S.G.N.: Ping/State 'playing'
+[20:11:15] ERROR: equip - cannot equip 56 - Defuse Kit (this would lead to problems)!
+[20:11:15] "  (2x)
+[20:11:15] Todos os jogadores ganhou: Defuse Kit
+[20:11:16] U.S.G.N.: Serverlist entry updated
+[20:11:26] Player juntou-se a Terrorista Forças
+[20:11:29] Todos os jogadores ganhou: SG550
+[20:12:00] Player killed by Explosão
+[20:12:02] U.S.G.N.: Serverlist entry updated
+[20:12:05] Todos os jogadores ganhou: HE
+[20:12:12] U.S.G.N.: Ping/State 'playing'
+[20:12:28] Nekoblack conectou-se
+[20:12:28] Nekoblack is using IP 190.37.115.202:52833 and no U.S.G.N. ID
+[20:12:29] Starting transfer to Nekoblack (files: 6) ...
+[20:12:29] Nekoblack needs 5 files. Starting to send files...
+[20:12:29] Sending 'gfx/tiles/fruitpapje1.bmp' to Nekoblack...
+[20:12:31] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Nekoblack...
+[20:12:31] Sending 'gfx/battle royale/avião.bmp' to Nekoblack...
+[20:12:32] Sending 'gfx/SagosWins/bomba.png' to Nekoblack...
+[20:12:32] Sending 'maps/Awp_grey Sagoswins.map' to Nekoblack...
+[20:12:35] Player killed by Explosão
+[20:12:40] ERROR: equip - cannot equip 71 - Blue Flag (this would lead to problems)!
+[20:12:40] "  (3x)
+[20:12:40] Todos os jogadores ganhou: Blue Flag
+[20:12:40] Player deixou o jogo
+[20:12:41] Nekoblack juntou-se a Terrorista Forças
+[20:12:43] Todos os jogadores ganhou: Five-Seven
+[20:12:47] U.S.G.N.: Serverlist entry updated
+[20:12:55] U.S.G.N.: SeekRin (189.5.191.152) joining with U.S.G.N. ID #42203 - verifying...
+[20:12:55] U.S.G.N.: 189.5.191.152 is using U.S.G.N. ID #42203
+[20:12:55] SeekRin conectou-se
+[20:12:55] SeekRin is using IP 189.5.191.152:52159 and U.S.G.N. ID #42203
+[20:12:55] Starting transfer to SeekRin (files: 6) ...
+[20:12:55] SeekRin needs 5 files. Starting to send files...
+[20:12:55] Sending 'gfx/tiles/fruitpapje1.bmp' to SeekRin...
+[20:12:58] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to SeekRin...
+[20:12:58] Sending 'gfx/battle royale/avião.bmp' to SeekRin...
+[20:12:58] Sending 'gfx/SagosWins/bomba.png' to SeekRin...
+[20:12:58] Sending 'maps/Awp_grey Sagoswins.map' to SeekRin...
+[20:13:03] SeekRin juntou-se a Countra-Terrorista Forças
+[20:13:10] SeekRin: quem e vivo smepre aparece
+[20:13:12] U.S.G.N.: Ping/State 'playing'
+[20:13:14] Nekoblack killed by Explosão
+[20:13:16] Sagos: ^^
+[20:13:19] Todos os jogadores ganhou: Five-Seven
+[20:13:33] U.S.G.N.: Serverlist entry updated
+[20:13:39] Sagos: kkkkkk
+[20:13:49] Nekoblack killed by Explosão
+[20:13:49] SeekRin killed by Explosão
+[20:13:54] Todos os jogadores ganhou: Portal Gun
+[20:13:55] Nekoblack deixou o jogo
+[20:14:00] Todos os jogadores ganhou: SG550
+[20:14:05] Todos os jogadores ganhou: Knife
+[20:14:13] U.S.G.N.: Ping/State 'playing'
+[20:14:18] U.S.G.N.: Serverlist entry updated
+[20:14:19] generating stats...
+[20:14:19] stats generated in 1 ms!
+[20:14:26] SeekRin: como passsa
+[20:14:29] Sagos: só me atk
+[20:14:36] SeekRin killed by Explosão
+[20:14:37] SeekRin deixou o jogo
+[20:14:39] Todos os jogadores ganhou: Claw
+[20:14:44] Todos os jogadores ganhou: Light Armor
+[20:14:49] Todos os jogadores ganhou: M4A1
+[20:14:49] Servidor Desligado
+[20:14:52] U.S.G.N.: Server removed from serverlist
+[20:14:52] ----- Disconnected -----

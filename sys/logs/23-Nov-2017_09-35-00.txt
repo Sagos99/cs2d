@@ -1,0 +1,29 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 09:35:00
+
+[09:35:00] UDP socket initialized using port 36963
+[09:35:01] U.S.G.N.: Your game version is up to date!
+[09:35:01] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[09:35:02] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[09:35:03] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[09:35:06] Cached servers added to list: 141
+[09:35:07] U.S.G.N.: Received serverlist (servers: 51)
+[09:35:07] U.S.G.N.: Received serverlist (servers: 150)
+[09:35:32] Connecting to 177.45.57.30:27200 (using U.S.G.N. ID #15431) ...
+[09:35:33] U.S.G.N.: Ping/State 'idle' (400 ms)
+[09:35:33] "  (1x)
+[09:35:33] load map 'de_dust2'
+[09:35:34] ----- Server joined -----
+[09:35:34] U.S.G.N.: Ping/State 'playing'
+[09:35:36] Sagos juntou-se a Countra-Terrorista Forças
+[09:35:52] Sagos *Morto*: Leuhh ta aki ainda kk
+[09:35:55] Botzinho killed Leuuh with SG552
+[09:36:04] Sr_Rayner conectou-se
+[09:36:10] Sr_Rayner juntou-se a Terrorista Forças
+[09:36:22] Blade_Might killed SK l kNigtTV with AK-47
+[09:36:28] ERROR: Unknown command 'defuse' (ak47; m4a1; buyammo1; vesthelm; vest; deagle; buyammo2; hegren; flash; flash; flare; sgren; defuse;)
+[09:36:28] Use quotation marks for parameters with blanks. e.g.: mp_unbuyable "Tactical Shield"
+[09:36:28] Visit CS2D.com/help for a command reference
+[09:36:29] SK l kNigtTV: que suroba
+[09:36:34] U.S.G.N.: Ping/State 'playing'
+[09:36:54] Botzinho killed Sagos with SG552
+[09:36:54] k¦Botzinho¦78¦0

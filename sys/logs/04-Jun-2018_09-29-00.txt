@@ -1,0 +1,144 @@
+CS2D 1.0.0.7 Logfile - 04 Jun 2018, 09:29:00
+
+[09:29:00] Steam: Logged in as #76561198077078199
+[09:29:01] UDP socket initialized using port 36963
+[09:29:01] U.S.G.N.: Your game version is up to date!
+[09:29:16] Cached servers added to list: 164
+[09:29:17] U.S.G.N.: Received serverlist (servers: 139)
+[09:30:01] Cached servers added to list: 164
+[09:30:01] U.S.G.N.: Received serverlist (servers: 140)
+[09:30:33] Connecting to 134.255.216.234:40000...
+[09:30:34] Checking 'gfx/hc/emoticons/winking.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/uneasy.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/surprised.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/speechbubble.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/smiling_big.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/smiling.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/skeptical.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/laughing.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/heart.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/idle.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/emoticons/frowning.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/evil.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/cursing.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/crying.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/cheeky.png': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/angry.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/mc-zombie.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/sheep1.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/umbrella_t.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/umbrella_ct.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/umbrella_admin.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/tan_beret.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/strawhat.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/spear.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/snowman.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/smiley.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/skull.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/scarlet_beret.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/santa_hat.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/pumpkin_head.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/pirate_hat.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/pepe.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/party_hat.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/metal_helmet_vip.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/metal_helmet_mod.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/metal_helmet_adm.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/maroon_beret.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/mario.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/rainbow_wings.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/water_wings.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/wing_mecha.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/luigi.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/lol_hat.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/knife.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/king.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/green_beret.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/graduation_hat.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/gokussj.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/gandalf_hat.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/devil.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/darkness.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/cowboy.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/cap.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/builder.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/bomberman.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/blue_beret.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/blackgoku_hat.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/black_beret.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/angel.png': Already exists.
+[09:30:34] Checking 'gfx/hc/attribs/admin_wings.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/hc/attribs/flan_wings.png': Does not exist. Request transfer!
+[09:30:34] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[09:30:34] Checking 'gfx/hc/emoticons/!idle! v.2.png': Does not exist. Request transfer!
+[09:30:34] Checking 'maps/awp_kiwifarm.map': Does not exist. Request transfer!
+[09:30:34] Requesting 19 files from server...
+[09:30:34] Downloading 'gfx/hc/emoticons/idle.png' from server...
+[09:30:34] Downloading 'gfx/hc/attribs/sheep1.png' from server...
+[09:30:34] Downloading 'gfx/hc/attribs/umbrella_admin.png' from server...
+[09:30:34] Downloading 'gfx/hc/attribs/strawhat.png' from server...
+[09:30:34] Downloading 'gfx/hc/attribs/pepe.png' from server...
+[09:30:34] Downloading 'gfx/hc/attribs/rainbow_wings.png' from server...
+[09:30:35] Downloading 'gfx/hc/attribs/water_wings.png' from server...
+[09:30:35] Downloading 'gfx/hc/attribs/wing_mecha.png' from server...
+[09:30:35] Downloading 'gfx/hc/attribs/lol_hat.png' from server...
+[09:30:35] Downloading 'gfx/hc/attribs/knife.png' from server...
+[09:30:36] Downloading 'gfx/hc/attribs/gokussj.png' from server...
+[09:30:36] Downloading 'gfx/hc/attribs/darkness.png' from server...
+[09:30:36] Downloading 'gfx/hc/attribs/cap.png' from server...
+[09:30:36] Downloading 'gfx/hc/attribs/bomberman.png' from server...
+[09:30:36] Downloading 'gfx/hc/attribs/blackgoku_hat.png' from server...
+[09:30:36] Downloading 'gfx/hc/attribs/admin_wings.png' from server...
+[09:30:36] Downloading 'gfx/hc/attribs/flan_wings.png' from server...
+[09:30:36] Downloading 'gfx/hc/emoticons/!idle! v.2.png' from server...
+[09:30:36] Downloading 'maps/awp_kiwifarm.map' from server...
+[09:30:37] load map 'awp_kiwifarm'
+[09:30:38] ----- Server joined -----
+[09:30:38] Welcome Sagos!
+[09:30:38] Your user level is: Guest.
+[09:30:38] Sagos joins from BRAZIL (BR)
+[09:30:39] Unique called a vote to awp_Minecraft
+[09:30:39] Press [F3] for YES,  [F4] for NO!
+[09:30:39] Unique voted YES!
+[09:30:49] Sagos aliou-se a Equipe Contra-Terrorista
+[09:30:53] Unique killed Player with AWP
+[09:30:57] Sagos voted NO!
+[09:30:57] You've already voted!
+[09:30:58] Player 2 conectou-se ao servidor
+[09:31:08] Player 2 joins from TURKEY (TR)
+[09:31:10] The poll is REJECTED!
+[09:31:13] Unique killed Sagos with AWP
+[09:31:13] k¦Unique¦100¦100
+[09:31:16] Player 2 aliou-se a Equipe Terrorista
+[09:31:24] FO killed Sagos with AWP
+[09:31:24] k¦FO¦100¦0
+[09:31:25] Unique killed Player with AWP
+[09:31:25] Say !help to see your commands
+[09:31:25] Play 5 hours to get automatically VIP
+[09:31:25] Check out our other servers with !complex
+[09:31:25] Do you want to make a staff application then join our discord server: Here's your invite https://discord.gg/vu3EDtB
+[09:31:36] Player killed FO with AWP
+[09:31:46] Player killed Unique with AWP
+[09:31:49] r¦Unique (USGN)¦2 of 895¦960,960,483,1.98,6 h 43 m
+[09:31:58] r¦FO (Steam)¦19 of 895¦516,516,453,1.13,5 h 57 m
+[09:31:58] Player killed Player 2 with AWP
+[09:32:08] Sagos killed FO with AWP
+[09:32:12] Map vote closed for: 4 min
+[09:32:14] Player 2 killed Sagos with AWP
+[09:32:14] k¦Player 2¦68¦55
+[09:32:14] Player killed Player 2 with AWP
+[09:32:25] Say !help to see your commands
+[09:32:25] Play 5 hours to get automatically VIP
+[09:32:25] Check out our other servers with !complex
+[09:32:25] Do you want to make a staff application then join our discord server: Here's your invite https://discord.gg/vu3EDtB
+[09:32:25] Player killed Unique with AWP
+[09:32:30] Player: whooh
+[09:32:37] Unique killed Player with AWP
+[09:32:37] FO killed Sagos with AWP
+[09:32:37] k¦FO¦100¦0
+[09:32:40] Sagos deixou o servidor
+[09:32:40] Disconnect Reason: Client request (Code 0)
+[09:32:40] ----- Disconnected -----
+[09:32:42] Cached servers added to list: 164
+[09:32:43] U.S.G.N.: Received serverlist (servers: 141)
+[09:33:10] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)

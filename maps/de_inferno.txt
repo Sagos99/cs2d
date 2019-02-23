@@ -1,0 +1,15 @@
+Inferno - Bombdefuse
+
+Counter-Terrorists: Prevent the Terrorists
+from blowing the Atomic Crates away.
+
+Terrorists: Try to play the bomb at one 
+of the two Bomspots, and defend them until
+the blow up.
+
+Other Notes: The left side of the house
+is not yet included.
+
+(Press FIRE to continue)
+
+

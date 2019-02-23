@@ -1,0 +1,1500 @@
+CS2D 1.0.0.5 Logfile - 15 Nov 2017, 17:40:24
+
+[17:40:24] UDP socket initialized using port 60197
+[17:40:25] U.S.G.N.: Your game version is up to date!
+[17:40:28] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[17:41:30] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[17:41:58] U.S.G.N.: Received serverlist (servers: 99)
+[17:42:32] U.S.G.N.: Ping/State 'idle' (256 ms)
+[17:43:32] U.S.G.N.: Ping/State 'idle' (272 ms)
+[17:44:33] U.S.G.N.: Ping/State 'idle' (128 ms)
+[17:45:29] starting server...
+[17:45:29] UDP socket initialized using port 36963
+[17:45:29] load map 'de_cs2d'
+[17:45:29] ----- Server started -----
+[17:45:29] U.S.G.N.: Server added to serverlist
+[17:45:32] Sagos juntou-se a Countra-Terrorista Forças
+[17:45:34] U.S.G.N.: Ping/State 'playing'
+[17:45:52] Player conectou-se
+[17:45:52] Player is using IP 189.70.190.130:54619 and no U.S.G.N. ID
+[17:46:13] Player juntou-se a Countra-Terrorista Forças
+[17:46:13] Player juntou-se a Terrorista Forças
+[17:46:15] U.S.G.N.: Serverlist entry updated
+[17:46:35] U.S.G.N.: Ping/State 'playing'
+[17:46:40] Player 2 conectou-se
+[17:46:40] Player 2 is using IP 83.33.238.65:58768 and no U.S.G.N. ID
+[17:46:46] ZeppyYslanbr conectou-se
+[17:46:46] ZeppyYslanbr is using IP 177.17.105.31:26921 and no U.S.G.N. ID
+[17:46:50] Player 2 juntou-se a Terrorista Forças
+[17:46:55] ZeppyYslanbr juntou-se a Countra-Terrorista Forças
+[17:46:59] Sagos killed Player with Deagle
+[17:47:00] U.S.G.N.: Serverlist entry updated
+[17:47:10] Karmeleon conectou-se
+[17:47:10] Karmeleon is using IP 31.0.125.195:15944 and no U.S.G.N. ID
+[17:47:12] Triangulo Invertido conectou-se
+[17:47:12] Triangulo Invertido is using IP 201.242.219.31:57969 and no U.S.G.N. ID
+[17:47:16] JOIN FAILURE: KS:: ¿Z£ DROGUINHA? (177.157.210.83:64530) can't join (auth failed [v])
+[17:47:19] Karmeleon juntou-se a Terrorista Forças
+[17:47:21] Triangulo Invertido juntou-se a Terrorista Forças
+[17:47:21] Triangulo Invertido juntou-se a Countra-Terrorista Forças
+[17:47:22] Sagos killed Karmeleon with HE
+[17:47:25] Sagos killed Player 2 with Deagle
+[17:47:29] ZeppyYslanbr killed Player with MP5
+[17:47:35] U.S.G.N.: Ping/State 'playing'
+[17:47:40] Player deixou o jogo
+[17:47:45] U.S.G.N.: Serverlist entry updated
+[17:47:47] Player conectou-se
+[17:47:47] Player is using IP 200.7.11.253:65468 and no U.S.G.N. ID
+[17:47:49] Player juntou-se a Terrorista Forças
+[17:47:53] Karacb conectou-se
+[17:47:53] Karacb is using IP 213.231.25.173:65121 and no U.S.G.N. ID
+[17:47:54] Player: sagos e meu cu
+[17:47:54] Player 3 conectou-se
+[17:47:54] Player 3 is using IP 89.149.109.34:50677 and no U.S.G.N. ID
+[17:47:57] Karacb juntou-se a Countra-Terrorista Forças
+[17:47:59] Sagos: ?
+[17:48:03] Player 3 juntou-se a Countra-Terrorista Forças
+[17:48:03] Player 3 juntou-se a Terrorista Forças
+[17:48:03] U.S.G.N.: a t t n e x 0 (2.84.77.83) joining with U.S.G.N. ID #34672 - verifying...
+[17:48:03] Sagos killed Karmeleon with Deagle
+[17:48:03] U.S.G.N.: 2.84.77.83 is using U.S.G.N. ID #34672
+[17:48:03] a t t n e x 0 conectou-se
+[17:48:03] a t t n e x 0 is using IP 2.84.77.83:61275 and U.S.G.N. ID #34672
+[17:48:06] ZeppyYslanbr killed Player 2 with MP5
+[17:48:07] Player: simplew e carlos aq
+[17:48:09] ZeppyYslanbr killed Player 3 with MP5
+[17:48:10] Sagos killed Player with M3
+[17:48:13] Sagos: kkk eae
+[17:48:23] Player: to perdido aa
+[17:48:23] Sagos killed Player 3 with Deagle
+[17:48:28] Player: num pode se
+[17:48:29] Sagos: tbm to
+[17:48:31] U.S.G.N.: Serverlist entry updated
+[17:48:31] Player deixou o jogo
+[17:48:35] HakerFox conectou-se
+[17:48:35] HakerFox is using IP 31.131.96.125:63200 and no U.S.G.N. ID
+[17:48:36] U.S.G.N.: Ping/State 'playing'
+[17:48:39] Player conectou-se
+[17:48:39] Player is using IP 93.243.221.211:59803 and no U.S.G.N. ID
+[17:48:40] Triangulo Invertido killed Player 2 with Aug
+[17:48:40] Triangulo Invertido killed Karmeleon with Aug
+[17:48:40] Player 4 conectou-se
+[17:48:40] Player 4 is using IP 191.35.66.215:57065 and no U.S.G.N. ID
+[17:48:44] Player juntou-se a Countra-Terrorista Forças
+[17:48:45] * Auto Balanço de Equipe *
+[17:48:45] Player juntou-se a Terrorista Forças
+[17:48:53] Sagos died
+[17:48:53] Sagos juntou-se a Terrorista Forças
+[17:48:53] Karacb killed Karmeleon with Aug
+[17:48:55] Karacb killed Player 3 with Aug
+[17:48:55] Overused conectou-se
+[17:48:55] Overused is using IP 190.229.10.9:62751 and no U.S.G.N. ID
+[17:48:56] Karacb killed Player 2 with Aug
+[17:49:03] Player 3 *Morto*: 1;MB
+[17:49:07] Error: player Triangulo Invertido (#6) tries to select weapon which he does not own (wpn id 1)
+[17:49:10] Karacb killed Player with Aug
+[17:49:11] Player 4 has been kicked. Ping too high (3750).
+[17:49:11] Player 4 deixou o jogo (auta latência)
+[17:49:13] Overused juntou-se a Countra-Terrorista Forças
+[17:49:15] Player 4 conectou-se
+[17:49:15] Player 4 is using IP 189.70.190.130:54619 and no U.S.G.N. ID
+[17:49:16] U.S.G.N.: Serverlist entry updated
+[17:49:18] Player deixou o jogo
+[17:49:19] Player conectou-se
+[17:49:19] Player is using IP 46.185.80.196:57314 and no U.S.G.N. ID
+[17:49:25] Player 5 conectou-se
+[17:49:25] Player 5 is using IP 189.35.117.213:51386 and no U.S.G.N. ID
+[17:49:26] Sagos killed ZeppyYslanbr with M3
+[17:49:27] HakerFox juntou-se a Terrorista Forças
+[17:49:29] Player 3 killed Karacb with AK-47
+[17:49:31] Sagos killed Overused with M3
+[17:49:33] JOIN FAILURE: SK TacO (187.19.135.197:54869) can't join (server is full)
+[17:49:36] Overused deixou o jogo
+[17:49:36] U.S.G.N.: Ping/State 'playing'
+[17:49:39] Karmeleon killed Triangulo Invertido with AK-47
+[17:49:42] HakerFox deixou o jogo
+[17:49:44] Triangulo Invertido deixou o jogo
+[17:49:44] Player 4 juntou-se a Countra-Terrorista Forças
+[17:49:44] U.S.G.N.: SK TacO (187.19.135.197) joining with U.S.G.N. ID #150188 - verifying...
+[17:49:45] U.S.G.N.: 187.19.135.197 is using U.S.G.N. ID #150188
+[17:49:45] SK TacO conectou-se
+[17:49:45] SK TacO is using IP 187.19.135.197:54869 and U.S.G.N. ID #150188
+[17:49:49] Player 6 conectou-se
+[17:49:49] Player 6 is using IP 188.138.226.100:57283 and no U.S.G.N. ID
+[17:49:53] Overused conectou-se
+[17:49:53] Overused is using IP 190.229.10.9:62751 and no U.S.G.N. ID
+[17:49:54] Sagos killed Karacb with M3
+[17:49:56] Sagos killed ZeppyYslanbr with M3
+[17:49:59] Karacb deixou o jogo
+[17:50:01] U.S.G.N.: SK TacO (187.19.135.197) joining with U.S.G.N. ID #150188 - verifying...
+[17:50:01] U.S.G.N.: 187.19.135.197 is using U.S.G.N. ID #150188
+[17:50:01] SK TacO conectou-se
+[17:50:01] SK TacO is using IP 187.19.135.197:54869 and U.S.G.N. ID #150188
+[17:50:01] U.S.G.N.: Serverlist entry updated
+[17:50:04] Sagos killed Player 4 with Knife
+[17:50:04] Overused juntou-se a Countra-Terrorista Forças
+[17:50:05] ZeppyYslanbr deixou o jogo
+[17:50:08] Player 4 deixou o jogo
+[17:50:09] * Auto Balanço de Equipe *
+[17:50:09] Player 3 juntou-se a Countra-Terrorista Forças
+[17:50:10] SK TacO juntou-se a Countra-Terrorista Forças
+[17:50:11] Player 2 deixou o jogo
+[17:50:19] Karmeleon killed Overused with AK-47
+[17:50:21] Player 2 conectou-se
+[17:50:21] Player 2 is using IP 181.45.90.50:49032 and no U.S.G.N. ID
+[17:50:23] generating stats...
+[17:50:23] stats generated in 0 ms!
+[17:50:23] Player juntou-se a Countra-Terrorista Forças
+[17:50:26] Overused deixou o jogo
+[17:50:28] Player 2 juntou-se a Terrorista Forças
+[17:50:32] Sagos killed Player 3 with M3
+[17:50:37] U.S.G.N.: Ping/State 'playing'
+[17:50:45] Player deixou o jogo
+[17:50:46] SK TacO: ei
+[17:50:47] U.S.G.N.: Serverlist entry updated
+[17:50:48] SK TacO: br
+[17:50:49] Sagos: s
+[17:50:55] SK TacO: abre um sv
+[17:50:56] ZeppyYslanbr conectou-se
+[17:50:56] ZeppyYslanbr is using IP 177.17.105.31:26921 and no U.S.G.N. ID
+[17:50:58] SK TacO: de awp
+[17:51:06] ZeppyYslanbr juntou-se a Countra-Terrorista Forças
+[17:51:07] freak^ conectou-se
+[17:51:07] freak^ is using IP 179.158.55.240:49306 and no U.S.G.N. ID
+[17:51:08] U.S.G.N.: A®ØN (31.18.250.83) joining with U.S.G.N. ID #161624 - verifying...
+[17:51:09] U.S.G.N.: 31.18.250.83 is using U.S.G.N. ID #161624
+[17:51:09] A®ØN conectou-se
+[17:51:09] A®ØN is using IP 31.18.250.83:6997 and U.S.G.N. ID #161624
+[17:51:09] Sagos: blz pera ae
+[17:51:11] freak^ juntou-se a Countra-Terrorista Forças
+[17:51:12] Player 6 juntou-se a Terrorista Forças
+[17:51:12] SK TacO: vlw
+[17:51:15] A®ØN juntou-se a Terrorista Forças
+[17:51:24] ZeppyYslanbr votos para kickar Sagos
+[17:51:30] Player conectou-se
+[17:51:30] Player is using IP 151.26.110.179:17032 and no U.S.G.N. ID
+[17:51:31] Sagos: why?
+[17:51:32] U.S.G.N.: Serverlist entry updated
+[17:51:36] freak^ killed Karmeleon with M4A1
+[17:51:37] U.S.G.N.: Ping/State 'playing'
+[17:51:37] Player 5 juntou-se a Terrorista Forças
+[17:51:39] Sagos: calma ae ja volto vou baixa o mapa
+[17:51:39] Sagos died
+[17:51:39] Sagos juntou-se aos espectadores
+[17:51:41] Player 2 killed SK TacO with AK-47
+[17:51:44] Player 6 killed freak^ with AK-47
+[17:51:48] Player 3 killed Player 2 with M4A1
+[17:51:50] Karmeleon deixou o jogo
+[17:51:51] SK TacO deixou o jogo
+[17:51:52] A®ØN deixou o jogo
+[17:51:52] freak^ deixou o jogo
+[17:51:55] ZeppyYslanbr killed Player 6 with Galil
+[17:51:56] Marks conectou-se
+[17:51:56] Marks is using IP 191.184.209.163:63789 and no U.S.G.N. ID
+[17:52:00] Player 5 Alterou seu nome para LEGAL112
+[17:52:04] Marks juntou-se a Terrorista Forças
+[17:52:04] Marks juntou-se a Countra-Terrorista Forças
+[17:52:09] Player 4 conectou-se
+[17:52:09] Player 4 is using IP 177.156.163.104:63498 and no U.S.G.N. ID
+[17:52:14] Player 5 conectou-se
+[17:52:14] Player 5 is using IP 177.134.86.196:64101 and no U.S.G.N. ID
+[17:52:16] Player juntou-se a Countra-Terrorista Forças
+[17:52:16] ZeppyYslanbr killed Player 6 with Galil
+[17:52:17] U.S.G.N.: Serverlist entry updated
+[17:52:17] U.S.G.N.: Player (191.250.133.199) joining with U.S.G.N. ID #81347 - verifying...
+[17:52:18] Lucas_Emanuel conectou-se
+[17:52:18] Lucas_Emanuel is using IP 191.35.66.215:57065 and no U.S.G.N. ID
+[17:52:18] U.S.G.N.: 191.250.133.199 is using U.S.G.N. ID #81347
+[17:52:18] Player 7 conectou-se
+[17:52:18] Player 7 is using IP 191.250.133.199:64404 and U.S.G.N. ID #81347
+[17:52:19] Player 5 juntou-se a Terrorista Forças
+[17:52:20] JOIN FAILURE: Player (200.7.11.253:1778) can't join (server is full)
+[17:52:22] "  (1x)
+[17:52:24] "  (1x)
+[17:52:24] LEGAL112 killed ZeppyYslanbr with Glock
+[17:52:27] Marks killed Player 2 with USP
+[17:52:29] Player 5 deixou o jogo
+[17:52:29] WARNING: Failed RCon attempt from 177.134.86.196:64101 (cmd: )
+[17:52:35] LEGAL112 killed Marks with Glock
+[17:52:36] Player killed LEGAL112 with USP
+[17:52:38] U.S.G.N.: Ping/State 'playing'
+[17:52:39] Player 5 conectou-se
+[17:52:39] Player 5 is using IP 200.7.11.253:1778 and no U.S.G.N. ID
+[17:52:42] Sagos: ja ja troco o mapa
+[17:52:42] ZeppyYslanbr: quem ta pela steam
+[17:52:43] Player 7 juntou-se a Terrorista Forças
+[17:52:43] Player 5 juntou-se a Terrorista Forças
+[17:52:46] Player 7: eu
+[17:52:47] Sagos: eu to pela steam
+[17:52:50] Player 7: sagos
+[17:52:53] Player 7: SAGOS VIADOOO
+[17:52:57] Sagos: eae kk
+[17:52:58] Player 7 Alterou seu nome para Paulo Henrique
+[17:53:01] LEGAL112 killed Player with AK-47
+[17:53:02] Paulo Henrique: tu nem deve lembra de mim
+[17:53:02] Player 6 killed ZeppyYslanbr with P90
+[17:53:03] Player 3 killed Player 2 with M4A1
+[17:53:05] Paulo Henrique: mais eu era seu amigo
+[17:53:07] LEGAL112 killed Player 3 with AK-47
+[17:53:08] Player deixou o jogo
+[17:53:09] Paulo Henrique: seu rcon deve ser 2017
+[17:53:11] U.S.G.N.: freak^ (179.158.55.240) joining with U.S.G.N. ID #31387 - verifying...
+[17:53:12] Paulo Henrique: kkkkkkkkkkkkkkkkkkkk
+[17:53:13] U.S.G.N.: 179.158.55.240 is using U.S.G.N. ID #31387
+[17:53:13] freak^ conectou-se
+[17:53:13] freak^ is using IP 179.158.55.240:49306 and U.S.G.N. ID #31387
+[17:53:15] Paulo Henrique: qr ve
+[17:53:17] Player 2 deixou o jogo
+[17:53:17] Lucas_Emanuel juntou-se a Countra-Terrorista Forças
+[17:53:17] freak^ juntou-se a Countra-Terrorista Forças
+[17:53:19] Sagos: ss huashuhas
+[17:53:19] LEGAL112 killed Marks with AK-47
+[17:53:23] Player 5: kspakda
+[17:53:27] ZeppyYslanbr: lag
+[17:53:29] ZeppyYslanbr deixou o jogo
+[17:53:31] Marks: lag 
+[17:53:32] Player 5: no inicio era 2017
+[17:53:34] NinjaGoiaba conectou-se
+[17:53:34] NinjaGoiaba is using IP 187.1.31.230:56323 and no U.S.G.N. ID
+[17:53:38] Sagos: to me acostumando com o jogo ainda
+[17:53:38] U.S.G.N.: Ping/State 'playing'
+[17:53:38] Player 5 deixou o jogo
+[17:53:42] Sagos: mudou mt coisa
+[17:53:44] Paulo Henrique: eu tbm
+[17:53:47] Paulo Henrique: voltei hj
+[17:53:48] Marks killed LEGAL112 with M249
+[17:53:48] U.S.G.N.: Serverlist entry updated
+[17:53:52] NinjaGoiaba juntou-se a Terrorista Forças
+[17:53:53] SECURITY WARNING: 2.84.77.83 seems to be a hacker (flooding). Ignoring all future packets (600 sec).
+[17:53:56] Player 4 deixou o jogo
+[17:53:56] NinjaGoiaba *Morto*: oi
+[17:53:59] Sagos: teste
+[17:54:08] NinjaGoiaba *Morto*: começei a jogar hj
+[17:54:10] Sagos: 
+[17:54:12] Paulo Henrique: sagos
+[17:54:15] NinjaGoiaba *Morto*: acabei de baixar ma steam
+[17:54:15] Sagos: fala
+[17:54:18] Paulo Henrique: tu tinha um bot
+[17:54:19] FlameMetal conectou-se
+[17:54:19] FlameMetal is using IP 190.238.163.246:9216 and no U.S.G.N. ID
+[17:54:20] Paulo Henrique: lembra kk
+[17:54:20] Error12 conectou-se
+[17:54:20] Error12 is using IP 177.158.155.27:58214 and no U.S.G.N. ID
+[17:54:23] Sagos: ainda tenho
+[17:54:24] Player 3 killed Player 6 with AWP
+[17:54:26] FlameMetal juntou-se a Countra-Terrorista Forças
+[17:54:26] Error12 juntou-se a Countra-Terrorista Forças
+[17:54:28] Paulo Henrique: eu vou fazer um vei
+[17:54:29] ZeppyYslanbr conectou-se
+[17:54:29] ZeppyYslanbr is using IP 177.17.105.31:26921 and no U.S.G.N. ID
+[17:54:32] Paulo Henrique: eu sei rpogramar agr kk
+[17:54:34] U.S.G.N.: Serverlist entry updated
+[17:54:36] ZeppyYslanbr juntou-se a Terrorista Forças
+[17:54:37] Paulo Henrique: nao em lua ne
+[17:54:38] Sagos: ^^
+[17:54:39] U.S.G.N.: Ping/State 'playing'
+[17:54:40] freak^ killed Paulo Henrique with Knife
+[17:54:43] Sagos: qual lingua?
+[17:54:45] Paulo Henrique: mais e so ler a documentaçao e e nois
+[17:54:47] Paulo Henrique: python e c#
+[17:54:52] Sagos: c# é vida
+[17:54:52] freak^ killed Paulo Henrique with M4A1
+[17:55:00] Sagos: python é mt parecido com lua
+[17:55:01] freak^ killed LEGAL112 with M4A1
+[17:55:03] Sagos: vai ser izi pra vc
+[17:55:05] Player 3 killed ZeppyYslanbr with AWP
+[17:55:07] freak^ killed Player 6 with M4A1
+[17:55:09] freak^ killed NinjaGoiaba with M4A1
+[17:55:15] Paulo Henrique: sim eu vi
+[17:55:21] FlameMetal deixou o jogo
+[17:55:23] generating stats...
+[17:55:23] stats generated in 0 ms!
+[17:55:24] ZeppyYslanbr deixou o jogo
+[17:55:27] freak^ killed NinjaGoiaba with M4A1
+[17:55:30] freak^ killed LEGAL112 with M4A1
+[17:55:34] freak^ killed Player 6 with M4A1
+[17:55:36] freak^ killed Paulo Henrique with M4A1
+[17:55:39] U.S.G.N.: Ping/State 'playing'
+[17:55:39] Paulo Henrique *Morto*: qual seu nome na steam?
+[17:55:41] Marks: .-.
+[17:55:44] Paulo Henrique: qual seu noem na steam
+[17:55:45] Sagos: Sagos .-.
+[17:55:47] Marks: vo mudar team kk
+[17:55:50] freak^ killed NinjaGoiaba with M4A1
+[17:55:50] Paulo Henrique: tu nao ta no tab
+[17:55:51] freak^ killed Player 6 with M4A1
+[17:55:53] freak^ killed LEGAL112 with M4A1
+[17:55:55] Marks died
+[17:55:55] Marks juntou-se a Terrorista Forças
+[17:55:56] Player 6 deixou o jogo
+[17:55:57] freak^ killed Paulo Henrique with M4A1
+[17:56:02] Sagos: é pq to em spec
+[17:56:04] U.S.G.N.: Serverlist entry updated
+[17:56:06] Paulo Henrique died
+[17:56:06] Paulo Henrique juntou-se aos espectadores
+[17:56:11] freak^ killed LEGAL112 with M4A1
+[17:56:13] Marks killed Player 3 with M249
+[17:56:15] freak^ killed NinjaGoiaba with M4A1
+[17:56:15] LEGAL112 deixou o jogo
+[17:56:16] Sagos: teste
+[17:56:17] freak^ killed Marks with M4A1
+[17:56:21] Sagos: ae achei o ciano
+[17:56:21] Paulo Henrique *Morto*: wtf
+[17:56:22] * Auto Balanço de Equipe *
+[17:56:22] Error12 juntou-se a Terrorista Forças
+[17:56:24] Player 3: M<< :0: @01>B05B 02?
+[17:56:26] Paulo Henrique *Morto*: eu to de admin?
+[17:56:28] NinjaGoiaba deixou o jogo
+[17:56:30] Paulo Henrique *Morto*: pq aq ta q da pra kikar
+[17:56:34] freak^ killed Marks with M4A1
+[17:56:38] Paulo Henrique *Morto*: ou e pq eu loguei no rcon?
+[17:56:39] freak^ killed Error12 with Knife
+[17:56:40] U.S.G.N.: Ping/State 'playing'
+[17:56:43] Parse RCon (191.250.133.199:64404): msg oi
+[17:56:43] oi
+[17:56:43] Marks *Morto*: mds kk
+[17:56:43] Player conectou-se
+[17:56:43] Player is using IP 77.254.179.48:36963 and no U.S.G.N. ID
+[17:56:44] Sagos: vc logou no rcon
+[17:56:45] Paulo Henrique *Morto*: a eu to no rcon
+[17:56:49] Paulo Henrique *Morto*: viu 
+[17:56:50] U.S.G.N.: Serverlist entry updated
+[17:56:51] Paulo Henrique *Morto*: como eu te conheço
+[17:56:52] Player juntou-se a Terrorista Forças
+[17:56:55] freak^ killed Player with M4A1
+[17:56:55] Paulo Henrique *Morto*: tu so botava rcon assim
+[17:56:56] Marks killed Lucas_Emanuel with M249
+[17:56:57] Paulo Henrique *Morto*: 2013
+[17:56:57] freak^ killed Error12 with M4A1
+[17:56:59] Paulo Henrique *Morto*: 2014
+[17:57:02] Player 2 conectou-se
+[17:57:02] Player 2 is using IP 189.6.243.73:13616 and no U.S.G.N. ID
+[17:57:03] Sagos: haushuahs eu pensei q ngm iria lembra de mim
+[17:57:10] freak^ killed Marks with M4A1
+[17:57:20] Sagos: to achando o cs2d mt mais bonito
+[17:57:27] Marks killed Player 3 with P90
+[17:57:28] Paulo Henrique *Morto*: vdd
+[17:57:30] Paulo Henrique *Morto*: agora vai lotar eu acho
+[17:57:35] Sagos: tbm acho
+[17:57:35] U.S.G.N.: Serverlist entry updated
+[17:57:35] freak^ killed Player with M4A1
+[17:57:38] freak^ killed Error12 with M4A1
+[17:57:38] Player 3 deixou o jogo
+[17:57:40] U.S.G.N.: Ping/State 'playing'
+[17:57:41] Sagos: vou criar varios scripts agr
+[17:57:43] Player 2 juntou-se a Terrorista Forças
+[17:57:44] freak^ killed Marks with M4A1
+[17:57:45] Paulo Henrique *Morto*: eu tbm kk
+[17:57:49] * Auto Balanço de Equipe *
+[17:57:49] Player 2 juntou-se a Countra-Terrorista Forças
+[17:57:50] LEGAL112 conectou-se
+[17:57:50] LEGAL112 is using IP 189.35.117.213:51386 and no U.S.G.N. ID
+[17:57:50] Player 3 conectou-se
+[17:57:50] Player 3 is using IP 177.68.235.49:50505 and no U.S.G.N. ID
+[17:57:55] Player 3 juntou-se a Countra-Terrorista Forças
+[17:57:55] Sagos: to pensando em fazer o script igual do PUBG
+[17:57:58] LEGAL112 deixou o jogo
+[17:57:58] freak^ killed Error12 with M4A1
+[17:58:00] freak^ killed Marks with M4A1
+[17:58:00] freak^ killed Player with M4A1
+[17:58:01] Paulo Henrique *Morto*: oloco
+[17:58:05] Player 3: salve tem chat voice?
+[17:58:05] Paulo Henrique *Morto*: se precisar de ajuda tamo ai
+[17:58:11] Paulo Henrique *Morto*: xD
+[17:58:14] Sagos: add na steam
+[17:58:18] freak^ killed Error12 with M4A1
+[17:58:20] U.S.G.N.: Serverlist entry updated
+[17:58:21] Lucas_Emanuel killed Player with Deagle
+[17:58:21] freak^ killed Marks with M4A1
+[17:58:25] Player 3: eu?
+[17:58:30] Paulo Henrique *Morto*: vai pra um time
+[17:58:33] Sagos *Morto*: ok
+[17:58:34] Paulo Henrique *Morto*: se nao nao da pra abrir
+[17:58:35] Sagos juntou-se a Terrorista Forças
+[17:58:37] freak^ killed Error12 with M4A1
+[17:58:39] freak^ killed Player with M4A1
+[17:58:41] U.S.G.N.: Ping/State 'playing'
+[17:58:42] freak^ killed Marks with M4A1
+[17:58:45] Paulo Henrique *Morto*: ae
+[17:58:47] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[17:58:50] Player 4 conectou-se
+[17:58:50] Player 4 is using IP 78.156.178.52:36963 and no U.S.G.N. ID
+[17:58:56] freak^ killed Sagos with M4A1
+[17:58:56] U.S.G.N.: Makeno (168.181.48.116) joining with U.S.G.N. ID #161492 - verifying...
+[17:58:56] Parse RCon (191.250.133.199:64404): msg so no vac em
+[17:58:56] so no vac em
+[17:58:57] Player 4 juntou-se a Terrorista Forças
+[17:58:57] U.S.G.N.: 168.181.48.116 is using U.S.G.N. ID #161492
+[17:58:57] Makeno conectou-se
+[17:58:57] Makeno is using IP 168.181.48.116:15255 and U.S.G.N. ID #161492
+[17:59:01] Sagos *Morto*: kkkkkkkkkkkkk morri
+[17:59:01] Error12 killed freak^ with HE
+[17:59:05] Marks killed Lucas_Emanuel with Knife
+[17:59:05] Player 5 conectou-se
+[17:59:05] Player 5 is using IP 181.47.48.128:62012 and no U.S.G.N. ID
+[17:59:08] JOIN FAILURE: Player 5 (181.47.48.128:62012) can't join (map differs)
+[17:59:10] Player foi kickado por estar inativo
+[17:59:10] Player deixou o jogo (idle kikou)
+[17:59:14] Lucas_Emanuel deixou o jogo
+[17:59:14] Player conectou-se
+[17:59:14] Player is using IP 181.47.48.128:62012 and no U.S.G.N. ID
+[17:59:16] Starting transfer to Player (files: 15) ...
+[17:59:16] Player needs 1 file. Starting to send file...
+[17:59:16] Sending 'maps/de_cs2d.map' to Player...
+[17:59:17] Player 3 killed Error12 with M4A1
+[17:59:20] Marks killed Player 3 with Knife
+[17:59:24] Player juntou-se a Countra-Terrorista Forças
+[17:59:27] Marks killed Player 2 with Knife
+[17:59:30] Marks: XD
+[17:59:33] Player 4 Alterou seu nome para corkscrew
+[17:59:34] Marks: troll
+[17:59:34] Player 3 deixou o jogo
+[17:59:39] Paulo Henrique: sagos vamo cria entao o script??
+[17:59:41] U.S.G.N.: Ping/State 'playing'
+[17:59:43] Player 2 deixou o jogo
+[17:59:45] Makeno juntou-se a Countra-Terrorista Forças
+[17:59:45] Makeno Alterou seu nome para Player 2
+[17:59:46] Sagos killed freak^ with M3
+[17:59:46] FabisMom conectou-se
+[17:59:46] FabisMom is using IP 217.226.190.94:53801 and no U.S.G.N. ID
+[17:59:51] U.S.G.N.: Serverlist entry updated
+[17:59:53] FabisMom juntou-se a Terrorista Forças
+[17:59:54] Sagos: kkkkkkkkkkkkkkkkkkk
+[17:59:59] Sagos: tem animação plantando a bomba
+[18:00:06] Paulo Henrique: tem vo ip
+[18:00:10] Paulo Henrique: habilita ae viado
+[18:00:13] Marik conectou-se
+[18:00:13] Marik is using IP 91.243.206.99:50271 and no U.S.G.N. ID
+[18:00:15] freak^ deixou o jogo
+[18:00:18] Player killed Sagos with M4A1
+[18:00:22] Marks: gg
+[18:00:23] generating stats...
+[18:00:23] stats generated in 0 ms!
+[18:00:24] Sagos: ta habilitado
+[18:00:27] Marks died
+[18:00:28] corkscrew killed Player 2 with MP5
+[18:00:29] Marik juntou-se a Countra-Terrorista Forças
+[18:00:37] U.S.G.N.: Serverlist entry updated
+[18:00:42] U.S.G.N.: Ping/State 'playing'
+[18:00:55] Player 2 killed corkscrew with M4A1
+[18:01:03] Marik killed FabisMom with M4A1
+[18:01:05] Marik killed Marks with M4A1
+[18:01:11] Player 3 conectou-se
+[18:01:11] Player 3 is using IP 177.41.70.90:58902 and no U.S.G.N. ID
+[18:01:12] Player killed Sagos with M4A1
+[18:01:15] Paulo Henrique: aa sagos
+[18:01:17] Paulo Henrique: eu tenho uma vps
+[18:01:19] Paulo Henrique: q n to usando
+[18:01:22] U.S.G.N.: Serverlist entry updated
+[18:01:23] Paulo Henrique: se quise nosi pode hospedar la o sv
+[18:01:28] Player 3 juntou-se a Countra-Terrorista Forças
+[18:01:28] Sagos: é boa?
+[18:01:30] Paulo Henrique: é
+[18:01:32] BoNnIE-149 conectou-se
+[18:01:32] BoNnIE-149 is using IP 93.185.19.47:61571 and no U.S.G.N. ID
+[18:01:32] Paulo Henrique: fi 10gb
+[18:01:34] Paulo Henrique: kkk
+[18:01:37] Sagos: oloco kkk
+[18:01:39] BoNnIE-149 juntou-se a Countra-Terrorista Forças
+[18:01:41] Player killed corkscrew with M4A1
+[18:01:42] Sagos: vms fazer scripts e hospedar la ent
+[18:01:45] Paulo Henrique: eu so hospedo meu site e meu emai
+[18:01:47] U.S.G.N.: Ping/State 'playing'
+[18:01:50] Paulo Henrique: por em qunato
+[18:01:51] Sagos killed Player with M3
+[18:01:52] Sagos killed Player 3 with M3
+[18:01:54] Sagos killed Player 2 with M3
+[18:01:55] Sagos killed BoNnIE-149 with M3
+[18:01:56] Sagos killed Paulo Henrique with M3
+[18:01:59] BoNnIE-149 deixou o jogo
+[18:01:59] Khaada conectou-se
+[18:01:59] Khaada is using IP 189.61.239.194:52809 and no U.S.G.N. ID
+[18:02:01] FabisMom killed Marik with AK-47
+[18:02:07] Sagos: vc paga quanto por mes?
+[18:02:07] U.S.G.N.: Serverlist entry updated
+[18:02:11] Paulo Henrique: eu pago 50
+[18:02:15] Player 4 conectou-se
+[18:02:15] Player 4 is using IP 201.47.176.127:55207 and no U.S.G.N. ID
+[18:02:18] FabisMom killed Player 3 with AK-47
+[18:02:20] Sagos killed Marik with M3
+[18:02:21] Player 2 deixou o jogo
+[18:02:24] Paulo Henrique: me aceita na steam
+[18:02:24] Marik deixou o jogo
+[18:02:27] Paulo Henrique: mandei convite
+[18:02:27] Sagos: ok
+[18:02:33] FabisMom killed Player with AK-47
+[18:02:34] Sagos: pronto
+[18:02:34] FabisMom killed Paulo Henrique with AK-47
+[18:02:36] Player 4 juntou-se a Countra-Terrorista Forças
+[18:02:42] Marks deixou o jogo
+[18:02:45] U.S.G.N.: FelixTech (177.43.131.212) joining with U.S.G.N. ID #14773 - verifying...
+[18:02:45] Khaada juntou-se a Countra-Terrorista Forças
+[18:02:46] U.S.G.N.: 177.43.131.212 is using U.S.G.N. ID #14773
+[18:02:46] FelixTech conectou-se
+[18:02:46] FelixTech is using IP 177.43.131.212:50917 and U.S.G.N. ID #14773
+[18:02:48] U.S.G.N.: Ping/State 'playing'
+[18:02:50] FelixTech juntou-se a Terrorista Forças
+[18:02:51] Paulo Henrique deixou o jogo
+[18:02:53] Sagos: man eu vo fica spec
+[18:02:53] U.S.G.N.: Serverlist entry updated
+[18:02:53] Sagos died
+[18:02:53] Sagos juntou-se aos espectadores
+[18:02:58] U.S.G.N.: Player (168.181.48.116) joining with U.S.G.N. ID #161492 - verifying...
+[18:02:59] U.S.G.N.: 168.181.48.116 is using U.S.G.N. ID #161492
+[18:02:59] Player 2 conectou-se
+[18:02:59] Player 2 is using IP 168.181.48.116:15255 and U.S.G.N. ID #161492
+[18:03:03] FabisMom killed Player 3 with AK-47
+[18:03:05] FabisMom killed Khaada with AK-47
+[18:03:08] FabisMom killed Player 4 with AK-47
+[18:03:11] Khaada deixou o jogo
+[18:03:18] Error12 killed Player with MP5
+[18:03:20] FelixTech: puts tinha vc no msn
+[18:03:20] Player 3 *Morto*: incrivel como isso tá um lag
+[18:03:24] FelixTech: sagos
+[18:03:38] U.S.G.N.: Serverlist entry updated
+[18:03:40] corkscrew killed Player 3 with Galil
+[18:03:43] FabisMom killed Player 4 with AK-47
+[18:03:48] FabisMom killed Player with AK-47
+[18:03:48] U.S.G.N.: Ping/State 'playing'
+[18:03:51] FelixTech deixou o jogo
+[18:04:05] Player 2 juntou-se a Terrorista Forças
+[18:04:06] FabisMom killed Player with AK-47
+[18:04:09] Player 5 conectou-se
+[18:04:09] Player 5 is using IP 186.226.192.14:51865 and no U.S.G.N. ID
+[18:04:09] Khaada conectou-se
+[18:04:09] Khaada is using IP 189.61.239.194:52809 and no U.S.G.N. ID
+[18:04:10] Player 3 killed FabisMom with Deagle
+[18:04:16] corkscrew killed Player 4 with Galil
+[18:04:19] Player 5 juntou-se a Countra-Terrorista Forças
+[18:04:21] Error12 killed Player 3 with MP5
+[18:04:24] U.S.G.N.: Serverlist entry updated
+[18:04:39] Player 4 killed FabisMom with Famas
+[18:04:41] Khaada deixou o jogo
+[18:04:45] Error12 killed Player 4 with MP5
+[18:04:46] Player 3 killed Error12 with G3SG1
+[18:04:49] U.S.G.N.: Ping/State 'playing'
+[18:04:50] Player killed corkscrew with M4A1
+[18:04:54] Player 2 killed Player 3 with AK-47
+[18:05:00] Nitro Zeus conectou-se
+[18:05:00] Nitro Zeus is using IP 181.90.171.13:54715 and no U.S.G.N. ID
+[18:05:05] Player 3 deixou o jogo
+[18:05:09] Player 2 killed Player 5 with AK-47
+[18:05:09] U.S.G.N.: Serverlist entry updated
+[18:05:12] Sagos: qual botão fala no chat de voz?
+[18:05:16] Player 4 *Morto*: lag da porra
+[18:05:16] Player 2 killed Player with AK-47
+[18:05:18] Player 5 deixou o jogo
+[18:05:18] Nitro Zeus juntou-se a Countra-Terrorista Forças
+[18:05:20] Player 4 *Morto*: y
+[18:05:23] generating stats...
+[18:05:23] stats generated in 1 ms!
+[18:05:27] Player deixou o jogo
+[18:05:31] U.S.G.N.: nickyZen (200.165.29.68) joining with U.S.G.N. ID #148745 - verifying...
+[18:05:31] U.S.G.N.: 200.165.29.68 is using U.S.G.N. ID #148745
+[18:05:31] nickyZen conectou-se
+[18:05:31] nickyZen is using IP 200.165.29.68:56275 and U.S.G.N. ID #148745
+[18:05:31] Player 2 killed Player 4 with AK-47
+[18:05:38] nickyZen juntou-se a Countra-Terrorista Forças
+[18:05:49] U.S.G.N.: Ping/State 'playing'
+[18:05:50] Nitro Zeus killed Error12 with M4A1
+[18:05:54] U.S.G.N.: Serverlist entry updated
+[18:05:59] corkscrew killed Nitro Zeus with P90
+[18:06:01] Player conectou-se
+[18:06:01] Player is using IP 203.87.133.143:63505 and no U.S.G.N. ID
+[18:06:05] Player 2: como fala?
+[18:06:09] nickyZen: vei
+[18:06:11] nickyZen: melhoro pakas
+[18:06:12] Player juntou-se a Terrorista Forças
+[18:06:12] Player juntou-se a Countra-Terrorista Forças
+[18:06:13] nickyZen: na steam
+[18:06:14] nickyZen: slk
+[18:06:17] Player 2: sim mano
+[18:06:18] Sagos: aperta Z pra fala no mic
+[18:06:19] Player 2 killed Player 4 with AK-47
+[18:06:24] U.S.G.N.: Paulo Henrique (191.250.133.199) joining with U.S.G.N. ID #81347 - verifying...
+[18:06:25] U.S.G.N.: 191.250.133.199 is using U.S.G.N. ID #81347
+[18:06:25] Paulo Henrique conectou-se
+[18:06:25] Paulo Henrique is using IP 191.250.133.199:64404 and U.S.G.N. ID #81347
+[18:06:28] Player killed Error12 with USP
+[18:06:35] Player killed FabisMom with USP
+[18:06:36] Player 2 killed Player with AK-47
+[18:06:36] Player 3 conectou-se
+[18:06:36] Player 3 is using IP 186.56.7.103:60331 and no U.S.G.N. ID
+[18:06:40] Player 4 deixou o jogo
+[18:06:40] U.S.G.N.: Serverlist entry updated
+[18:06:43] nickyZen: os sv de awp
+[18:06:45] Paulo Henrique juntou-se a Terrorista Forças
+[18:06:45] Nitro Zeus killed corkscrew with M4A1
+[18:06:47] Player 3 juntou-se a Countra-Terrorista Forças
+[18:06:48] nickyZen: eai como fica
+[18:06:50] U.S.G.N.: Ping/State 'playing'
+[18:06:51] Player 2 killed nickyZen with AK-47
+[18:06:52] Player 2 killed Nitro Zeus with AK-47
+[18:06:54] corkscrew deixou o jogo
+[18:06:57] nickyZen: sv de awp é vida vei
+[18:06:58] Paulo Henrique: ae sagos tou passando 
+[18:07:02] Paulo Henrique: os arquivos
+[18:07:11] nickyZen: como fala com voz '-'
+[18:07:12] Player 2 killed Player with AK-47
+[18:07:18] Paulo Henrique: z
+[18:07:19] Sagos: segura Z
+[18:07:24] Paulo Henrique: Z
+[18:07:25] U.S.G.N.: Serverlist entry updated
+[18:07:27] Player 3 killed FabisMom with M4A1
+[18:07:32] Player 2 killed Player 3 with AK-47
+[18:07:34] nickyZen: ata
+[18:07:40] Nitro Zeus: lag?
+[18:07:41] nickyZen: nnn
+[18:07:41] Player 4 conectou-se
+[18:07:41] Player 4 is using IP 179.220.38.9:59397 and no U.S.G.N. ID
+[18:07:42] Player 2 killed nickyZen with AK-47
+[18:07:43] Maurin conectou-se
+[18:07:43] Maurin is using IP 189.101.71.69:36963 and no U.S.G.N. ID
+[18:07:43] nickyZen *Morto*: com voz
+[18:07:44] nickyZen *Morto*: .-.
+[18:07:45] Player 2 killed Nitro Zeus with AK-47
+[18:07:51] Player 5 conectou-se
+[18:07:51] Player 5 is using IP 187.105.112.153:54291 and no U.S.G.N. ID
+[18:07:51] Player 4 juntou-se a Countra-Terrorista Forças
+[18:07:51] nickyZen: com voz tiuzaum
+[18:07:54] Maurin juntou-se a Countra-Terrorista Forças
+[18:07:54] Maurin juntou-se a Terrorista Forças
+[18:07:55] U.S.G.N.: Ping/State 'playing'
+[18:07:57] Player 5 juntou-se a Terrorista Forças
+[18:08:05] Paulo Henrique killed Player 3 with M4A1
+[18:08:07] TSocket: 'api.steampowered.com' Time Out (stage: -1)
+[18:08:09] Player 4 killed Paulo Henrique with USP
+[18:08:11] U.S.G.N.: Serverlist entry updated
+[18:08:15] nickyZen: so tem um problema, essa versao da steam
+[18:08:15] Error12 killed Nitro Zeus with SG552
+[18:08:18] nickyZen: ta mt lagada
+[18:08:19] FabisMom killed Player 4 with AK-47
+[18:08:21] FabisMom has been kicked. Ping too high (1755).
+[18:08:21] FabisMom deixou o jogo (auta latência)
+[18:08:24] Nitro Zeus deixou o jogo
+[18:08:24] Sagos: o lag é minha net
+[18:08:26] Error12 killed Player with SG552
+[18:08:29] Player 4 deixou o jogo
+[18:08:32] Player 5 deixou o jogo
+[18:08:36] nickyZen killed Maurin with M4A1
+[18:08:38] Error12 killed nickyZen with SG552
+[18:08:43] nickyZen: 12 hp o infeliz, slk
+[18:08:50] Player 4 conectou-se
+[18:08:50] Player 4 is using IP 179.220.38.9:59397 and no U.S.G.N. ID
+[18:08:55] Player 4 juntou-se a Terrorista Forças
+[18:08:55] Player 4 juntou-se a Countra-Terrorista Forças
+[18:08:55] nickyZen killed Player 2 with M4A1
+[18:08:55] Sagos: vou mudar o mapa daqui a pouco em
+[18:08:56] U.S.G.N.: Ping/State 'playing'
+[18:08:56] U.S.G.N.: Serverlist entry updated
+[18:08:59] Player 4 died
+[18:08:59] Player 4 juntou-se a Terrorista Forças
+[18:09:00] Sagos: awp_grey
+[18:09:02] Player 5 conectou-se
+[18:09:02] Player 5 is using IP 131.100.93.142:53096 and no U.S.G.N. ID
+[18:09:02] Error12 killed Player 3 with AK-47
+[18:09:06] Maurin killed Player with P90
+[18:09:10] Player 5 juntou-se a Countra-Terrorista Forças
+[18:09:11] nickyZen killed Error12 with M4A1
+[18:09:13] nickyZen killed Maurin with M4A1
+[18:09:22] Player 6 conectou-se
+[18:09:22] Player 6 is using IP 31.206.172.187:56207 and no U.S.G.N. ID
+[18:09:24] nickyZen: ainda tem tr?
+[18:09:26] Player 2 *Morto*: pode cre
+[18:09:28] Player 7 conectou-se
+[18:09:28] Player 7 is using IP 191.112.214.204:54665 and no U.S.G.N. ID
+[18:09:29] Player 6 juntou-se a Countra-Terrorista Forças
+[18:09:29] Player 4 *Morto*: sim
+[18:09:32] Error12 *Morto*: afk
+[18:09:38] nickyZen: estupro <3
+[18:09:38] nickyZen killed Paulo Henrique with Knife
+[18:09:42] U.S.G.N.: Serverlist entry updated
+[18:09:48] Paulo Henrique died
+[18:09:48] Paulo Henrique juntou-se aos espectadores
+[18:09:52] Player 7 juntou-se a Terrorista Forças
+[18:09:53] JOIN FAILURE: SAdriana (88.230.205.145:58911) can't join (server is full)
+[18:10:02] U.S.G.N.: Ping/State 'playing'
+[18:10:13] nickyZen killed Maurin with M4A1
+[18:10:14] nickyZen killed Player 4 with M4A1
+[18:10:15] Player 2 killed Player with AK-47
+[18:10:19] Player 6 deixou o jogo
+[18:10:23] generating stats...
+[18:10:23] stats generated in 0 ms!
+[18:10:25] Error12 killed nickyZen with AK-47
+[18:10:29] nickyZen *Morto*: mt lagado ssa porra vei
+[18:10:29] Player 5 killed Error12 with Glock
+[18:10:31] Player 2 killed Player 3 with AK-47
+[18:10:42] Sagos: espera vey to arrumando isso
+[18:10:44] Player 2 killed Player 5 with AK-47
+[18:10:45] nickyZen: gg
+[18:10:55] U.S.G.N.: EL LOCO SARA (179.0.238.26) joining with U.S.G.N. ID #152074 - verifying...
+[18:10:56] U.S.G.N.: 179.0.238.26 is using U.S.G.N. ID #152074
+[18:10:56] EL LOCO SARA conectou-se
+[18:10:56] EL LOCO SARA is using IP 179.0.238.26:49579 and U.S.G.N. ID #152074
+[18:10:58] Player 5 deixou o jogo
+[18:10:59] Error12 killed nickyZen with AK-47
+[18:10:59] Player 5 conectou-se
+[18:10:59] Player 5 is using IP 138.36.243.238:49356 and no U.S.G.N. ID
+[18:11:03] nickyZen *Morto*: POAH VEI
+[18:11:03] JOIN FAILURE: Player (179.182.254.108:1101) can't join (server is full)
+[18:11:05] nickyZen *Morto*: LAGADO PA CARALHO
+[18:11:07] Player killed Error12 with M4A1
+[18:11:08] EL LOCO SARA juntou-se a Countra-Terrorista Forças
+[18:11:08] Player 2 killed Player with AK-47
+[18:11:12] U.S.G.N.: Serverlist entry updated
+[18:11:12] U.S.G.N.: Ping/State 'playing'
+[18:11:19] Maurin killed Player 3 with AK-47
+[18:11:34] JOIN FAILURE: Player (179.176.252.240:62674) can't join (server is full)
+[18:11:35] Player 5 juntou-se a Countra-Terrorista Forças
+[18:11:41] Player 7 killed Player 3 with Glock
+[18:11:42] Player killed Player 7 with Famas
+[18:11:45] JOIN FAILURE: Player (179.176.252.240:62674) can't join (server is full)
+[18:11:45] Error12 killed Player with AK-47
+[18:11:45] Player 3 deixou o jogo
+[18:11:46] EL LOCO SARA killed Maurin with M4A1
+[18:11:47] EL LOCO SARA killed Player 2 with M4A1
+[18:11:51] Player 7 deixou o jogo
+[18:11:56] Error12 killed nickyZen with AK-47
+[18:11:58] U.S.G.N.: Serverlist entry updated
+[18:12:04] Error12 killed EL LOCO SARA with AK-47
+[18:12:06] nickyZen *Morto*: Sagos, porra vei, arruma ai essa bagaça
+[18:12:08] EL LOCO SARA deixou o jogo
+[18:12:09] Player 5 killed Player 4 with Famas
+[18:12:13] U.S.G.N.: Ping/State 'playing'
+[18:12:14] Isaac conectou-se
+[18:12:14] Isaac is using IP 167.250.139.141:22076 and no U.S.G.N. ID
+[18:12:17] Player 3 conectou-se
+[18:12:17] Player 3 is using IP 187.78.110.14:64819 and no U.S.G.N. ID
+[18:12:17] Player 5 killed Error12 with USP
+[18:12:21] Error12 *Morto*: aaah
+[18:12:22] Isaac juntou-se a Countra-Terrorista Forças
+[18:12:26] nickyZen: como q fala com voz nessa porra
+[18:12:29] Player 3 juntou-se a Terrorista Forças
+[18:12:34] Player 2 killed Player 5 with P90
+[18:12:38] Player 3: e eu sei la
+[18:12:49] Player 4 killed nickyZen with Galil
+[18:12:55] nickyZen *Morto*: merda como n comprei a m4
+[18:13:01] Error12 killed Player with AK-47
+[18:13:02] Maurin killed Isaac with Famas
+[18:13:03] Player 5 deixou o jogo
+[18:13:07] * Auto Balanço de Equipe *
+[18:13:07] Player 3 juntou-se a Countra-Terrorista Forças
+[18:13:09] Player 3: é Z
+[18:13:11] Isaac deixou o jogo
+[18:13:11] Error12: mt lag
+[18:13:18] U.S.G.N.: Ping/State 'playing'
+[18:13:23] Player 3: ta lag msm
+[18:13:25] nickyZen: COM VOZ
+[18:13:27] nickyZen: N COM TEXTO
+[18:13:29] U.S.G.N.: Serverlist entry updated
+[18:13:43] Error12 killed Player 3 with AK-47
+[18:13:44] Player 4 killed Player with Galil
+[18:13:44] Maurin killed nickyZen with AWP
+[18:13:48] Error12: strategy
+[18:13:50] Isaac conectou-se
+[18:13:50] Isaac is using IP 167.250.139.141:22076 and no U.S.G.N. ID
+[18:13:53] nickyZen: como que fala com voooooz
+[18:13:56] nickyZen: e n com teeeeexto
+[18:13:56] Player 2: Z
+[18:13:59] Isaac juntou-se a Countra-Terrorista Forças
+[18:14:02] zRai1212 conectou-se
+[18:14:02] zRai1212 is using IP 187.120.87.62:61901 and no U.S.G.N. ID
+[18:14:02] b0ps conectou-se
+[18:14:02] b0ps is using IP 176.115.101.120:43917 and no U.S.G.N. ID
+[18:14:03] Player killed Maurin with M4A1
+[18:14:04] Player 2: Y com todo mundo
+[18:14:07] Error12 killed Player 3 with AK-47
+[18:14:09] nickyZen: mds
+[18:14:09] Player 2: U só com o time
+[18:14:13] zRai1212 juntou-se a Terrorista Forças
+[18:14:14] U.S.G.N.: Serverlist entry updated
+[18:14:14] Error12 killed Player with AK-47
+[18:14:16] nickyZen: ALO EU BOTEI PRA FLAR
+[18:14:17] Player 4 killed nickyZen with Galil
+[18:14:24] U.S.G.N.: Ping/State 'playing'
+[18:14:29] Isaac killed Player 4 with Aug
+[18:14:30] nickyZen *Morto*: na minha ver anterior do cs2d
+[18:14:30] Player 2 killed Isaac with P90
+[18:14:35] nickyZen *Morto*: eu botei z pa fala
+[18:14:37] nickyZen: com todo mundo
+[18:14:45] Sagos: pra fala com voz o padrão é Z
+[18:14:52] Sagos: no chat é Y
+[18:14:56] Error12 killed Isaac with AK-47
+[18:14:56] nickyZen: puta que pariu
+[18:14:58] nickyZen: so q eu mudei
+[18:15:00] Player 2 killed Player with P90
+[18:15:00] Isaac *Morto*: ;
+[18:15:05] Isaac deixou o jogo
+[18:15:06] Sagos: ve ai nas configurações
+[18:15:08] Player deixou o jogo
+[18:15:09] Player 2 killed nickyZen with P90
+[18:15:12] Player 4 killed Player 3 with M249
+[18:15:17] * Auto Balanço de Equipe *
+[18:15:17] zRai1212 juntou-se a Countra-Terrorista Forças
+[18:15:23] generating stats...
+[18:15:23] stats generated in 0 ms!
+[18:15:28] Sagos: ae player 3 eu te ouvi
+[18:15:30] U.S.G.N.: Ping/State 'playing'
+[18:15:36] Error: player Maurin (#11) tries to select weapon which he does not own (wpn id 52)
+[18:15:37] Player 3: massa
+[18:15:44] turtle conectou-se
+[18:15:44] turtle is using IP 185.136.116.77:36963 and no U.S.G.N. ID
+[18:15:46] Player 2 killed Player 3 with P90
+[18:15:47] Error12 killed nickyZen with AK-47
+[18:15:49] Maurin killed zRai1212 with Galil
+[18:15:52] zRai1212 deixou o jogo
+[18:15:54] * Auto Balanço de Equipe *
+[18:15:54] Player 4 juntou-se a Countra-Terrorista Forças
+[18:15:57] nickyZen: SAGOS ARRUMA ESSA PORRA
+[18:15:59] turtle juntou-se a Countra-Terrorista Forças
+[18:16:10] Maurin killed Player 4 with Galil
+[18:16:14] Player 2 killed turtle with AK-47
+[18:16:15] Player 2 killed Player 3 with AK-47
+[18:16:19] Player 2 killed nickyZen with AK-47
+[18:16:30] U.S.G.N.: Serverlist entry updated
+[18:16:30] U.S.G.N.: Ping/State 'playing'
+[18:16:34] Player conectou-se
+[18:16:34] Player is using IP 179.113.189.87:36963 and no U.S.G.N. ID
+[18:16:35] nickyZen died
+[18:16:35] nickyZen juntou-se aos espectadores
+[18:16:37] Duduo conectou-se
+[18:16:37] Duduo is using IP 187.36.58.3:59233 and no U.S.G.N. ID
+[18:16:44] Player juntou-se a Countra-Terrorista Forças
+[18:16:45] turtle killed Error12 with M4A1
+[18:16:47] Duduo juntou-se a Countra-Terrorista Forças
+[18:16:48] Player 2 killed turtle with AK-47
+[18:16:52] Maurin killed Player 3 with M4A1
+[18:16:56] Maurin killed Player 4 with Glock
+[18:17:01] * Auto Balanço de Equipe *
+[18:17:01] Duduo juntou-se a Terrorista Forças
+[18:17:10] KovaG conectou-se
+[18:17:10] KovaG is using IP 89.132.215.88:36963 and no U.S.G.N. ID
+[18:17:11] JOIN FAILURE: Player (177.41.38.123:57413) can't join (server is full)
+[18:17:14] nickyZen juntou-se a Countra-Terrorista Forças
+[18:17:16] U.S.G.N.: Serverlist entry updated
+[18:17:18] Player 2 deixou o jogo
+[18:17:22] turtle deixou o jogo
+[18:17:25] Sagos: ss escutei
+[18:17:26] KovaG deixou o jogo
+[18:17:28] Paulo Henrique deixou o jogo
+[18:17:31] U.S.G.N.: Ping/State 'playing'
+[18:17:35] Player 3 has been kicked. Ping too high (4004).
+[18:17:35] Player 3 deixou o jogo (auta latência)
+[18:17:39] Duduo killed Player 4 with AK-47
+[18:18:01] Maurin killed Player with AWP
+[18:18:02] U.S.G.N.: Serverlist entry updated
+[18:18:05] Error12 has been kicked. Ping too high (3353).
+[18:18:05] Error12 deixou o jogo (auta latência)
+[18:18:05] Player has been kicked. Ping too high (11697).
+[18:18:05] Player deixou o jogo (auta latência)
+[18:18:05] Player conectou-se
+[18:18:05] Player is using IP 46.214.140.2:54208 and no U.S.G.N. ID
+[18:18:06] Player 4 has been kicked. Ping too high (4719).
+[18:18:06] Player 4 deixou o jogo (auta latência)
+[18:18:06] Maurin has been kicked. Ping too high (2803).
+[18:18:06] Maurin deixou o jogo (auta latência)
+[18:18:06] Duduo has been kicked. Ping too high (4879).
+[18:18:06] Duduo deixou o jogo (auta latência)
+[18:18:19] Player juntou-se a Terrorista Forças
+[18:18:32] U.S.G.N.: Player (200.159.135.87) joining with U.S.G.N. ID #16920 - verifying...
+[18:18:32] U.S.G.N.: Ping/State 'playing'
+[18:18:33] U.S.G.N.: 200.159.135.87 is using U.S.G.N. ID #16920
+[18:18:33] Player 2 conectou-se
+[18:18:33] Player 2 is using IP 200.159.135.87:11094 and U.S.G.N. ID #16920
+[18:18:37] Player 2 juntou-se a Countra-Terrorista Forças
+[18:18:41] ----- Mapchange -----
+[18:18:41] starting server...
+[18:18:41] load map 'awp_grey SagosWins'
+[18:18:41] LOAD MAP: failed to load tiles 'fruitpapje1.bmp'
+[18:18:51] M-NET: received join data from unexpected source (252, 200.159.135.87:11094)
+[18:18:51] M-NET: received join data from unexpected source (252, 200.165.29.68:56275)
+[18:18:51] M-NET: received join data from unexpected source (252, 46.214.140.2:54208)
+[18:19:15] starting server...
+[18:19:15] load map 'awp_grey SagosWins'
+[18:19:15] LOAD MAP RES.: failed to load image 'gfx/SagosWins/Jogo da Velha.bmp'
+[18:19:16] ----- Server started -----
+[18:19:16] Lua: Adding function 'informacao' to hook 'startround'
+[18:19:16] Lua: Adding function 'msg2' to hook 'endround'
+[18:19:16] Lua: Adding function 'jogador' to hook 'join'
+[18:19:16] Lua: Adding function 'teste' to hook 'always'
+[18:19:16] Lua: Adding function 'procuurando' to hook 'always'
+[18:19:16] Lua: Adding function 'expert' to hook 'always'
+[18:19:16] Lua: Adding function 'versao' to hook 'second'
+[18:19:16] Lua: Adding function 'BotFala' to hook 'say'
+[18:19:16] Lua: Adding function 'pergunta_resposta' to hook 'say'
+[18:19:16] Lua: Adding function 'segundos' to hook 'second'
+[18:19:16] Lua: Adding function 'movendo_piso' to hook 'movetile'
+[18:19:16] Lua: Adding function 'usar' to hook 'use'
+[18:19:16] Lua: Adding function 'usarBotaoooo' to hook 'usebutton'
+[18:19:16] Lua: Adding function 'segundoss' to hook 'second'
+[18:19:16] Lua: Adding function 'iniciar_rodada' to hook 'startround'
+[18:19:16] Lua: Adding function 'tapa' to hook 'hit'
+[18:19:16] Lua: Adding function 'mover' to hook 'always'
+[18:19:17] U.S.G.N.: Serverlist entry updated
+[18:19:17] U.S.G.N.: Ping/State 'playing'
+[18:19:17] Sagos juntou-se a Countra-Terrorista Forças
+[18:19:40] Player conectou-se
+[18:19:40] Player is using IP 187.78.110.14:64819 and no U.S.G.N. ID
+[18:19:40] Starting transfer to Player (files: 3) ...
+[18:19:41] Player needs 2 files. Starting to send files...
+[18:19:41] Sending 'gfx/tiles/fruitpapje1.bmp' to Player...
+[18:19:43] Sending 'maps/awp_grey SagosWins.map' to Player...
+[18:19:47] Player 2 conectou-se
+[18:19:47] Player 2 is using IP 46.175.105.72:49653 and no U.S.G.N. ID
+[18:19:47] Starting transfer to Player 2 (files: 3) ...
+[18:19:48] Player 2 needs 2 files. Starting to send files...
+[18:19:48] Sending 'gfx/tiles/fruitpapje1.bmp' to Player 2...
+[18:19:50] Sending 'maps/awp_grey SagosWins.map' to Player 2...
+[18:19:53] Player juntou-se a Terrorista Forças
+[18:19:53] O Round Terminou!
+[18:19:56] O Round Começo!
+[18:20:03] U.S.G.N.: Serverlist entry updated
+[18:20:04] U.S.G.N.: NSKILL. krakN (177.32.49.19) joining with U.S.G.N. ID #35283 - verifying...
+[18:20:06] U.S.G.N.: 177.32.49.19 is using U.S.G.N. ID #35283
+[18:20:06] NSKILL. krakN conectou-se
+[18:20:06] NSKILL. krakN is using IP 177.32.49.19:51021 and U.S.G.N. ID #35283
+[18:20:06] Starting transfer to NSKILL. krakN (files: 4) ...
+[18:20:06] NSKILL. krakN needs 1 file. Starting to send file...
+[18:20:06] Sending 'maps/awp_grey SagosWins.map' to NSKILL. krakN...
+[18:20:09] NSKILL. krakN juntou-se a Terrorista Forças
+[18:20:10] Player 3 conectou-se
+[18:20:10] Player 3 is using IP 177.94.146.236:5442 and no U.S.G.N. ID
+[18:20:10] Starting transfer to Player 3 (files: 4) ...
+[18:20:10] Player 3 needs 3 files. Starting to send files...
+[18:20:10] Sending 'gfx/tiles/fruitpapje1.bmp' to Player 3...
+[18:20:11] Ramos conectou-se
+[18:20:11] Ramos is using IP 201.92.61.212:5442 and no U.S.G.N. ID
+[18:20:11] Starting transfer to Ramos (files: 4) ...
+[18:20:11] Ramos needs 3 files. Starting to send files...
+[18:20:12] NSKILL. krakN: mds sagos
+[18:20:13] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Player 3...
+[18:20:13] Sending 'maps/awp_grey SagosWins.map' to Player 3...
+[18:20:13] Sending 'gfx/tiles/fruitpapje1.bmp' to Ramos...
+[18:20:15] NSKILL. krakN: se volto a vida?
+[18:20:16] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Ramos...
+[18:20:16] Sending 'maps/awp_grey SagosWins.map' to Ramos...
+[18:20:18] NSKILL. krakN Alterou seu nome para NSKILL. monge
+[18:20:18] U.S.G.N.: Ping/State 'playing'
+[18:20:20] Sagos: claro
+[18:20:22] Player 3 juntou-se a Countra-Terrorista Forças
+[18:20:23] generating stats...
+[18:20:23] stats generated in 0 ms!
+[18:20:24] Ramos juntou-se a Countra-Terrorista Forças
+[18:20:27] NSKILL. monge: interesseiro
+[18:20:31] NSKILL. monge: so pq foi pra steam
+[18:20:33] NSKILL. monge: KK
+[18:20:36] Player 2 deixou o jogo
+[18:20:38] Sagos: kkkk
+[18:20:41] Ramos killed Player with Knife
+[18:20:45] NSKILL. monge killed Ramos with Knife
+[18:20:48] U.S.G.N.: Serverlist entry updated
+[18:20:53] Sagos killed NSKILL. monge with Knife
+[18:20:53] O Round Terminou!
+[18:20:57] NSKILL. monge juntou-se a Terrorista Forças
+[18:20:58] O Round Começo!
+[18:21:03] NSKILL. monge killed Player 3 with AWP
+[18:21:18] U.S.G.N.: Ping/State 'playing'
+[18:21:22] NSKILL. monge killed Sagos with AWP
+[18:21:33] U.S.G.N.: Serverlist entry updated
+[18:21:40] NSKILL. monge: K
+[18:21:42] ----- Mapchange -----
+[18:21:42] starting server...
+[18:21:42] load map 'awp_grey SagosWins'
+[18:21:42] ----- Server started -----
+[18:21:42] Lua: Adding function 'informacao' to hook 'startround'
+[18:21:42] Lua: Adding function 'msg2' to hook 'endround'
+[18:21:42] Lua: Adding function 'jogador' to hook 'join'
+[18:21:42] Lua: Adding function 'teste' to hook 'always'
+[18:21:42] Lua: Adding function 'procuurando' to hook 'always'
+[18:21:42] Lua: Adding function 'expert' to hook 'always'
+[18:21:42] Lua: Adding function 'versao' to hook 'second'
+[18:21:42] Lua: Adding function 'BotFala' to hook 'say'
+[18:21:42] Lua: Adding function 'pergunta_resposta' to hook 'say'
+[18:21:42] Lua: Adding function 'segundos' to hook 'second'
+[18:21:42] Lua: Adding function 'movendo_piso' to hook 'movetile'
+[18:21:42] Lua: Adding function 'usar' to hook 'use'
+[18:21:42] Lua: Adding function 'usarBotaoooo' to hook 'usebutton'
+[18:21:42] Lua: Adding function 'segundoss' to hook 'second'
+[18:21:42] Lua: Adding function 'iniciar_rodada' to hook 'startround'
+[18:21:42] Lua: Adding function 'tapa' to hook 'hit'
+[18:21:42] Lua: Adding function 'mover' to hook 'always'
+[18:21:43] U.S.G.N.: Ping/State 'playing'
+[18:21:43] U.S.G.N.: Serverlist entry updated
+[18:21:44] Sagos juntou-se a Countra-Terrorista Forças
+[18:21:44] O Round Terminou!
+[18:21:47] O Round Começo!
+[18:21:52] U.S.G.N.: NSKILL. monge (177.32.49.19) joining with U.S.G.N. ID #35283 - verifying...
+[18:21:52] Ramos conectou-se
+[18:21:52] Ramos is using IP 201.92.61.212:5442 and no U.S.G.N. ID
+[18:21:52] Player conectou-se
+[18:21:52] Player is using IP 177.94.146.236:5442 and no U.S.G.N. ID
+[18:21:52] Player 2 conectou-se
+[18:21:52] Player 2 is using IP 187.78.110.14:64819 and no U.S.G.N. ID
+[18:21:53] U.S.G.N.: 177.32.49.19 is using U.S.G.N. ID #35283
+[18:21:53] NSKILL. monge conectou-se
+[18:21:53] NSKILL. monge is using IP 177.32.49.19:51021 and U.S.G.N. ID #35283
+[18:21:54] NSKILL. monge juntou-se a Terrorista Forças
+[18:21:54] O Round Terminou!
+[18:21:57] O Round Começo!
+[18:21:57] Ramos juntou-se a Countra-Terrorista Forças
+[18:21:59] Player juntou-se a Terrorista Forças
+[18:22:00] NSKILL. monge Alterou seu nome para NSKILL. krakN
+[18:22:00] Valentina  Moon conectou-se
+[18:22:00] Valentina  Moon is using IP 187.10.215.94:51308 and no U.S.G.N. ID
+[18:22:00] Starting transfer to Valentina  Moon (files: 4) ...
+[18:22:00] Sagos: agr acho q ta tudo funfando
+[18:22:00] Valentina  Moon needs 3 files. Starting to send files...
+[18:22:00] Sending 'gfx/tiles/fruitpapje1.bmp' to Valentina  Moon...
+[18:22:03] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Valentina  Moon...
+[18:22:03] Sending 'maps/awp_grey SagosWins.map' to Valentina  Moon...
+[18:22:03] Player 2 juntou-se a Terrorista Forças
+[18:22:08] Valentina  Moon juntou-se a Countra-Terrorista Forças
+[18:22:10] Sagos killed Player with AWP
+[18:22:19] NSKILL. krakN killed Valentina  Moon with Knife
+[18:22:22] NSKILL. krakN killed Sagos with Knife
+[18:22:28] U.S.G.N.: Serverlist entry updated
+[18:22:29] eu n queria knif
+[18:22:30] Ramos killed Player 2 with Knife
+[18:22:41] NSKILL. krakN killed Ramos with AWP
+[18:22:41] O Round Terminou!
+[18:22:43] U.S.G.N.: Ping/State 'playing'
+[18:22:45] Player juntou-se a Countra-Terrorista Forças
+[18:22:46] * Auto Balanço de Equipe *
+[18:22:46] Valentina  Moon juntou-se a Terrorista Forças
+[18:22:46] O Round Começo!
+[18:22:47] Brayan conectou-se
+[18:22:47] Brayan is using IP 170.0.237.2:60292 and no U.S.G.N. ID
+[18:22:47] Starting transfer to Brayan (files: 4) ...
+[18:22:47] Brayan needs 3 files. Starting to send files...
+[18:22:47] Sending 'gfx/tiles/fruitpapje1.bmp' to Brayan...
+[18:22:47] NSKILL. krakN: KK
+[18:22:48] Sagos: vms joga o jogo da velha
+[18:22:50] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Brayan...
+[18:22:50] Sending 'maps/awp_grey SagosWins.map' to Brayan...
+[18:22:51] NSKILL. krakN killed Ramos with AWP
+[18:22:53] Sagos: quero ve se funfa
+[18:22:56] Brayan juntou-se a Countra-Terrorista Forças
+[18:22:57] NSKILL. krakN: OPKOAPSE
+[18:22:59] NSKILL. krakN: me da cargo
+[18:23:02] Player killed Player 2 with AWP
+[18:23:02] Sagos: vem
+[18:23:03] Player 3 conectou-se
+[18:23:03] Player 3 is using IP 177.200.247.27:27945 and no U.S.G.N. ID
+[18:23:03] Starting transfer to Player 3 (files: 4) ...
+[18:23:04] Player 3 needs 2 files. Starting to send files...
+[18:23:04] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Player 3...
+[18:23:04] Sending 'maps/awp_grey SagosWins.map' to Player 3...
+[18:23:05] Sagos: n tem script
+[18:23:05] NSKILL. krakN: to aqu[
+[18:23:09] Player 3 juntou-se a Countra-Terrorista Forças
+[18:23:13] U.S.G.N.: Serverlist entry updated
+[18:23:17] Sagos: joga
+[18:23:21] Player 2 deixou o jogo
+[18:23:24] NSKILL. krakN: joga oq
+[18:23:31] Valentina  Moon killed Player with AWP
+[18:23:33] Sagos: vc n ta vendo o X?
+[18:23:36] NSKILL. krakN: nao '-'
+[18:23:36] U.S.G.N.: Paulo Henrique (191.250.133.199) joining with U.S.G.N. ID #81347 - verifying...
+[18:23:37] U.S.G.N.: 191.250.133.199 is using U.S.G.N. ID #81347
+[18:23:37] Paulo Henrique conectou-se
+[18:23:37] Paulo Henrique is using IP 191.250.133.199:64404 and U.S.G.N. ID #81347
+[18:23:38] Starting transfer to Paulo Henrique (files: 6) ...
+[18:23:38] Paulo Henrique needs 5 files. Starting to send files...
+[18:23:38] Sending 'gfx/tiles/fruitpapje1.bmp' to Paulo Henrique...
+[18:23:40] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Paulo Henrique...
+[18:23:40] Sending 'gfx/SagosWins/x.bmp' to Paulo Henrique...
+[18:23:40] Sending 'gfx/SagosWins/bola.bmp' to Paulo Henrique...
+[18:23:40] NSKILL. krakN: aa
+[18:23:40] Sending 'maps/awp_grey SagosWins.map' to Paulo Henrique...
+[18:23:43] Sagos: preciso fazer uma coisa ent
+[18:23:44] U.S.G.N.: Ping/State 'playing'
+[18:23:44] Paulo Henrique juntou-se a Terrorista Forças
+[18:23:46] Sagos: ja volto
+[18:23:48] O Round Terminou!
+[18:23:48] * Auto Balanço de Equipe *
+[18:23:48] Player 3 juntou-se a Terrorista Forças
+[18:23:48] O Round Começo!
+[18:23:49] Sagos died
+[18:23:49] Sagos juntou-se aos espectadores
+[18:23:51] Paulo Henrique: sagos
+[18:23:59] U.S.G.N.: Serverlist entry updated
+[18:24:00] NSKILL. krakN killed Player with AWP
+[18:24:00] Ramos killed Player 3 with AWP
+[18:24:03] Brayan killed NSKILL. krakN with AWP
+[18:24:07] Paulo Henrique deixou o jogo
+[18:24:08] NSKILL. krakN juntou-se a Terrorista Forças
+[18:24:08] O Round Terminou!
+[18:24:10] Valentina  Moon killed Brayan with AWP
+[18:24:20] O Round Terminou!
+[18:24:22] Triangulo Invertido conectou-se
+[18:24:22] Triangulo Invertido is using IP 201.242.219.31:60623 and no U.S.G.N. ID
+[18:24:23] Starting transfer to Triangulo Invertido (files: 6) ...
+[18:24:23] Triangulo Invertido needs 5 files. Starting to send files...
+[18:24:23] Sending 'gfx/tiles/fruitpapje1.bmp' to Triangulo Invertido...
+[18:24:25] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Triangulo Invertido...
+[18:24:25] Sending 'gfx/SagosWins/x.bmp' to Triangulo Invertido...
+[18:24:25] Sending 'gfx/SagosWins/bola.bmp' to Triangulo Invertido...
+[18:24:26] Sending 'maps/awp_grey SagosWins.map' to Triangulo Invertido...
+[18:24:27] Ramos killed Valentina  Moon with Knife
+[18:24:27] O Round Terminou!
+[18:24:30] NSKILL. krakN *Morto*: mds
+[18:24:31] Triangulo Invertido juntou-se a Countra-Terrorista Forças
+[18:24:32] O Round Começo!
+[18:24:39] NSKILL. krakN killed Player with AWP
+[18:24:41] feericles conectou-se
+[18:24:41] feericles is using IP 177.37.176.74:52856 and no U.S.G.N. ID
+[18:24:41] Starting transfer to feericles (files: 6) ...
+[18:24:41] feericles needs 5 files. Starting to send files...
+[18:24:41] Sending 'gfx/tiles/fruitpapje1.bmp' to feericles...
+[18:24:43] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to feericles...
+[18:24:43] Sending 'gfx/SagosWins/x.bmp' to feericles...
+[18:24:43] Sending 'gfx/SagosWins/bola.bmp' to feericles...
+[18:24:44] Sending 'maps/awp_grey SagosWins.map' to feericles...
+[18:24:44] Ramos killed Player 3 with Knife
+[18:24:44] U.S.G.N.: Serverlist entry updated
+[18:24:44] U.S.G.N.: Ping/State 'playing'
+[18:24:45] NSKILL. krakN killed Triangulo Invertido with Knife
+[18:24:49] Valentina  Moon killed Ramos with AWP
+[18:24:52] Triangulo Invertido deixou o jogo
+[18:24:58] NSKILL. krakN killed Brayan with AWP
+[18:24:58] O Round Terminou!
+[18:24:58] feericles juntou-se a Terrorista Forças
+[18:25:03] O Round Começo!
+[18:25:11] NSKILL. krakN killed Ramos with Knife
+[18:25:12] O Round Terminou!
+[18:25:16] Brayan killed Valentina  Moon with AWP
+[18:25:18] NSKILL. krakN killed Brayan with Knife
+[18:25:19] Player killed Player 3 with AWP
+[18:25:23] NSKILL. krakN killed Player with AWP
+[18:25:23] O Round Terminou!
+[18:25:23] generating stats...
+[18:25:23] stats generated in 0 ms!
+[18:25:28] O Round Começo!
+[18:25:29] U.S.G.N.: Serverlist entry updated
+[18:25:34] NSKILL. krakN killed Player with AWP
+[18:25:39] Player 3 killed Brayan with Knife
+[18:25:44] U.S.G.N.: Ping/State 'playing'
+[18:25:46] Ramos killed Valentina  Moon with Knife
+[18:25:49] Player 3 killed Ramos with AWP
+[18:25:49] O Round Terminou!
+[18:25:50] ----- Mapchange -----
+[18:25:50] starting server...
+[18:25:50] load map 'awp_grey SagosWins'
+[18:25:50] ----- Server started -----
+[18:25:50] Lua: Adding function 'informacao' to hook 'startround'
+[18:25:50] Lua: Adding function 'msg2' to hook 'endround'
+[18:25:50] Lua: Adding function 'jogador' to hook 'join'
+[18:25:50] Lua: Adding function 'teste' to hook 'always'
+[18:25:50] Lua: Adding function 'procuurando' to hook 'always'
+[18:25:50] Lua: Adding function 'expert' to hook 'always'
+[18:25:50] Lua: Adding function 'versao' to hook 'second'
+[18:25:50] Lua: Adding function 'BotFala' to hook 'say'
+[18:25:50] Lua: Adding function 'pergunta_resposta' to hook 'say'
+[18:25:50] Lua: Adding function 'segundos' to hook 'second'
+[18:25:50] Lua: Adding function 'movendo_piso' to hook 'movetile'
+[18:25:50] Lua: Adding function 'usar' to hook 'use'
+[18:25:50] Lua: Adding function 'usarBotaoooo' to hook 'usebutton'
+[18:25:50] Lua: Adding function 'segundoss' to hook 'second'
+[18:25:50] Lua: Adding function 'iniciar_rodada' to hook 'startround'
+[18:25:50] Lua: Adding function 'tapa' to hook 'hit'
+[18:25:50] Lua: Adding function 'mover' to hook 'always'
+[18:25:51] U.S.G.N.: Serverlist entry updated
+[18:25:51] U.S.G.N.: Ping/State 'playing'
+[18:25:52] Sagos juntou-se a Countra-Terrorista Forças
+[18:25:52] O Round Terminou!
+[18:25:55] O Round Começo!
+[18:26:00] U.S.G.N.: NSKILL. krakN (177.32.49.19) joining with U.S.G.N. ID #35283 - verifying...
+[18:26:00] Ramos conectou-se
+[18:26:00] Ramos is using IP 201.92.61.212:5442 and no U.S.G.N. ID
+[18:26:00] Starting transfer to Ramos (files: 7) ...
+[18:26:00] Player conectou-se
+[18:26:00] Player is using IP 177.94.146.236:5442 and no U.S.G.N. ID
+[18:26:00] Brayan conectou-se
+[18:26:00] Brayan is using IP 170.0.237.2:60292 and no U.S.G.N. ID
+[18:26:00] Ramos needs 3 files. Starting to send files...
+[18:26:00] Sending 'gfx/sagoswins/x.bmp' to Ramos...
+[18:26:00] Sending 'gfx/sagoswins/bola.bmp' to Ramos...
+[18:26:00] Starting transfer to Player (files: 7) ...
+[18:26:00] Player 2 conectou-se
+[18:26:00] Player 2 is using IP 177.200.247.27:27945 and no U.S.G.N. ID
+[18:26:00] feericles conectou-se
+[18:26:00] feericles is using IP 177.37.176.74:52856 and no U.S.G.N. ID
+[18:26:00] Player needs 3 files. Starting to send files...
+[18:26:00] Sending 'gfx/sagoswins/bomba.png' to Ramos...
+[18:26:00] Starting transfer to Player 2 (files: 7) ...
+[18:26:00] Starting transfer to Brayan (files: 7) ...
+[18:26:00] Starting transfer to feericles (files: 7) ...
+[18:26:00] Brayan needs 3 files. Starting to send files...
+[18:26:00] Player 2 needs 3 files. Starting to send files...
+[18:26:00] Sending 'gfx/sagoswins/x.bmp' to Player...
+[18:26:00] Sending 'gfx/sagoswins/bola.bmp' to Player...
+[18:26:00] feericles needs 1 file. Starting to send file...
+[18:26:00] Sending 'gfx/sagoswins/bomba.png' to Player...
+[18:26:00] Valentina  Moon conectou-se
+[18:26:00] Valentina  Moon is using IP 187.10.215.94:51308 and no U.S.G.N. ID
+[18:26:01] Sending 'gfx/sagoswins/x.bmp' to Brayan...
+[18:26:01] Sending 'gfx/sagoswins/bola.bmp' to Brayan...
+[18:26:01] Starting transfer to Valentina  Moon (files: 7) ...
+[18:26:01] Sending 'gfx/sagoswins/bomba.png' to Brayan...
+[18:26:01] U.S.G.N.: 177.32.49.19 is using U.S.G.N. ID #35283
+[18:26:01] NSKILL. krakN conectou-se
+[18:26:01] NSKILL. krakN is using IP 177.32.49.19:51021 and U.S.G.N. ID #35283
+[18:26:01] O Round Terminou!
+[18:26:01] Starting transfer to NSKILL. krakN (files: 7) ...
+[18:26:01] Valentina  Moon needs 3 files. Starting to send files...
+[18:26:01] NSKILL. krakN needs or accepts no files.
+[18:26:01] Sending 'gfx/sagoswins/x.bmp' to Player 2...
+[18:26:01] Sending 'gfx/sagoswins/bola.bmp' to Player 2...
+[18:26:01] Sending 'gfx/sagoswins/bomba.png' to Player 2...
+[18:26:01] Sending 'gfx/sagoswins/bomba.png' to feericles...
+[18:26:01] Sending 'gfx/sagoswins/x.bmp' to Valentina  Moon...
+[18:26:01] Sending 'gfx/sagoswins/bola.bmp' to Valentina  Moon...
+[18:26:01] NSKILL. krakN juntou-se a Terrorista Forças
+[18:26:02] Sending 'gfx/sagoswins/bomba.png' to Valentina  Moon...
+[18:26:03] Player 2 juntou-se a Countra-Terrorista Forças
+[18:26:04] O Round Começo!
+[18:26:06] Ramos juntou-se a Countra-Terrorista Forças
+[18:26:06] Ramos juntou-se a Terrorista Forças
+[18:26:07] feericles juntou-se a Terrorista Forças
+[18:26:08] Player juntou-se a Countra-Terrorista Forças
+[18:26:08] Sagos: vem
+[18:26:08] Valentina  Moon juntou-se a Countra-Terrorista Forças
+[18:26:11] NSKILL. krakN killed Player 2 with AWP
+[18:26:14] O Round Terminou!
+[18:26:16] Ramos killed Sagos with Knife
+[18:26:16] Player killed NSKILL. krakN with AWP
+[18:26:18] NSKILL. krakN *Morto*: ala
+[18:26:19] NSKILL. krakN *Morto*: KKKKKKKKKKKKKKKKKKKK
+[18:26:22] Ramos killed Player with AWP
+[18:26:22] Sagos *Morto*: mds
+[18:26:25] Sagos *Morto*: kkk
+[18:26:27] NSKILL. krakN *Morto*: ALa
+[18:26:28] feericles killed Valentina  Moon with AWP
+[18:26:28] O Round Terminou!
+[18:26:30] NSKILL. krakN *Morto*: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[18:26:31] Sagos *Morto*: kkkkk
+[18:26:33] O Round Começo!
+[18:26:33] NSKILL. krakN: ta dhr isso aqu
+[18:26:39] Player 2 killed feericles with AWP
+[18:26:39] NSKILL. krakN killed Player 2 with AWP
+[18:26:42] Valentina  Moon killed NSKILL. krakN with AWP
+[18:26:42] Sagos killed Ramos with AWP
+[18:26:42] O Round Terminou!
+[18:26:47] O Round Começo!
+[18:26:48] Sagos: wtf krakn
+[18:26:49] NSKILL. krakN: hack
+[18:26:50] Sagos: fica vivo kk
+[18:26:51] U.S.G.N.: Ping/State 'playing'
+[18:26:52] Sagos: qm?
+[18:26:54] NSKILL. krakN: valentina
+[18:26:55] U.S.G.N.: Player (177.40.130.180) joining with U.S.G.N. ID #22107 - verifying...
+[18:26:56] Valentina  Moon killed Ramos with AWP
+[18:26:56] U.S.G.N.: 177.40.130.180 is using U.S.G.N. ID #22107
+[18:26:56] Player 3 conectou-se
+[18:26:56] Player 3 is using IP 177.40.130.180:52727 and U.S.G.N. ID #22107
+[18:26:56] Starting transfer to Player 3 (files: 8) ...
+[18:26:56] Player 3 needs 7 files. Starting to send files...
+[18:26:57] Sending 'gfx/tiles/fruitpapje1.bmp' to Player 3...
+[18:26:57] NSKILL. krakN: parece
+[18:26:59] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Player 3...
+[18:26:59] Sending 'gfx/sagoswins/x.bmp' to Player 3...
+[18:26:59] Sending 'gfx/sagoswins/bola.bmp' to Player 3...
+[18:26:59] NSKILL. krakN killed Player with AWP
+[18:26:59] Sending 'gfx/sagoswins/jogo da velha.bmp' to Player 3...
+[18:26:59] Sending 'gfx/sagoswins/bomba.png' to Player 3...
+[18:26:59] Sending 'maps/awp_grey SagosWins.map' to Player 3...
+[18:26:59] Player 2 killed feericles with AWP
+[18:27:02] NSKILL. krakN killed Sagos with AWP
+[18:27:04] Player 2 killed NSKILL. krakN with AWP
+[18:27:04] O Round Terminou!
+[18:27:07] Player 3 juntou-se a Terrorista Forças
+[18:27:09] O Round Começo!
+[18:27:10] Sagos: vc me mato '-'
+[18:27:12] NSKILL. krakN: mals
+[18:27:15] Player 2 killed Ramos with AWP
+[18:27:21] U.S.G.N.: Serverlist entry updated
+[18:27:22] Player 2 killed feericles with AWP
+[18:27:22] Player 2 killed NSKILL. krakN with AWP
+[18:27:23] O Round Terminou!
+[18:27:25] NSKILL. krakN juntou-se a Terrorista Forças
+[18:27:26] Player 2 killed Player 3 with Knife
+[18:27:26] O Round Terminou!
+[18:27:31] O Round Começo!
+[18:27:31] NSKILL. krakN: foi sem quere ''
+[18:27:39] Player 2 killed feericles with AWP
+[18:27:41] Valentina  Moon: eu jogava esse jogo na infancia
+[18:27:44] Sagos: tbm
+[18:27:45] Player 2 killed Ramos with AWP
+[18:27:47] Valentina  Moon killed NSKILL. krakN with AWP
+[18:27:47] Sagos: acho q tds aki
+[18:27:49] Player 3 Alterou seu nome para Fus'
+[18:27:50] Player 2 killed Fus' with AWP
+[18:27:50] O Round Terminou!
+[18:27:53] U.S.G.N.: Ping/State 'playing'
+[18:27:53] O Round Terminou!
+[18:27:55] Valentina  Moon: baixei de novo hoje
+[18:27:55] O Round Começo!
+[18:27:57] NSKILL. krakN: FUSIVEL
+[18:27:59] Sagos: tbm .-.
+[18:28:03] NSKILL. krakN killed Player with AWP
+[18:28:05] Player 2 Alterou seu nome para Kawan G.O.K.U
+[18:28:06] NSKILL. krakN killed Valentina  Moon with AWP
+[18:28:07] U.S.G.N.: Antares (87.116.191.235) joining with U.S.G.N. ID #152342 - verifying...
+[18:28:07] U.S.G.N.: Serverlist entry updated
+[18:28:08] U.S.G.N.: 87.116.191.235 is using U.S.G.N. ID #152342
+[18:28:08] Antares conectou-se
+[18:28:08] Antares is using IP 87.116.191.235:47600 and U.S.G.N. ID #152342
+[18:28:08] Starting transfer to Antares (files: 8) ...
+[18:28:08] Antares needs 7 files. Starting to send files...
+[18:28:09] Sending 'gfx/tiles/fruitpapje1.bmp' to Antares...
+[18:28:11] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Antares...
+[18:28:11] Sending 'gfx/sagoswins/x.bmp' to Antares...
+[18:28:11] Sending 'gfx/sagoswins/bola.bmp' to Antares...
+[18:28:11] Sending 'gfx/sagoswins/jogo da velha.bmp' to Antares...
+[18:28:11] Sending 'gfx/sagoswins/bomba.png' to Antares...
+[18:28:11] Sending 'maps/awp_grey SagosWins.map' to Antares...
+[18:28:17] Sagos killed feericles with AWP
+[18:28:20] Antares juntou-se a Countra-Terrorista Forças
+[18:28:22] feericles deixou o jogo
+[18:28:23] Fus' killed Kawan G.O.K.U with AWP
+[18:28:30] Sagos killed Ramos with Knife
+[18:28:35] NSKILL. krakN: kd
+[18:28:37] Xau conectou-se
+[18:28:37] Xau is using IP 189.4.72.226:19011 and no U.S.G.N. ID
+[18:28:37] Starting transfer to Xau (files: 8) ...
+[18:28:37] Xau needs 7 files. Starting to send files...
+[18:28:37] Sending 'gfx/tiles/fruitpapje1.bmp' to Xau...
+[18:28:38] Sagos: aperta E
+[18:28:40] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Xau...
+[18:28:40] Sending 'gfx/sagoswins/x.bmp' to Xau...
+[18:28:40] Sending 'gfx/sagoswins/bola.bmp' to Xau...
+[18:28:40] Sending 'gfx/sagoswins/jogo da velha.bmp' to Xau...
+[18:28:40] Sending 'gfx/sagoswins/bomba.png' to Xau...
+[18:28:40] Sending 'maps/awp_grey SagosWins.map' to Xau...
+[18:28:46] NSKILL. krakN: ue
+[18:28:49] Sagos: n ta vendo?
+[18:28:50] NSKILL. krakN: n baixei
+[18:28:51] NSKILL. krakN: alguma coisa?
+[18:28:52] Sagos: '-'
+[18:28:52] U.S.G.N.: Serverlist entry updated
+[18:28:53] U.S.G.N.: Ping/State 'playing'
+[18:28:53] Sagos: acho q n
+[18:28:56] Sagos: af
+[18:28:57] Xau juntou-se a Terrorista Forças
+[18:29:00] dark conectou-se
+[18:29:00] dark is using IP 191.177.184.90:5475 and no U.S.G.N. ID
+[18:29:00] Starting transfer to dark (files: 10) ...
+[18:29:00] dark needs 9 files. Starting to send files...
+[18:29:00] Sending 'gfx/tiles/fruitpapje1.bmp' to dark...
+[18:29:01] Sagos died
+[18:29:01] O Round Terminou!
+[18:29:01] Vencedor do Jogo-da-Velha: NSKILL. krakN
+[18:29:02] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to dark...
+[18:29:02] Sending 'gfx/sagoswins/x.bmp' to dark...
+[18:29:02] Sending 'gfx/sagoswins/bola.bmp' to dark...
+[18:29:02] Sending 'gfx/sagoswins/jogo da velha.bmp' to dark...
+[18:29:02] Sending 'gfx/sagoswins/bomba.png' to dark...
+[18:29:03] Sending 'gfx/SagosWins/x.bmp' to dark...
+[18:29:03] Sending 'gfx/SagosWins/bola.bmp' to dark...
+[18:29:03] Sending 'maps/awp_grey SagosWins.map' to dark...
+[18:29:06] O Round Começo!
+[18:29:08] dark juntou-se a Terrorista Forças
+[18:29:12] [b]TheMachine conectou-se
+[18:29:12] [b]TheMachine juntou-se a Terrorista Forças
+[18:29:12] [b]TheMachine Alterou seu nome para Cerbex
+[18:29:12] Lua: Removing function 'procuurando' from hook 'always'
+[18:29:18] Cerbex killed Player with AWP
+[18:29:19] Fus' deixou o jogo
+[18:29:19] Antares killed Cerbex with AWP
+[18:29:21] TSocket: 'api.steampowered.com' Time Out (stage: -1)
+[18:29:22] Sagos killed Ramos with AWP
+[18:29:23] NSKILL. krakN: krl q lag
+[18:29:26] NSKILL. krakN killed Antares with AWP
+[18:29:27] Player deixou o jogo
+[18:29:29] NSKILL. krakN killed Valentina  Moon with AWP
+[18:29:31] Antares deixou o jogo
+[18:29:31] dark killed Sagos with Knife
+[18:29:32] Xau killed Kawan G.O.K.U with AWP
+[18:29:32] O Round Terminou!
+[18:29:32] Valentina  Moon *Morto*: ta
+[18:29:34] Kawan G.O.K.U deixou o jogo
+[18:29:37] * Auto Balanço de Equipe *
+[18:29:37] Cerbex juntou-se a Countra-Terrorista Forças
+[18:29:37] O Round Começo!
+[18:29:37] U.S.G.N.: Serverlist entry updated
+[18:29:42] Valentina  Moon has been kicked. Ping too high (1478).
+[18:29:42] Valentina  Moon deixou o jogo (auta latência)
+[18:29:43] Cerbex killed Ramos with AWP
+[18:29:48] Sagos killed NSKILL. krakN with AWP
+[18:29:53] Sagos killed Xau with Knife
+[18:29:54] U.S.G.N.: Ping/State 'playing'
+[18:29:58] U.S.G.N.: Paulo Henrique (191.250.133.199) joining with U.S.G.N. ID #81347 - verifying...
+[18:29:59] Sagos killed dark with AWP
+[18:29:59] O Round Terminou!
+[18:30:00] U.S.G.N.: 191.250.133.199 is using U.S.G.N. ID #81347
+[18:30:00] Paulo Henrique conectou-se
+[18:30:00] Paulo Henrique is using IP 191.250.133.199:64404 and U.S.G.N. ID #81347
+[18:30:00] Starting transfer to Paulo Henrique (files: 9) ...
+[18:30:00] Paulo Henrique needs 1 file. Starting to send file...
+[18:30:00] Sending 'gfx/sagoswins/bomba.png' to Paulo Henrique...
+[18:30:01] Ramos deixou o jogo
+[18:30:01] NSKILL. krakN juntou-se a Terrorista Forças
+[18:30:01] Paulo Henrique juntou-se a Terrorista Forças
+[18:30:04] * Auto Balanço de Equipe *
+[18:30:04] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[18:30:04] O Round Começo!
+[18:30:05] NSKILL. krakN: tomando olé de bot sagos POKSAEPOKES
+[18:30:08] NSKILL. krakN killed Sagos with AWP
+[18:30:10] dark killed Cerbex with AWP
+[18:30:12] Paulo Henrique killed dark with AWP
+[18:30:16] Paulo Henrique killed NSKILL. krakN with Knife
+[18:30:18] NSKILL. krakN *Morto*: KPOSAEKPOSEKO
+[18:30:23] U.S.G.N.: Serverlist entry updated
+[18:30:23] Sagos: to enferrujado
+[18:30:23] generating stats...
+[18:30:23] stats generated in 0 ms!
+[18:30:27] Paulo Henrique killed Xau with Knife
+[18:30:27] O Round Terminou!
+[18:30:28] NSKILL. krakN *Morto*: tlggg 
+[18:30:30] NSKILL. krakN *Morto*: faz qnt tempo?
+[18:30:31] Paulo Henrique: sagos
+[18:30:32] O Round Começo!
+[18:30:35] Paulo Henrique: eu encontrei o mozilla agr
+[18:30:37] NSKILL. krakN killed Cerbex with AWP
+[18:30:40] Sagos: meee
+[18:30:45] Sagos: todo mundo voltou ahsuhahsu
+[18:30:45] Paulo Henrique: ele falo q vai volta a faze script tbm
+[18:30:49] Paulo Henrique killed dark with AWP
+[18:30:51] NSKILL. krakN killed Paulo Henrique with AWP
+[18:30:54] U.S.G.N.: Ping/State 'playing'
+[18:30:57] Sagos killed NSKILL. krakN with Knife
+[18:31:04] NSKILL. krakN juntou-se a Terrorista Forças
+[18:31:08] U.S.G.N.: Serverlist entry updated
+[18:31:09] U.S.G.N.: Fus' (177.40.130.180) joining with U.S.G.N. ID #22107 - verifying...
+[18:31:10] U.S.G.N.: 177.40.130.180 is using U.S.G.N. ID #22107
+[18:31:10] Fus' conectou-se
+[18:31:10] Fus' is using IP 177.40.130.180:52727 and U.S.G.N. ID #22107
+[18:31:10] Starting transfer to Fus' (files: 9) ...
+[18:31:10] Fus' needs or accepts no files.
+[18:31:17] Sagos killed Xau with Knife
+[18:31:17] O Round Terminou!
+[18:31:22] O Round Começo!
+[18:31:26] Sagos killed dark with AWP
+[18:31:27] Paulo Henrique: sagos abre outro launcher pra vc ver
+[18:31:29] Fus' juntou-se a Countra-Terrorista Forças
+[18:31:29] Paulo Henrique: o sv la
+[18:31:29] NSKILL. krakN killed Sagos with AWP
+[18:31:32] NSKILL. krakN killed Cerbex with AWP
+[18:31:34] Sagos: o dedicated?
+[18:31:36] Paulo Henrique killed NSKILL. krakN with AWP
+[18:31:37] Kawan G.O.K.U conectou-se
+[18:31:37] Kawan G.O.K.U is using IP 177.200.247.27:27891 and no U.S.G.N. ID
+[18:31:37] Paulo Henrique: é
+[18:31:37] Starting transfer to Kawan G.O.K.U (files: 9) ...
+[18:31:37] Kawan G.O.K.U needs or accepts no files.
+[18:31:38] Paulo Henrique: eu abri
+[18:31:41] Kawan G.O.K.U juntou-se a Terrorista Forças
+[18:31:42] Sagos: ok
+[18:31:45] Servidor Desligado
+[18:31:48] U.S.G.N.: Server removed from serverlist
+[18:31:48] ----- Disconnected -----

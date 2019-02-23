@@ -1,0 +1,18 @@
+CS2D 1.0.0.5 Logfile - 16 Nov 2017, 00:56:52
+
+[00:56:52] #######################################################
+[00:56:52] Unreal Software's CS2D Dedicated Server
+[00:56:52] > visit www.CS2D.com for info and updates <
+[00:56:52] Game Version: 1.0.0.5
+[00:56:52] Server Build for 1.0.0.5: 1.0
+[00:56:52] System Time: 16 Nov 2017 - 00:56:52
+[00:56:52] Operating System: Microsoft Windows
+[00:56:52] #######################################################
+[00:56:52] UDP socket initialized using port 0
+[00:56:52] U.S.G.N.: Your game version is up to date!
+[00:56:52] starting server...
+[00:56:52] load map 'Deathrun CT em perigo'
+[00:56:52] ----- Server started -----
+[00:56:52] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[00:56:52] Lua: Adding function 'regenerar' to hook 'ms100'
+[00:57:14] !!! Dedicated Server Shutdown !!!

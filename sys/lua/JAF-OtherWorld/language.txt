@@ -1,0 +1,1406 @@
+------- INSTRUCTION
+------- use "%s" or "$1,$2,...,$n" to add value for lang
+------- use jaf.sv_lang function to call the language
+
+
+jaf.lang_list={
+                      [0]={lang="Unknown",list={}};
+                      {lang="English",list={
+[[Load data successfuly!]], -- 1
+[[Your data not founded!]], -- 2
+[[You are not login, please make sure you are login for able to saving data!]], -- 3
+[[Welcome admin!]], -- 4
+[[Next]], -- 5
+[[Previous]], -- 6
+[[First page]], -- 7
+[[Page]], -- 8
+[[List Menu]], -- 9
+[[Language]], -- 10
+[[You has changed language to english]], -- 11
+[[You dont have enough shell!@C]], -- 12
+[[You have bought]], -- 13
+[[You success catch jellyfish]], -- 14
+[[You are not login!]], -- 15
+[[You already have a clan!]], -- 16
+[[Your clan has removed or changed!]], -- 17
+[[You joining the clan!]], -- 18
+[[This clan have maximum members already!]], -- 19
+[[This player already have clan!]], -- 20
+[[This player already in your clan!]], -- 21
+[[Player doesnt exists!]], -- 22
+[[You has invited him to clan!]], -- 23
+[[has inviting you for joining to clan!]], -- 24
+[[You dont have clan!]], -- 25
+[[Server has load your data!]], -- 26
+[[You has make a clan!]], -- 27
+[[You has remove your clan!]], -- 28
+[[You has leave from clan!]], -- 29
+[[You are not clan leader!]], -- 30
+[[You decline this invitation!]], -- 31
+[[You has remove this member from clan!]], -- 32
+[[now is clan leader!]], -- 33
+[[Your clan already have maximal members!]], -- 34
+[[Please put the player ID!]], -- 35
+[[You need 1 million shell for create clan!]], -- 36
+[[You have been removed from this clan!]], -- 37
+[[This clan not exists! maybe removed]], -- 38
+[[Equip]], -- 39
+[[Drop]], -- 40
+[[Sell]], -- 41
+[[Remove]], -- 42
+[[All]], -- 43
+[[You already have phone number!]], -- 44
+[[Please put your phone number!]], -- 45
+[[Please put your phone number password!]], -- 46
+[[This phone number already exists! try again!]], -- 47
+[[Phone number has been created!]], -- 48
+[[Phone number not exists!]], --49
+[[You are logged in! you cannot load phone number!]], --50
+[[Phone number password wrong!]], --51
+[[Success load phone number data and player data!]], --52
+[[Please put the phone number!]], -- 53
+[[Put your message with typing @sms <message>]], -- 54
+[[Please put the phone number target!]], -- 55
+[[Success sent SMS to]], -- 56
+[[This phone number already have maximum SMS!]], -- 57
+[[Phone number has been removed!]], -- 58
+[[All SMS has been removed!]], -- 59
+[[Command is not found!]], -- 60
+[[You dont have enough shell! you need 10K shell]], -- 61
+[[Phone number is awesome system]], -- 62
+[[You can load your data with your phone number]], -- 63
+[[Typing @phonenumber <number> <password> for make phone number]], -- 64
+[[Typing @loadphone <number> <password> for load your phone number and data]], -- 65
+[[You need login and 10K shell for make phone number]], -- 66
+[[You dont have phone number!]], -- 67
+[[has using command]], -- 68
+[[Please wait %s sec for able to chatting!]], -- 69
+[[You are now Away From Keyboard(AFK).]], -- 70
+[[Phone number must 6-12 Figure/Character!]], -- 71
+[[You've pick up %s]], -- 72
+[[Your rank not enough for use this command!]], --73
+[[You've donated]], --74
+[[This clan name already exists!]], --75
+[[You are already have ]], --76
+[[You already have better than this!]], --77
+[[Actived]], --78
+[[Not Actived]], --79
+[[Back]], -- 80
+[[VIP ticket confirmed]], -- 81
+[[Legend ticket confirmed]], -- 82
+[[Trade started, good luck!]], -- 83
+[[Trade is over!]], -- 84
+[[has bought]], -- 85
+[[This player have close his trade!]], -- 86
+[[You've already put this item to trade!]], -- 87
+[[is now on trade! with price]], -- 88
+[[You are still in trade now!]], -- 89
+[[Start trade]], -- 90
+[[List trade]], -- 91
+[[Add item to trade]], -- 92
+[[My item on trade]], -- 93
+[[Stop trade]], -- 94
+[[Unequip]], -- 95
+[[This player is in dead state!]], -- 96
+[[You can't do it to yourself!]], -- 97
+[[You've transfer %s shell to %s]], -- 98
+[[has transfer to you]], -- 99
+[[Your inventory already full!]], -- 100
+[[Last Page]], -- 101
+[[Server set your maximum inventory into]], -- 102
+[[You dont enough SC's!@C]], -- 103
+[[You dont enough Diamond's!@C]], -- 104
+[[This clan war area is full!]], -- 105
+[[You've join to this clans war!]], -- 106
+[[You already joining to other clan war!]], -- 107
+[[You cant use this in this condition!]], -- 108
+[[Wait %s second for using the skill!]], -- 109
+[[You taking]], -- 110
+[[You removing]], -- 111
+[[Press F3 for using your weapon skill]], -- 112
+[[JAF Member only]], -- 113
+[[Please put your message for PM!]], --114
+[[You can sent reply fast with using command @r <message>]], -- 115
+[[You cant take the gift from this item code!]], --116
+[[This item code is denied!]], -- 117
+[[Please put the code!]], -- 118
+[[Item code accepted!]], -- 119
+[[You got %s shell from clan war]], -- 120
+[[You sell $1 with price $2 Shell]], -- 121
+[[You sell all $1 with price $2 Shell]], -- 122
+[[You has remove a %s]], -- 123
+[[You has remove all of %s]], -- 124
+[[We dont have any event on this date!]], -- 125
+[[You cant using this for Save you from lag!]], -- 126
+[[Your latency is too high, we tried to save you from high-latency!]], -- 127
+[[You got $1 from $2]], -- 128
+[[Word "%s" is not founded anywhere]], -- 129
+[[Plant in the ground]], -- 130
+[[You already have "%s" in your inventory! not able for more]], -- 131
+[[Achievement "%s" is locked!]], -- 132
+[[Achievement %s is now unlocked!]], -- 133
+[[Monster $1 has been slayed by $2!]], -- 134
+[[You need %s]], -- 135
+[[Thanks for joining to our server :)]], -- 136
+[[Just entity Env_Object, Env_Sprite and Func_DynWall should be triggered]], -- 137
+[[You need $1 to able use $2]], -- 138
+[[You are not able to drop this item]], -- 139
+[[Name $1 have been used by other clan, Try again!]], --140
+[[Result]], -- 141
+[[You've success sent request to $1's Clan]], -- 142
+[[You already sent Request to $1's clan]], -- 143
+[[You denied this request]], -- 144
+[[You accept this request]], -- 145
+[[Join now!|You are accepted]], -- 146
+[[Hand Possition]], -- 147
+[[Right]], -- 148
+[[Left]], -- 149
+[[You got $1 from $2]], -- 150
+[[No Additional.]], -- 151
+[[You need $1 to craft $2]], -- 152
+[[You have craft $1]], -- 153
+[[Tree]], -- 154
+[[Fishing]], -- 155
+[[That is not fishing area]], -- 156
+[[There is something move, press F3 to catch]], -- 157
+[[You've spent $1 for $2]], -- 158
+[[You got %s]], -- 159
+[[Congratulations you has reach level %s]], -- 160
+[[Your comment has been inputed, Thank You!]], -- 161
+[[This player is hide his status info]], -- 162
+[[Salary time SCs +%s!@C]], -- 163
+[[You dont have a job!]], -- 164
+[[You withdraw %s Bank Balance]], -- 165
+[[Your Balance is not enough!]], -- 166
+[[You dont have Bank Account]], -- 167
+[[You dont have a house]], -- 168
+[[This house has been owned by %s]], -- 169
+[[You now own %s]], -- 170
+[[You leave your house]], -- 171
+[[You are jailed for %s seconds]], -- 172
+[[Ask to Police Officer to unjail you]], -- 173
+[[This player no have jail status]], -- 174
+[[This player must stay in jail for %s seconds]], -- 175
+[[Congratulation! now your job is %s]], -- 176
+[[Amount]], -- 177
+[[Click left mouse button to launch your skill!]], -- 178
+[[Wait skill to cooldown for %s Second]], -- 179
+[[You dont have enough energy]], -- 180
+[[You have take the free trial]], -- 181
+[[Change your Private-Chat-Friend by typing @cpm]], -- 182
+[[Use your $1 to heal player]], -- 183
+[[You dont have $1!]], -- 184
+[[You dont have enough $1]], -- 185
+[[Your Inventory is full, our system is saving $1 into PSD]], -- 186
+[[Your Inventory is full!]], -- 187
+[[Press [E] To Talk NPC Quickly]], -- 188
+[[You has joining to PvP Zone, You are not longer Protected!]], -- 189
+[[Save Position]], -- 190
+[[Saved]], -- 191
+
+
+
+                      }};
+                      {lang="Indonesia",list={
+[[Berhasil memuat data!]], -- 1
+[[Datamu tidak ditemukan!]], -- 2
+[[Kamu tidak login, mohon login untuk menyimpan data!]], -- 3
+[[Selamat datang admin!]], -- 4
+[[Lanjut]], -- 5
+[[Sebelum]], -- 6
+[[Halaman awal]], -- 7
+[[Halaman]], -- 8
+[[Daftar menu]], -- 9
+[[Bahasa]], -- 10
+[[Kamu telah mengubah bahasa menjadi indonesia]], -- 11
+[[Kamu tidak punya cukup kerang!@C]], -- 12
+[[Kamu telah membeli]], -- 13
+[[Kamu berhasil menangkap ubur-ubur]], -- 14
+[[Kamu tidak login!]], -- 15
+[[Kamu sudah mempunyai clan!]], -- 16
+[[Clan-mu telah dihapus atau juga diubah!]], -- 17
+[[Kamu telah bergabung clan!]], -- 18
+[[Clan ini sudah mempunyai anggota maksimal!]], -- 19
+[[Pemain ini sudah mempunyai clan!]], -- 20
+[[Pemain ini sudah berada didalam clan-mu!]], -- 21
+[[Pemain tidak ada!]], -- 22
+[[Kamu sudah mengundangnya ke-clan!]], -- 23
+[[Telah mengundang-mu untuk masuk ke-clan!]], -- 24
+[[Kamu tidak punya clan!]], -- 25
+[[Server telah memuat datamu!]], -- 26
+[[Kamu telah membuat clan!]], -- 27
+[[Kamu telah menghapus clan!]], -- 28
+[[Kamu telah keluar dari clan!]], -- 29
+[[Kamu bukan ketua clan!]], -- 30
+[[Kamu menolak undangan ini!]], -- 31
+[[Kamu telah menghapus anggota ini dari clan!]], -- 32
+[[sekarang adalah ketua clan!]], -- 33
+[[Clan-mu sudah mempunyai maksimal anggota!]], -- 34
+[[Mohon masukan ID pemain!]], -- 35
+[[Kamu butuh 1 juta kerang untuk membuat clan!]], -- 36
+[[Kamu telah dikeluarkan dari clan ini!]], -- 37
+[[Clan ini tidak ada! mungkin dihapus]], -- 38
+[[Gunakan]], -- 39
+[[Jatuhkan]], -- 40
+[[Jual]], -- 41
+[[Buang]], -- 42
+[[Semua]], -- 43
+[[Kamu sudah mempunyai nomor telepon!]], -- 44
+[[Mohon masukan nomor telepon-mu!]], -- 45
+[[Mohon masukan kata sandi nomor telepon-mu!]], -- 46
+[[Nomor telepon ini sudah ada! coba lagi!]], -- 47
+[[Nomor telepon sudah dibuat!]], -- 48
+[[Nomor telepon tidak ditemukan!]], --49
+[[Kamu sudah masuk! Tidak dapat memuat nomor telepon!]], --50
+[[Kata sandi nomor telepon salah!]], --51
+[[Berhasil memuat data nomor telepon dan data pengguna!]], --52
+[[Mohon masukan nomor telepon!]], -- 53
+[[Masukan pesanmu sekarang dengan @sms <pesan>]], -- 54
+[[Mohon masukan nomor telepon yang dituju!]], -- 55
+[[Berhasil mengirim SMS ke]], -- 56
+[[Nomor telepon ini sudah mempunyai maksimal SMS!]], -- 57
+[[Nomor telepon sudah dihapus!]], -- 58
+[[Semua SMS sudah dihapus!]], -- 59
+[[Perintah tidak ditemukan!]], -- 60
+[[kamu tidak punya cukup kerang! butuh 10000 kerang]], -- 61
+[[Nomor telepon adalah sistem yang mengagumkan]], -- 62
+[[Kamu bisa memuat datamu dengan menggunakan nomor telepon]], -- 63
+[[Ketik @phonenumber <nomor> <kata sandi> untuk membuat nomor telepon]], -- 64
+[[Ketik @loadphone <nomor> <kata sandi> untuk memuat nomor telepon dan data]], -- 65
+[[Kamu harus Login dan punya 10000 kerang untuk membuat nomor telepon]], -- 66
+[[Kamu tidak punya nomor telepon!]], -- 67
+[[telah menggunakan perintah]], -- 68
+[[Mohon tunggu %s detik untuk boleh mengobrol!]], -- 69
+[[Kamu sekarang jauh dari keyboard(AFK).]], -- 70
+[[Nomor telepon harus 6-12 Angka/karakter!]], -- 71
+[[kamu telah mengambil %s]], -- 72
+[[Pangkatmu tidak cukup untuk menggunakan perintah ini!]], --73
+[[Kamu telah mendonasikan]], --74
+[[Nama clan ini sudah ada!]], --75
+[[Kamu sudah punya ]], --76
+[[Kamu punya yang lebih baik dari ini!]], --77
+[[Diaktifkan]], --78
+[[Tidak Diaktifkan]], --79
+[[Kembali]], -- 80
+[[Tiket VIP diterima]], -- 81
+[[Tiket Legend diterima]], -- 82
+[[Trade dimulai, semuga beruntung!]], -- 83
+[[Trade telah berakhir!]], -- 84
+[[Telah membeli]], -- 85
+[[Pemain ini sudah menutup tradenya!]], -- 86
+[[kamu sudah menaruh item ini ke trade!]], -- 87
+[[sekarang ada di trade! dengan harga]], -- 88
+[[Kamu masih berada dalam trade!]], -- 89
+[[Mulai trade]], -- 90
+[[Daftar trade]], -- 91
+[[Tambah item ke trade]], -- 92
+[[Itemku di trade]], -- 93
+[[Hentikan trade]], -- 94
+[[Lepas]], -- 95
+[[Pemain ini sudah dalam keadaan mati!]], -- 96
+[[Kamu tidak bisa melakukannya kedirimu sendiri!]], -- 97
+[[Kamu telah mentransfer %s shell ke %s]], -- 98
+[[telah mentransfer ke kamu]], -- 99
+[[Inventory-mu sudah penuh!]], -- 100
+[[Halaman terakhir]], -- 101
+[[Server mengatur maksimal inventory-mu menjadi]], -- 102
+[[Kamu tidak punya cukup SC's!@C]], -- 103
+[[Kamu tidak punya cukup Diamond's!@C]], -- 104
+[[Area perang clan ini sudah penuh!]], -- 105
+[[Kamu telah bergabung ke perang clan ini!]], -- 106
+[[kamu telah bergabung ke perang clan yang lain!]], -- 107
+[[Kamu tidak dapat menggunakannya di kondisi ini!]], -- 108
+[[Tunggu %s detik untuk menggunakan skill!]], -- 109
+[[Kamu mengambil]], -- 110
+[[Kamu menghapus]], -- 111
+[[Tekan F3 untuk menggunakan skill senjatamu]], -- 112
+[[Hanya anggota JAF]], -- 113
+[[Mohon masukan pesanmu untuk PM!]], --114
+[[Kamu bisa mengirim balasan cepat dengan perintah @r <pesan>]], -- 115
+[[Kamu tidak bisa mengambil hadiah dari item code ini!]], --116
+[[item code ini ditolak!]], -- 117
+[[Mohon masukan kodenya!]], -- 118
+[[Item code diterima!]], -- 119
+[[Kamu mendapatkan %s shell dari clan war]], -- 120
+[[Kamu menjual %s dengan harga %s Shell]], -- 121
+[[Kamu menjual semua %s dengan harga %s Shell]], -- 122
+[[Kamu telah membuang %s]], -- 123
+[[Kamu telah membuang semua %s]], -- 124
+[[Kami tidak punya event apapun di-tanggal ini!]], -- 125
+[[Kamu tidak bisa bisa menggukan ini untuk melindungi kamu dari lag!]], -- 126
+[[Ping kamu sangat tinggi, kami mencoba melindungi kamu dari ping tinggi!]], -- 127
+[[Kamu mendapatkan %s dari %s]], -- 128
+[[Kata "%s" tidak ditemukan dimanapun]], -- 129
+[[Tanam didalam tanah]], -- 130
+[[Kamu sudah punya "%s" didalam inventorymu! Tidak bisa lebih]], -- 131
+[[Achievement "%s" masih terkunci!]], -- 132
+[[Achievement %s sekarang telah terbuka!]], -- 133
+[[Monster $1 telah dibunuh oleh $2!]], -- 134
+[[Kamu membutuhkan %s]], -- 135
+[[Terimakasih telah masuk ke server kami :)]], -- 136
+[[Hanya entity Env_Object, Env_Sprite and Func_DynWall yang dapat dilepaskan]], -- 137
+[[kamu butuh $1 untuk bisa menggunakan $2]], -- 138
+[[Kamu tidak dapat menjatuhkan item ini]], -- 139
+[[Nama $1 telah digunakan oleh clan lain, Coba lagi!]], --140
+[[Hasil]], -- 141
+[[Kamu berhasil mengirim permintaan ke Clan $1]], -- 142
+[[Kamu sudah pernah mengirim permintaan ke Clan $1]], -- 143
+[[Kamu menolak permintaan ini]], -- 144
+[[Kamu menerima permintaan ini]], -- 145
+[[Gabung!|Kamu sudah diterima]], -- 146
+[[Posisi Tangan]], -- 147
+[[Kanan]], -- 148
+[[Kiri]], -- 149
+[[Kamu mendapatkan $1 dari $2]], -- 150
+[[Tidak ada tambahan.]], -- 151
+[[Kamu butuh $1 untuk merakit $2]], -- 152
+[[Kamu telah merakit $1]], -- 153
+[[Pohon]], -- 154
+[[Memancing]], -- 155
+[[Itu bukan area memancing]], -- 156
+[[Ada sesuatu yang bergerak, tekan F3 untuk menangkap]], -- 157
+[[Kamu menghabiskan $1 untuk $2]], -- 158
+[[Kamu mendapatkan %s]], -- 159
+[[Selamat! kamu telah mencapai level %s]], -- 160
+[[Komentar anda telah dimasukkan, Terimakasih!]], -- 161
+[[Pemain ini menyembunyikan info statusnya]], -- 162
+[[Waktunya Gajian SCs +%s!@C]], -- 163
+[[Kamu tidak punya pekerjaan!]], -- 164
+[[Kamu mengambil %s dari saldo Bank]], -- 165
+[[Saldomu tidak cukup!]], -- 166
+[[Kamu tidak punya akun Bank]], -- 167
+[[Kamu tidak punya rumah]], -- 168
+[[Rumah ini telah di tinggali oleh %s]], -- 169
+[[Sekarang kamu menempati %s]], -- 170
+[[Kamu meninggalkan rumahmu]], -- 171
+[[Kamu di penjara untuk %s detik]], -- 172
+[[Tanya petugas polisi untuk membebaskan kamu]], -- 173
+[[Pemain ini tidak punya status penjara]], -- 174
+[[Pemain ini harus berada di penjara untuk %s detik]], -- 175
+[[Selamat! pekerjaanmu sekarang adalah %s]], -- 176
+[[Jumlah]], -- 177
+[[Klik tombol kiri mouse untuk meluncurkan serangan!]], -- 178
+[[Tunggu skill untuk cooldown untuk %s detik]], -- 179
+[[Kamu tidak memiliki energy yang cukup]], -- 180
+[[Kamu telah mengambil percobaan gratisnya]], -- 181
+[[Ubah Teman Obrolan Privasimu dengan mengetik @cpm]], -- 182
+[[Gunakan $1-mu untuk menyembuhkan pemain]], -- 183
+[[Kamu tidak punya $1!]], -- 184
+[[Kamu tidak punya cukup $1]], -- 185
+[[Inventory kamu penuh, Sistem kami menyimpan $1 kedalam PSD]], -- 186
+[[Inventory kamu penuh!]], -- 187
+[[Tekan [E] untuk Bicara Dengan NPC]], -- 188
+[[Kamu telah memasuki Wilayah PvP, Kamu tidak lagi diproteksi!]], -- 189
+[[Simpan Posisi]], -- 190
+[[Disimpan]], -- 191
+
+
+
+
+
+
+
+                      }};
+                      {lang="Brazilian Portuguese",list={
+[[Seus dados foram carregados com Sucesso!]], -- 1
+[[Os seus dados não foram encontrados!!]], -- 2
+[[Você não esta logado, por favor logue-se para seus dados serem salvos!]], -- 3
+[[Bem-Vindo Admin!]], -- 4
+[[Próximo]], -- 5
+[[Anterior]], -- 6
+[[Primeira página]], -- 7
+[[Pagina]], -- 8
+[[Lista de menus]], -- 9
+[[Linguagem]], -- 10
+[[Você mudou o idioma para Português]], -- 11
+[[Você não tem conchas o suficiente!@C]], -- 12
+[[Você comprou]], -- 13
+[[Você capturou com sucesso uma Água-Viva]], -- 14
+[[Você não esta logado!]], -- 15
+[[Você já esta em um clã!]], -- 16
+[[Seu clã foi removido ou alterado!]], -- 17
+[[Você se juntou a um clã!]], -- 18
+[[Esse clã  já tem o numero máximo membros!]], -- 19
+[[Este jogador já esta em um clan!]], -- 20
+[[Este jogador esta em seu clã!]], -- 21
+[[Jogador não existe!]], -- 22
+[[Você foi convidado para um clã!]], -- 23
+[[Está convidado você para se juntar ao clã!]], -- 24
+[[Você não esta em um clan!]], -- 25
+[[O Servidor carregou seus dados!]], -- 26
+[[Você criou um clan!]], -- 27
+[[Você removeu o seu clã!]], -- 28
+[[Você saiu do seu clã!]], -- 29
+[[Você não é líder do clã!]], -- 30
+[[Você recusou este convite!]], -- 31
+[[Você removeu este membro do clã!]], -- 32
+[[Agora é líder do clã!]], -- 33
+[[Seu clã já tem o maximo de membros!]], -- 34
+[[Por favor, coloque o ID do jogador!]], -- 35
+[[Você precisa de 1 milhão de conchas para criar um clã!]], -- 36
+[[Você foi removido deste clã!]], -- 37
+[[Esse clã não existe! talvez foi removido]], -- 38
+[[Equipar]], -- 39
+[[Jogar Fora]], -- 40
+[[Vender]], -- 41
+[[Remover]], -- 42
+[[Tudo]], -- 43
+[[Você já tem um número de telefone!]], -- 44
+[[Por favor coloque o seu número de telefone!]], -- 45
+[[Por favor, coloque a senha do seu número de telefone!]], -- 46
+[[Este número de telefone já existe! tente novamente!]], -- 47
+[[Número de telefone criado com sucesso!]], -- 48
+[[Número de telefone não existe!]], --49
+[[Você não está logado! Você não pode carregar o número de telefone!]], --50
+[[Senha do número de telefone errado!]], --51
+[[Sucesso ao carregar dados do jogador e numero de telefone!]], --52
+[[Por favor, coloque o número de telefone!]], -- 53
+[[Coloque a sua mensagem com a digitação @sms <mensagem>]], -- 54
+[[Por favor, coloque o numero de telefone para envio!]], -- 55
+[[Sucesso no envio de SMS para]], -- 56
+[[Este número de telefone já tem o máxima SMS!]], -- 57
+[[O Número de telefone foi removido!]], -- 58
+[[Todas as mensagens SMS foram removidas!]], -- 59
+[[Comando não encontrado!]], -- 60
+[[Você não tem conchas o suficiente! você precisa de 10K de conchas]], -- 61
+[[Número de telefone novo no sistema]], -- 62
+[[Você pode carregar seus dados com o numero de telefone]], -- 63
+[[Escreva @phonenumber <número> <senha> para criar um número de telefone]], -- 64
+[[Escreva @loadphone <número> <senha> para carregar o número de telefone e os dados]], -- 65
+[[Você precisa esta logado e ter 10K de conchas para criar um numero de telefone]], -- 66
+[[Você não tem um numero de telefone!]], -- 67
+[[Usou um comando]], -- 68
+[[Por favor espere %s segundos para falar!]], -- 69
+[[Agora você está longe do teclado (AFK).]], -- 70
+[[Número de telefone devem ter 6-12 Figuras/Caracteres!]], -- 71
+[[Você pegou %s]], -- 72
+[[Você não tem autenticação para usar este comando!]], --73
+[[Você doou]], --74
+[[O Nome deste clã ja existe!]], --75
+[[Você já tem ]], --76
+[[Você já tem melhor do que este!]], --77
+[[Ativado]], --78
+[[Não Ativado]], --79
+[[Voltar]], -- 80
+[[Ticket Vip Confirmado]], -- 81
+[[Ticket Legend Confirmado]], -- 82
+[[Comércio iniciado, Boa Sorte!]], -- 83
+[[O comércio Terminou!]], -- 84
+[[Comprou]], -- 85
+[[Este jogador terminou o comércio!]], -- 86
+[[Você já colocou este item para comércio!]], -- 87
+[[esta em comércio, com preço]], -- 88
+[[Você ainda esta no comércio agora!]], -- 89
+[[Iniciar comércio]], -- 90
+[[Lista de comércio]], -- 91
+[[Adicionar item para comércio]], -- 92
+[[Meu item no comércio]], -- 93
+[[Parar comércio]], -- 94
+[[Desequipar]], -- 95
+[[Este jogador está em estado de morto!]], -- 96
+[[Você não pode fazer isso a si mesmo!]], -- 97
+[[Você transferiou para %s to %s]], -- 98
+[[Transferiou para você]], -- 99
+[[Your inventory already full!]], -- 100
+[[Last Page]], -- 101
+[[Server set your maximum inventory into]], -- 102
+[[You dont enough SC's!@C]], -- 103
+[[You dont enough Diamond's!@C]], -- 104
+[[This clan war area is full!]], -- 105
+[[You've join to this clans war!]], -- 106
+[[You already joining to other clan war!]], -- 107
+[[You cant use this in this condition!]], -- 108
+[[Wait %s second for using the skill!]], -- 109
+[[You taking]], -- 110
+[[You removing]], -- 111
+[[Press F3 for using your weapon skill]], -- 112
+[[JAF Member only]], -- 113
+[[Please put your message for PM!]], --114
+[[You can sent reply fast with using command @r <message>]], -- 115
+[[You cant take the gift from this item code!]], --116
+[[This item code is denied!]], -- 117
+[[Please put the code!]], -- 118
+[[Item code accepted!]], -- 119
+[[You got %s shell from clan war]], -- 120
+[[You sell %s with price %s Shell]], -- 121
+[[You sell all %s with price %s Shell]], -- 122
+[[You has remove a %s]], -- 123
+[[You has remove all %s]], -- 124
+[[We dont have any event on this date!]], -- 125
+[[You cant using this for Save you from lag!]], -- 126
+[[Your latency is too high, we tried to save you from high-latency!]], -- 127
+[[You got %s from %s]], -- 128
+[[Word "%s" is not founded anywhere]], -- 129
+[[Plant in the ground]], -- 130
+[[You already have "%s" in your inventory! not able for more]], -- 131
+[[[Achievement "%s" is locked!]], -- 132
+[[Achievement %s is now unlocked!]], -- 133
+[[Monster %s has been slayed by %s!]], -- 134
+[[You need %s]], -- 135
+[[Thanks for joining to our server :)]], -- 136
+[[Just entity Env_Object, Env_Sprite and Func_DynWall should be triggered]], -- 137
+[[You need $1 to able use $2]], -- 138
+[[You are not able to drop this item]], -- 139
+[[Name $1 have been used by other clan, Try again!]], --140
+[[Result]], -- 141
+[[You've success sent request to $1's Clan]], -- 142
+[[You already sent Request to $1's clan]], -- 143
+[[You denied this request]], -- 144
+[[You accept this request]], -- 145
+[[Join now!|You are accepted]], -- 146
+[[Hand Possition]], -- 147
+[[Right]], -- 148
+[[Left]], -- 149
+[[You got $1 from $2]], -- 150
+[[No Additional.]], -- 151
+[[You need $1 to craft $2]], -- 152
+[[You have craft $1]], -- 153
+[[Tree]], -- 154
+[[Fishing]], -- 155
+[[That is not fishing area]], -- 156
+[[There is something move, press F3 to catch]], -- 157
+[[You've spent $1 for $2]], -- 158
+[[You got %s]], -- 159
+[[Congratulations you has reach level %s]], -- 160
+[[Your comment has been inputed, Thank You!]], -- 161
+[[This player is hide his status info]], -- 162
+[[Salary time SCs +%s!@C]], -- 163
+[[You dont have a job!]], -- 164
+[[You withdraw %s Bank Balance]], -- 165
+[[Your Balance is not enough!]], -- 166
+[[You dont have Bank Account]], -- 167
+[[You dont have a house]], -- 168
+[[This house has been owned by %s]], -- 169
+[[You now own %s]], -- 170
+[[You leave your house]], -- 171
+[[You are jailed for %s seconds]], -- 172
+[[Ask to Police Officer to unjail you]], -- 173
+[[This player no have jail status]], -- 174
+[[This player must stay in jail for %s seconds]], -- 175
+[[Congratulation! now your job is %s]], -- 176
+[[Amount]], -- 177
+[[Click left mouse button to launch your skill!]], -- 178
+[[Wait skill to cooldown for %s Second]], -- 179
+[[You dont have enough energy]], -- 180
+[[You have take the free trial]], -- 181
+[[Change your Private-Chat-Friend by typing @cpm]], -- 182
+[[Use your $1 to heal player]], -- 183
+[[You dont have $1!]], -- 184
+[[You dont have enough $1]], -- 185
+[[Your Inventory is full, our system is saving $1 into PSD]], -- 186
+[[Your Inventory is full!]], -- 187
+[[Press [E] To Talk NPC Quickly]], -- 188
+[[You has joining to PvP Zone, You are not longer Protected!]], -- 189
+[[Save Position]], -- 190
+[[Saved]], -- 191
+
+
+
+
+                      }};
+                      {lang="Filipino/Tagalog",list={
+[[Ang Iyong Data Ay Matagumpay Na Ilogin!]], -- 1
+[[And Iyong Data Ay Hindi Mahanap!]], -- 2
+[[Hindi ka naka Login Kayat Hindi Mo ma Isasave And Iyong Data Mag Register Ka At mag login!]], -- 3
+[[Masayang Pag Babalik Admin!]], -- 4
+[[Susunod na Pahina]], -- 5
+[[Babalik sa Pahina]], -- 6
+[[Unang Pahina]], -- 7
+[[Pahina]], -- 8
+[[Mga Pamimilian]], -- 9
+[[Lunguwahe]], -- 10
+[[You has changed language to Tagalog]], -- 11
+[[Wala Kanang Shell!@C]], -- 12
+[[Bumili ka]], -- 13
+[[Suces mo na Huli ang Jelyfish]], -- 14
+[[Hindi ka naka Login!]], -- 15
+[[Meron Kanang Clan!]], -- 16
+[[And iyong clan Ay na Tangal Or na palitan!]], -- 17
+[[Ikaw ay sumali!]], -- 18
+[[Itong Clan na ito ay Puno na!]], -- 19
+[[Itong Player Na Ito ay naka sali na!]], -- 20
+[[Itong Player na ito ay Nakasali na sa inyong Clan!]], -- 21
+[[Player doesnt exists!]], -- 22
+[[Inimbitasion ka na Sumali sa Clan nila!]], -- 23
+[[Inimbita ka niya na SUmali sa CLan nila!]], -- 24
+[[Wala Kang Clan Kawawa Ka naman!]], -- 25
+[[Ang Server Ay nilolod ang iyong Data!]], -- 26
+[[Ikaw Ay Gumawa ng Clan!]], -- 27
+[[Inalis ka Nila sa inyong Clan!]], -- 28
+[[Ikaw ay Umalis sa Iyong Clan!]], -- 29
+[[Hindi Ka Pinino sa Inyong CLAN!]], -- 30
+[[Hindi mo Tinangap Ang inbitasion !]], -- 31
+[[Inalis Ka ng Member na ito sa iyong Clan!]], -- 32
+[[now is clan leader!]], -- 33
+[[Your clan already have maximal members!]], -- 34
+[[Pakilagay ang Player ID!]], -- 35
+[[Kailangan mo ng Isang Milyon Shell para maka gawa Ng Clan!]], -- 36
+[[Inalis ka Sa CLan na ito!]], -- 37
+[[Wala ng Koneksiyon ang clan na ito baka na ilanis]], -- 38
+[[Gamit]], -- 39
+[[Ibaba]], -- 40
+[[Sell]], -- 41
+[[Alisin]], -- 42
+[[Lahat]], -- 43
+[[Meron Ka Phone Number!]], -- 44
+[[Pakilagay ang Iyong Phone Number!]], -- 45
+[[Pakilagyan ng Password Ang iyong Phone Number!]], -- 46
+[[Itong Phone number na ito ay meron ng me Ari Gumamit ka ng iba!]], -- 47
+[[ang Iyong number ay na Gawa na!]], -- 48
+[[Phone number not exists!]], --49
+[[Hindi ka naka Login kayat Hindi mo Ma ilolod ang Phone number mo!]], --50
+[[Ang iyong Phone number Password ay Male!]], --51
+[[Sucses ang pag load ng Phone number mo!]], --52
+[[Pakilagay ang Phone number mo!]], -- 53
+[[Ilagay ang Iyong mensahe sa pamamagitan neto @sms <message>]], -- 54
+[[Ilagay ang phone number ng Target mo!]], -- 55
+[[Sucses ang pag message mo]], -- 56
+[[itong number na ito ay hindi kaya mag lagay pa!]], -- 57
+[[ang Phone number na ito ay na e delete na!]], -- 58
+[[Lahat ng mensahe ay na dilete na!]], -- 59
+[[Hindi Ma hanap ang Command na ito!]], -- 60
+[[Wala ka ng Shell kailangan mo ng 10k na shell]], -- 61
+[[Ang phone number ay kamang ha mangha]], -- 62
+[[Kaya mo iload ang iyong data kasa ang iyong phone number]], -- 63
+[[Typing @phonenumber <number> <password> for make phone number]], -- 64
+[[Typing @loadphone <number> <password> for load your phone number and data]], -- 65
+[[Kailgang mo mag login at kailang mo ng 10k na shell para maka gawa ng phone number]], -- 66
+[[Wala kang Phone number!]], -- 67
+[[Ginamit Niya Ang Command na Ito]], -- 68
+[[Hintayin Ang %s sigundo para Makapag Chat muli!]], -- 69
+[[Malayo siya sa Keyboard kaya wag kulitin(AFK).]], -- 70
+[[Phone number must 6-12 Figure/Character!]], -- 71
+[[You've pick up %s]], -- 72
+[[Ang iyong Rango ay Hindi kaya Para Gamitin Itong Command Na ito!]], --73
+[[Ikaw ay Nag Donate]], --74
+[[This clan name already exists!]], --75
+[[Meron kana ]], --76
+[[You already have better than this!]], --77
+[[Aktibo]], --78
+[[Hindi Siya Aktibo]], --79
+[[Balek]], -- 80
+[[VIP ticket confirmed]], -- 81
+[[Legend ticket confirmed]], -- 82
+[[Trade started, good luck!]], -- 83
+[[Trade is over!]], -- 84
+[[Bumile Siya]], -- 85
+[[Itong Player na ito ay sinarado ang Kanyang Trade!]], -- 86
+[[Nailagay mo na Ang item na ito sa Trade!]], -- 87
+[[is now on trade! with price]], -- 88
+[[Ikaw ay nasa Trade parin!]], -- 89
+[[Mag simula sa pag Trade]], -- 90
+[[Huling Trade]], -- 91
+[[Idag dag ang item sa Trade]], -- 92
+[[Ang item ko ay Nasa Trade]], -- 93
+[[Ihinto ang Walang Kuwentang Trade]], -- 94
+[[Tangalin]], -- 95
+[[This player is in dead state!]], -- 96
+[[You can't do it to yourself!]], -- 97
+[[[You've transfer %s shell to %s]], -- 98
+[[has transfer to you]], -- 99
+[[Your inventory already full!]], -- 100
+[[Last Page]], -- 101
+[[Server set your maximum inventory into]], -- 102
+[[You dont enough SC's!@C]], -- 103
+[[You dont enough Diamond's!@C]], -- 104
+[[This clan war area is full!]], -- 105
+[[You've join to this clans war!]], -- 106
+[[You already joining to other clan war!]], -- 107
+[[You cant use this in this condition!]], -- 108
+[[Wait %s second for using the skill!]], -- 109
+[[You taking]], -- 110
+[[You removing]], -- 111
+[[Press F3 for using your weapon skill]], -- 112
+[[JAF Member only]], -- 113
+[[Please put your message for PM!]], --114
+[[You can sent reply fast with using command @r <message>]], -- 115
+[[You cant take the gift from this item code!]], --116
+[[This item code is denied!]], -- 117
+[[Please put the code!]], -- 118
+[[Item code accepted!]], -- 119
+[[You got %s shell from clan war]], -- 120
+[[You sell %s with price %s Shell]], -- 121
+[[You sell all %s with price %s Shell]], -- 122
+[[You has remove a %s]], -- 123
+[[You has remove all %s]], -- 124
+[[We dont have any event on this date!]], -- 125
+[[You cant using this for Save you from lag!]], -- 126
+[[Your latency is too high, we tried to save you from high-latency!]], -- 127
+[[You got %s from %s]], -- 128
+[[Word "%s" is not founded anywhere]], -- 129
+[[Plant in the ground]], -- 130
+[[You already have "%s" in your inventory! not able for more]], -- 131
+[[Achievement "%s" is locked!]], -- 132
+[[Achievement %s is now unlocked!]], -- 133
+[[Monster %s has been slayed by %s!]], -- 134
+[[You need %s]], -- 135
+[[Thanks for joining to our server :)]], -- 136
+[[Just entity Env_Object, Env_Sprite and Func_DynWall should be triggered]], -- 137
+[[You need $1 to able use $2]], -- 138
+[[You are not able to drop this item]], -- 139
+[[Name $1 have been used by other clan, Try again!]], --140
+[[Result]], -- 141
+[[You've success sent request to $1's Clan]], -- 142
+[[You already sent Request to $1's clan]], -- 143
+[[You denied this request]], -- 144
+[[You accept this request]], -- 145
+[[Join now!|You are accepted]], -- 146
+[[Hand Possition]], -- 147
+[[Right]], -- 148
+[[Left]], -- 149
+[[You got $1 from $2]], -- 150
+[[No Additional.]], -- 151
+[[You need $1 to craft $2]], -- 152
+[[You have craft $1]], -- 153
+[[Tree]], -- 154
+[[Fishing]], -- 155
+[[That is not fishing area]], -- 156
+[[There is something move, press F3 to catch]], -- 157
+[[You've spent $1 for $2]], -- 158
+[[You got %s]], -- 159
+[[Congratulations you has reach level %s]], -- 160
+[[Your comment has been inputed, Thank You!]], -- 161
+[[This player is hide his status info]], -- 162
+[[Salary time SCs +%s!@C]], -- 163
+[[You dont have a job!]], -- 164
+[[You withdraw %s Bank Balance]], -- 165
+[[Your Balance is not enough!]], -- 166
+[[You dont have Bank Account]], -- 167
+[[You dont have a house]], -- 168
+[[This house has been owned by %s]], -- 169
+[[You now own %s]], -- 170
+[[You leave your house]], -- 171
+[[You are jailed for %s seconds]], -- 172
+[[Ask to Police Officer to unjail you]], -- 173
+[[This player no have jail status]], -- 174
+[[This player must stay in jail for %s seconds]], -- 175
+[[Congratulation! now your job is %s]], -- 176
+[[Amount]], -- 177
+[[Click left mouse button to launch your skill!]], -- 178
+[[Wait skill to cooldown for %s Second]], -- 179
+[[You dont have enough energy]], -- 180
+[[You have take the free trial]], -- 181
+[[Change your Private-Chat-Friend by typing @cpm]], -- 182
+[[Use your $1 to heal player]], -- 183
+[[You dont have $1!]], -- 184
+[[You dont have enough $1]], -- 185
+[[Your Inventory is full, our system is saving $1 into PSD]], -- 186
+[[Your Inventory is full!]], -- 187
+[[Press [E] To Talk NPC Quickly]], -- 188
+[[You has joining to PvP Zone, You are not longer Protected!]], -- 189
+[[Save Position]], -- 190
+[[Saved]], -- 191
+
+
+
+                      }};
+                      {lang="Indonesian gaul",list={
+[[Data berhasil diload!]], -- 1
+[[Data loe kagak ditemuin!]], -- 2
+[[Loe kagak login,Cepetan login supaya data loe bisa di save!]], -- 3
+[[Gimana kabar loe admin?!]], -- 4
+[[Lanjut]], -- 5
+[[Balik]], -- 6
+[[Halaman pertama]], -- 7
+[[Halaman]], -- 8
+[[Daftar menu]], -- 9
+[[Bahasa]], -- 10
+[[Loe merubah bahasa menjadi Indonesian gaul]], -- 11
+[[Kerang loe kagak cukup!@C]], -- 12
+[[Loe udah ngebeli]], -- 13
+[[Loe sukses nangkep jellyfish]], -- 14
+[[Loe kagak login!]], -- 15
+[[Loe udah punya clan!]], -- 16
+[[Clan loe udah dibubarin atau mungkin juga diubah!]], -- 17
+[[Loe bergabung clan!]], -- 18
+[[Clan ini udah punya penuh anggota!]], -- 19
+[[Si kunyuk ini udah punya clan!]], -- 20
+[[Si kunyuk ini udah ada di dalem clan!]], -- 21
+[[Si kunyuk ini udah kabur!]], -- 22
+[[Loe udah ngajak si kunyuk ini ke clan!]], -- 23
+[[ngajak loe untuk masuk clan-nya!]], -- 24
+[[Loe kagak punya clan!]], -- 25
+[[Server udah nge-load data loe!]], -- 26
+[[Loe telah membuat clan!]], -- 27
+[[Loe udah bubarin clan!]], -- 28
+[[Loe udah keluar dari clan!]], -- 29
+[[Loe bukan abang-abangan clan ini!]], -- 30
+[[Loe nolak ajakan ini!]], -- 31
+[[Loe udah keluarin anggota ini dari clan!]], -- 32
+[[sekarang adalah abang-abangan clan!]], -- 33
+[[Clan loe udah penuh anggota!]], -- 34
+[[Woy masukin ID si kunyuknya dong!]], -- 35
+[[Loe butuh 1jt kerang untuk membuat clan!]], -- 36
+[[Loe udah di usir dari clan ini!]], -- 37
+[[Clan ini gak ada! palingan dihapus]], -- 38
+[[Pake]], -- 39
+[[Jatuhin]], -- 40
+[[Jual]], -- 41
+[[Buang]], -- 42
+[[Semua]], -- 43
+[[Loe udah punya nomor telepon!]], -- 44
+[[Woy masukin dong nomor teleponnya!]], -- 45
+[[Woy masukin password nomor teleponnya kunyuk!]], -- 46
+[[Nomor telepon ini udah ada! coba yang laen!]], -- 47
+[[Nomor telepon akhirnya dibuat!]], -- 48
+[[Nomor telepon kagak ada!]], --49
+[[Loe udah login! Gw gk mau nge-load nomor teleponnya]], --50
+[[Password nomor teleponnya salah woy! jangan coba-coba nyolong]], --51
+[[Berhasil nge-load nomor telepon dan juga data-datanya!]], --52
+[[Woy masukin nomor teleponnya!]], -- 53
+[[Kirim pesan loe dengan cara @sms <message>]], -- 54
+[[Woy masukin nomor telepon orangnya dulu!]], -- 55
+[[Berhasil kirim SMS ke]], -- 56
+[[Nomor telepon ini udah penuh dengan SMS!]], -- 57
+[[Nomor telepon udah dihapus! selamat ya mblo]], -- 58
+[[Semua SMS udah dihapus! dasar jones loe]], -- 59
+[[Perintah kagak ditemukan!]], -- 60
+[[Loe kagak punya cukup kerang! loe butuh 10rb kerang]], -- 61
+[[Nomor telepon adalah system yang keren]], -- 62
+[[loe bisa nge-load data loe pake nomor telepon]], -- 63
+[[Ketik @phonenumber <number> <password> untuk membuat nomor telepon]], -- 64
+[[Ketik @loadphone <number> <password> untuk neg-load nomor telepon dan data]], -- 65
+[[Loe harus login dan juga punya 10rb kerang untuk membuat nomor telepon]], -- 66
+[[Loe kagak punya nomor telepon! dasar jones abadi loe]], -- 67
+[[telah menggunakan perintah]], -- 68
+[[Woy tunggu %s detik dulu supaya bisa ngobrol!]], -- 69
+[[Sekarang loe Away From Keyboard(AFK).]], -- 70
+[[Nomor telepon harus 6-12 angka!]], -- 71
+[[Loe udah mungut %s]], -- 72
+[[Pangkat loe kagak cukup untuk pake perintah ini!]], --73
+[[Loe udah donasi]], --74
+[[Nama clan ini udah ada!]], --75
+[[Loe udah punya ]], --76
+[[Loe udah punya yang lebih baik dari ini!]], --77
+[[Diaktifkan]], --78
+[[Tidak diaktifkan]], --79
+[[Balik]], -- 80
+[[VIP ticket diterima]], -- 81
+[[Legend ticket diterima]], -- 82
+[[Trade started, good luck!]], -- 83
+[[Trade udah berakhir!]], -- 84
+[[udah membeli]], -- 85
+[[Si kunyuk ini udah tutup tradenya!]], -- 86
+[[Loe udah naro barang ini ke trade!]], -- 87
+[[sekarang di trade! harganya]], -- 88
+[[Loe masih ada di trade sekarang!]], -- 89
+[[Mulai trade]], -- 90
+[[Kumpulan trade]], -- 91
+[[Tambah barang ke trade]], -- 92
+[[Barang-barang loe di trade]], -- 93
+[[Hentikan trade]], -- 94
+[[Lepas]], -- 95
+[[Si kunyuk ini dalam kondisi mokad!]], -- 96
+[[Loe kagak bisa ngelakuinnya ke diri loe!]], -- 97
+[[Loe udah transfer %s shell ke %s]], -- 98
+[[udah transfer loe]], -- 99
+[[Inventory loe udah penuh kunyuk!]], -- 100
+[[Halaman terakhir]], -- 101
+[[Server mengatur max inventory loe menjadi]], -- 102
+[[Loe kagak punya cukup SC's!@C]], -- 103
+[[Loe kagak punya cukup Diamond's!@C]], -- 104
+[[Tawuran clan ini udah penuh!]], -- 105
+[[Loe udah dateng ke tawuran clan ini!]], -- 106
+[[Loe udah dateng ke tawuran clan yang laen!]], -- 107
+[[Loe kagak bisa menggunakannya dalam kondisi ini!]], -- 108
+[[Tunggu %s detik buat menggunakan ilmu!]], -- 109
+[[Loe mengambil]], -- 110
+[[Loe menghapus]], -- 111
+[[Teken F3 untuk menggunakan ilmu senjata loe]], -- 112
+[[Cuman JAF Member]], -- 113
+[[Woy masukin pesan loe untuk PM!]], --114
+[[Loe bisa bales cepat pake command @r <message>]], -- 115
+[[Loe kagak bisa ambil hadiah dari item code ini!]], --116
+[[Item code ini kagak diterima! jangan coba jadi rampok kunyuk]], -- 117
+[[Woy masukin kodenya!]], -- 118
+[[Item code diterima!]], -- 119
+[[Loe mendapatkan %s shell dari tawuran clan]], -- 120
+[[Loe menjual %s seharga %s Shell]], -- 121
+[[Loe menjual semua %s seharga %s Shell]], -- 122
+[[Loe udah membuang %s]], -- 123
+[[Loe udah membuang semua %s]], -- 124
+[[kami tidak punya event apapun di-tanggal ini!]], -- 125
+[[Loe kagak bisa menggunakan ini agar terlindung dari lag!]], -- 126
+[[Gilak bener ping loe tinggi, gue coba melindungi loe dari ping tinggi!]], -- 127
+[[Loe dapet %s dari %s]], -- 128
+[[Kata "%s" kagak ditemuin dimanapun]], -- 129
+[[Tanam didalam tanah]], -- 130
+[[Loe udah punya "%s" di inventory! gk bisa lebih]], -- 131
+[[Achievement "%s" masih dikunci!]], -- 132
+[[Achievement %s sekarang udah kebuka!]], -- 133
+[[Monster %s sudah ditumbangin sama si %s!]], -- 134
+[[Loe butuh %s, cari dulu sono!]], -- 135
+[[Thank you bro udah dateng ke sini :P]], -- 136
+[[Cuman entity Env_Object, Env_Sprite and Func_DynWall yang lu bisa lepas]], -- 137
+[[Lu butuh $1 biar bisa gunain $2 ]], -- 138
+[[Lu gak bisa ngejatuhin item ini]], -- 139
+[[Nama $1 udeh dipake sama yang laen, Coba lagi!]], --140
+[[Hasil]], -- 141
+[[Lu berhasil kirim permintaan ke klan $1]], -- 142
+[[Lu udah pernah kirim permintaan ke klan $1!]], -- 143
+[[Lu dah tolak ini permintaan]], -- 144
+[[Lu dah terima ini permintaan]], -- 145
+[[Gabung!|Lu dah diterima]], -- 146
+[[Posisi Tangan]], -- 147
+[[kanan]], -- 148
+[[kiri]], -- 149
+[[Lu dapet $1 dari $2]], -- 150
+[[Gak ada tambahan.]], -- 151
+[[Lu butuh $1 buat ngerakit $2]], -- 152
+[[Lu udeh ngerakit $1]], -- 153
+[[Pohon]], -- 154
+[[Mancing]], -- 155
+[[Itu bukan tempat mancing]], -- 156
+[[Ada yang gerak, teken F3 cepet]], -- 157
+[[Lu ngabisin $1 buat $2]], -- 158
+[[Lu dapet %s]], -- 159
+[[Mantap! lu dah sampe level %s]], -- 160
+[[Komentar lu udeh di taro, makasih ye :p]], -- 161
+[[Orang ini gk mau nujukin status infonya]], -- 162
+[[Gajian dolooo SCs +%s!@C]], -- 163
+[[Lu kgk ada kerjaan!]], -- 164
+[[Lu ngambil %s Saldo Bank]], -- 165
+[[Saldo lu kagak cukup!]], -- 166
+[[Lu kgk punya akun Bank]], -- 167
+[[Lu kgk punya rumah]], -- 168
+[[Rumah ini udah ada pemiliknya si %s]], -- 169
+[[Lu sekarang nempatin %s]], -- 170
+[[Lu keluar dari rumah lu]], -- 171
+[[Lu di penjara buat %s detik]], -- 172
+[[Tanya ke petugas buat bebasin lu]], -- 173
+[[Orang ini kgk punya status penjara]], -- 174
+[[Orang ini harus dipenjara buat %s detik]], -- 175
+[[Selamat! lu ada kerjaan sebagai %s]], -- 176
+[[Jumlah]], -- 177
+[[Teken tombol kiri mouse buat lempar serangan lu!]], -- 178
+[[Sabar gan, skill lu cooldown dulu untuk %s detik]], -- 179
+[[Energy lu kagak cukup]], -- 180
+[[Lu udah ambil gratisannya]], -- 181
+[[Ganti teman ngobrol lu dengan ketik @cpm]], -- 182
+[[Pake $1 lu untuk sembuhin orang]], -- 183
+[[Lu kagak punya $1!]], -- 184
+[[Lu kagak punya cukup $1]], -- 185
+[[Inventory lu penuh, Sistem gw nyimpen $1 ke PSD]], -- 186
+[[Inventory lu udah penuh!]], -- 187
+[[Teken [E] buat Ngomong ama NPC]], -- 188
+[[Lu masuk Zona PvP, lu kgk lagi dilindungi!]], -- 189
+[[Simpen posisi]], -- 190
+[[Disimpen]], -- 191
+
+
+
+                      }};
+
+
+                     {lang="Turkish",list={
+[[Verilerin dogru bir sekilde yüklendi!]], -- 1
+[[Verilerin bulunamadi!]], -- 2
+[[Giris yapmamissiniz, lütfen dogru girdiginizden emin olun kaydedilmesi icin!]], -- 3
+[[Hosgeldin Yönetici!]], -- 4
+[[Ileri]], -- 5
+[[Geri]], -- 6
+[[Baslangic Sayfasi]], -- 7
+[[Sayfa]], -- 8
+[[Listelenmis Menü]], -- 9
+[[Dil]], -- 10
+[[Türkce dilini sectin!]], -- 11
+[[Yeteri kadar kabugun yok!@C]], -- 12
+[[Satin aldin]], -- 13
+[[Basarili bir sekilde deniz anasi yakaladiniz!]], -- 14
+[[Giris yapmamissin!]], -- 15
+[[Zaten Senin klanin var!]], -- 16
+[[Klanin silinmis ya da degistirilmis!]], -- 17
+[[Klana katiliyorsun!]], -- 18
+[[Bu klanin zaten maksimum üyesi var!]], -- 19
+[[Bu oyuncunun zaten klani var!]], -- 20
+[[Bu oyuncu zaten klaninda!]], -- 21
+[[Oyuncu mevcut degil!]], -- 22
+[[Onu klana davet ettiniz!]], -- 23
+[[klana katilmaya davet ediyor!]], -- 24
+[[Klana sahip degilsin!]], -- 25
+[[Sunucu verilerinizi yükledi!]], -- 26
+[[Bir klan yapmissin!]], -- 27
+[[Klanini kaldirdin!]], -- 28
+[[Klandan ayrildin!]], -- 29
+[[Klan lideri degilsin!]], -- 30
+[[Bu davetiyeyi reddettiniz!]], -- 31
+[[Bu üyeyi klandan kaldirdiniz!]], -- 32
+[[Simdi klan lideri!]], -- 33
+[[Klaninizin zaten maksimum üyesi var!]], -- 34
+[[Lütfen oyuncu kimligini (ID) koyun!]], -- 35
+[[Klan olusturmak icin 1 milyon kabuga ihtiyaciniz var!]], -- 36
+[[Bu klandan kaldirildiniz!]], -- 37
+[[Bu klan var degil! Belki kaldirilmistir.]], -- 38
+[[Tak]], -- 39
+[[Birak]], -- 40
+[[Sat]], -- 41
+[[Sil]], -- 42
+[[Hepsi]], -- 43
+[[Zaten telefon numaraniz var!]], -- 44
+[[Lütfen telefon numaranizi koyunuz!]], -- 45
+[[Lütfen telefon numarasi sifresini koyunuz!]], -- 46
+[[Bu telefon numarasi zaten var! tekrar dene!]], -- 47
+[[Telefon numarasi olusturuldu!]], -- 48
+[[Telefon numarasi yok!]], --49
+[[Kayit oldunuz! Telefon numarasi yüklenemedi!]], --50
+[[Telefon numarasi sifre yanlis!]], --51
+[[Oyuncu verileri ve Telefon verileri basariyla yüklendi!]], --52
+[[Lütfen telefon numarasi giriniz!]], -- 53
+[[Mesajinizi yazarken @sms <mesaj> koyun!]], -- 54
+[[Lütfen telefon numarasi hedefini koyun!]], -- 55
+[[Su kisiye Basarili SMS gönderdi]], -- 56
+[[Bu telefon numarasi zaten maksimum SMS yollamis!]], -- 57
+[[Telefon numarasi kaldirildi!]], -- 58
+[[Tüm SMS kaldirildi!]], -- 59
+[[Komut bulunamadi!]], -- 60
+[[Yeterince kabugun yok! 10K kabuga ihtiyacin var!]], -- 61
+[[Telefon numarasi muhtesem sistem]], -- 62
+[[Verilerinizi telefon numaranizla yükleyebilirsiniz]], -- 63
+[[Telefon numarasini yapmak icin @phonenumber <sayi> <sifre> yazarak]], -- 64
+[[Telefon numaranizi ve verilerinizi yuklemek icin @loadphone <sayi> <sifre> yazarak yapabilirsiniz.]], -- 65
+[[Telefon numarasini girmek icin giris ve 10K kabuk gerekiyor!]], -- 66
+[[Telefon numaraniz yok!]], -- 67
+[[komutunu kullandi]], -- 68
+[[Sohbet edebilmek icin lütfen %s saniye bekleyin!]], -- 69
+[[Artik Klavyeden Uzak (AFK) konumdasin.]], -- 70
+[[Telefon numarasi 6-12 olmalidir Sayi / Karakter!]], -- 71
+[[%s almayi basardin]], -- 72
+[[Bu komutu kullanmak icin yetkiniz yetmiyor!]], --73
+[[Bagis yaptiniz]], --74
+[[Bu klan adi zaten var!]], --75
+[[Zaten sahipsin: ]], --76
+[[Zaten bundan daha iyisine sahipsin!]], --77
+[[Aktiflestirildi]], --78
+[[Aktiflestirilmedi]], --79
+[[Geri]], -- 80
+[[VIP bileti onaylandi!]], -- 81
+[[Efsanevi bileti dogrulandi!]], -- 82
+[[Ticaret basladi, iyi sanslar!]], -- 83
+[[Ticaret sona erdi!]], -- 84
+[[satin aldi]], -- 85
+[[Bu oyuncu ticaretini kapadi!]], -- 86
+[[Bu esyayi zaten ticarete acmissin!]], -- 87
+[[Ticarette! Fiyatla Birlikte]], -- 88
+[[Hala ticarettesin!]], -- 89
+[[Ticareti baslat]], -- 90
+[[Ticaret Listesi]], -- 91
+[[Ticarete esya ekle]], -- 92
+[[Ticaretteki esyam]], -- 93
+[[Ticareti durdur]], -- 94
+[[Kaldir]], -- 95
+[[Bu oyuncu ölü durumda!]], -- 96
+[[Bunu kendinize yapamazsiniz!]], -- 97
+[[Transfer ettin %s kabugunu %s ya.]], -- 98
+[[Sana transfer var]], -- 99
+[[Envanteriniz zaten dolu!!]], -- 100
+[[Son Sayfa]], -- 101
+[[Sunucu, maksimum envanterinizi buraya]], -- 102
+[[Yeterince Silver Crystal'in yok!@C]], -- 103
+[[Yeterince elmasin yok!@C]], -- 104
+[[Bu klan savas alani dolu!]], -- 105
+[[Bu klan savasina katildin!]], -- 106
+[[Zaten diger klan savasina katiliyorsun!]], -- 107
+[[Bunu bu durumda kullanamazsin!]], -- 108
+[[Beceri kullaniminiz icin %s saniye bekleyin!]], -- 109
+[[Aliyorsun]], -- 110
+[[Siliyorsun]], -- 111
+[[Silah yeteneginizi kullanmak icin F3'e basin.]], -- 112
+[[Sadece JAF Üyesi]], -- 113
+[[Lütfen mesajinizi PM'ye yazin!]], --114
+[[@r <message> komutunu kullanarak hizli cevap gönderebilirsiniz.]], -- 115
+[[Bu öge kodundan hediye alamazsin!]], --116
+[[Bu ürün kodu reddedildi!]], -- 117
+[[Lütfen kodu girin!]], -- 118
+[[Öge kodu kabul edildi!]], -- 119
+[[Klan savasindan %s kabuk geldi.]], -- 120
+[[Satiyorsun $1 ile fiyati $2 Kabuktan]], -- 121
+[[Bütün herseyi satarsin $1 ile fiyati $2 Kabuktan]], -- 122
+[[Sildin %s]], -- 123
+[[Hepsini kaldirdin %s]], -- 124
+[[Bu tarihte herhangi bir etkinligimiz yok!]], -- 125
+[[Bunu lag gitmesi icin kullanamazsiniz!]], -- 126
+[[Bekleme süreniz cok yüksek, sizi gecikmeden kurtarmaya calistik!]], -- 127
+[[Aldiniz $1 tarafindan $2]], -- 128
+[[Sözcük "%s" her yerde bulunamadi]], -- 129
+[[Yere dikiniz]], -- 130
+[[Zaten sahipsin "%s" envanterinde! daha fazla icin mümkün degil]], -- 131
+[[Basari "%s" kilitli!]], -- 132
+[[Basari %s simdi acildi!]], -- 133
+[[Yaratik $1, $2 Tarafindan öldürüldü!]], -- 134
+[[Gerekli %s]], -- 135
+[[Sunucumuza katildiginiz icin tesekkür ederiz :)]], -- 136
+[[Sadece varlik Env_Object, Env_Sprite ve Func_DynWall tetiklenmelidir]], -- 137
+[[Ihtiyacin var $1 mümkün kilmak icin $2 'ye]], -- 138
+[[Bu ögeyi birakamazsin]], -- 139
+[[Diger klanlar tarafindan $1 adi kullanildi, Tekrar deneyiniz!]], --140
+[[Sonuc]], -- 141
+[[Basardin, $1'nun Klanina istek gönderildi]], -- 142
+[[$1'nun klanina zaten Istek gönderdiniz]], -- 143
+[[Bu istegi reddettiniz]], -- 144
+[[Bu istegi kabul ettiniz]], -- 145
+[[Simdi katil!|Kabul edildiniz]], -- 146
+[[El Konumu]], -- 147
+[[Sag]], -- 148
+[[Sol]], -- 149
+[[Aldin $1 tarafindan $2]], -- 150
+[[Ek yok.]], -- 151
+[[Ihtiyacin var $1 olusturmak icin $2]], -- 152
+[[Olusturdun $1]], -- 153
+[[Agac]], -- 154
+[[Balikcilik]], -- 155
+[[Bu balikcilik alani degil]], -- 156
+[[Haraketli bir sey var, F3'e basarak yakala!]], -- 157
+[[Harcadin $1 icin $2]], -- 158
+[[Aldin %s]], -- 159
+[[Tebrikler, seviye atladin. Seviye %s'ye ulastin!]], -- 160
+[[Yorumunuz girildi, Tesekkürler!]], -- 161
+[[Bu oyuncu durum bilgisini gizlemis]], -- 162
+[[Silver Crystal maas zamani +%s!@C]], -- 163
+[[Senin bir isin yok!]], -- 164
+[[Cekiyorsun %s Banka hesap bakiyesi]], -- 165
+[[Bakiyeniz yetmiyor!]], -- 166
+[[Banka hesabiniz mevcut degil!]], -- 167
+[[Senin bir evin yok]], -- 168
+[[Bu evin sahibi %s]], -- 169
+[[Simdi sahipsin %s]], -- 170
+[[Evini terk et]], -- 171
+[[Ceza evinde %s saniye duracaksin!]], -- 172
+[[Polis Memuruna hapisten cikman icin soru sor.]], -- 173
+[[Bu oyuncunun hapis durumu yok]], -- 174
+[[Bu oyuncu hapiste kalmali %s saniye]], -- 175
+[[Tebrikler! Simdi isiniz %s]], -- 176
+[[Miktar]], -- 177
+[[Yetenegi'ni baslatmak icin farenizin sol tusuna tiklayin.!]], -- 178
+[[Yeteneginizi yeniden yapmak icin %s saniye bekleyiniz.]], -- 179
+[[Yeterli enerjiniz yok.]], -- 180
+[[Ücretsiz denemeyi aldýn.]], -- 181
+[[Özel sohbetteki arkadaþlarýnýzý bu komutla deðiþtirin @cpm]], -- 182
+[[Bunu kullanarak $1 oyunculara can verebilirsiniz.]], -- 183
+[[Sende bu yok: $1!]], -- 184
+[[Yeteri kadar bu yok: $1]], -- 185
+[[Envanteriniz dolu, sistemimiz kaydediyor $1 suna PSD]], -- 186
+[[Envanteriniz dolu!]], -- 187
+[[NPC'ye hizli bir sekilde konusmak icin [E] tusuna basin.]], -- 188
+[[PvP Bolgesine katiliyorsunuz, artik Koruma altinda degilsiniz!]], -- 189
+[[Konumu Kaydet]], -- 190
+[[Kaydedildi]], -- 191
+
+
+                      }};
+                     {lang="Arabic",list={
+[[kha1d nagah tahmeal el bayana1t!]], -- 1
+[[la1m naged bayana1tak!]], -- 2
+[[anta lay1sa ma1ak login, arjok ta1akad anak a1ma1lt login a1lashan ne1mal save le el data!]], -- 3
+[[marhaba ya admin!]], -- 4
+[[ba1hdoh]], -- 5
+[[wara1h]], -- 6
+[[el safha el o1la]], -- 7
+[[safha]], -- 8
+[[bayana1t el k1aema]], -- 9
+[[el lohga]], -- 10
+[[enta ghayart el logha ela Arabic]], -- 11
+[[enta la1ysa ma1ak shell kafe!@C]], -- 12
+[[enta eshtareet]], -- 13
+[[anta amsakt jellyfish]], -- 14
+[[enta la1sta a1mel login!]], -- 15
+[[enta ma1ak clan fe1elan!]], -- 16
+[[el clan beta1ak etha1zaf aw etghayar!]], -- 17
+[[enta dakhalt el clan!]], -- 18
+[[el clan feh el hagem el kafe men el members!]], -- 19
+[[haza el player ma1ah fe1len clan!]], -- 20
+[[haza el player fe el clan beta1ak fe1len!]], -- 21
+[[el player ghayer mawogod!]], -- 22
+[[enta da1eto le el clan beta1ak!]], -- 23
+[[la1kad da1ak le el clan beta1o!]], -- 24
+[[enta la1ysa ma1ak clan!]], -- 25
+[[el server hamal bayanatak!]], -- 26
+[[enta a1malt clan!]], -- 27
+[[enta hazaft el clan beta1ak!]], -- 28
+[[enta ghadart el clan!]], -- 29
+[[enta mosh el mas1ool beta1e el clan!]], -- 30
+[[la1kad rafadt haz1ehe el da1wa!]], -- 31
+[[enta hazaft el member dah men el clan!]], -- 32
+[[el a1an howa clan leader!]], -- 33
+[[el clan beta1ak ma1ah members kafeen fe1len!]], -- 34
+[[arjok ektob player ID!]], -- 35
+[[enta tahtag 1 melion shell ala1shan te1mel clan!]], -- 36
+[[enta ethazaft men el clan!]], -- 37
+[[haza el clan ghayr mawogood, robma ghadar]], -- 38
+[[esta1mel]], -- 39
+[[ermey]], -- 40
+[[be1oh]], -- 41
+[[ehzef]], -- 42
+[[el kol]], -- 43
+[[enta fe1len ma1ak rakam telephone!]], -- 44
+[[arjok ektob rakam el telephone beta1ak!]], -- 45
+[[arjok ektob el password beta1a rakam el telephone beta1ak!]], -- 46
+[[haza el rakam mosta1mal be el fe1el! gareb mara okhra!]], -- 47
+[[rakam el telephone beta1ak eta1mal!]], -- 48
+[[rakam el telephone ghayer maogood!]], --49
+[[enta aamel login! enta mehfaztesh el rakam bet1a el telephone beta1ak!]], --50
+[[password el rakam beta1a el telephone ghayer saheeh!]], --51
+[[lakad hafezna el telephone data w el player data!]], --52
+[[arjok ektob rakam el telephone!]], -- 53
+[[ektob el resala bektabet @sms <resala>]], -- 54
+[[arjok ektob rakam el telephone el mostahdaf!]], -- 55
+[[lakad tm ersal resala kasera sms ela]], -- 56
+[[haza el telephone ma1ah sms kafee fe1len!]], -- 57
+[[rakam el telephone ethazaf!]], -- 58
+[[kol el sms ethazafo!]], -- 59
+[[el command gheyer maogood!]], -- 60
+[[enta mosh ma1ak shell kafee! enta tahtag 10k shell]], -- 61
+[[rakam el telephone howa nezam ra1ea]], -- 62
+[[enta momken tehfaz el data beta1tak be el telephone beta1ak]], -- 63
+[[ketabet @phonenumber <number> <password> alashan te1mel rakam el telephone]], -- 64
+[[ketabet @loadphone <number> <password> lekay tehfaz rakam el telephone w el data]], -- 65
+[[anta tahtag ela login w 10K shell ala1shan te1mel rakam el telephone]], -- 66
+[[enta mosh ma1ak rakam el telephone!]], -- 67
+[[lakad estakhdama el command]], -- 68
+[[arjok entazer %s thanya kay tatakalam!]], -- 69
+[[anta el al1an ba1eed a1n lawha el mafateeh(AFK).]], -- 70
+[[rakam el telephone yahtag 6-12 el rakam/el hroof!]], -- 71
+[[enta a1khazt %s]], -- 72
+[[el rank beta1ak laysa kafee le taztakhdema haza el command!]], --73
+[[enta taba1rat]], --74
+[[esm el clan maogood fe1len!]], --75
+[[enta fe1len ma1ak ]], --76
+[[enta fe1len ma1ak ahsan men dah!]], --77
+[[nosheta]], --78
+[[lam yonashat]], --79
+[[ela el khalf]], -- 80
+[[okeda tazkarat el VIP]], -- 81
+[[okeda tazkarat el Legend]], -- 82
+[[bada1at el tegara, haz sa1eed!]], -- 83
+[[lakad entahat el tegara!]], -- 84
+[[eshtara]], -- 85
+[[haza el player aghlaka el trade beta1oh!]], -- 86
+[[enta fe1len a1malt el item dah le el trade!]], -- 87
+[[el trade shaghala el a1an! ma1a el se1er]], -- 88
+[[enta lesa fe el trade el a1an!]], -- 89
+[[ebda1 el tegara]], -- 90
+[[ka1emat el tegara]], -- 91
+[[hot item le el tegara]], -- 92
+[[el item beta1te fe el tegara]], -- 93
+[[aokef el tegara]], -- 94
+[[aokef el estekhdam]], -- 95
+[[haza el player howa fe hala mayeta!]], -- 96
+[[enta la tastate1e an tafa1alaha fe nafsek!]], -- 97
+[[lakad nakalta %s shell ela %s]], -- 98
+[[lakad nokla elayk]], -- 99
+[[el makhzoon el khas bek kafee be el fe1el!]], -- 100
+[[el safha el akheyra]], -- 101
+[[el server set el makhzoon beta1ak kafee]], -- 102
+[[enta mosh ma1ak kafee SC's!@C]], -- 103
+[[enta mosh ma1ak kafee Diamond's!@C]], -- 104
+[[el harb beta1et el clan dah kafeeya!]], -- 105
+[[enta dakhalt le el harb beta1et el clans dolah!]], -- 106
+[[enta fe1len dakhalt harb clan!]], -- 107
+[[la yomken estekhdam haza fe hazehe el hala!]], -- 108
+[[entazer %s thanya le eshtekhdam el mahara!]], -- 109
+[[anta takhoz]], -- 110
+[[anta tahzef]], -- 111
+[[etghat F3 le estkhedam maharat el selah beta1ak]], -- 112
+[[JAF Member fakat]], -- 113
+[[arjok ektob resalatak le el PM!]], --114
+[[enta yomkenak estekhdam el rad besor1a be estkhdam command @r <message>]], -- 115
+[[enta la yomkenak akhzo hazehe el hadyah men el item code!]], --116
+[[tam rafd haza el item code!]], -- 117
+[[arjok ektob el code!]], -- 118
+[[item el code makbool!]], -- 119
+[[enta hasalt %s shell men clan war]], -- 120
+[[enta be1et $1 be el se1er $2 Shell]], -- 121
+[[enta be1et koloh $1 be el se1er $2 Shell]], -- 122
+[[enta hazaft a %s]], -- 123
+[[enta hazaf koloh fe %s]], -- 124
+[[laysa ladayna ay hadath fe haza el tareekh!]], -- 125
+[[anta la tastate1e estekhdam haza le kay tonkaz men el lag!]], -- 126
+[[el letencey beta1tak kabeera, nahno garabna an nonkezak men el Letency el kabeer!]], -- 127
+[[enta hasalt ala $1 men $2]], -- 128
+[[el kalema "%s" laysat mogooda fe ay makan]], -- 129
+[[al nabat fe el ard]], -- 130
+[[enta fe1len "%s" fe el makhzoon beta1ak! laysa makbool be el kateer men haza]], -- 131
+[[el enjaz "%s" mokfal!]], -- 132
+[[el enjaz %s howa el an tama fathoh!]], -- 133
+[[el wahsh $1 lakad kotela men $2!]], -- 134
+[[enta tahtag %s]], -- 135
+[[shokran le el dkhool fe el server beta1na :)]], -- 136
+[[yageb tashkheel Env_Object, Env_Sprite w Func_DynWall fakat]], -- 137
+[[enta tahtag $1 kay tastakhdem $2]], -- 138
+[[anta laysa men el makbool an trme haza el item]], -- 139
+[[esm $1 lakad ostokhdema men el clan, hawel mara okhra!]], --140
+[[natega]], -- 141
+[[lakad arsalt be nagah talab $1's Clan]], -- 142
+[[anta fe1len arsakt talab $1's clan]], -- 143
+[[lakad rofeda haza el talab]], -- 144
+[[anta kabelta haza el talab]], -- 145
+[[edkhol el a1an!|anta makbool]], -- 146
+[[wad1e el yad]], -- 147
+[[yameen]], -- 148
+[[shemaal]], -- 149
+[[anta hasalt $1 men $2]], -- 150
+[[la edafe.]], -- 151
+[[enta tahtag $1 le tasna1a $2]], -- 152
+[[enta sana1t $1]], -- 153
+[[shagra]], -- 154
+[[tastad]], -- 155
+[[haza laysa makan el sayd]], -- 156
+[[honak shey1e yataharak, edghat F3 le tamsekah]], -- 157
+[[lakad kadayta $1 le $2]], -- 158
+[[anta hasalt %s]], -- 159
+[[mabrook lakad hasalt a1la level %s]], -- 160
+[[tam edkhal ta1lekek, shokran lak!]], -- 161
+[[haza el player mokhfe ma1lomatoh]], -- 162
+[[wakt el rateb SCs +%s!@C]], -- 163
+[[anta laysa ma1ak ama1l!]], -- 164
+[[anta tashab %s raseed el bank]], -- 165
+[[raseed el bank ghayr kafee!]], -- 166
+[[enta laysa ma1ak betaket el bank]], -- 167
+[[anta laysa ma1ak manzel]], -- 168
+[[haza el manzel okheza men %s]], -- 169
+[[anta akhazta al a1an %s]], -- 170
+[[anta ghadart el manzel beta1ak]], -- 171
+[[lakad sogent le %s thwany]], -- 172
+[[esa1al el police kay yokhregaka men el segn]], -- 173
+[[haza el player laysa yamlok halat segn]], -- 174
+[[haza el player yageb an yabka fe el segn ela %s thwany]], -- 175
+[[mabrook! al1an wazefatok %s]], -- 176
+[[kmeya]], -- 177
+[[edghat zorar el mouse el shemal kay tabda1a maharatak!]], -- 178
+[[entazer mahara le tbreed le %s thwany]], -- 179
+[[anta laysa ma1ak eangry kafee]], -- 180
+[[anta tahtag an ta1akhooz el tagreba el maganya]], -- 181
+[[ghayer el khas-drdasha-sadeek beta1ak be an taktob @cpm]], -- 182
+[[estakhdem el beta1ak $1 le tashfe el player dah]], -- 183
+[[enta laysa ma1ak $1!]], -- 184
+[[anta laysa ma1ak kafee $1]], -- 185
+[[Your Inventory is full, our system is saving $1 into PSD]], -- 186
+[[Your Inventory is full!]], -- 187
+[[Press [E] To Talk NPC Quickly]], -- 188
+[[You has joining to PvP Zone, You are not longer Protected!]], -- 189
+[[Save Position]], -- 190
+[[Saved]], -- 191
+
+
+                      }};
+}
+
+function jaf.sv_lang(lang,list,...) -- (...) = formattext-1,... formattext-n
+      if lang<=0 or lang>#jaf.lang_list then
+         lang=1
+      end
+      if {...} then
+         local v=jaf.lang_list[lang].list[list]
+         langfc,mode2,tlp=1,false,{...}
+         while string.find(v,"$"..langfc) do
+               v=string.gsub(v,"$"..langfc,tlp[langfc])
+               langfc=langfc+1
+               mode2=true
+         end
+         if mode2==false then
+               return v:format(unpack({...}))
+         else
+               return v
+         end
+      end
+      return jaf.lang_list[lang].list[list]
+end

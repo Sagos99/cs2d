@@ -1,0 +1,44 @@
+
+©255000255  Mapa criado por Bruno R Z.
+
+ 
+
+      (-{ Escola }-)         |< Como Jogar ? >|
+
+©000000200 Counter-Terrorist (CT): CTs são os professores
+  Quem pode ser professor?
+Apenas jogadores que tenham permissão direta do adm
+
+©200000000 Terrorists (TR): TRs são alunos
+
+
+©100100100 Regras gerais:
+ - Não vandalizar as dependências escolares
+ - Obedecer sempre o professor e/ou responsável
+ - Copiar tudo o que o professor pedir
+ - Não proferir palavras torpes
+
+ - Quando bater o sinal, pode ir pro intervalo, ou voltar dele, se caso voce já estiver nele
+ 
+
+
+------------------------------------------------------------------------------------
+
+ Salas disponíveis na escola:
+- Salas de aula (4)      - Pátio
+- Banheiro masculino   - Sala dos professores
+- Banheiro femininio
+- Diretoria     - Secretaria
+
+
+-------------------------------------------------------------------------------------
+ Special thanks to those ones who gave me help whit lua script and other stuff:
+
+* DC
+* Flacko 
+* Starkkz
+* Homer
+* Blazzingxx
+* TheKilledDeath
+* LV
+* Leegao

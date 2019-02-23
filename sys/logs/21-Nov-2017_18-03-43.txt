@@ -1,0 +1,52 @@
+CS2D 1.0.0.5 Logfile - 21 Nov 2017, 18:03:43
+
+[18:03:43] UDP socket initialized using port 0
+[18:03:43] U.S.G.N.: Your game version is up to date!
+[18:03:43] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[18:03:44] Cached servers added to list: 15
+[18:03:44] U.S.G.N.: Received serverlist (servers: 85)
+[18:03:44] U.S.G.N.: Received serverlist (servers: 150)
+[18:03:45] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:03:45] U.S.G.N.: Ping/State 'idle' (357 ms)
+[18:03:45] U.S.G.N.: Ping/State 'idle' (373 ms)
+[18:03:48] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:03:48] U.S.G.N.: Ping/State 'idle' (388 ms)
+[18:03:49] Checking 'gfx/tiles/besto2.bmp': Already exists.
+[18:03:49] Checking 'gfx/sagoswins/bomba.png': Already exists.
+[18:03:49] Requesting 0 files from server...
+[18:03:49] load map 'Battle Royale'
+[18:03:49] ----- Server joined -----
+[18:03:50] U.S.G.N.: Ping/State 'playing'
+[18:03:51] Sagos 2 juntou-se a Countra-Terrorista Forças
+[18:03:59] [Info] Você pegou 15 Balas de Pistola
+[18:04:15] Sagos 2 deixou o jogo
+[18:04:15] Disconnect Reason: Client request (Code 0)
+[18:04:15] ----- Disconnected -----
+[18:04:16] Cached servers added to list: 15
+[18:04:17] U.S.G.N.: Received serverlist (servers: 83)
+[18:04:17] U.S.G.N.: Received serverlist (servers: 150)
+[18:04:21] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:04:31] Cached servers added to list: 15
+[18:04:32] U.S.G.N.: Received serverlist (servers: 82)
+[18:04:32] U.S.G.N.: Received serverlist (servers: 150)
+[18:04:33] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:04:33] U.S.G.N.: Ping/State 'idle' (391 ms)
+[18:04:35] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:04:35] U.S.G.N.: Ping/State 'idle' (404 ms)
+[18:04:36] Checking 'gfx/tiles/besto2.bmp': Already exists.
+[18:04:36] Checking 'gfx/sagoswins/bomba.png': Already exists.
+[18:04:36] Requesting 0 files from server...
+[18:04:36] load map 'Battle Royale'
+[18:04:36] ----- Server joined -----
+[18:04:37] Sagos 2 juntou-se a Countra-Terrorista Forças
+[18:04:42] U.S.G.N.: Ping/State 'playing'
+[18:04:45] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[18:04:49] [Info] Você pegou 15 Balas de Pistola
+[18:04:52] Sagos 2 killed Sagos with USP
+[18:05:27] Sagos 2 deixou o jogo
+[18:05:27] Disconnect Reason: Client request (Code 0)
+[18:05:27] ----- Disconnected -----
+[18:05:27] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:05:32] Cached servers added to list: 15
+[18:05:33] U.S.G.N.: Received serverlist (servers: 84)
+[18:05:33] U.S.G.N.: Received serverlist (servers: 150)

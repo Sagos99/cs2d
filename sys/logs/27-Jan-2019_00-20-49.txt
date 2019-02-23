@@ -1,0 +1,305 @@
+CS2D 1.0.0.7 Logfile - 27 Jan 2019, 00:20:49
+
+[00:20:49] Steam: Logged in as #76561198077078199
+[00:20:49] UDP socket initialized using port 59929
+[00:20:50] U.S.G.N.: Your game version is up to date!
+[00:20:51] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[00:20:52] Cached servers added to list: 178
+[00:20:53] U.S.G.N.: Received serverlist (servers: 78)
+[00:21:02] Connecting to 18.228.226.88:33211 (using U.S.G.N. ID #15431) ...
+[00:21:03] U.S.G.N.: Ping/State 'idle' (288 ms)
+[00:21:03] "  (1x)
+[00:21:04] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[00:21:04] Checking 'weed.png': Does not exist. Request transfer!
+[00:21:04] Checking 'gfx/hats/weed.png': Already exists.
+[00:21:04] Requesting 1 file from server...
+[00:21:04] Downloading 'weed.png' from server...
+[00:21:04] ERROR: Failed to create directory '' for received files
+[00:21:04] load map 'awp_grey'
+[00:21:04] ----- Server joined -----
+[00:21:04] Bem vindo ao nosso servidor, Sagos!
+[00:21:04] Seu score total em nossa rede é 69/35 e sua patente é Bronze
+[00:21:05] U.S.G.N.: Ping/State 'playing'
+[00:21:05] peste branca *MORTO*: ALA
+[00:21:08] Sagos aliou-se a Equipe Contra-Terrorista
+[00:21:14] peste branca *MORTO*: CHAMOU O SV DE MERDA
+[00:21:14] s F z killed Kerminho with AWP
+[00:21:21] legend'S Server
+[00:21:21] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[00:21:21] Novidade: Use !block <id> para bloquear um usuário.
+[00:21:21] Novidade: Use !unblock <id> para debloquear um usuário.
+[00:21:23] tL.  King [Platina]: sagos
+[00:21:26] Sagos [Bronze]: ?
+[00:21:34] OFF' Osego killed cmd'S. Reaper with AWP
+[00:21:35] Tauã conectou-se ao servidor
+[00:21:37] tL.  King [Platina]: quando tinha começado de joga se jogava
+[00:21:39] Tauã aliou-se a Equipe Terrorista
+[00:21:41] tL.  King [Platina]: ?
+[00:21:47] tL.  King [Platina]: lembro desse nome sagos
+[00:21:48] tL.  King killed s F z with AWP
+[00:21:49] s F z [Prata]: q
+[00:21:51] peste branca: Q
+[00:21:51] s F z [Prata]: nem sabia
+[00:21:51] OFF' Osego killed NF. +Kpw with AWP
+[00:21:53] Sagos [Bronze]: sou do beta
+[00:21:55] peste branca: Q ISSO VELHO
+[00:21:55] Sagos killed OFF' Osego with AWP
+[00:21:57] cmd'S. Reaper deixou o servidor
+[00:21:57] peste branca: KKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[00:21:58] tL.  King killed Sagos with AWP
+[00:21:58] k¦tL.  King¦100¦100
+[00:21:59] NF. +Kpw [Diamante II]: ala o tiro do osego
+[00:21:59] peste branca: MDS
+[00:22:00] cmd'S.    150k killed tL.  King with AWP
+[00:22:03] peste branca: CARALHO VELHO
+[00:22:04] peste branca: ATE ELE
+[00:22:05] OFF' Osego [Platina]: qq tem kpq
+[00:22:06] U.S.G.N.: Ping/State 'playing'
+[00:22:10] peste branca: CEIS E FUDIDO
+[00:22:11] NF. +Kpw [Diamante II]: GALERA GO SV DAYZ?
+[00:22:13] s F z [Prata]: NAO
+[00:22:17] peste branca: MDS KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[00:22:19] peste branca: NEM FODENDO
+[00:22:20] peste branca killed cmd'S.    150k with AWP
+[00:22:20] cmd'S. Reaper conectou-se ao servidor
+[00:22:21] legend'S Server
+[00:22:21] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[00:22:21] Novidade: Use !block <id> para bloquear um usuário.
+[00:22:21] Novidade: Use !unblock <id> para debloquear um usuário.
+[00:22:23] peste branca: AHAM
+[00:22:23] cmd'S. Reaper aliou-se a Equipe Contra-Terrorista
+[00:22:27] peste branca: PEGOU DE ALGM NE
+[00:22:29] s F z [Prata]: reaper
+[00:22:30] Tauã [Mestre]: SIM
+[00:22:31] Tauã [Mestre]: KKKKKKKKKKK
+[00:22:31] s F z [Prata]: gato
+[00:22:33] peste branca: HM TA
+[00:22:33] Tauã [Mestre]: AGORA É MINHA
+[00:22:33] tL.  King killed cmd'S. Reaper with Knife
+[00:22:34] Sagos killed peste branca with AWP
+[00:22:35] cmd'S. Reaper [Diamante II]: ue
+[00:22:38] tL.  King killed Sagos with AWP
+[00:22:38] k¦tL.  King¦100¦100
+[00:22:40] OFF' Osego killed cmd'S.    150k with AWP
+[00:22:41] tL.  King killed s F z with AWP
+[00:22:42] NF. +Kpw killed OFF' Osego with AWP
+[00:22:42] s F z [Prata]: errei
+[00:22:45] s F z [Prata]: GO JOGAR
+[00:22:48] s F z [Prata]: TAUA
+[00:22:51] s F z [Prata]: SEU NOME É LINDO
+[00:22:51] OFF' Osego deixou o servidor
+[00:22:52] Kerminho killed NF. +Kpw with AWP
+[00:22:53] peste branca votou pela expulsão de s F z
+[00:22:55] tL.  King [Platina]: eu entrei e time mudo
+[00:22:56] OFF' Osego conectou-se ao servidor
+[00:22:57] tL.  King [Platina]: aiiii
+[00:22:57] Tauã [Mestre]: Obrigado, bb
+[00:22:59] Tauã [Mestre]: Kkk
+[00:23:02] OFF' Osego aliou-se a Equipe Terrorista
+[00:23:03] Kerminho [Bronze II]: ashuash
+[00:23:06] U.S.G.N.: Ping/State 'playing'
+[00:23:06] cmd'S.    150k killed tL.  King with AWP
+[00:23:10] Tauã [Mestre]: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:23:11] Tauã [Mestre]: naski
+[00:23:11] NF. +Kpw killed Kerminho with AWP
+[00:23:12] peste branca: corre q o corno ta puto
+[00:23:12] tL.  King tornou-se um espectador
+[00:23:12] Tauã [Mestre]: Tu não sabe
+[00:23:14] Tauã [Mestre]: o que ´
+[00:23:16] Tauã [Mestre]: fleicidade
+[00:23:18] peste branca: velho
+[00:23:21] legend'S Server
+[00:23:21] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[00:23:21] Novidade: Use !block <id> para bloquear um usuário.
+[00:23:21] Novidade: Use !unblock <id> para debloquear um usuário.
+[00:23:23] Tauã killed s F z with AWP
+[00:23:25] s F z [Prata]: MDS
+[00:23:27] Sagos killed OFF' Osego with AWP
+[00:23:28] peste branca: como q tu consegue
+[00:23:29] Tauã killed cmd'S.    150k with AWP
+[00:23:30] peste branca: essa merda
+[00:23:31] s F z deixou o servidor
+[00:23:31] OFF' Osego [Platina]: WTF
+[00:23:33] OFF' Osego deixou o servidor
+[00:23:33] s F z conectou-se ao servidor
+[00:23:35] peste branca killed cmd'S. Reaper with AWP
+[00:23:36] s F z aliou-se a Equipe Terrorista
+[00:23:38] Sagos killed peste branca with AWP
+[00:23:39] NF. +Kpw killed Tauã with AWP
+[00:23:41] Tauã [Mestre]: Eu comrpo
+[00:23:42] tL.  King [Platina]: sFz
+[00:23:44] Tauã [Mestre]: Ou eu acho igual agora
+[00:23:44] s F z [Prata]: ké
+[00:23:45] Tauã [Mestre]: kkkkkkkkkkkkkkk
+[00:23:46] OFF' Osego conectou-se ao servidor
+[00:23:48] s F z [Prata]: kié
+[00:23:48] peste branca: DJAUIJODAJWDOIASJIPDA
+[00:23:50] OFF' Osego aliou-se a Equipe Contra-Terrorista
+[00:23:51] Tauã killed Sagos with AWP
+[00:23:51] k¦Tauã¦100¦100
+[00:23:54] tL.  King [Platina]: saio da us
+[00:23:56] s F z [Prata]: sai
+[00:23:56] Tauã killed cmd'S.    150k with AWP
+[00:23:56] peste branca: teu padastro
+[00:23:57] cmd'S. Reaper killed peste branca with AWP
+[00:24:05] tL.  King [Platina]: coloca tag
+[00:24:06] U.S.G.N.: Ping/State 'playing'
+[00:24:07] peste branca *MORTO*: padrasto
+[00:24:08] OFF' Osego killed Tauã with AWP
+[00:24:09] s F z [Prata]: quero cla nao
+[00:24:11] peste branca *MORTO*: PADRASTO
+[00:24:13] s F z killed NF. +Kpw with AWP
+[00:24:14] OFF' Osego killed Kerminho with AWP
+[00:24:16] Tauã [Mestre]: Mano
+[00:24:17] NF. +Kpw [Diamante II]: camper lixo
+[00:24:18] OFF' Osego killed s F z with AWP
+[00:24:19] Tauã [Mestre]: Ele odeia
+[00:24:20] s F z [Prata]: a
+[00:24:21] legend'S Server
+[00:24:21] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[00:24:21] Novidade: Use !block <id> para bloquear um usuário.
+[00:24:21] Novidade: Use !unblock <id> para debloquear um usuário.
+[00:24:21] Tauã [Mestre]: maconheiro
+[00:24:22] s F z [Prata]: esqueci
+[00:24:23] s F z [Prata]: q sou
+[00:24:25] NF. +Kpw [Diamante II]: alguem me chama para algum clã?
+[00:24:25] peste branca: ele sabe q tu usa?
+[00:24:25] s F z [Prata]: tr agr
+[00:24:26] peste branca: KASSDJIAWJIDHAJWIODAIWIOD
+[00:24:28] cmd'S. Reaper [Diamante II]: JKPAKODSAPD
+[00:24:29] cmd'S.    150k killed s F z with AWP
+[00:24:29] Tauã [Mestre]: não
+[00:24:30] NF. +Kpw [Diamante II]: posso entrar no de alguem?
+[00:24:31] Sagos killed peste branca with AWP
+[00:24:31] Tauã [Mestre]: kkkkkkkkk
+[00:24:32] cmd'S.    150k killed Tauã with AWP
+[00:24:33] cmd'S. Reaper killed Kerminho with AWP
+[00:24:35] s F z [Prata]: taua macoero
+[00:24:38] peste branca: caralho velho
+[00:24:41] peste branca: o bgl sumiu
+[00:24:43] OFF' Osego killed peste branca with AWP
+[00:24:47] cmd'S. Reaper (Equipe): down
+[00:24:49] s F z [Prata]: bglh?
+[00:24:50] cmd'S. Reaper (Equipe): down
+[00:24:51] s F z [Prata]: o taua
+[00:24:52] Sagos killed Kerminho with Knife
+[00:24:54] Tauã killed cmd'S. Reaper with AWP
+[00:24:55] Sagos killed Tauã with Knife
+[00:24:55] cmd'S.    150k killed s F z with AWP
+[00:24:57] cmd'S. Reaper [Diamante II]: KKKKKKKKKKKKKK
+[00:24:58] OFF' Osego died
+[00:24:58] OFF' Osego aliou-se a Equipe Terrorista
+[00:24:59] Tauã [Mestre]: Oi
+[00:24:59] cmd'S. Reaper [Diamante II]: Boa sagos
+[00:25:07] U.S.G.N.: Ping/State 'playing'
+[00:25:12] OFF' Osego killed cmd'S. Reaper with AWP
+[00:25:15] cmd'S. Reaper [Diamante II]: beleza ne
+[00:25:16] Sagos killed Tauã with AWP
+[00:25:18] cmd'S.    150k killed s F z with AWP
+[00:25:19] peste branca killed cmd'S.    150k with AWP
+[00:25:19] s F z deixou o servidor
+[00:25:21] legend'S Server
+[00:25:21] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[00:25:21] Novidade: Use !block <id> para bloquear um usuário.
+[00:25:21] Novidade: Use !unblock <id> para debloquear um usuário.
+[00:25:22] s F z conectou-se ao servidor
+[00:25:25] s F z aliou-se a Equipe Contra-Terrorista
+[00:25:26] Tauã [Mestre]: Fala, sFz
+[00:25:29] peste branca killed Sagos with AWP
+[00:25:29] k¦peste branca¦100¦100
+[00:25:32] s F z [Prata]: o naski falou de bglh ai
+[00:25:35] s F z [Prata]: ce q manja
+[00:25:36] peste branca: eu nd
+[00:25:38] peste branca: cala boca
+[00:25:43] Tauã [Mestre]: Kkkk
+[00:25:46] Tauã [Mestre]: Mano
+[00:25:49] Tauã [Mestre]: Achar maconha na gaveta
+[00:25:51] NF. +Kpw killed OFF' Osego with AWP
+[00:25:51] Tauã [Mestre]: do padrasto
+[00:25:53] Tauã [Mestre]: é nova
+[00:25:54] Tauã [Mestre]: KKKKKKKKKKKKKK
+[00:25:54] s F z [Prata]: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[00:25:57] peste branca: KDJASJKWAKJDAJKWJKDAW
+[00:25:59] Tauã [Mestre]: Achei agora pouco
+[00:26:03] cmd'S. Reaper [Diamante II]: *190
+[00:26:03] Tauã [Mestre]: Procurando escova de pentear
+[00:26:03] s F z [Prata]: ai vc se esqueceu
+[00:26:06] s F z [Prata]: q esondeu la
+[00:26:07] U.S.G.N.: Ping/State 'playing'
+[00:26:09] s F z [Prata]: escondeu*
+[00:26:11] cmd'S. Reaper [Diamante II]: Pera como você sabe que é maconha?
+[00:26:12] Tauã [Mestre]: Nem eheueh
+[00:26:14] s F z [Prata]: pq a brisa foi forte
+[00:26:18] s F z [Prata]: e agr seu pai
+[00:26:18] Tauã [Mestre]: Oloco
+[00:26:20] s F z [Prata]: tbm usa
+[00:26:20] Tauã [Mestre]: KKKKKKKKKKKK
+[00:26:21] legend'S Server
+[00:26:21] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[00:26:21] Novidade: Use !block <id> para bloquear um usuário.
+[00:26:21] Novidade: Use !unblock <id> para debloquear um usuário.
+[00:26:21] cmd'S. Reaper [Diamante II]: Andem logo porra
+[00:26:25] Tauã [Mestre]: Ele é policial
+[00:26:26] cmd'S. Reaper votou pela expulsão de Kerminho
+[00:26:27] s F z [Prata]: go ai
+[00:26:30] s F z votou pela expulsão de NF. +Kpw
+[00:26:31] s F z [Prata]: go
+[00:26:32] Tauã [Mestre]: Nem é meu pai
+[00:26:33] s F z [Prata]: go
+[00:26:33] Tauã [Mestre]: Sai fora
+[00:26:34] s F z [Prata]: go
+[00:26:34] "  (1x)
+[00:26:35] NF. +Kpw votou pela expulsão de s F z
+[00:26:36] s F z [Prata]: go
+[00:26:38] cmd'S. Reaper [Diamante II]: da /kill ai kpw
+[00:26:41] NF. +Kpw killed peste branca with AWP
+[00:26:41] NF. +Kpw killed Kerminho with AWP
+[00:26:42] Tauã [Mestre]: kerminho
+[00:26:42] cmd'S. Reaper [Diamante II]: boa
+[00:26:42] peste branca *MORTO*: MDS
+[00:26:43] NF. +Kpw [Diamante II]: noobs
+[00:26:44] s F z [Prata]: precisa n
+[00:26:46] cmd'S.    150k: basico
+[00:26:47] peste branca: PRA KPW E FODA
+[00:26:54] Tauã killed Sagos with AWP
+[00:26:54] k¦Tauã¦100¦100
+[00:26:55] NF. +Kpw killed Kerminho with AWP
+[00:26:55] peste branca killed NF. +Kpw with AWP
+[00:26:59] Tauã killed cmd'S.    150k with AWP
+[00:27:09] U.S.G.N.: Ping/State 'playing'
+[00:27:10] peste branca killed s F z with AWP
+[00:27:12] peste branca: ALA
+[00:27:13] s F z [Prata]: ????
+[00:27:13] peste branca: PRETO RUIM
+[00:27:14] Tauã killed cmd'S. Reaper with AWP
+[00:27:16] OFF' Osego deixou o servidor
+[00:27:17] s F z [Prata]: caga menos ai
+[00:27:17] tL.  King [Platina]: kpw
+[00:27:19] s F z [Prata]: lixo
+[00:27:20] * Auto Teambalance *
+[00:27:20] s F z aliou-se a Equipe Terrorista
+[00:27:20] peste branca: SUDAWKJDAWNIUDJOA
+[00:27:20] NF. +Kpw [Diamante II]: oi
+[00:27:21] s F z votou pela expulsão de peste branca
+[00:27:21] legend'S Server
+[00:27:21] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[00:27:21] Novidade: Use !block <id> para bloquear um usuário.
+[00:27:21] Novidade: Use !unblock <id> para debloquear um usuário.
+[00:27:27] Tauã killed cmd'S.    150k with AWP
+[00:27:27] tL.  King [Platina]: pedindo clan se ja tem kkkk
+[00:27:28] OFF' Osego conectou-se ao servidor
+[00:27:30] peste branca: SAI DO MEU TIME
+[00:27:31] OFF' Osego aliou-se a Equipe Terrorista
+[00:27:32] NF. +Kpw [Diamante II]: mano
+[00:27:35] s F z killed cmd'S. Reaper with AWP
+[00:27:36] Sagos killed Kerminho with AWP
+[00:27:37] NF. +Kpw [Diamante II]: o viado do 150
+[00:27:38] peste branca killed Sagos with AWP
+[00:27:38] k¦peste branca¦100¦100
+[00:27:39] NF. +Kpw killed Tauã with AWP
+[00:27:40] s F z [Prata]: reaper
+[00:27:43] s F z [Prata]: gato
+[00:27:43] peste branca killed NF. +Kpw with AWP
+[00:27:44] NF. +Kpw [Diamante II]: fechou
+[00:27:46] cmd'S. Reaper [Diamante II]: Oi
+[00:27:46] peste branca [Bronze]: OPA

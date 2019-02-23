@@ -1,0 +1,423 @@
+CS2D 1.0.0.7 Logfile - 01 Jan 2019, 12:22:58
+
+[12:22:58] Steam: Logged in as #76561198077078199
+[12:22:58] UDP socket initialized using port 61825
+[12:22:58] U.S.G.N.: Your game version is up to date!
+[12:23:00] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[12:23:02] Cached servers added to list: 151
+[12:23:03] U.S.G.N.: Received serverlist (servers: 85)
+[12:23:17] Connecting to 54.207.124.102:30259 (using U.S.G.N. ID #15431) ...
+[12:23:17] U.S.G.N.: Ping/State 'idle' (288 ms)
+[12:23:17] "  (1x)
+[12:23:20] Connecting to 54.207.124.102:30259 (using U.S.G.N. ID #15431) ...
+[12:23:21] U.S.G.N.: Ping/State 'idle' (288 ms)
+[12:23:21] "  (1x)
+[12:23:21] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[12:23:21] Checking 'weed.png': Does not exist. Request transfer!
+[12:23:21] Checking 'gfx/hats/weed.png': Does not exist. Request transfer!
+[12:23:21] Checking 'maps/awp_grey.map': Already exists. Request transfer (overwrite)!
+[12:23:21] Requesting 3 files from server...
+[12:23:21] Downloading 'weed.png' from server...
+[12:23:22] ERROR: Failed to create directory '' for received files
+[12:23:22] Downloading 'gfx/hats/weed.png' from server...
+[12:23:22] Downloading 'maps/awp_grey.map' from server...
+[12:23:22] load map 'awp_grey'
+[12:23:23] ----- Server joined -----
+[12:23:23] Bem vindo ao nosso servidor, Sagos!
+[12:23:23] Seu score total em nossa rede é 4/3 e sua patente é Recruta
+[12:23:23] legend'S Server
+[12:23:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:23:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:23:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:23:23] a.C. D a n i L o [Ouro II]: me segura
+[12:23:23] U.S.G.N.: Ping/State 'playing'
+[12:23:24] Solstício [Ouro II]: danilo chupa meu ping
+[12:23:24] a.C. D a n i L o [Ouro II]: agr
+[12:23:27] Sagos aliou-se a Equipe Contra-Terrorista
+[12:23:30] Sagos killed Solstício with AWP
+[12:23:35] Solstício [Ouro II]: ashdudash
+[12:23:37] Solstício [Ouro II]: o cara ja surge
+[12:23:39] Solstício [Ouro II]: na base ct
+[12:23:39] Sagos killed 8Bit with AWP
+[12:23:40] Solstício [Ouro II]: dando facada
+[12:23:42] Solstício [Ouro II]: wtf?
+[12:23:42] Sagos killed |  +kpwZ  | with AWP
+[12:23:44] |  +kpwZ  | [Ouro]: mano
+[12:23:45] a.C. D a n i L o [Ouro II]: lagado
+[12:23:45] |  +kpwZ  | [Ouro]: danillo
+[12:23:46] Solstício [Ouro II]: esse cs ta falido msm
+[12:23:46] a.C. D a n i L o [Ouro II]: slk
+[12:23:49] |  +kpwZ  | [Ouro]: errando parado?
+[12:23:54] legendS. sys conectou-se ao servidor
+[12:23:58] Solstício [Ouro II]: sys
+[12:24:02] a.C. D a n i L o killed 8Bit with AWP
+[12:24:02] Solstício [Ouro II]: ola meu amigo
+[12:24:03] Solstício killed Sagos with AWP
+[12:24:03] k¦Solstício¦100¦100
+[12:24:05] 8Bit deixou o servidor
+[12:24:07] legendS. sys [Lenda]: feliz ano novo cambada
+[12:24:09] legendS. sys [Lenda]: eae bro
+[12:24:11] legendS. sys aliou-se a Equipe Terrorista
+[12:24:13] Solstício [Ouro II]: feliz ano novo
+[12:24:19] a.C. D a n i L o killed |  +kpwZ  | with AWP
+[12:24:20] Solstício [Ouro II]: cabeça de rola
+[12:24:21] |  +kpwZ  | [Ouro]: ?
+[12:24:23] legend'S Server
+[12:24:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:24:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:24:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:24:24] U.S.G.N.: Ping/State 'playing'
+[12:24:28] a.C. D a n i L o killed Solstício with AWP
+[12:24:29] |  +kpwZ  | [Ouro]: FELIZ ANO NOVO
+[12:24:29] Solstício [Ouro II]: '-'
+[12:24:29] a.C. D a n i L o [Ouro II]: k
+[12:24:31] Solstício [Ouro II]: kajksdhkdsa
+[12:24:35] |  +kpwZ  | [Ouro]: SEUS DLC
+[12:24:39] legendS. sys killed Miaunye with AWP
+[12:24:41] Solstício killed a.C. D a n i L o with AWP
+[12:24:45] Solstício [Ouro II]: ta me traindo
+[12:24:46] Solstício [Ouro II]: é fdp?
+[12:24:52] Solstício killed Sagos with AWP
+[12:24:52] k¦Solstício¦100¦100
+[12:24:56] |  +kpwZ  | [Ouro]: galera
+[12:25:05] Miaunye: Sono não deixa eu matar ninguèm
+[12:25:10] |  +kpwZ  | [Ouro]: calado
+[12:25:10] legendS. sys killed a.C. D a n i L o with AWP
+[12:25:11] Sagos killed Solstício with Knife
+[12:25:12] |  +kpwZ  | [Ouro]: noob
+[12:25:14] a.C. D a n i L o [Ouro II]: e kd lagado
+[12:25:16] a.C. D a n i L o [Ouro II]: plmds
+[12:25:17] Solstício [Ouro II]: cala
+[12:25:20] Solstício [Ouro II]: fdp
+[12:25:22] Solstício [Ouro II]: seu fake
+[12:25:23] legend'S Server
+[12:25:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:25:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:25:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:25:23] a.C. D a n i L o aliou-se a Equipe Contra-Terrorista
+[12:25:24] U.S.G.N.: Ping/State 'playing'
+[12:25:24] Solstício [Ouro II]: do caralho
+[12:25:29] legendS. sys killed Miaunye with Knife
+[12:25:35] Sagos killed legendS. sys with Knife
+[12:25:36] Sagos killed |  +kpwZ  | with AWP
+[12:25:36] Solstício [Ouro II]: KKKKK
+[12:25:36] legendS. sys [Lenda]: af
+[12:25:38] Solstício [Ouro II]: pqp manito
+[12:25:40] |  +kpwZ  | [Ouro]: ?
+[12:25:42] Solstício [Ouro II]: lenda morrendo pra unranked
+[12:25:46] Solstício [Ouro II]: vo falar nada :V
+[12:25:47] a.C. D a n i L o [Ouro II]: krl sys vai arruma sa net
+[12:25:49] |  +kpwZ  | [Ouro]: Q
+[12:25:53] legendS. sys [Lenda]: 37 de ping
+[12:25:53] |  +kpwZ  | [Ouro]: SYSTEM LENDA?
+[12:25:54] Sagos: unranked uhasuh
+[12:25:54] legendS. sys [Lenda]: slc
+[12:25:57] |  +kpwZ  | [Ouro]: SEU ANUS
+[12:25:58] Solstício killed Miaunye with AWP
+[12:26:02] Sagos killed |  +kpwZ  | with Knife
+[12:26:02] legendS. sys killed Sagos with Knife
+[12:26:02] k¦legendS. sys¦100¦100
+[12:26:04] Solstício killed a.C. D a n i L o with AWP
+[12:26:07] Solstício [Ouro II]: é isso meismo
+[12:26:09] a.C. D a n i L o [Ouro II]: olha como anda
+[12:26:09] Solstício [Ouro II]: tu n tem rank
+[12:26:12] |  +kpwZ  | [Ouro]: QUANTAS KILL?
+[12:26:12] Solstício [Ouro II]: nem corsinha
+[12:26:13] Solstício [Ouro II]: nem patente
+[12:26:15] legendS. sys [Lenda]: 1
+[12:26:16] legendS. sys [Lenda]: 7
+[12:26:17] legendS. sys [Lenda]: k
+[12:26:18] Solstício [Ouro II]: 1300
+[12:26:19] Sagos: pq quando eu jogava n existia isso
+[12:26:19] Solstício [Ouro II]: KILLS
+[12:26:21] Solstício [Ouro II]: K
+[12:26:23] legend'S Server
+[12:26:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:26:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:26:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:26:23] |  +kpwZ  | [Ouro]: 17K
+[12:26:25] U.S.G.N.: Ping/State 'playing'
+[12:26:26] |  +kpwZ  | [Ouro]: TEU CU
+[12:26:29] Sagos killed legendS. sys with Knife
+[12:26:30] legendS. sys [Lenda]: la
+[12:26:31] |  +kpwZ  | [Ouro]: farmando kill
+[12:26:32] legendS. sys [Lenda]: ala
+[12:26:33] |  +kpwZ  | [Ouro]: com o alma
+[12:26:34] legendS. sys [Lenda]: mlk voando
+[12:26:35] Solstício [Ouro II]: pior q tem msm
+[12:26:35] Solstício [Ouro II]: KKKK
+[12:26:37] |  +kpwZ  | [Ouro]: deixa
+[12:26:41] Sagos killed Solstício with AWP
+[12:26:45] a.C. D a n i L o killed |  +kpwZ  | with AWP
+[12:26:45] legendS. sys [Lenda]: lenda é o clã amigos
+[12:26:46] legendS. sys [Lenda]: eu n fiz
+[12:26:47] |  +kpwZ  | [Ouro]: sangra
+[12:26:48] legendS. sys [Lenda]: 17k
+[12:26:50] legendS. sys [Lenda]: eu tava mestre
+[12:26:53] Solstício [Ouro II]: mentira
+[12:26:55] Solstício [Ouro II]: tu deu setscore
+[12:26:58] Miaunye: Errei
+[12:27:00] |  +kpwZ  | killed a.C. D a n i L o with AWP
+[12:27:02] Miaunye: Sono 
+[12:27:02] legendS. sys [Lenda]: n to zuando
+[12:27:04] Sagos killed legendS. sys with AWP
+[12:27:06] legendS. sys [Lenda]: eu
+[12:27:07] legendS. sys [Lenda]: +
+[12:27:09] legendS. sys [Lenda]: kraken
+[12:27:09] a.C. D a n i L o [Ouro II]: k
+[12:27:10] legendS. sys [Lenda]: +
+[12:27:11] legendS. sys [Lenda]: kwsk
+[12:27:12] legendS. sys [Lenda]: abrimos
+[12:27:13] a.C. D a n i L o [Ouro II]: quase n joga fdp
+[12:27:15] legendS. sys [Lenda]: a legends
+[12:27:22] Sagos killed |  +kpwZ  | with AWP
+[12:27:23] legend'S Server
+[12:27:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:27:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:27:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:27:23] Miaunye killed Solstício with AWP
+[12:27:25] U.S.G.N.: Ping/State 'playing'
+[12:27:27] Solstício [Ouro II]: a legendas?
+[12:27:29] Solstício [Ouro II]: kk
+[12:27:31] Solstício [Ouro II]: tu legenda anime?
+[12:27:34] Sagos killed Solstício with AWP
+[12:27:35] |  +kpwZ  | [Ouro]: LENDAS
+[12:27:38] legendS. sys [Lenda]: legenda em ingles
+[12:27:38] Solstício [Ouro II]: LEGENDAS
+[12:27:40] legendS. sys [Lenda]: é subtitle
+[12:27:42] legendS. sys [Lenda]: idiota
+[12:27:44] |  +kpwZ  | killed a.C. D a n i L o with AWP
+[12:27:44] Solstício [Ouro II]: mentira
+[12:27:46] skG. porvA' conectou-se ao servidor
+[12:27:46] Solstício [Ouro II]: ta escrito
+[12:27:48] Solstício [Ouro II]: legends
+[12:27:49] legendS. sys killed Sagos with AWP
+[12:27:49] k¦legendS. sys¦100¦100
+[12:27:50] Solstício [Ouro II]: ent é legendas
+[12:27:52] Solstício [Ouro II]: ksadiuaydiasida
+[12:27:52] legendS. sys killed Miaunye with AWP
+[12:27:53] skG. porvA' aliou-se a Equipe Contra-Terrorista
+[12:27:55] Solstício [Ouro II]: mentira to zuando
+[12:27:55] a.C. D a n i L o [Ouro II]: porva
+[12:27:58] a.C. D a n i L o [Ouro II]: sys te chamo de falso
+[12:27:59] skG. porvA' [Diamante II]: ?
+[12:27:59] |  +kpwZ  | [Ouro]: nn
+[12:28:01] Solstício [Ouro II]: quem faz o curso de ingles sou eu
+[12:28:02] skG. porvA' [Diamante II]: pq?
+[12:28:05] Sagos killed legendS. sys with AWP
+[12:28:06] |  +kpwZ  | [Ouro]: legends=lendas
+[12:28:08] a.C. D a n i L o [Ouro II]: n sei
+[12:28:08] Miaunye: Vamos Danilo
+[12:28:09] a.C. D a n i L o [Ouro II]: ele falo
+[12:28:11] Solstício killed Sagos with AWP
+[12:28:11] k¦Solstício¦100¦100
+[12:28:11] a.C. D a n i L o killed |  +kpwZ  | with AWP
+[12:28:12] skG. porvA' [Diamante II]: fala na cara ai system
+[12:28:12] Miaunye: Mata eles
+[12:28:15] |  +kpwZ  | [Ouro]: legendarios
+[12:28:16] |  +kpwZ  | [Ouro]: tbm
+[12:28:18] a.C. D a n i L o [Ouro II]: falo
+[12:28:21] a.C. D a n i L o [Ouro II]: porva e mto falos
+[12:28:22] Solstício killed a.C. D a n i L o with Knife
+[12:28:23] legend'S Server
+[12:28:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:28:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:28:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:28:23] a.C. D a n i L o [Ouro II]: falso
+[12:28:24] Solstício killed Miaunye with Knife
+[12:28:26] U.S.G.N.: Ping/State 'playing'
+[12:28:26] a.C. D a n i L o [Ouro II]: dx ele vir aq
+[12:28:29] skG. porvA' [Diamante II]: falo na dm
+[12:28:33] Solstício [Ouro II]: ae porra
+[12:28:36] Solstício [Ouro II]: 1300 kills
+[12:28:38] Solstício [Ouro II]: k7
+[12:28:40] skG. porvA' [Diamante II]: ata
+[12:28:41] Solstício [Ouro II]: tudo noob aqui
+[12:28:42] |  +kpwZ  | [Ouro]: j
+[12:28:42] a.C. D a n i L o [Ouro II]: me mata digitando fdp
+[12:28:43] Solstício [Ouro II]: mentira
+[12:28:45] Solstício [Ouro II]: KKKKKK
+[12:28:47] a.C. D a n i L o [Ouro II]: si mlk vesgo n mata
+[12:28:49] Solstício [Ouro II]: nem mandei teclar
+[12:28:50] Solstício [Ouro II]: krl
+[12:28:53] a.C. D a n i L o [Ouro II]: da ate odio
+[12:28:55] Solstício [Ouro II]: DASKDJSA
+[12:29:03] legendS. sys [Lenda]: eu to com ressaca
+[12:29:06] legendS. sys [Lenda]: pqp
+[12:29:09] skG. porvA' [Diamante II]: tbm k
+[12:29:09] Solstício [Ouro II]: de refri
+[12:29:15] a.C. D a n i L o aliou-se a Equipe Contra-Terrorista
+[12:29:23] legend'S Server
+[12:29:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:29:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:29:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:29:23] Solstício [Ouro II]: ressaca de refrigerant
+[12:29:24] Solstício killed skG. porvA' with AWP
+[12:29:26] U.S.G.N.: Ping/State 'playing'
+[12:29:30] |  +kpwZ  | mudou de nome para | bW
+[12:29:34] legendS. sys [Lenda]: nego acha que tenho 15 anos
+[12:29:35] legendS. sys [Lenda]: kkkkkkkkkkkkkkkk
+[12:29:39] | bW killed Miaunye with AWP
+[12:29:41] Sagos killed Solstício with AWP
+[12:29:43] Solstício [Ouro II]: dsajkdas
+[12:29:43] skG. porvA' [Diamante II]: 15 em idade d cachorro kk
+[12:29:46] | bW [Ouro]: system
+[12:29:48] Solstício [Ouro II]: pera
+[12:29:50] | bW [Ouro]: tem 20 anos
+[12:29:51] Sagos killed legendS. sys with Knife
+[12:29:52] Solstício [Ouro II]: vcs sao cachorros?
+[12:29:52] Sagos killed | bW with AWP
+[12:29:53] Solstício [Ouro II]: UAI
+[12:29:54] | bW [Ouro]: de mt punheta
+[12:29:55] Solstício [Ouro II]: TURURURRU
+[12:30:02] skG. porvA' [Diamante II]: sys tem 22 ne?
+[12:30:03] Solstício [Ouro II]: peotas
+[12:30:04] legendS. sys [Lenda]: 20
+[12:30:06] skG. porvA' [Diamante II]: a
+[12:30:09] skG. porvA' [Diamante II]: tem cara d 22
+[12:30:11] | bW mudou de nome para | bW: . + Kpw |
+[12:30:13] Sagos killed legendS. sys with AWP
+[12:30:14] Solstício [Ouro II]: sys so tirou
+[12:30:16] legendS. sys [Lenda]: kkkkkk
+[12:30:17] Solstício [Ouro II]: aquele gif
+[12:30:17] Sagos killed | bW: . + Kpw | with AWP
+[12:30:19] Solstício [Ouro II]: com altas
+[12:30:19] | bW: . + Kpw | [Ouro]: ?
+[12:30:20] Solstício [Ouro II]: gostosas
+[12:30:22] | bW: . + Kpw | [Ouro]: eoq
+[12:30:23] legend'S Server
+[12:30:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:30:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:30:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:30:25] Sagos killed Solstício with AWP
+[12:30:27] U.S.G.N.: Ping/State 'playing'
+[12:30:27] Solstício [Ouro II]: por causa
+[12:30:28] Solstício [Ouro II]: da moto
+[12:30:30] Solstício [Ouro II]: que ele tem
+[12:30:40] Solstício [Ouro II]: to mentindo
+[12:30:42] Sagos killed legendS. sys with AWP
+[12:30:43] skG. porvA' [Diamante II]: invejoso
+[12:30:45] legendS. sys [Lenda]: ?
+[12:30:45] Solstício [Ouro II]: aquilo é uma bike eletrica
+[12:30:47] legendS. sys [Lenda]: kkkkkkkkkkkkkkkkkk
+[12:30:50] a.C. D a n i L o killed | bW: . + Kpw | with AWP
+[12:30:52] Sagos killed Solstício with Knife
+[12:30:53] legendS. sys [Lenda]: tu nem sabe q moto eu tenho
+[12:30:54] Solstício [Ouro II]: KKKK
+[12:30:59] Solstício [Ouro II]: isso é verdade
+[12:30:59] | bW: . + Kpw | mudou de nome para bloodWhite.+kpw
+[12:31:05] Solstício [Ouro II]: nem sei tua ideade
+[12:31:08] Solstício [Ouro II]: IDEADE
+[12:31:09] Solstício [Ouro II]: agora
+[12:31:09] Sagos killed legendS. sys with AWP
+[12:31:11] Solstício [Ouro II]: por q
+[12:31:11] Miaunye killed bloodWhite.+kpw with AWP
+[12:31:14] Solstício [Ouro II]: eu mando no pt
+[12:31:18] legendS. sys tornou-se um espectador
+[12:31:19] Solstício killed skG. porvA' with AWP
+[12:31:20] Sagos killed Solstício with AWP
+[12:31:20] legendS. sys [Lenda]: eu to lag ?
+[12:31:22] skG. porvA' deixou o servidor
+[12:31:22] legendS. sys [Lenda]: aq ta travando
+[12:31:22] Solstício [Ouro II]: claro
+[12:31:23] legend'S Server
+[12:31:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:31:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:31:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:31:24] Solstício [Ouro II]: seu lagado
+[12:31:27] U.S.G.N.: Ping/State 'playing'
+[12:31:28] skG. porvA' conectou-se ao servidor
+[12:31:29] skG. porvA' aliou-se a Equipe Terrorista
+[12:31:29] Solstício [Ouro II]: legendado da porra
+[12:31:32] legendS. sys [Lenda]: vou acender um cigarro
+[12:31:33] Sagos killed Solstício with AWP
+[12:31:35] bloodWhite.+kpw killed Sagos with AWP
+[12:31:35] k¦bloodWhite.+kpw¦100¦100
+[12:31:35] legendS. sys [Lenda]: pra ver se melhora
+[12:31:37] Solstício [Ouro II]: kk
+[12:31:39] Solstício [Ouro II]: ok
+[12:31:39] bloodWhite.+kpw killed Miaunye with AWP
+[12:31:41] Solstício [Ouro II]: vai la
+[12:31:44] Solstício [Ouro II]: fumar teu charuto
+[12:31:47] a.C. D a n i L o killed bloodWhite.+kpw with AWP
+[12:31:47] Solstício [Ouro II]: professor girafalis.
+[12:31:50] bloodWhite.+kpw [Ouro]: q isso danilo
+[12:31:52] bloodWhite.+kpw [Ouro]: sangrou em
+[12:31:56] bloodWhite.+kpw [Ouro]: no primeiro tiro
+[12:31:57] Solstício [Ouro II]: danilo tem menstroação pow.
+[12:32:02] Solstício [Ouro II]: ele nao te contou?
+[12:32:05] legendS. sys [Lenda]: mesntroação
+[12:32:06] Solstício [Ouro II]: começou ontem
+[12:32:07] legendS. sys [Lenda]: kkkkkkkkkkkkkkkkkk
+[12:32:10] skG. porvA' killed a.C. D a n i L o with AWP
+[12:32:10] Solstício [Ouro II]: KKKKKK
+[12:32:16] Solstício [Ouro II]: eu escrevo do jeito que eu quiser sys
+[12:32:18] skG. porvA' killed Sagos with AWP
+[12:32:18] k¦skG. porvA'¦100¦100
+[12:32:18] legendS. sys aliou-se a Equipe Contra-Terrorista
+[12:32:22] Solstício [Ouro II]: se eu quiser escrevo guarda roupa
+[12:32:23] legend'S Server
+[12:32:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:32:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:32:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:32:27] bloodWhite.+kpw killed Miaunye with AWP
+[12:32:28] U.S.G.N.: Ping/State 'playing'
+[12:32:35] Solstício [Ouro II]: caladin meu pau no seu cuzin
+[12:32:36] Solstício [Ouro II]: :#
+[12:32:38] Solstício [Ouro II]: :3
+[12:32:39] Solstício [Ouro II]: t amo sys
+[12:32:41] legendS. sys [Lenda]: q isso cara
+[12:32:43] legendS. sys [Lenda]: falei nada
+[12:32:45] Solstício [Ouro II]: HUAKDJSA
+[12:32:48] Solstício [Ouro II]: falou no pv
+[12:32:50] Solstício [Ouro II]: seu safardo
+[12:32:52] legendS. sys [Lenda]: prova
+[12:32:52] Current FPS: 63, Buffer (unused cpu time per frame): 13 ms
+[12:32:55] Current FPS: 63, Buffer (unused cpu time per frame): 14 ms
+[12:32:58] Solstício killed a.C. D a n i L o with Knife
+[12:33:04] skG. porvA' [Diamante II]: oi...
+[12:33:10] a.C. D a n i L o killed Solstício with AWP
+[12:33:12] Solstício [Ouro II]: é vidro
+[12:33:13] Solstício [Ouro II]: nem é dima
+[12:33:15] Solstício [Ouro II]: é vidro
+[12:33:17] legendS. sys killed bloodWhite.+kpw with Knife
+[12:33:19] a.C. D a n i L o killed skG. porvA' with AWP
+[12:33:22] bloodWhite.+kpw [Ouro]: mano,tem uma historia de uma menina
+[12:33:23] legend'S Server
+[12:33:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:33:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:33:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:33:25] skG. porvA' [Diamante II]: sys, acho q eu mereço lenda tambem
+[12:33:26] Não e o loli conectou-se ao servidor
+[12:33:27] skG. porvA' [Diamante II]: cee n acha?
+[12:33:28] U.S.G.N.: Ping/State 'playing'
+[12:33:28] bloodWhite.+kpw [Ouro]: q ela come o cu de quem ta lendo
+[12:33:32] jogando no pc da padaria conectou-se ao servidor
+[12:33:32] Solstício [Ouro II]: VTMC
+[12:33:32] Sagos killed skG. porvA' with AWP
+[12:33:34] legendS. sys killed Solstício with AWP
+[12:33:36] bloodWhite.+kpw killed Sagos with AWP
+[12:33:36] k¦bloodWhite.+kpw¦100¦100
+[12:33:38] Solstício [Ouro II]: comi o cu de quem ta lendo
+[12:33:40] bloodWhite.+kpw killed Miaunye with AWP
+[12:33:44] jogando no pc da padaria aliou-se a Equipe Terrorista
+[12:33:45] Solstício [Ouro II]: pow ontem msm
+[12:33:46] Não e o loli [Diamante]: kkkk
+[12:33:47] skG. porvA' [Diamante II]: ce n acha sys
+[12:33:50] Solstício [Ouro II]: eu tava saindo com uma menina
+[12:33:50] Não e o loli [Diamante]: que bom que nem sei ler
+[12:33:54] Solstício [Ouro II]: (ALELUIA)
+[12:33:55] bloodWhite.+kpw killed a.C. D a n i L o with AWP
+[12:33:55] Solstício [Ouro II]: dai
+[12:33:56] Solstício [Ouro II]: do nada
+[12:33:57] Warning: Reinicie o jogo para aplicar as alteraçoes!
+[12:33:59] legendS. sys [Lenda]: lenda só pra qm é do clã bro
+[12:34:01] Solstício [Ouro II]: eu comi o cu de quem ta lendo
+[12:34:02] skG. porvA' [Diamante II]: a
+[12:34:02] legendS. sys [Lenda]: eu n fiz 17k
+[12:34:03] skG. porvA' [Diamante II]: mas
+[12:34:03] Não e o loli [Diamante]: ela tinha um pau maior que o teu?
+[12:34:06] Sagos deixou o servidor
+[12:34:06] Disconnect Reason: Client request (Code 0)
+[12:34:06] ----- Disconnected -----
+[12:34:06] U.S.G.N.: Ping/State 'idle' (320 ms)

@@ -1,0 +1,19 @@
+©255255255Map: fy_pool_day
+
+©255255000Remake for CS2D Map by Pagyra
+©000255000Unfortunately I never managed to establish the original author maps for CS1.6.
+
+
+©050150255Counter-Terrorists:
+©110130150Try to eliminate all Terrorists in the pool rooms.
+
+©255025000Terrorists:
+©150110100Try to elliminate all Counter-Terrorists.
+
+Other Notes:
+Recommending a number of players: 12/20.
+Time / Location: Day / Pool.
+Enough popular small map database of terrorists and special forces are on different sides of the pool, spawns different color tiles. In the center of the map is a pool at the bottom of which lie grenades.
+Weapons on the map lying on the floor. Also, it can be purchased on board Thrown pool (only allowed it to plant bomb)
+
+

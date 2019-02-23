@@ -1,0 +1,520 @@
+CS2D 1.0.0.7 Logfile - 01 Oct 2018, 22:18:42
+
+[22:18:42] Steam: Logged in as #76561198077078199
+[22:18:42] UDP socket initialized using port 57480
+[22:18:42] U.S.G.N.: Your game version is up to date!
+[22:18:44] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[22:18:48] Cached servers added to list: 102
+[22:18:48] U.S.G.N.: Received serverlist (servers: 109)
+[22:19:06] Connecting to 31.220.53.72:36965 (using U.S.G.N. ID #15431) ...
+[22:19:06] U.S.G.N.: Ping/State 'idle' (320 ms)
+[22:19:06] "  (1x)
+[22:19:07] load map 'ctf_cs2dfortress'
+[22:19:07] U.S.G.N.: Ping/State 'idle' (304 ms)
+[22:19:07] ----- Server joined -----
+[22:19:07] Bienvenido al server Latam2D
+[22:19:09] joker tira kaka killed AlerutoCrack26 with M4A1
+[22:19:10] chianNO.1 deixou o servidor
+[22:19:14] Sagos aliou-se a Equipe Contra-Terrorista
+[22:19:23] ANTI N | Cølt'. killed [N]Pedroblob with M4A1
+[22:19:27] Babo conectou-se ao servidor
+[22:19:31] ~Jeancarlo~ killed S o W y with Turret
+[22:19:34] ANTI N | Cølt'. killed inemadrei21 with M4A1
+[22:19:35] CompLexity. iKinze killed ftp with AK-47
+[22:19:36] Babo aliou-se a Equipe Contra-Terrorista
+[22:19:37] Power by Latam2D Group
+[22:19:40] joker tira kaka killed AlerutoCrack26 with M4A1
+[22:19:45] joker tira kaka killed S o W y with M4A1
+[22:19:45] Sagos killed joker tira kaka with M4A1
+[22:19:47] AlerutoCrack26 deixou o servidor
+[22:19:52] ANTI N | Cølt'. killed CompLexity. iKinze with AWP
+[22:19:55] ANTI N | Cølt'. killed inemadrei21 with AWP
+[22:20:08] U.S.G.N.: Ping/State 'playing'
+[22:20:11] Mr.Matix conectou-se ao servidor
+[22:20:13] ANTI N | Cølt'. killed CompLexity. iKinze with M4A1
+[22:20:16] CompLexity. iKinze: eca
+[22:20:17] ~Jeancarlo~ killed ANTI N | Cølt'. with AWP
+[22:20:24] bananinha furioso conectou-se ao servidor
+[22:20:28] ANTI N | Cølt'. killed inemadrei21 with M4A1
+[22:20:32] inemadrei21 deixou o servidor
+[22:20:32] Mr.Matix aliou-se a Equipe Terrorista
+[22:20:33] RedHood180 conectou-se ao servidor
+[22:20:36] ~Jeancarlo~ killed ANTI N | Cølt'. with M4A1
+[22:20:36] bananinha furioso aliou-se a Equipe Contra-Terrorista
+[22:20:37] Power by Latam2D Group
+[22:20:42] RedHood180 aliou-se a Equipe Contra-Terrorista
+[22:20:43] RedHood180 aliou-se a Equipe Terrorista
+[22:20:46] ANTI N | Cølt'. killed ~Jeancarlo~ with M4A1
+[22:20:51] ~Jeancarlo~: :D
+[22:20:54] RedHood180: pinche jean
+[22:20:54] MasterAwPz '-.' conectou-se ao servidor
+[22:21:03] RedHood180: a spera no eres jean
+[22:21:04] MasterAwPz '-.' aliou-se a Equipe Contra-Terrorista
+[22:21:06] ANTI N | Cølt'. killed CompLexity. iKinze with M4A1
+[22:21:08] U.S.G.N.: Ping/State 'playing'
+[22:21:15] MasterAwPz '-.' died
+[22:21:20] CompLexity. iKinze killed Sagos with M4A1
+[22:21:20] k¦CompLexity. iKinze¦65¦0
+[22:21:26] S o W y killed ~Jeancarlo~ with M4A1
+[22:21:28] ~Jeancarlo~: JAJAJA
+[22:21:37] Power by Latam2D Group
+[22:21:57] bananinha furioso has been kicked for being idle
+[22:21:57] bananinha furioso deixou o servidor (expulsão por ausência)
+[22:21:59] joker tira kaka killed Babo with M4A1
+[22:22:02] Sagos killed Mr.Matix with Turret
+[22:22:06] ~Jeancarlo~: haha
+[22:22:09] U.S.G.N.: Ping/State 'playing'
+[22:22:18] Sagos killed [N]Pedroblob with Turret
+[22:22:29] CompLexity. iKinze killed ANTI N | Cølt'. with AWP
+[22:22:37] Power by Latam2D Group
+[22:22:51] ~Jeancarlo~ killed ftp with M4A1
+[22:23:03] Sagos killed Mr.Matix with Turret
+[22:23:06] ~Jeancarlo~ killed ftp with M4A1
+[22:23:06] ~Jeancarlo~ killed Babo with M4A1
+[22:23:06] ftp killed joker tira kaka with Turret
+[22:23:09] U.S.G.N.: Ping/State 'playing'
+[22:23:18] Sagos killed RedHood180 with Knife
+[22:23:22] RedHood180 killed Sagos with Glock
+[22:23:22] k¦RedHood180¦100¦0
+[22:23:22] ~Jeancarlo~ killed ftp with M4A1
+[22:23:25] S o W y killed RedHood180 with M4A1
+[22:23:34] ~Jeancarlo~ killed ftp with M4A1
+[22:23:37] Power by Latam2D Group
+[22:23:42] Sagos killed joker tira kaka with Turret
+[22:23:44] rsl '3 conectou-se ao servidor
+[22:23:51] ~Jeancarlo~ killed Babo with Deagle
+[22:23:52] rsl '3 aliou-se a Equipe Terrorista
+[22:23:56] ~Jeancarlo~ killed ftp with P90
+[22:23:59] GustaVlogs conectou-se ao servidor
+[22:24:00] Player conectou-se ao servidor
+[22:24:03] S o W y killed Mr.Matix with Gate Field
+[22:24:05] GustaVlogs aliou-se a Equipe Terrorista
+[22:24:06] rsl '3 killed Sagos with AWP
+[22:24:06] k¦rsl '3¦100¦100
+[22:24:08] Mr.Matix aliou-se a Equipe Contra-Terrorista
+[22:24:09] Bekox conectou-se ao servidor
+[22:24:10] Player aliou-se a Equipe Contra-Terrorista
+[22:24:10] U.S.G.N.: Ping/State 'playing'
+[22:24:15] Bekox aliou-se a Equipe Terrorista
+[22:24:15] ~Jeancarlo~ killed ftp with P90
+[22:24:16] ~Jeancarlo~ killed Babo with P90
+[22:24:18] ~Jeancarlo~: XD
+[22:24:18] rsl '3 killed S o W y with HE
+[22:24:27] Babo: !2 Hdp xd
+[22:24:29] ANTI N | Cølt'. killed CompLexity. iKinze with XM1014
+[22:24:37] Power by Latam2D Group
+[22:24:37] Mr.Matix killed RedHood180 with AWP
+[22:24:44] Bekox: k es esto :v
+[22:24:48] rsl '3 killed Babo with AWP
+[22:24:50] S o W y killed Bekox with Gate Field
+[22:24:52] rsl '3 killed Babo with AWP
+[22:24:52] RedHood180: cortese el pelo gei
+[22:24:56] rsl '3 killed Player with AWP
+[22:24:59] Bekox: nel
+[22:25:01] ftp killed joker tira kaka with Turret
+[22:25:01] CompLexity. iKinze killed S o W y with M4A1
+[22:25:03] CompLexity. iKinze killed Sagos with M4A1
+[22:25:03] k¦CompLexity. iKinze¦88¦0
+[22:25:03] rsl '3 killed Player with AWP
+[22:25:08] Player 2 conectou-se ao servidor
+[22:25:08] GustaVlogs killed Mr.Matix with M4A1
+[22:25:10] Sagos killed GustaVlogs with Turret
+[22:25:10] U.S.G.N.: Ping/State 'playing'
+[22:25:12] rsl '3 killed Player with AWP
+[22:25:18] "  (1x)
+[22:25:18] rsl '3 killed Mr.Matix with AWP
+[22:25:21] ~Jeancarlo~ killed Babo with HE
+[22:25:23] ~Jeancarlo~ killed Player with M4A1
+[22:25:25] ~Jeancarlo~ killed Babo with M4A1
+[22:25:25] Bekox killed Sagos with AK-47
+[22:25:25] k¦Bekox¦33¦16
+[22:25:27] ~Jeancarlo~ killed Mr.Matix with M4A1
+[22:25:28] Sagos killed Bekox with Turret
+[22:25:33] S o W y killed ~Jeancarlo~ with P90
+[22:25:33] rsl '3 killed S o W y with AWP
+[22:25:34] S o W y killed GustaVlogs with Gate Field
+[22:25:35] ~Jeancarlo~: :v
+[22:25:37] Power by Latam2D Group
+[22:25:39] Teleport failed! No exit found!
+[22:25:39] "  (1x)
+[22:25:39] RedHood180 killed Player with Turret
+[22:25:40] Teleport failed! No exit found!
+[22:25:43] ~Jeancarlo~: rank
+[22:25:43] r¦~Jeancarlo~ (USGN)¦5 of 480¦110,107,34,3.14,1 h 2 m
+[22:25:45] ANTI N | Cølt'. killed joker tira kaka with Deagle
+[22:25:46] RedHood180 killed S o W y with M4A1
+[22:25:58] S o W y killed GustaVlogs with XM1014
+[22:26:01] ~Jeancarlo~: estos svs de fermaper me van bien
+[22:26:02] ftp killed joker tira kaka with M4A1
+[22:26:11] U.S.G.N.: Ping/State 'playing'
+[22:26:13] Sagos killed GustaVlogs with Turret
+[22:26:21] RedHood180: cortense el pelo geis
+[22:26:23] Player 3 conectou-se ao servidor
+[22:26:24] Player 3 aliou-se a Equipe Contra-Terrorista
+[22:26:31] Bekox: esto es captura la bandera pero con wrench? xd
+[22:26:34] Player 3 killed rsl '3 with M4A1
+[22:26:35] joker tira kaka killed Player 3 with Turret
+[22:26:35] RedHood180: see
+[22:26:37] Power by Latam2D Group
+[22:26:42] Bekox: oc
+[22:27:11] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:27:11] U.S.G.N.: Ping/State 'playing'
+[22:27:26] ~Jeancarlo~ killed Player with M4A1
+[22:27:26] joker tira kaka killed Player 3 with M4A1
+[22:27:26] Player 2 conectou-se ao servidor
+[22:27:26] Babo: :v
+[22:27:27] rsl '3 killed Sagos with M4A1
+[22:27:27] k¦rsl '3¦39¦0
+[22:27:27] ANTI N | Cølt'. killed CompLexity. iKinze with M4A1
+[22:27:28] Player killed joker tira kaka with Turret
+[22:27:29] ANTI N | Cølt'. killed RedHood180 with Deagle
+[22:27:31] Player 3 killed rsl '3 with M4A1
+[22:27:33] ~Jeancarlo~ killed Player 3 with HE
+[22:27:33] Player 2 aliou-se a Equipe Terrorista
+[22:27:35] Bekox: alv  
+[22:27:37] Power by Latam2D Group
+[22:27:38] ~Jeancarlo~: oooooo
+[22:27:38] Bekox: hay dinero infinito :v
+[22:27:46] ANTI N | Cølt'. killed CompLexity. iKinze with M4A1
+[22:27:49] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:27:50] ~Jeancarlo~: hagan armor
+[22:28:01] ANTI N | Cølt'. killed RedHood180 with Deagle
+[22:28:03] Sagos killed joker tira kaka with Turret
+[22:28:03] Player 3 killed ~Jeancarlo~ with HE
+[22:28:11] RedHood180 killed Mr.Matix with SG552
+[22:28:12] U.S.G.N.: Ping/State 'playing'
+[22:28:14] ANTI N | Cølt'. killed RedHood180 with Deagle
+[22:28:26] CompLexity. iKinze: !rs
+[22:28:28] ANTI N | Cølt'. killed rsl '3 with M4A1
+[22:28:33] Player killed joker tira kaka with P90
+[22:28:33] Mr.Matix killed GustaVlogs with Turret
+[22:28:33] Bekox killed Player with AK-47
+[22:28:37] Power by Latam2D Group
+[22:28:38] Player 3 killed Bekox with M4A1
+[22:28:45] joker tira kaka deixou o servidor
+[22:28:51] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:28:52] AxelRR conectou-se ao servidor
+[22:28:52] RedHood180 *MORTO*: lo lamento cñora su hijo salio homoxesual
+[22:29:00] AxelRR aliou-se a Equipe Contra-Terrorista
+[22:29:01] Bekox killed Player 3 with AK-47
+[22:29:02] ANTI N | Cølt'. killed ~Jeancarlo~ with Deagle
+[22:29:07] rsl '3 killed ANTI N | Cølt'. with AWP
+[22:29:12] U.S.G.N.: Ping/State 'playing'
+[22:29:18] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:29:24] Bekox killed Player 3 with HE
+[22:29:32] Player killed RedHood180 with P90
+[22:29:37] Power by Latam2D Group
+[22:29:38] Player 3 killed Bekox with HE
+[22:29:40] Player 3 killed Player 2 with M4A1
+[22:29:50] Bekox killed AxelRR with AK-47
+[22:29:51] Bekox killed Player with AK-47
+[22:29:53] AxelRR deixou o servidor
+[22:29:55] ERROR: Unknown command 'kil' (kil). Maybe missing quotes? Reference at CS2D.com/help
+[22:29:56] Sagos died
+[22:30:04] MasterAwPz '-.' conectou-se ao servidor
+[22:30:08] ftp killed GustaVlogs with M4A1
+[22:30:10] Player 3 killed RedHood180 with M4A1
+[22:30:13] U.S.G.N.: Ping/State 'playing'
+[22:30:16] ftp killed CompLexity. iKinze with M4A1
+[22:30:18] GustaVlogs: base
+[22:30:18] Bekox killed Mr.Matix with AK-47
+[22:30:21] MasterAwPz '-.' aliou-se a Equipe Terrorista
+[22:30:23] Bekox: ranjk
+[22:30:23] CompLexity. iKinze killed ftp with AK-47
+[22:30:25] Player 3 killed RedHood180 with M4A1
+[22:30:26] Bekox: rank
+[22:30:26] r¦Bekox (USGN)¦123 of 481¦7,7,4,1.75,6 m 7 s
+[22:30:28] ~Jeancarlo~: rank
+[22:30:28] r¦~Jeancarlo~ (USGN)¦6 of 481¦112,109,36,3.02,1 h 7 m
+[22:30:29] masato44-Heroes&Generals conectou-se ao servidor
+[22:30:33] masato44-Heroes&Generals aliou-se a Equipe Contra-Terrorista
+[22:30:34] Bekox killed Player 3 with AK-47
+[22:30:34] rsl '3 killed Sagos with AWP
+[22:30:34] k¦rsl '3¦100¦202
+[22:30:34] RedHood180: rank
+[22:30:34] r¦RedHood180 (USGN)¦31 of 481¦46,37,24,1.54,46 m 10 s
+[22:30:37] Power by Latam2D Group
+[22:30:40] Babo killed Bekox with M249
+[22:30:45] ANTI N | Chá conectou-se ao servidor
+[22:30:49] Player 3 killed RedHood180 with M4A1
+[22:30:58] ANTI N | Chá aliou-se a Equipe Contra-Terrorista
+[22:30:59] Bekox killed Player 3 with Turret
+[22:31:02] rsl '3 killed masato44-Heroes&Generals with AWP
+[22:31:03] Player 3 deixou o servidor
+[22:31:09] Player: bekox is n________
+[22:31:09] rsl '3 killed Sagos with AWP
+[22:31:09] k¦rsl '3¦41¦202
+[22:31:13] U.S.G.N.: Ping/State 'playing'
+[22:31:21] Bekox killed ANTI N | Chá with AK-47
+[22:31:32] ANTI N | Cølt'. killed MasterAwPz '-.' with HE
+[22:31:32] masato44-Heroes&Generals killed Bekox with M4A1
+[22:31:35] MasterAwPz '-.' deixou o servidor
+[22:31:37] Power by Latam2D Group
+[22:31:40] ~Jeancarlo~ killed Player with M4A1
+[22:31:41] ANTI N | Chá killed RedHood180 with M4A1
+[22:31:43] ~Jeancarlo~ killed Mr.Matix with Gate Field
+[22:31:43] masato44-Heroes&Generals killed Bekox with M4A1
+[22:31:58] RedHood180 killed Babo with Glock
+[22:31:59] Sagos killed RedHood180 with USP
+[22:32:00] «SexyStars» Matt ~^ conectou-se ao servidor
+[22:32:01] ~Jeancarlo~: xdxd
+[22:32:01] CompLexity. iKinze killed Sagos with AK-47
+[22:32:01] k¦CompLexity. iKinze¦56¦202
+[22:32:02] ~Jeancarlo~: fak
+[22:32:04] «SexyStars» Matt ~^ aliou-se a Equipe Contra-Terrorista
+[22:32:05] «SexyStars» Matt ~^ aliou-se a Equipe Terrorista
+[22:32:08] coL.Kznnnn! conectou-se ao servidor
+[22:32:11] ftp killed RedHood180 with M4A1
+[22:32:13] Bekox killed masato44-Heroes&Generals with AK-47
+[22:32:14] U.S.G.N.: Ping/State 'playing'
+[22:32:14] coL.Kznnnn! aliou-se a Equipe Contra-Terrorista
+[22:32:15] masato44-Heroes&Generals killed Bekox with HE
+[22:32:18] mitico conectou-se ao servidor
+[22:32:29] Sagos killed GustaVlogs with Turret
+[22:32:29] CompLexity. iKinze votou pela expulsão de Player 2
+[22:32:37] Power by Latam2D Group
+[22:32:37] RedHood180 killed ftp with Glock
+[22:32:37] coL.Kznnnn! killed Bekox with M4A1
+[22:32:41] masato44-Heroes&Generals killed ~Jeancarlo~ with HE
+[22:32:42] masato44-Heroes&Generals killed rsl '3 with M4A1
+[22:32:43] ~Jeancarlo~ killed masato44-Heroes&Generals with Gate Field
+[22:32:45] CompLexity. iKinze killed Sagos with AK-47
+[22:32:45] k¦CompLexity. iKinze¦100¦202
+[22:32:45] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:32:48] Player 2 killed Mr.Matix with AK-47
+[22:32:54] ~Jeancarlo~ killed Babo with AK-47
+[22:32:54] ANTI N | Cølt'. killed GustaVlogs with HE
+[22:32:59] CompLexity. iKinze killed coL.Kznnnn! with Gate Field
+[22:33:08] rsl '3 killed Sagos with AWP
+[22:33:08] k¦rsl '3¦96¦95
+[22:33:11] rsl '3 killed masato44-Heroes&Generals with AWP
+[22:33:12] Teleporter is not charged! Please wait!
+[22:33:14] U.S.G.N.: Ping/State 'playing'
+[22:33:15] mitico aliou-se a Equipe Terrorista
+[22:33:16] Mr.Matix killed rsl '3 with M4A1
+[22:33:19] ~Jeancarlo~: no pendejo :v
+[22:33:24] RedHood180: calla jean falso
+[22:33:24] «SexyStars» Matt ~^ killed coL.Kznnnn! with AK-47
+[22:33:26] CompLexity. iKinze killed Mr.Matix with Gate Field
+[22:33:33] coL.Kznnnn! killed Player 2 with Turret
+[22:33:34] «SexyStars» Matt ~^ killed ANTI N | Chá with AK-47
+[22:33:37] Power by Latam2D Group
+[22:33:37] rsl '3 killed ANTI N | Cølt'. with AWP
+[22:33:41] CompLexity. iKinze killed ftp with Gate Field
+[22:33:46] ANTI N | Cølt'. killed rsl '3 with M4A1
+[22:33:47] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:33:52] ~Jeancarlo~ killed Sagos with AK-47
+[22:33:52] k¦~Jeancarlo~¦65¦202
+[22:33:55] «SexyStars» Matt ~^ killed Babo with AK-47
+[22:33:55] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:33:57] ~Jeancarlo~ killed masato44-Heroes&Generals with Turret
+[22:33:58] mitico killed coL.Kznnnn! with AK-47
+[22:34:06] ANTI N | Chá killed RedHood180 with M4A1
+[22:34:06] ~Jeancarlo~ killed Mr.Matix with Gate Field
+[22:34:10] Player 3 conectou-se ao servidor
+[22:34:13] rsl '3 killed ANTI N | Chá with AWP
+[22:34:14] Babo died
+[22:34:14] Babo aliou-se a Equipe Terrorista
+[22:34:15] U.S.G.N.: Ping/State 'playing'
+[22:34:15] Babo aliou-se a Equipe Contra-Terrorista
+[22:34:16] mitico killed Player with AK-47
+[22:34:24] Player 3 aliou-se a Equipe Contra-Terrorista
+[22:34:27] Player killed RedHood180 with Turret
+[22:34:28] masato44-Heroes&Generals killed mitico with Turret
+[22:34:36] CompLexity. iKinze killed coL.Kznnnn! with AK-47
+[22:34:37] ~Jeancarlo~ killed Sagos with AK-47
+[22:34:37] k¦~Jeancarlo~¦81¦202
+[22:34:37] Power by Latam2D Group
+[22:34:38] ANTI N | Chá killed «SexyStars» Matt ~^ with Turret
+[22:34:42] ANTI N | Chá killed Bekox with HE
+[22:34:42] ANTI N | Chá killed mitico with HE
+[22:34:43] ~Jeancarlo~ killed masato44-Heroes&Generals with AK-47
+[22:34:43] Bekox killed ANTI N | Chá with HE
+[22:34:45] rsl '3 killed coL.Kznnnn! with AWP
+[22:34:45] ~Jeancarlo~ killed Sagos with AK-47
+[22:34:45] k¦~Jeancarlo~¦82¦202
+[22:34:49] Teleporter is not charged! Please wait!
+[22:34:50] "  (1x)
+[22:34:51] "  (1x)
+[22:34:52] "  (1x)
+[22:34:52] ftp killed GustaVlogs with XM1014
+[22:34:52] Teleporter is not charged! Please wait!
+[22:34:52] "  (1x)
+[22:34:52] coL.Kznnnn! killed rsl '3 with M4A1
+[22:34:58] Bekox killed coL.Kznnnn! with AK-47
+[22:35:02] masato44-Heroes&Generals killed «SexyStars» Matt ~^ with HE
+[22:35:04] ftp killed rsl '3 with XM1014
+[22:35:08] mitico killed ANTI N | Chá with AK-47
+[22:35:14] Player 3 deixou o servidor
+[22:35:15] U.S.G.N.: Ping/State 'playing'
+[22:35:17] mitico killed masato44-Heroes&Generals with AK-47
+[22:35:18] RedHood180: la patria sigue 
+[22:35:20] RedHood180 killed ftp with M4A1
+[22:35:26] masato44-Heroes&Generals killed «SexyStars» Matt ~^ with HE
+[22:35:26] Babo killed Bekox with M249
+[22:35:28] RedHood180: brooks? :O
+[22:35:28] mitico killed ANTI N | Chá with AK-47
+[22:35:29] mitico killed masato44-Heroes&Generals with AK-47
+[22:35:32] ANTI N | Chá deixou o servidor
+[22:35:33] Babo: ¿?
+[22:35:36] ~Jeancarlo~ killed Sagos with AK-47
+[22:35:36] k¦~Jeancarlo~¦90¦202
+[22:35:37] Power by Latam2D Group
+[22:35:37] coL.Kznnnn! killed GustaVlogs with M4A1
+[22:35:38] RedHood180: cortese el pelo gei >:v
+[22:35:38] ~Jeancarlo~ killed Player with M3
+[22:35:39] Dit chi m conectou-se ao servidor
+[22:35:40] masato44-Heroes&Generals killed mitico with M3
+[22:35:41] Bekox killed masato44-Heroes&Generals with AK-47
+[22:35:44] Babo mudou de nome para Brooks
+[22:35:45] Dit chi m aliou-se a Equipe Contra-Terrorista
+[22:35:46] ~Jeancarlo~: xd
+[22:35:50] Bekox killed masato44-Heroes&Generals with AK-47
+[22:35:53] Brooks killed Bekox with M249
+[22:35:58] mitico killed masato44-Heroes&Generals with AK-47
+[22:35:58] masato44-Heroes&Generals killed mitico with Turret
+[22:35:59] Bekox killed Brooks with AK-47
+[22:36:02] ~Jeancarlo~ killed Sagos with Gate Field
+[22:36:02] k¦~Jeancarlo~¦100¦202
+[22:36:04] rsl '3 killed masato44-Heroes&Generals with AWP
+[22:36:05] Bekox killed ftp with AK-47
+[22:36:09] rsl '3 killed masato44-Heroes&Generals with AWP
+[22:36:12] nitrone-__0 conectou-se ao servidor
+[22:36:14] CompLexity. iKinze killed coL.Kznnnn! with AK-47
+[22:36:14] masato44-Heroes&Generals votou pela expulsão de rsl '3
+[22:36:16] U.S.G.N.: Ping/State 'playing'
+[22:36:16] ~Jeancarlo~ killed Mr.Matix with M3
+[22:36:18] Sagos killed mitico with Turret
+[22:36:29] "  (1x)
+[22:36:31] ~Jeancarlo~ killed masato44-Heroes&Generals with M3
+[22:36:37] Power by Latam2D Group
+[22:36:37] nitrone-__0 2 conectou-se ao servidor
+[22:36:41] mitico killed ftp with HE
+[22:36:47] Sagos killed mitico with Turret
+[22:36:49] nitrone-__0 2 aliou-se a Equipe Terrorista
+[22:36:57] masato44-Heroes&Generals killed «SexyStars» Matt ~^ with HE
+[22:37:02] RedHood180: brooks su hijo salio homoxesual xd
+[22:37:04] Dit chi m deixou o servidor
+[22:37:11] Brooks killed mitico with M249
+[22:37:11] «SexyStars» Matt ~^ killed Brooks with HE
+[22:37:12] mitico aliou-se a Equipe Contra-Terrorista
+[22:37:16] U.S.G.N.: Ping/State 'playing'
+[22:37:21] ~Jeancarlo~ killed coL.Kznnnn! with AWP
+[22:37:22] Brooks aliou-se a Equipe Terrorista
+[22:37:22] Brooks aliou-se a Equipe Contra-Terrorista
+[22:37:24] ~Jeancarlo~ killed ftp with AWP
+[22:37:25] Brooks: xD
+[22:37:28] Player 2 mudou de nome para Horizon
+[22:37:37] Power by Latam2D Group
+[22:37:38] Bekox killed Sagos with Turret
+[22:37:38] k¦Bekox¦85¦0
+[22:37:40] mitico killed RedHood180 with M4A1
+[22:37:46] Bekox killed ftp with Turret
+[22:37:51] masato44-Heroes&Generals killed Bekox with Gate Field
+[22:37:56] masato44-Heroes&Generals killed «SexyStars» Matt ~^ with M3
+[22:37:58] CompLexity. iKinze killed Mr.Matix with AWP
+[22:38:05] ftp has been kicked. Ping too high (1108).
+[22:38:05] ftp deixou o servidor (ping muito alto)
+[22:38:09] mitico killed rsl '3 with M4A1
+[22:38:11] rsl '3 deixou o servidor
+[22:38:21] mitico killed «SexyStars» Matt ~^ with HE
+[22:38:27] U.S.G.N.: Ping/State 'playing'
+[22:38:27] ftp conectou-se ao servidor
+[22:38:32] PaddyShotgun conectou-se ao servidor
+[22:38:32] ~Jeancarlo~: se puso chidoxd
+[22:38:35] «SexyStars» Matt ~^ killed Sagos with Wrench
+[22:38:35] k¦«SexyStars» Matt ~^¦100¦0
+[22:38:36] RedHood180: xd
+[22:38:36] ANTI N | Cølt'. killed CompLexity. iKinze with M4A1
+[22:38:37] Power by Latam2D Group
+[22:38:39] PaddyShotgun aliou-se a Equipe Contra-Terrorista
+[22:38:41] RedHood180: zi jean falso
+[22:38:43] nitrone-__0 2 killed mitico with Turret
+[22:38:48] «SexyStars» Matt ~^ deixou o servidor
+[22:38:52] masato44-Heroes&Generals killed nitrone-__0 2 with M3
+[22:38:56] masato44-Heroes&Generals killed CompLexity. iKinze with M3
+[22:39:02] mitico killed RedHood180 with M4A1
+[22:39:04] coL.Kznnnn! killed GustaVlogs with HE
+[22:39:05] nitrone-__0 2 killed masato44-Heroes&Generals with Turret
+[22:39:06] masato44-Heroes&Generals aliou-se a Equipe Terrorista
+[22:39:07] nitrone-__0 2 killed mitico with Turret
+[22:39:11] ~Jeancarlo~ killed coL.Kznnnn! with AWP
+[22:39:16] nitrone-__0 2 killed Player with Turret
+[22:39:16] masato44-Heroes&Generals deixou o servidor
+[22:39:16] nitrone-__0 2 killed mitico with AK-47
+[22:39:24] mitico killed nitrone-__0 2 with M4A1
+[22:39:25] Bekox killed Brooks with HE
+[22:39:26] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:39:28] U.S.G.N.: Ping/State 'playing'
+[22:39:28] coL.Kznnnn! killed Bekox with M4A1
+[22:39:34] ftp conectou-se ao servidor
+[22:39:37] Power by Latam2D Group
+[22:39:38] Bekox killed coL.Kznnnn! with AK-47
+[22:39:41] ftp aliou-se a Equipe Contra-Terrorista
+[22:39:41] ftp aliou-se a Equipe Terrorista
+[22:39:48] MIBR | FOX 4i20 conectou-se ao servidor
+[22:39:57] coL.Kznnnn! killed Horizon with USP
+[22:39:57] ANTI N | Cølt'. killed GustaVlogs with M4A1
+[22:39:57] MIBR | FOX 4i20 aliou-se a Equipe Contra-Terrorista
+[22:40:01] ANTI N | Cølt'. killed nitrone-__0 2 with M4A1
+[22:40:01] Tukanolsen conectou-se ao servidor
+[22:40:02] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:40:04] ANTI N | Cølt'. killed Bekox with M4A1
+[22:40:09] CompLexity. iKinze killed coL.Kznnnn! with AWP
+[22:40:12] Tukanolsen aliou-se a Equipe Terrorista
+[22:40:21] Player killed GustaVlogs with HE
+[22:40:21] ~Jeancarlo~ killed Mr.Matix with AWP
+[22:40:26] coL.Kznnnn! killed ftp with AWP
+[22:40:28] U.S.G.N.: Ping/State 'playing'
+[22:40:29] NoNameBR conectou-se ao servidor
+[22:40:29] nitrone-__0 2 killed PaddyShotgun with AK-47
+[22:40:30] ANTI N | Cølt'. killed Bekox with HE
+[22:40:30] ANTI N | Cølt'. killed nitrone-__0 2 with HE
+[22:40:32] PaddyShotgun deixou o servidor
+[22:40:37] Power by Latam2D Group
+[22:40:37] NoNameBR aliou-se a Equipe Contra-Terrorista
+[22:40:43] Horizon killed Player with AK-47
+[22:40:46] MIBR | FOX 4i20 killed Horizon with HE
+[22:40:48] Bekox killed Brooks with AK-47
+[22:40:49] MIBR | FOX 4i20 killed nitrone-__0 2 with M3
+[22:40:50] coL.Kznnnn! killed CompLexity. iKinze with AWP
+[22:40:51] ~Jeancarlo~ killed coL.Kznnnn! with AWP
+[22:41:03] nitrone-__0 2 died
+[22:41:03] nitrone-__0 2 aliou-se a Equipe Contra-Terrorista
+[22:41:06] nitrone-__0 2 aliou-se a Equipe Terrorista
+[22:41:08] nitrone-__0 2 died
+[22:41:08] nitrone-__0 2 aliou-se a Equipe Contra-Terrorista
+[22:41:09] Player killed ftp with P90
+[22:41:10] nitrone-__0 2 aliou-se a Equipe Terrorista
+[22:41:11] MIBR | FOX 4i20 killed Tukanolsen with M3
+[22:41:15] Player killed RedHood180 with P90
+[22:41:17] ~Jeancarlo~: xd
+[22:41:22] mitico killed RedHood180 with AK-47
+[22:41:27] ANTI N | Cølt'. killed RedHood180 with M4A1
+[22:41:29] U.S.G.N.: Ping/State 'playing'
+[22:41:35] Bekox killed Mr.Matix with AK-47
+[22:41:37] Power by Latam2D Group
+[22:41:43] nitrone-__0 2 mudou de nome para nitrone-__0 1n
+[22:41:44] RedHood180: y eze gei?
+[22:41:49] CompLexity. iKinze killed Brooks with AK-47
+[22:41:57] Mr.Matix killed nitrone-__0 1n with Gate Field
+[22:42:04] "  (1x)
+[22:42:10] mitico killed ftp with Turret
+[22:42:12] mitico killed GustaVlogs with Gate Field
+[22:42:12] mitico: q
+[22:42:21] ~Jeancarlo~: -.-
+[22:42:27] mitico: nao entrega
+[22:42:29] Bekox: :v
+[22:42:29] mitico: sexo
+[22:42:30] U.S.G.N.: Ping/State 'playing'
+[22:42:30] RedHood180: D:
+[22:42:30] Bekox: rly
+[22:42:32] nitrone-__0 1n died
+[22:42:32] nitrone-__0 1n aliou-se a Equipe Terrorista
+[22:42:33] Sagos: GG
+[22:42:34] nitrone-__0 1n died
+[22:42:34] nitrone-__0 1n aliou-se a Equipe Contra-Terrorista
+[22:42:34] nitrone-__0 1n aliou-se a Equipe Terrorista
+[22:42:35] Milhouse conectou-se ao servidor
+[22:42:37] Power by Latam2D Group
+[22:42:43] mitico killed RedHood180 with M4A1

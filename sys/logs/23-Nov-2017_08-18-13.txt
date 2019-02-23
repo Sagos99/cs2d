@@ -1,0 +1,7 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 08:18:13
+
+[08:18:13] UDP socket initialized using port 36963
+[08:18:13] U.S.G.N.: Your game version is up to date!
+[08:18:19] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[08:18:20] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[08:18:21] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)

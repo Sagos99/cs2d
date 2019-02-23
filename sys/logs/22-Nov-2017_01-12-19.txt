@@ -1,0 +1,508 @@
+CS2D 1.0.0.5 Logfile - 22 Nov 2017, 01:12:19
+
+[01:12:19] UDP socket initialized using port 36963
+[01:12:19] U.S.G.N.: Your game version is up to date!
+[01:12:19] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[01:12:21] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[01:12:21] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[01:12:46] Starting server...
+[01:12:46] load map 'Oxe.Galaxy_Earth v3.0'
+[01:12:47] LOAD MAP RES.: failed to load image 'gfx/!1_JAF/Otherworld/floor4.bmp'
+[01:12:47] "  (1x)
+[01:12:47] ERROR: Can't add 'gfx/JAF/otherworld/jellyfish.png' to transfer list: file does not exist!
+[01:12:47] ERROR: Can't add 'gfx/JAF/otherworld/jellyfish_net.png' to transfer list: file does not exist!
+[01:12:47] ERROR: Can't add 'gfx/JAF/otherworld/bubble.png' to transfer list: file does not exist!
+[01:12:48] ERROR: Can't add 'gfx/JAF/arrow.png' to transfer list: file does not exist!
+[01:12:52] ERROR: Can't add 'gfx/JAF/otherworld/bodicon2.png' to transfer list: file does not exist!
+[01:12:53] ERROR: Can't add 'gfx/JAF/otherworld/npc/npcthief.png' to transfer list: file does not exist!
+[01:12:53] ----- Server started -----
+[01:12:53] Initialising ...
+[01:12:53] Installing power.lua is success in 0.149ms
+[01:12:54] Installing clan.lua is success in 0.049ms
+[01:12:54] Installing NPC.lua is success in 0.086ms
+[01:12:54] Installing tables.lua is success in 0.097ms
+[01:12:54] Installing functions.lua is success in 0.023ms
+[01:12:54] Lua: Adding function 'jaf.parse' to hook 'parse'
+[01:12:54] Installing console.lua is success in 0.008ms
+[01:12:54] Lua: Adding function 'hc_say_hook' to hook 'say'
+[01:12:54] Lua: Adding function 'hc_leave_hook' to hook 'leave'
+[01:12:54] Installing emoticons.lua is success in 0.016ms
+[01:12:54] Installing monster.lua is success in 0.030ms
+[01:12:54] Installing internet.lua is success in 0.023ms
+[01:12:54] Installing achievements.lua is success in 0.026ms
+[01:12:54] Lua: Adding function 'jaf.join' to hook 'join'
+[01:12:54] Lua: Adding function 'jaf.second' to hook 'second'
+[01:12:54] Lua: Adding function 'jaf.ms100' to hook 'ms100'
+[01:12:54] Lua: Adding function 'jaf.say' to hook 'sayteam'
+[01:12:54] Lua: Adding function 'jaf.say' to hook 'say'
+[01:12:54] Lua: Adding function 'jaf.startround' to hook 'startround'
+[01:12:54] Lua: Adding function 'jaf.spawn' to hook 'spawn'
+[01:12:54] Lua: Adding function 'jaf.move' to hook 'move'
+[01:12:54] Lua: Adding function 'jaf.die' to hook 'die'
+[01:12:54] Lua: Adding function 'jaf.leave' to hook 'leave'
+[01:12:54] Lua: Adding function 'jaf.serveraction' to hook 'serveraction'
+[01:12:54] Lua: Adding function 'jaf.menu' to hook 'menu'
+[01:12:54] Lua: Adding function 'jaf.clientdata' to hook 'clientdata'
+[01:12:54] Lua: Adding function 'jaf.attack' to hook 'attack'
+[01:12:54] Lua: Adding function 'jaf.hit' to hook 'hit'
+[01:12:54] Lua: Adding function 'jaf.usehook' to hook 'use'
+[01:12:54] Lua: Adding function 'jaf.minute' to hook 'minute'
+[01:12:54] Lua: Adding function 'jaf.hitzone' to hook 'hitzone'
+[01:12:54] Lua: Adding function 'jaf.movetile' to hook 'movetile'
+[01:12:54] Lua: Adding function 'jaf.suicide' to hook 'suicide'
+[01:12:54] Lua: Adding function 'jaf.kill' to hook 'kill'
+[01:12:54] Lua: Adding function 'jaf.usebutton' to hook 'usebutton'
+[01:12:54] Lua: Adding function 'jaf.select' to hook 'select'
+[01:12:54] Lua: Adding function 'jaf.drop' to hook 'drop'
+[01:12:54] Lua: Adding function 'jaf.objectdamage' to hook 'objectdamage'
+[01:12:54] Lua: Adding function 'jaf.build' to hook 'build'
+[01:12:54] Lua: Adding function 'jaf.objectupgrade' to hook 'objectupgrade'
+[01:12:54] Lua: Adding function 'jaf.attack2' to hook 'attack2'
+[01:12:54] Lua: Adding function 'jaf.projectile_hook' to hook 'projectile'
+[01:12:54] Lua: Adding function 'jaf.build' to hook 'build'
+[01:12:54] Lua: Adding function 'jaf.walkoverhook' to hook 'walkover'
+[01:12:54] Lua: Adding function 'jaf.alwayshook' to hook 'always'
+[01:12:54] [System] Seus dados foram carregados com Sucesso!
+[01:12:54] Welcome Sagos, Joining to Adventure - Other World
+[01:12:54] U.S.G.N.: Ping/State 'playing'
+[01:12:54] U.S.G.N.: Server added to serverlist
+[01:12:59] Servidor Desligado
+[01:13:02] U.S.G.N.: Can't remove server from serverlist (Code 0)
+[01:13:03] "  (1x)
+[01:13:04] "  (1x)
+[01:13:04] ----- Disconnected -----
+[01:13:05] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:13:25] Starting server...
+[01:13:25] load map 'Battle Royale'
+[01:13:25] ERROR: Can't add 'gfx/JAF/otherworld/jellyfish.png' to transfer list: file does not exist!
+[01:13:25] ERROR: Can't add 'gfx/JAF/otherworld/jellyfish_net.png' to transfer list: file does not exist!
+[01:13:25] ERROR: Can't add 'gfx/JAF/otherworld/bubble.png' to transfer list: file does not exist!
+[01:13:25] ERROR: Can't add 'gfx/JAF/arrow.png' to transfer list: file does not exist!
+[01:13:26] ERROR: Can't add 'gfx/JAF/otherworld/bodicon2.png' to transfer list: file does not exist!
+[01:13:26] ERROR: Can't add 'gfx/JAF/otherworld/npc/npcthief.png' to transfer list: file does not exist!
+[01:13:26] ----- Server started -----
+[01:13:26] Initialising ...
+[01:13:26] Installing power.lua is success in 0.007ms
+[01:13:26] Installing clan.lua is success in 0.002ms
+[01:13:26] Installing NPC.lua is success in 0.003ms
+[01:13:26] Installing tables.lua is success in 0.017ms
+[01:13:26] Installing functions.lua is success in 0.006ms
+[01:13:26] Lua: Adding function 'jaf.parse' to hook 'parse'
+[01:13:26] Installing console.lua is success in 0.000ms
+[01:13:26] Lua: Adding function 'hc_say_hook' to hook 'say'
+[01:13:26] Lua: Adding function 'hc_leave_hook' to hook 'leave'
+[01:13:26] Installing emoticons.lua is success in 0.000ms
+[01:13:26] Installing monster.lua is success in 0.005ms
+[01:13:26] Installing internet.lua is success in 0.001ms
+[01:13:26] Installing achievements.lua is success in 0.001ms
+[01:13:26] Lua: Adding function 'jaf.join' to hook 'join'
+[01:13:26] Lua: Adding function 'jaf.second' to hook 'second'
+[01:13:26] Lua: Adding function 'jaf.ms100' to hook 'ms100'
+[01:13:26] Lua: Adding function 'jaf.say' to hook 'sayteam'
+[01:13:26] Lua: Adding function 'jaf.say' to hook 'say'
+[01:13:26] Lua: Adding function 'jaf.startround' to hook 'startround'
+[01:13:26] Lua: Adding function 'jaf.spawn' to hook 'spawn'
+[01:13:26] Lua: Adding function 'jaf.move' to hook 'move'
+[01:13:26] Lua: Adding function 'jaf.die' to hook 'die'
+[01:13:26] Lua: Adding function 'jaf.leave' to hook 'leave'
+[01:13:26] Lua: Adding function 'jaf.serveraction' to hook 'serveraction'
+[01:13:26] Lua: Adding function 'jaf.menu' to hook 'menu'
+[01:13:26] Lua: Adding function 'jaf.clientdata' to hook 'clientdata'
+[01:13:26] Lua: Adding function 'jaf.attack' to hook 'attack'
+[01:13:26] Lua: Adding function 'jaf.hit' to hook 'hit'
+[01:13:26] Lua: Adding function 'jaf.usehook' to hook 'use'
+[01:13:26] Lua: Adding function 'jaf.minute' to hook 'minute'
+[01:13:26] Lua: Adding function 'jaf.hitzone' to hook 'hitzone'
+[01:13:26] Lua: Adding function 'jaf.movetile' to hook 'movetile'
+[01:13:26] Lua: Adding function 'jaf.suicide' to hook 'suicide'
+[01:13:26] Lua: Adding function 'jaf.kill' to hook 'kill'
+[01:13:26] Lua: Adding function 'jaf.usebutton' to hook 'usebutton'
+[01:13:26] Lua: Adding function 'jaf.select' to hook 'select'
+[01:13:26] Lua: Adding function 'jaf.drop' to hook 'drop'
+[01:13:26] Lua: Adding function 'jaf.objectdamage' to hook 'objectdamage'
+[01:13:26] Lua: Adding function 'jaf.build' to hook 'build'
+[01:13:26] Lua: Adding function 'jaf.objectupgrade' to hook 'objectupgrade'
+[01:13:26] Lua: Adding function 'jaf.attack2' to hook 'attack2'
+[01:13:26] Lua: Adding function 'jaf.projectile_hook' to hook 'projectile'
+[01:13:26] Lua: Adding function 'jaf.build' to hook 'build'
+[01:13:26] Lua: Adding function 'jaf.walkoverhook' to hook 'walkover'
+[01:13:26] Lua: Adding function 'jaf.alwayshook' to hook 'always'
+[01:13:26] [System] Seus dados foram carregados com Sucesso!
+[01:13:26] Welcome Sagos, Joining to Adventure - Other World
+[01:13:26] U.S.G.N.: Server added to serverlist
+[01:13:26] U.S.G.N.: Ping/State 'playing'
+[01:13:30] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:30]  -> [C]: in function 'imagepos'
+[01:13:30]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:30]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:30] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:30]  -> [C]: in function 'imagepos'
+[01:13:30]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:30]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:31] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:31]  -> [C]: in function 'imagepos'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:31] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:31]  -> [C]: in function 'imagepos'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:31] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:31]  -> [C]: in function 'imagepos'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:31] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:31]  -> [C]: in function 'imagepos'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:31] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:31]  -> [C]: in function 'imagepos'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:31] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:31]  -> [C]: in function 'imagepos'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:31] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:31]  -> [C]: in function 'imagepos'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:31] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:31]  -> [C]: in function 'imagepos'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:31] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:31]  -> [C]: in function 'imagepos'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:31]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:32] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:32]  -> [C]: in function 'imagepos'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:32] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:32]  -> [C]: in function 'imagepos'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:32] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:32]  -> [C]: in function 'imagepos'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:32] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:32]  -> [C]: in function 'imagepos'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:32] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:32]  -> [C]: in function 'imagepos'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:32] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:32]  -> [C]: in function 'imagepos'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:32] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:32]  -> [C]: in function 'imagepos'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:32] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:32]  -> [C]: in function 'imagepos'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:32] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:32]  -> [C]: in function 'imagepos'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:32]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:33] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:33]  -> [C]: in function 'imagepos'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:33] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:33]  -> [C]: in function 'imagepos'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:33] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:33]  -> [C]: in function 'imagepos'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:33] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:33]  -> [C]: in function 'imagepos'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:33] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:33]  -> [C]: in function 'imagepos'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:33] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:33]  -> [C]: in function 'imagepos'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:33] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:33]  -> [C]: in function 'imagepos'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:33] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:33]  -> [C]: in function 'imagepos'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:33] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:33]  -> [C]: in function 'imagepos'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:33]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:34] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:34]  -> [C]: in function 'imagepos'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:34] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:34]  -> [C]: in function 'imagepos'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:34] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:34]  -> [C]: in function 'imagepos'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:34] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:34]  -> [C]: in function 'imagepos'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:34] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:34]  -> [C]: in function 'imagepos'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:34] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:34]  -> [C]: in function 'imagepos'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:34] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:34]  -> [C]: in function 'imagepos'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:34] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:34]  -> [C]: in function 'imagepos'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:34] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:34]  -> [C]: in function 'imagepos'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:34]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:35] Servidor Desligado
+[01:13:35] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:35]  -> [C]: in function 'imagepos'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:35] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:35]  -> [C]: in function 'imagepos'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:35] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:35]  -> [C]: in function 'imagepos'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:35] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:35]  -> [C]: in function 'imagepos'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:35] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:35]  -> [C]: in function 'imagepos'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:35] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:35]  -> [C]: in function 'imagepos'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:35] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:35]  -> [C]: in function 'imagepos'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:35] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:35]  -> [C]: in function 'imagepos'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:35] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:35]  -> [C]: in function 'imagepos'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:35]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:36] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:36]  -> [C]: in function 'imagepos'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:36] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:36]  -> [C]: in function 'imagepos'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:36] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:36]  -> [C]: in function 'imagepos'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:36] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:36]  -> [C]: in function 'imagepos'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:36] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:36]  -> [C]: in function 'imagepos'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:36] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:36]  -> [C]: in function 'imagepos'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:36] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:36]  -> [C]: in function 'imagepos'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:36] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:36]  -> [C]: in function 'imagepos'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:36] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:36]  -> [C]: in function 'imagepos'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:36]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:37] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:37]  -> [C]: in function 'imagepos'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:37] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:37]  -> [C]: in function 'imagepos'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:37] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:37]  -> [C]: in function 'imagepos'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:37] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:37]  -> [C]: in function 'imagepos'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:37] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:37]  -> [C]: in function 'imagepos'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:37] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:37]  -> [C]: in function 'imagepos'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:37] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:37]  -> [C]: in function 'imagepos'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:37] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:37]  -> [C]: in function 'imagepos'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:37]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:37] U.S.G.N.: Can't remove server from serverlist (Code 0)
+[01:13:38] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:38]  -> [C]: in function 'imagepos'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:38] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:38]  -> [C]: in function 'imagepos'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:38] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:38]  -> [C]: in function 'imagepos'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:38] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:38]  -> [C]: in function 'imagepos'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:38] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:38]  -> [C]: in function 'imagepos'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:38] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:38]  -> [C]: in function 'imagepos'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:38] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:38]  -> [C]: in function 'imagepos'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:38] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:38]  -> [C]: in function 'imagepos'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:38] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:38]  -> [C]: in function 'imagepos'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:38]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:38] U.S.G.N.: Can't remove server from serverlist (Code 0)
+[01:13:39] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:39]  -> [C]: in function 'imagepos'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:39] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:39]  -> [C]: in function 'imagepos'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:39] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:39]  -> [C]: in function 'imagepos'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:39] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:39]  -> [C]: in function 'imagepos'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:39] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:39]  -> [C]: in function 'imagepos'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:39] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:39]  -> [C]: in function 'imagepos'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:39] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:39]  -> [C]: in function 'imagepos'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:39] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:39]  -> [C]: in function 'imagepos'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:39] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:39]  -> [C]: in function 'imagepos'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:39]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:39] U.S.G.N.: Can't remove server from serverlist (Code 0)
+[01:13:40] LUA ERROR: sys/lua/JAF-OtherWorld/monster.lua:1854: bad argument #4 to 'imagepos' (number expected, got nil)
+[01:13:40]  -> [C]: in function 'imagepos'
+[01:13:40]  -> sys/lua/JAF-OtherWorld/monster.lua:1854: in function 'monstermove'
+[01:13:40]  -> sys/lua/JAF-OtherWorld/start.lua:900: in function <sys/lua/JAF-OtherWorld/start.lua:756>
+[01:13:40] ----- Disconnected -----
+[01:13:40] U.S.G.N.: Ping/State 'idle' (272 ms)
+[01:14:12] Starting server...
+[01:14:12] load map 'Battle Royale'
+[01:14:12] ERROR: Can't add 'gfx/JAF/otherworld/jellyfish.png' to transfer list: file does not exist!
+[01:14:12] ERROR: Can't add 'gfx/JAF/otherworld/jellyfish_net.png' to transfer list: file does not exist!
+[01:14:12] ERROR: Can't add 'gfx/JAF/otherworld/bubble.png' to transfer list: file does not exist!
+[01:14:12] ERROR: Can't add 'gfx/JAF/arrow.png' to transfer list: file does not exist!
+[01:14:13] ERROR: Can't add 'gfx/JAF/otherworld/bodicon2.png' to transfer list: file does not exist!
+[01:14:13] ERROR: Can't add 'gfx/JAF/otherworld/npc/npcthief.png' to transfer list: file does not exist!
+[01:14:13] ----- Server started -----
+[01:14:13] Lua: Adding function 'falar' to hook 'say'
+[01:14:13] Lua: Adding function 'segundos' to hook 'second'
+[01:14:13] Lua: Adding function 'coletar' to hook 'walkover'
+[01:14:13] Lua: Adding function 'atacar' to hook 'attack'
+[01:14:13] Lua: Adding function 'atacar2' to hook 'attack2'
+[01:14:13] Lua: Adding function 'teclas' to hook 'serveraction'
+[01:14:13] Lua: Adding function 'mymenu' to hook 'menu'
+[01:14:13] Lua: Adding function 'ataque' to hook 'hit'
+[01:14:13] Lua: Adding function 'dropar' to hook 'drop'
+[01:14:13] Lua: Adding function 'mover' to hook 'movetile'
+[01:14:13] U.S.G.N.: Server added to serverlist
+[01:14:13] U.S.G.N.: Ping/State 'playing'
+[01:14:14] Sagos juntou-se a Countra-Terrorista Forças
+[01:14:23] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[01:14:34] [Info] Você pegou 15 Balas de Pistola
+[01:14:41] [Info] Você pegou Kit Médico
+[01:14:42] [Info] Você pegou Kit Full
+[01:14:45] [Info] Aguarde 6 segundos para usar Kit Médico
+[01:14:51] [Info] Você usou Kit Médico
+[01:14:59] U.S.G.N.: Serverlist entry updated
+[01:15:01] [Info] Você já tem uma USP no inventário
+[01:15:14] U.S.G.N.: Ping/State 'playing'
+[01:15:44] U.S.G.N.: Serverlist entry updated
+[01:16:14] U.S.G.N.: Ping/State 'playing'
+[01:16:17] Servidor Desligado
+[01:16:18] U.S.G.N.: Server removed from serverlist
+[01:16:18] ----- Disconnected -----
+[01:16:19] U.S.G.N.: Ping/State 'idle' (320 ms)

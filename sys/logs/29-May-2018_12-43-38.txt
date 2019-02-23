@@ -1,0 +1,538 @@
+CS2D 1.0.0.7 Logfile - 29 May 2018, 12:43:39
+
+[12:43:38] Steam: Logged in as #76561198077078199
+[12:43:39] UDP socket initialized using port 36963
+[12:43:39] U.S.G.N.: Your game version is up to date!
+[12:43:51] Cached servers added to list: 164
+[12:43:51] U.S.G.N.: Received serverlist (servers: 21)
+[12:43:52] U.S.G.N.: Received serverlist (servers: 150)
+[12:44:17] Connecting to 191.177.181.106:36964...
+[12:44:18] Checking 'maps/awp_grey.txt': Already exists.
+[12:44:18] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[12:44:18] Checking 'gfx/hats/anjo.png': Already exists.
+[12:44:18] Checking 'gfx/hats/chapeu.png': Already exists.
+[12:44:18] Checking 'gfx/hats/demonio.png': Already exists.
+[12:44:18] Checking 'gfx/hats/umbrella azul.png': Already exists.
+[12:44:18] Checking 'gfx/hats/umbrella vermelha.png': Already exists.
+[12:44:18] Checking 'gfx/hats/Thumbs.db': Already exists.
+[12:44:18] Requesting 0 files from server...
+[12:44:18] load map 'awp_grey'
+[12:44:18] ----- Server joined -----
+[12:44:18] [SERVER]: Bem vindo, Sagos!
+[12:44:18] [SERVER]: Sua U.S.G.N está autenticada como Visitante!
+[12:44:20] [SERVER]: Control Core 2.7.5b.
+[12:44:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:44:20] [SERVER]: Pro'League | grey_casual2
+[12:44:22] Sagos aliou-se a Equipe Terrorista
+[12:44:40] pL. msw [Owner]: eu fui helpa agora pouco com o seemp
+[12:44:45] pL. msw [Owner]: vs 7Stars
+[12:45:04] pL. msw [Owner]: noix ganho de 20x18
+[12:45:06] AWP'div. fi dum erro conectou-se ao servidor
+[12:45:07] pL. msw [Owner]: e o RV
+[12:45:12] pL. msw [Owner]: 20x14
+[12:45:17] NoOB S@iBoT killed Sagos with AWP
+[12:45:17] k¦NoOB S@iBoT¦100¦100
+[12:45:17] pL. msw [Owner]: RV
+[12:45:20] NoOB S@iBoT killed ANTI [N] | prv with AWP
+[12:45:20] [SERVER]: Control Core 2.7.5b.
+[12:45:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:45:20] [SERVER]: Pro'League | grey_casual2
+[12:45:21] pL. msw [Owner]: perdeu
+[12:45:23] pL. msw [Owner]: de 20x14
+[12:45:25] NoOB S@iBoT [S-Admin]: hm
+[12:45:29] AWP'div. fi dum erro aliou-se a Equipe Terrorista
+[12:45:29] pL. msw [Owner]: porque seemp e burro demais
+[12:45:31] Sagos killed pL. msw with AWP
+[12:45:35] Sagos killed NoOB S@iBoT with AWP
+[12:45:39] NoOB S@iBoT [S-Admin]: 7stars
+[12:45:40] NoOB S@iBoT [S-Admin]: e de quem
+[12:45:47] pL. msw [Owner]: do StorM
+[12:45:52] Sagos killed NoOB S@iBoT with Knife
+[12:45:56] AWP'div. fi dum erro killed pL. msw with AWP
+[12:45:57] NoOB S@iBoT [S-Admin]: ata
+[12:46:03] ANTI [N] | prv [VIP]: mano
+[12:46:04] NoOB S@iBoT killed Sagos with AWP
+[12:46:04] k¦NoOB S@iBoT¦100¦100
+[12:46:07] AWP'div. fi dum erro killed NoOB S@iBoT with AWP
+[12:46:12] ANTI [N] | prv [VIP]: de quem e 7stars? kdksakad
+[12:46:13] pL. msw killed AWP'div. fi dum erro with AWP
+[12:46:14] ANTI [N] | prv [VIP]: quem q jogou
+[12:46:19] NoOB S@iBoT [S-Admin]: nen sei quem e storn
+[12:46:20] [SERVER]: Control Core 2.7.5b.
+[12:46:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:46:20] [SERVER]: Pro'League | grey_casual2
+[12:46:25] NoOB S@iBoT tornou-se um espectador
+[12:46:27] ANTI [N] | prv [VIP]: nF ta falida pit
+[12:46:29] pL. msw [Owner]: no 7Stars
+[12:46:35] pL. msw [Owner]: foi o snw
+[12:46:38] pL. msw [Owner]: e rennan
+[12:46:42] pL. msw [Owner]: contra eu e seemp
+[12:46:45] pL. msw killed ANTI [N] | prv with AWP
+[12:46:50] * Auto Teambalance *
+[12:46:50] AWP'div. fi dum erro aliou-se a Equipe Contra-Terrorista
+[12:47:00] ANTI [N] | prv killed AWP'div. fi dum erro with AWP
+[12:47:13] Sagos killed pL. msw with AWP
+[12:47:16] pL. msw [Owner]: ?
+[12:47:20] [SERVER]: Control Core 2.7.5b.
+[12:47:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:47:20] [SERVER]: Pro'League | grey_casual2
+[12:47:22] pL. msw killed ANTI [N] | prv with AWP
+[12:47:27] pL. msw killed Sagos with AWP
+[12:47:27] k¦pL. msw¦100¦100
+[12:47:38] pL. msw mudou de nome para pL. pitbull*
+[12:47:38] Sagos killed pL. pitbull* with AWP
+[12:47:39] ANTI [N] | prv [VIP]: pit
+[12:47:41] pL. pitbull* [Owner]: fala
+[12:47:44] ANTI [N] | prv [VIP]: vai m mandar o scrip pelo ds?
+[12:47:48] ANTI [N] | prv killed AWP'div. fi dum erro with AWP
+[12:47:56] pL. pitbull* [Owner]: pelo discord 
+[12:47:58] pL. pitbull* [Owner]: nao tem como
+[12:48:00] >> One Tap << conectou-se ao servidor
+[12:48:03] ANTI [N] | prv [VIP]: por onde entao?
+[12:48:03] pL. pitbull* [Owner]: mais pelo mediafire
+[12:48:04] Sagos killed AWP'div. fi dum erro with AWP
+[12:48:05] pL. pitbull* [Owner]: oks
+[12:48:05] AWP'div. fi dum erro deixou o servidor
+[12:48:08] ANTI [N] | prv [VIP]: ok pode ser
+[12:48:15] pL. pitbull* killed Sagos with AWP
+[12:48:15] k¦pL. pitbull*¦100¦0
+[12:48:15] ANTI [N] | prv [VIP]: dai como que abre a porta do modemw?
+[12:48:20] [SERVER]: Control Core 2.7.5b.
+[12:48:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:48:20] [SERVER]: Pro'League | grey_casual2
+[12:48:22] ANTI [N] | prv [VIP]: nao achei aquela udp
+[12:48:27] pL. pitbull* [Owner]: eu te explico
+[12:48:28] pL. pitbull* [Owner]: la
+[12:48:40] ANTI [N] | prv killed pL. pitbull* with AWP
+[12:48:41] >> One Tap << aliou-se a Equipe Contra-Terrorista
+[12:48:53] Sagos killed >> One Tap << with AWP
+[12:49:00] Sagos killed pL. pitbull* with Knife
+[12:49:10] Sagos killed pL. pitbull* with AWP
+[12:49:11] >> One Tap << killed Sagos with AWP
+[12:49:11] k¦>> One Tap <<¦100¦100
+[12:49:20] [SERVER]: Control Core 2.7.5b.
+[12:49:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:49:20] [SERVER]: Pro'League | grey_casual2
+[12:49:30] ANTI [N] | prv killed >> One Tap << with AWP
+[12:49:46] Sagos killed >> One Tap << with AWP
+[12:49:48] Sagos killed pL. pitbull* with Knife
+[12:49:55] pL. pitbull* [Owner]: prv ta carregando rapido a muniçao
+[12:49:58] pL. pitbull* [Owner]: pra vc
+[12:49:59] ANTI [N] | prv [VIP]: sim
+[12:50:03] Sagos killed pL. pitbull* with AWP
+[12:50:04] ANTI [N] | prv [VIP]: e no server do bleach
+[12:50:06] Sagos killed >> One Tap << with AWP
+[12:50:06] ANTI [N] | prv [VIP]: que nao carrega
+[12:50:07] ANTI [N] | prv [VIP]: kk
+[12:50:15] pL. pitbull* [Owner]: poise ele nao coloco ess comando
+[12:50:16] pL. pitbull* [Owner]: la
+[12:50:19] ANTI [N] | prv [VIP]: sim
+[12:50:20] [SERVER]: Control Core 2.7.5b.
+[12:50:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:50:20] [SERVER]: Pro'League | grey_casual2
+[12:50:21] ANTI [N] | prv [VIP]: achei q la era o seu
+[12:50:25] ANTI [N] | prv [VIP]: e o 2 o dfo bleach
+[12:50:26] pL. pitbull* [Owner]: nem
+[12:50:26] ANTI [N] | prv [VIP]: por isso
+[12:50:30] ANTI [N] | prv killed pL. pitbull* with AWP
+[12:50:30] pL. pitbull* [Owner]: eu fico lag la
+[12:50:32] pL. pitbull* [Owner]: nao sei como
+[12:50:38] ANTI [N] | prv [VIP]: eu tbk
+[12:50:42] ANTI [N] | prv killed >> One Tap << with AWP
+[12:50:49] pL. pitbull* [Owner]: deve ser por causa da vpn dele
+[12:50:50] >> One Tap <<: eta lag
+[12:50:54] pL. pitbull* killed Sagos with AWP
+[12:50:54] k¦pL. pitbull*¦100¦0
+[12:50:56] 7s. StorM' conectou-se ao servidor
+[12:51:00] ANTI [N] | prv [VIP]: o nao sei se tu percebeu
+[12:51:03] 7s. StorM' aliou-se a Equipe Contra-Terrorista
+[12:51:04] ANTI [N] | prv [VIP]: tlg awp bomb
+[12:51:14] ANTI [N] | prv killed pL. pitbull* with AWP
+[12:51:16] ANTI [N] | prv [VIP]: la p mim
+[12:51:19] ANTI [N] | prv [VIP]: o mouse fica mais rapido
+[12:51:20] [SERVER]: Control Core 2.7.5b.
+[12:51:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:51:20] [SERVER]: Pro'League | grey_casual2
+[12:51:21] ANTI [N] | prv [VIP]: tipo o sensor dele
+[12:51:22] ANTI [N] | prv [VIP]: nao sei pq
+[12:51:31] ANTI [N] | prv killed >> One Tap << with AWP
+[12:51:32] pL. pitbull* [Owner]: como assim o sensor
+[12:51:37] ANTI [N] | prv [VIP]: sensibilidade
+[12:51:41] pL. pitbull* [Owner]: oque tem
+[12:51:43] Sagos killed 7s. StorM' with AWP
+[12:51:44] pL. pitbull* killed Sagos with AWP
+[12:51:44] k¦pL. pitbull*¦100¦0
+[12:51:45] ANTI [N] | prv [VIP]: fica mais arpida
+[12:51:49] ANTI [N] | prv [VIP]: tipo na grey e d e um jeito
+[12:51:52] ANTI [N] | prv [VIP]: e la e bem mais rapida
+[12:52:00] ANTI [N] | prv killed >> One Tap << with AWP
+[12:52:03] pL. pitbull* [Owner]: deve ser por causa da textura 
+[12:52:08] ANTI [N] | prv [VIP]: pode ser
+[12:52:13] ANTI [N] | prv [VIP]: aqui eu pego 60fps
+[12:52:14] ANTI [N] | prv [VIP]: la nao sei
+[12:52:20] [SERVER]: Control Core 2.7.5b.
+[12:52:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:52:20] [SERVER]: Pro'League | grey_casual2
+[12:52:22] ANTI [N] | prv killed pL. pitbull* with AWP
+[12:52:32] pL. pitbull* killed ANTI [N] | prv with AWP
+[12:52:33] Sagos killed 7s. StorM' with AWP
+[12:52:36] >> One Tap << killed Sagos with AWP
+[12:52:36] k¦>> One Tap <<¦100¦100
+[12:52:48] pL. pitbull* killed Sagos with AWP
+[12:52:48] k¦pL. pitbull*¦100¦0
+[12:53:01] pL. pitbull* [Owner]: kkkkkkkkkkkkkkk
+[12:53:05] ANTI [N] | prv killed >> One Tap << with AWP
+[12:53:06] 7s. StorM': rs
+[12:53:06] pL. pitbull* [Owner]: calma 
+[12:53:10] pL. pitbull* [Owner]: storm
+[12:53:12] ANTI [N] | prv [VIP]: e desse storm o clan po
+[12:53:13] pL. pitbull* [Owner]: kkkk so euu
+[12:53:14] >> One Tap << *MORTO*: .rs
+[12:53:20] pL. pitbull* [Owner]: sim
+[12:53:20] [SERVER]: Control Core 2.7.5b.
+[12:53:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:53:20] [SERVER]: Pro'League | grey_casual2
+[12:53:23] pL. pitbull* killed ANTI [N] | prv with AWP
+[12:53:25] ANTI [N] | prv [VIP]: afgr quem ele e nao sei kk
+[12:53:30] 7s. StorM': rs
+[12:53:32] 7s. StorM': flowers
+[12:53:36] Sagos killed pL. pitbull* with Knife
+[12:53:38] 7s. StorM' killed Sagos with AWP
+[12:53:38] k¦7s. StorM'¦100¦100
+[12:53:40] pL. pitbull* [Owner]: oxxe nem vi
+[12:53:45] ANTI [N] | prv [VIP]: pit
+[12:53:49] ANTI [N] | prv [VIP]: bora x1, valendo usgn?
+[12:53:50] pL. pitbull* [Owner]: fala
+[12:53:56] 7s. StorM': kkkk
+[12:53:56] pL. pitbull* [Owner]: que usgn
+[12:53:57] ANTI [N] | prv [VIP]: me disseram q tens uma 24k a mais
+[12:53:57] ANTI [N] | prv [VIP]: kajdskaj
+[12:54:02] pL. pitbull* [Owner]: sim
+[12:54:04] ANTI [N] | prv [VIP]: dolly disse q ganhou de vc 1 24k
+[12:54:05] pL. pitbull* [Owner]: tenho 
+[12:54:07] ANTI [N] | prv [VIP]: e vc tinha outra
+[12:54:08] ANTI [N] | prv [VIP]: k
+[12:54:10] ANTI [N] | prv [VIP]: me da ela? dasjkdka
+[12:54:12] ANTI [N] | prv [VIP]: ou vamo x1?
+[12:54:13] ANTI [N] | prv [VIP]: kasjdka
+[12:54:18] ANTI [N] | prv killed >> One Tap << with AWP
+[12:54:18] ANTI [N] | prv killed 7s. StorM' with AWP
+[12:54:20] [SERVER]: Control Core 2.7.5b.
+[12:54:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:54:20] [SERVER]: Pro'League | grey_casual2
+[12:54:20] 2tuna6 conectou-se ao servidor
+[12:54:22] ANTI [N] | prv [VIP]: que kill foi essa mds
+[12:54:22] pL. pitbull* [Owner]: mais o nao ta comigo mais ah de 24k
+[12:54:26] pL. pitbull* [Owner]: ta com o bleach
+[12:54:29] ANTI [N] | prv [VIP]: ah so
+[12:54:30] pL. pitbull* [Owner]: eu devolvi pra ele
+[12:54:32] Sagos killed >> One Tap << with AWP
+[12:54:34] ANTI [N] | prv [VIP]: nao tens mais nenhuma baixa?
+[12:54:36] Sagos killed pL. pitbull* with AWP
+[12:54:40] Sagos killed 7s. StorM' with AWP
+[12:54:45] 2tuna6 aliou-se a Equipe Terrorista
+[12:54:47] PRO'LEAGUE conectou-se ao servidor
+[12:54:49] pL. pitbull* [Owner]: baixa de 90k eu tenho
+[12:54:50] PRO'LEAGUE aliou-se a Equipe Terrorista
+[12:54:51] Sagos killed 7s. StorM' with AWP
+[12:54:54] ANTI [N] | prv [VIP]: pode ser
+[12:54:54] Sagos killed >> One Tap << with AWP
+[12:54:54] ANTI [N] | prv [VIP]: kk
+[12:54:56] 2tuna6 has been kicked. Ping too high (307).
+[12:54:56] 2tuna6 deixou o servidor (ping muito alto)
+[12:54:57] Sagos killed pL. pitbull* with AWP
+[12:55:00] ANTI [N] | prv [VIP]: bora ranked?
+[12:55:10] Sagos killed pL. pitbull* with Knife
+[12:55:12] Sagos killed >> One Tap << with AWP
+[12:55:14] ANTI [N] D a n i l o conectou-se ao servidor
+[12:55:16] ANTI [N] | prv killed 7s. StorM' with AWP
+[12:55:16] [SERVER]: O usuário 13584 foi criado com sucesso.
+[12:55:20] [SERVER]: Control Core 2.7.5b.
+[12:55:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:55:20] [SERVER]: Pro'League | grey_casual2
+[12:55:28] Sagos killed pL. pitbull* with AWP
+[12:55:29] PRO'LEAGUE: sagos?
+[12:55:31] ANTI [N] | prv [VIP]: vamo no ranked pit?
+[12:55:31] Sagos killed >> One Tap << with AWP
+[12:55:33] Sagos: oi
+[12:55:34] pL. pitbull* [Owner]: oque acho fr1
+[12:55:36] randl conectou-se ao servidor
+[12:55:37] Sagos killed 7s. StorM' with AWP
+[12:55:40] randl aliou-se a Equipe Contra-Terrorista
+[12:55:46] PRO'LEAGUE: sv ta dlç em pit
+[12:55:50] pL. pitbull* killed Sagos with AWP
+[12:55:50] k¦pL. pitbull*¦100¦100
+[12:55:51] PRO'LEAGUE: ta bem fluido
+[12:55:56] PRO'LEAGUE: voltou a jogar sagos?
+[12:56:03] 7s. StorM' killed PRO'LEAGUE with AWP
+[12:56:04] randl killed ANTI [N] | prv with AWP
+[12:56:08] pL. pitbull* [Owner]: eu coloquei uma coloração melhor para script
+[12:56:11] pL. pitbull* [Owner]: fico bom ate
+[12:56:12] Sagos: n, soh to esperando um jogo atualizar
+[12:56:19] Sagos killed pL. pitbull* with AWP
+[12:56:20] [SERVER]: Control Core 2.7.5b.
+[12:56:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:56:20] [SERVER]: Pro'League | grey_casual2
+[12:56:22] ANTI [N] | prv killed randl with AWP
+[12:56:30] ANTI [N] | prv [VIP]: pit
+[12:56:31] PRO'LEAGUE (Equipe): depois entra no discord lá sagos xd
+[12:56:32] pL. pitbull* [Owner]: fala 
+[12:56:34] ANTI [N] | prv [VIP]: oq mudou desse para o outro?
+[12:56:35] Sagos killed 7s. StorM' with Knife
+[12:56:43] pL. pitbull* [Owner]: Sinceramente 
+[12:56:46] pL. pitbull* [Owner]: kkkkkk
+[12:56:46] Sagos (Equipe): to sempre on no discord
+[12:56:48] ANTI [N] | prv [VIP]: nada
+[12:56:51] pL. pitbull* [Owner]: So as cores
+[12:56:52] PRO'LEAGUE (Equipe): dmr, vou mandar msg lá dps
+[12:56:53] Sagos killed pL. pitbull* with AWP
+[12:56:55] ANTI [N] | prv [VIP]: kkk
+[12:56:56] Sagos killed randl with Knife
+[12:56:57] ANTI [N] | prv [VIP]: dps manda la
+[12:56:58] PRO'LEAGUE (Equipe): qd vc n estiver jogando
+[12:57:00] ANTI [N] | prv killed 7s. StorM' with Knife
+[12:57:04] pL. pitbull* [Owner]: o resto continua sendo o msm
+[12:57:07] ANTI [N] | prv [VIP]: ah so
+[12:57:09] pL. pitbull* [Owner]: mais so os comandos 
+[12:57:14] pL. pitbull* [Owner]: que eu corrigi
+[12:57:14] 7s. StorM' killed ANTI [N] | prv with AWP
+[12:57:17] pL. pitbull* [Owner]: todos
+[12:57:17] Sagos killed 7s. StorM' with AWP
+[12:57:20] Sagos killed randl with Knife
+[12:57:20] [SERVER]: Control Core 2.7.5b.
+[12:57:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:57:20] [SERVER]: Pro'League | grey_casual2
+[12:57:21] pL. pitbull* killed PRO'LEAGUE with AWP
+[12:57:25] PRO'LEAGUE tornou-se um espectador
+[12:57:25] Sagos killed pL. pitbull* with AWP
+[12:57:32] ANTI [N] | prv [VIP]: pit bora ranked ?
+[12:57:36] ANTI [N] | prv [VIP]: valendo a usgn 90k
+[12:57:41] NoOB S@iBoT aliou-se a Equipe Terrorista
+[12:57:44] pL. pitbull* [Owner]: kkkk eu nao tenho essa
+[12:57:46] Sagos killed randl with Knife
+[12:57:47] pL. pitbull* killed ANTI [N] | prv with AWP
+[12:57:52] Sagos killed 7s. StorM' with Knife
+[12:57:52] Player conectou-se ao servidor
+[12:57:52] Sagos killed pL. pitbull* with Knife
+[12:57:52] ANTI [N] | prv [VIP]: aaaaaaata kk achei q tinha
+[12:58:01] ANTI [N] | prv [VIP]: se quiser tirar o vip pode tirar ta k
+[12:58:05] Sagos killed pL. pitbull* with AWP
+[12:58:07] NoOB S@iBoT killed 7s. StorM' with AWP
+[12:58:07] Sagos killed randl with Knife
+[12:58:09] [SERVER]: O usuário 11437 foi criado com sucesso.
+[12:58:09] Player aliou-se a Equipe Contra-Terrorista
+[12:58:10] ANTI [N] D a n i l o aliou-se a Equipe Contra-Terrorista
+[12:58:12] * Auto Teambalance *
+[12:58:12] Player aliou-se a Equipe Terrorista
+[12:58:20] [SERVER]: Control Core 2.7.5b.
+[12:58:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:58:20] [SERVER]: Pro'League | grey_casual2
+[12:58:22] NoOB S@iBoT killed pL. pitbull* with AWP
+[12:58:22] ANTI [N] D a n i l o killed Sagos with AWP
+[12:58:22] k¦ANTI [N] D a n i l o¦100¦100
+[12:58:25] ANTI [N] D a n i l o killed ANTI [N] | prv with AWP
+[12:58:28] randl killed Player with AWP
+[12:58:34] ANTI [N] D a n i l o killed NoOB S@iBoT with AWP
+[12:58:40] pL. pitbull* [Owner]: ess negocio que fica aparecendo la tela 
+[12:58:44] pL. pitbull* [Owner]: acho que vou tirar fora
+[12:58:45] randl: ?
+[12:58:46] Sagos killed ANTI [N] D a n i l o with AWP
+[12:58:51] NoOB S@iBoT killed 7s. StorM' with AWP
+[12:58:52] Sagos killed pL. pitbull* with AWP
+[12:58:58] Player killed randl with AWP
+[12:59:02] randl deixou o servidor
+[12:59:04] Terminator play conectou-se ao servidor
+[12:59:09] "  (1x)
+[12:59:11] NoOB S@iBoT killed ANTI [N] D a n i l o with AWP
+[12:59:12] Player killed pL. pitbull* with AWP
+[12:59:14] 7s. StorM' killed NoOB S@iBoT with AWP
+[12:59:14] 7s. StorM' killed ANTI [N] | prv with AWP
+[12:59:18] 7s. StorM' killed Sagos with AWP
+[12:59:18] k¦7s. StorM'¦100¦100
+[12:59:18] ANTI [N] D a n i l o *MORTO*: sas umbrella ....
+[12:59:18] ANTI [N] | prv *MORTO*: rank
+[12:59:18] r¦ANTI [N] | prv (USGN)¦487 of 488¦112,401,446,0.89,7 h 49 m
+[12:59:18] NoOB S@iBoT aliou-se a Equipe Contra-Terrorista
+[12:59:19] Player killed 7s. StorM' with AWP
+[12:59:20] [SERVER]: Control Core 2.7.5b.
+[12:59:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[12:59:20] [SERVER]: Pro'League | grey_casual2
+[12:59:21] Terminator play aliou-se a Equipe Terrorista
+[12:59:29] [v£®] »»»v.£.Þ.£.®¹««« conectou-se ao servidor
+[12:59:34] [v£®] »»»v.£.Þ.£.®¹««« aliou-se a Equipe Terrorista
+[12:59:35] NoOB S@iBoT killed Player with AWP
+[12:59:35] NoOB S@iBoT killed Sagos with AWP
+[12:59:35] k¦NoOB S@iBoT¦100¦100
+[12:59:37] ANTI [N] D a n i l o killed Terminator play with AWP
+[12:59:39] pL. pitbull* killed ANTI [N] | prv with AWP
+[12:59:40] NoOB S@iBoT killed [v£®] »»»v.£.Þ.£.®¹««« with AWP
+[12:59:58] NoOB S@iBoT killed Player with AWP
+[12:59:58] Sagos killed pL. pitbull* with AWP
+[12:59:58] Sagos killed 7s. StorM' with AWP
+[13:00:02] pL. pitbull* [Owner]: merda mals 
+[13:00:03] ANTI [N] D a n i l o killed Sagos with AWP
+[13:00:03] k¦ANTI [N] D a n i l o¦100¦100
+[13:00:03] ANTI [N] | prv killed ANTI [N] D a n i l o with AWP
+[13:00:06] NoOB S@iBoT killed Terminator play with Knife
+[13:00:06] pL. pitbull* [Owner]: StorM
+[13:00:09] ANTI [N] | prv killed NoOB S@iBoT with AWP
+[13:00:14] 7s. StorM' *MORTO*: rlx
+[13:00:15] pL. pitbull* [Owner]: delay fila da pota
+[13:00:20] [SERVER]: Control Core 2.7.5b.
+[13:00:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[13:00:20] [SERVER]: Pro'League | grey_casual2
+[13:00:22] 7s. StorM' killed ANTI [N] | prv with AWP
+[13:00:23] pL. pitbull* killed Player with AWP
+[13:00:26] Sagos killed NoOB S@iBoT with Knife
+[13:00:27] Sagos killed pL. pitbull* with AWP
+[13:00:29] ANTI [N] D a n i l o killed Terminator play with AWP
+[13:00:31] pL. pitbull* [Owner]: oxxe kel
+[13:00:33] 7s. StorM' killed Sagos with AWP
+[13:00:33] k¦7s. StorM'¦100¦100
+[13:00:34] pL. pitbull* [Owner]: seu podre
+[13:00:39] pL. pitbull* [Owner]: AHEHAEHA
+[13:00:42] ANTI [N] D a n i l o: '='
+[13:00:47] pL. pitbull* [Owner]: e que culpa eu tenho
+[13:00:49] [v£®] »»»v.£.Þ.£.®¹««« killed ANTI [N] D a n i l o with AWP
+[13:00:50] pL. pitbull* [Owner]: se que mosco ali
+[13:00:52] [v£®] »»»v.£.Þ.£.®¹««« killed 7s. StorM' with AWP
+[13:01:02] NoOB S@iBoT killed Sagos with AWP
+[13:01:02] k¦NoOB S@iBoT¦100¦100
+[13:01:02] NoOB S@iBoT killed [v£®] »»»v.£.Þ.£.®¹««« with AWP
+[13:01:15] Player killed NoOB S@iBoT with AWP
+[13:01:17] pL. pitbull* killed Terminator play with AWP
+[13:01:20] [SERVER]: Control Core 2.7.5b.
+[13:01:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[13:01:20] [SERVER]: Pro'League | grey_casual2
+[13:01:23] NoOB S@iBoT votou pela expulsão de Player
+[13:01:24] 7s. StorM' killed ANTI [N] | prv with AWP
+[13:01:26] NoOB S@iBoT [S-Admin]: nojo
+[13:01:27] ANTI [N] | prv [VIP]: pit
+[13:01:28] Player killed ANTI [N] D a n i l o with Knife
+[13:01:28] pL. pitbull* killed Player with AWP
+[13:01:31] ANTI [N] D a n i l o *MORTO*: xo
+[13:01:32] ANTI [N] | prv [VIP]: tira esse chapeu ai
+[13:01:35] ANTI [N] | prv [VIP]: pra ct nao us
+[13:01:39] ANTI [N] | prv [VIP]: confunde tudo k
+[13:01:42] NoOB S@iBoT killed Sagos with AWP
+[13:01:42] k¦NoOB S@iBoT¦100¦100
+[13:01:46] ANTI [N] D a n i l o: ala
+[13:01:47] PRO'LEAGUE usou !login.
+[13:01:47] 7s. StorM' killed ANTI [N] | prv with AWP
+[13:01:48] NoOB S@iBoT killed Terminator play with Knife
+[13:01:49] NoOB S@iBoT killed Player with AWP
+[13:01:52] PRO'LEAGUE [S-Admin]: sagos, olha discord depois
+[13:01:52] Player *MORTO*: nojo
+[13:01:56] Player usou !login.
+[13:01:57] ANTI [N] D a n i l o killed [v£®] »»»v.£.Þ.£.®¹««« with AWP
+[13:01:59] Player [S-Admin]: nojo
+[13:02:00] 7s. StorM': kkkkk
+[13:02:00] NoOB S@iBoT [S-Admin]: boa bleach
+[13:02:02] PRO'LEAGUE [S-Admin]: b1t olha discord também
+[13:02:03] NoOB S@iBoT [S-Admin]: fica olhando
+[13:02:06] llTirosLocosll [504] conectou-se ao servidor
+[13:02:11] 7s. StorM' killed Terminator play with AWP
+[13:02:14] ANTI [N] D a n i l o killed ANTI [N] | prv with AWP
+[13:02:16] randl conectou-se ao servidor
+[13:02:16] pL. pitbull* [Owner]: fr1 se viu la oo #geral la seu cavalo
+[13:02:16] Sagos killed ANTI [N] D a n i l o with AWP
+[13:02:19] Sagos killed pL. pitbull* with AWP
+[13:02:19] 7s. StorM' killed Player with AWP
+[13:02:20] NoOB S@iBoT killed Sagos with AWP
+[13:02:20] k¦NoOB S@iBoT¦100¦100
+[13:02:20] [SERVER]: Control Core 2.7.5b.
+[13:02:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[13:02:20] [SERVER]: Pro'League | grey_casual2
+[13:02:22] llTirosLocosll [504] aliou-se a Equipe Contra-Terrorista
+[13:02:26] [v£®] »»»v.£.Þ.£.®¹««« killed NoOB S@iBoT with AWP
+[13:02:28] 7s. StorM' killed [v£®] »»»v.£.Þ.£.®¹««« with AWP
+[13:02:28] ANTI [N] D a n i l o *MORTO*: arruma sas umbrella pit
+[13:02:37] pL. pitbull* [Owner]: como assim arrumar
+[13:02:39] pL. pitbull* [Owner]: animal
+[13:02:39] 7s. StorM' killed Player with AWP
+[13:02:40] NoOB S@iBoT killed Sagos with AWP
+[13:02:40] k¦NoOB S@iBoT¦100¦100
+[13:02:40] pL. pitbull* [Owner]: ta certo
+[13:02:43] 7s. StorM' killed Terminator play with AWP
+[13:02:44] ANTI [N] | prv [VIP]: tr usa a azl
+[13:02:46] NoOB S@iBoT killed [v£®] »»»v.£.Þ.£.®¹««« with Knife
+[13:02:47] ANTI [N] D a n i l o: tr com umbrella azul
+[13:02:47] ANTI [N] | prv [VIP]: e ct a vermelha
+[13:02:48] ANTI [N] D a n i l o: '-'
+[13:02:50] ANTI [N] | prv killed llTirosLocosll [504] with AWP
+[13:02:52] ANTI [N] | prv [VIP]: poe 
+[13:02:58] ANTI [N] | prv [VIP]: poe
+[13:03:01] pL. pitbull* [Owner]: ue eu coloquei vermelha
+[13:03:02] ANTI [N] | prv killed NoOB S@iBoT with AWP
+[13:03:02] ANTI [N] D a n i l o killed ANTI [N] | prv with AWP
+[13:03:05] pL. pitbull* [Owner]: vcs reclama
+[13:03:06] pL. pitbull* [Owner]: porra
+[13:03:07] ANTI [N] | prv [VIP]: tr vermelha, e ct azul
+[13:03:08] pL. pitbull* [Owner]: vai inteder
+[13:03:09] 7s. StorM': kkkk
+[13:03:11] ANTI [N] | prv [VIP]: K e que confunde caraio
+[13:03:12] NoOB S@iBoT killed Terminator play with AWP
+[13:03:15] NoOB S@iBoT killed Sagos with AWP
+[13:03:15] k¦NoOB S@iBoT¦100¦100
+[13:03:16] randl aliou-se a Equipe Terrorista
+[13:03:18] ANTI [N] D a n i l o: vo fica dando fakada no meu time
+[13:03:19] ANTI [N] D a n i l o: td hr
+[13:03:20] [SERVER]: Control Core 2.7.5b.
+[13:03:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[13:03:20] [SERVER]: Pro'League | grey_casual2
+[13:03:21] ANTI [N] | prv [VIP]: sim kk
+[13:03:24] Player killed pL. pitbull* with AWP
+[13:03:26] NoOB S@iBoT killed Player with AWP
+[13:03:27] ANTI [N] D a n i l o: nego vem com umbrella vermeia
+[13:03:28] pL. pitbull* [Owner]: porra maldito mouse
+[13:03:31] 7s. StorM' killed [v£®] »»»v.£.Þ.£.®¹««« with AWP
+[13:03:32] ANTI [N] D a n i l o: eu apavoro
+[13:03:32] pL. pitbull* [Owner]: vo quebrar ele
+[13:03:35] pL. pitbull* [Owner]: na parede
+[13:03:35] ANTI [N] | prv killed 7s. StorM' with AWP
+[13:03:44] ANTI [N] | prv killed llTirosLocosll [504] with AWP
+[13:03:44] PRO'LEAGUE deixou o servidor
+[13:03:52] NoOB S@iBoT killed ANTI [N] | prv with AWP
+[13:03:56] pL. pitbull* [Owner]: vou discord
+[13:03:56] ANTI [N] | prv [VIP]: danilo ja tais com wpp?
+[13:03:59] [v£®] »»»v.£.Þ.£.®¹««« deixou o servidor
+[13:04:02] pL. pitbull* [Owner]: depois eu volto
+[13:04:03] ANTI [N] D a n i l o: sem chip ainda
+[13:04:03] pL. pitbull* deixou o servidor
+[13:04:07] Player killed NoOB S@iBoT with AWP
+[13:04:09] PRO'LEAGUE conectou-se ao servidor
+[13:04:09] ANTI [N] D a n i l o killed Sagos with AWP
+[13:04:09] k¦ANTI [N] D a n i l o¦100¦100
+[13:04:14] 7s. StorM' killed ANTI [N] | prv with AWP
+[13:04:14] Player killed ANTI [N] D a n i l o with AWP
+[13:04:16] NoOB S@iBoT deixou o servidor
+[13:04:19] 7s. StorM' killed randl with AWP
+[13:04:19] ANTI [N] | prv deixou o servidor
+[13:04:20] Terminator play killed llTirosLocosll [504] with AWP
+[13:04:20] [SERVER]: Control Core 2.7.5b.
+[13:04:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[13:04:20] [SERVER]: Pro'League | grey_casual2
+[13:04:22] PRO'LEAGUE deixou o servidor
+[13:04:23] 7s. StorM' killed Terminator play with AWP
+[13:04:24] NoOB S@iBoT conectou-se ao servidor
+[13:04:25] NoOB S@iBoT aliou-se a Equipe Contra-Terrorista
+[13:04:34] 7s. StorM' killed Player with AWP
+[13:04:42] NoOB S@iBoT killed Terminator play with AWP
+[13:04:45] Player killed NoOB S@iBoT with AWP
+[13:04:47] Sagos killed 7s. StorM' with AWP
+[13:04:47] ANTI [N] D a n i l o killed Sagos with AWP
+[13:04:47] k¦ANTI [N] D a n i l o¦100¦100
+[13:04:48] Terminator play deixou o servidor
+[13:04:51] Player killed llTirosLocosll [504] with AWP
+[13:04:58] ANTI [N] D a n i l o killed Player with AWP
+[13:05:12] randl killed ANTI [N] D a n i l o with AWP
+[13:05:14] 7s. StorM' *MORTO*: kkkk
+[13:05:20] NoOB S@iBoT killed randl with AWP
+[13:05:20] [SERVER]: Control Core 2.7.5b.
+[13:05:20] [SERVER]: Digite !help para ver os comandos ou !help <comando> para um comando específico!
+[13:05:20] [SERVER]: Pro'League | grey_casual2
+[13:05:27] 7s. StorM' died
+[13:05:27] 7s. StorM' tornou-se um espectador
+[13:05:30] 7s. StorM' deixou o servidor
+[13:05:34] llTirosLocosll [504] killed Sagos with AWP
+[13:05:34] k¦llTirosLocosll [504]¦100¦100

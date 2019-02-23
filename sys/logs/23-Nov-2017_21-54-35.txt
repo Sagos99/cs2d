@@ -1,0 +1,237 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 21:54:35
+
+[21:54:35] UDP socket initialized using port 36963
+[21:54:36] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[21:54:36] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[21:54:36] U.S.G.N.: Ping/State 'playing'
+[21:54:36] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[21:54:39] Starting server...
+[21:54:39] load map 'de_dust2'
+[21:54:39] ----- Server started -----
+[21:54:39] Lua: Adding function 'teclas' to hook 'serveraction'
+[21:54:39] Lua: Adding function 'mile' to hook 'ms100'
+[21:54:39] Lua: Adding function 'matar' to hook 'kill'
+[21:54:39] Lua: Adding function 'bomba' to hook 'bombplant'
+[21:54:39] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[21:54:39] U.S.G.N.: Server added to serverlist
+[21:54:40] Sagos juntou-se a Terrorista Forças
+[21:54:54] Servidor Desligado
+[21:54:55] U.S.G.N.: Server removed from serverlist
+[21:54:55] ----- Disconnected -----
+[21:54:56] U.S.G.N.: Ping/State 'idle' (272 ms)
+[21:54:59] Starting server...
+[21:54:59] load map 'de_dust2'
+[21:54:59] ----- Server started -----
+[21:54:59] Lua: Adding function 'teclas' to hook 'serveraction'
+[21:54:59] Lua: Adding function 'mile' to hook 'ms100'
+[21:54:59] Lua: Adding function 'matar' to hook 'kill'
+[21:54:59] Lua: Adding function 'bomba' to hook 'bombplant'
+[21:55:00] U.S.G.N.: Ping/State 'playing'
+[21:55:00] U.S.G.N.: Server added to serverlist
+[21:55:01] Sagos juntou-se a Terrorista Forças
+[21:55:02] Ativado
+[21:55:45] U.S.G.N.: Serverlist entry updated
+[21:56:00] U.S.G.N.: Ping/State 'playing'
+[21:56:30] U.S.G.N.: Serverlist entry updated
+[21:57:01] U.S.G.N.: Ping/State 'playing'
+[21:57:16] U.S.G.N.: Serverlist entry updated
+[21:58:01] "  (1x)
+[21:58:01] U.S.G.N.: Ping/State 'playing'
+[21:58:46] U.S.G.N.: Serverlist entry updated
+[21:59:02] U.S.G.N.: Ping/State 'playing'
+[21:59:32] U.S.G.N.: Serverlist entry updated
+[21:59:34] ----- Mapchange -----
+[21:59:34] Starting server...
+[21:59:34] load map 'de_dust2'
+[21:59:34] ----- Server started -----
+[21:59:34] Lua: Adding function 'teclas' to hook 'serveraction'
+[21:59:34] Lua: Adding function 'mile' to hook 'ms100'
+[21:59:34] Lua: Adding function 'matar' to hook 'kill'
+[21:59:34] Lua: Adding function 'bomba' to hook 'bombplant'
+[21:59:35] U.S.G.N.: Ping/State 'playing'
+[21:59:35] U.S.G.N.: Serverlist entry updated
+[21:59:35] generating stats...
+[21:59:35] stats generated in 1 ms!
+[21:59:35] Sagos juntou-se a Terrorista Forças
+[22:00:20] U.S.G.N.: Serverlist entry updated
+[22:00:30] Ativado
+[22:00:35] U.S.G.N.: Ping/State 'playing'
+[22:01:06] U.S.G.N.: Serverlist entry updated
+[22:01:36] U.S.G.N.: Ping/State 'playing'
+[22:01:51] U.S.G.N.: Serverlist entry updated
+[22:02:18] ----- Mapchange -----
+[22:02:18] Starting server...
+[22:02:18] load map 'de_dust2'
+[22:02:18] ----- Server started -----
+[22:02:18] Lua: Adding function 'teclas' to hook 'serveraction'
+[22:02:18] Lua: Adding function 'mile' to hook 'ms100'
+[22:02:18] Lua: Adding function 'matar' to hook 'kill'
+[22:02:18] Lua: Adding function 'bomba' to hook 'bombplant'
+[22:02:19] U.S.G.N.: Serverlist entry updated
+[22:02:19] U.S.G.N.: Ping/State 'playing'
+[22:02:21] Sagos juntou-se a Terrorista Forças
+[22:02:25] Ativado
+[22:03:04] U.S.G.N.: Serverlist entry updated
+[22:03:25] U.S.G.N.: Ping/State 'playing'
+[22:03:50] U.S.G.N.: Serverlist entry updated
+[22:04:25] U.S.G.N.: Ping/State 'playing'
+[22:04:35] generating stats...
+[22:04:35] stats generated in 0 ms!
+[22:04:35] U.S.G.N.: Serverlist entry updated
+[22:05:21] "  (1x)
+[22:05:26] U.S.G.N.: Ping/State 'playing'
+[22:06:06] Gustbr16 conectou-se
+[22:06:06] Gustbr16 is using IP 177.156.19.177:64431 and no U.S.G.N. ID
+[22:06:06] U.S.G.N.: Serverlist entry updated
+[22:06:15] Gustbr16 juntou-se a Terrorista Forças
+[22:06:26] U.S.G.N.: Ping/State 'playing'
+[22:06:29] Sagos died
+[22:06:29] Sagos juntou-se aos espectadores
+[22:06:51] U.S.G.N.: Serverlist entry updated
+[22:06:56] SECURITY WARNING: 177.156.19.177 seems to be a hacker (flooding). Ignoring all future packets (600 sec).
+[22:07:27] U.S.G.N.: Ping/State 'playing'
+[22:07:37] U.S.G.N.: Serverlist entry updated
+[22:08:22] "  (1x)
+[22:08:27] U.S.G.N.: Ping/State 'playing'
+[22:09:07] U.S.G.N.: Serverlist entry updated
+[22:09:28] U.S.G.N.: Ping/State 'playing'
+[22:09:35] generating stats...
+[22:09:35] stats generated in 1 ms!
+[22:09:53] U.S.G.N.: Serverlist entry updated
+[22:10:28] U.S.G.N.: Ping/State 'playing'
+[22:10:38] U.S.G.N.: Serverlist entry updated
+[22:11:23] "  (1x)
+[22:11:28] U.S.G.N.: Ping/State 'playing'
+[22:12:09] U.S.G.N.: Serverlist entry updated
+[22:12:29] U.S.G.N.: Ping/State 'playing'
+[22:12:54] U.S.G.N.: Serverlist entry updated
+[22:13:29] U.S.G.N.: Ping/State 'playing'
+[22:13:40] U.S.G.N.: Serverlist entry updated
+[22:14:25] "  (1x)
+[22:14:30] U.S.G.N.: Ping/State 'playing'
+[22:14:35] generating stats...
+[22:14:35] stats generated in 1 ms!
+[22:15:10] U.S.G.N.: Serverlist entry updated
+[22:15:30] U.S.G.N.: Ping/State 'playing'
+[22:15:56] U.S.G.N.: Serverlist entry updated
+[22:16:31] U.S.G.N.: Ping/State 'playing'
+[22:16:41] U.S.G.N.: Serverlist entry updated
+[22:17:26] "  (1x)
+[22:17:31] U.S.G.N.: Ping/State 'playing'
+[22:18:12] U.S.G.N.: Serverlist entry updated
+[22:18:32] U.S.G.N.: Ping/State 'playing'
+[22:18:57] U.S.G.N.: Serverlist entry updated
+[22:19:32] U.S.G.N.: Ping/State 'playing'
+[22:19:35] generating stats...
+[22:19:35] stats generated in 2 ms!
+[22:19:42] U.S.G.N.: Serverlist entry updated
+[22:20:28] "  (1x)
+[22:20:33] U.S.G.N.: Ping/State 'playing'
+[22:20:52] Sagos juntou-se a Terrorista Forças
+[22:21:01] Desativado
+[22:21:02] Ativado
+[22:21:13] U.S.G.N.: Serverlist entry updated
+[22:21:33] U.S.G.N.: Ping/State 'playing'
+[22:21:58] U.S.G.N.: Serverlist entry updated
+[22:22:34] U.S.G.N.: Ping/State 'playing'
+[22:22:44] U.S.G.N.: Serverlist entry updated
+[22:23:29] "  (1x)
+[22:23:34] U.S.G.N.: Ping/State 'playing'
+[22:24:15] U.S.G.N.: Serverlist entry updated
+[22:24:35] U.S.G.N.: Ping/State 'playing'
+[22:24:35] generating stats...
+[22:24:35] stats generated in 1 ms!
+[22:25:00] U.S.G.N.: Serverlist entry updated
+[22:25:35] U.S.G.N.: Ping/State 'playing'
+[22:25:45] U.S.G.N.: Serverlist entry updated
+[22:26:31] "  (1x)
+[22:26:36] U.S.G.N.: Ping/State 'playing'
+[22:26:41] U.S.G.N.: MethødMan (179.197.98.39) joining with U.S.G.N. ID #21825 - verifying...
+[22:26:41] Servidor Desligado
+[22:26:42] U.S.G.N.: Server removed from serverlist
+[22:26:42] ----- Disconnected -----
+[22:26:43] U.S.G.N.: Ping/State 'idle' (272 ms)
+[22:26:48] Cached servers added to list: 129
+[22:26:49] U.S.G.N.: Received serverlist (servers: 13)
+[22:26:49] U.S.G.N.: Received serverlist (servers: 150)
+[22:26:57] Connecting to 177.45.57.30:27100 (using U.S.G.N. ID #15431) ...
+[22:26:58] U.S.G.N.: Ping/State 'idle' (272 ms)
+[22:26:58] "  (1x)
+[22:26:58] load map 'de_dust2'
+[22:26:59] ----- Server joined -----
+[22:26:59] U.S.G.N.: Ping/State 'playing'
+[22:27:03] rM | nlz! killed antoniobarazarte92 with AK-47
+[22:27:04] Randomk killed rM | nlz! with AK-47
+[22:27:04] NeverSafe killed Gustbr16 with M4A1
+[22:27:05] MTW LUKASH0w fTw*~ killed Gravy with AWP
+[22:27:06] Sagos juntou-se a Terrorista Forças
+[22:27:12] LEO killed MTW LUKASH0w fTw*~ with AWP
+[22:27:12] Gustbr16 *Morto*: wtf
+[22:27:13] DarkGuardian juntou-se a Terrorista Forças
+[22:27:20] MTW ronaldinho killed tutu dos memes with SG552
+[22:27:21] Handly killed LEO with AK-47
+[22:27:25] MTW ronaldinho killed Randomk with SG552
+[22:27:25] Handly killed guibrotaxota with AK-47
+[22:27:28] ThomasWolf609 conectou-se
+[22:27:31] C4X_Thiago_BR killed Handly with Aug
+[22:27:40] MTW ronaldinho: :D
+[22:27:46] ThomasWolf609 juntou-se a Terrorista Forças
+[22:27:47] MTW ronaldinho killed Botzinho with SG552
+[22:27:50] MTW ronaldinho killed tutu dos memes with SG552
+[22:27:55] MTW LUKASH0w fTw*~: nossa
+[22:27:57] MTW ronaldinho killed ThomasWolf609 with SG552
+[22:27:58] Sagos killed rM | nlz! with AK-47
+[22:27:58] MTW ronaldinho killed Handly with SG552
+[22:27:58] MTW LUKASH0w fTw*~: eu olho pra tela
+[22:27:59] MTW ronaldinho killed wearyaxe with SG552
+[22:27:59] Kermit killed MTW ronaldinho with AK-47
+[22:27:59] U.S.G.N.: Ping/State 'playing'
+[22:28:02] MTW LUKASH0w fTw*~: death matando de teo
+[22:28:04] MTW LUKASH0w fTw*~ killed Gravy with M3
+[22:28:04] LBvinicius02 killed guibrotaxota with AK-47
+[22:28:04] wearyaxe deixou o jogo
+[22:28:10] C4X_Thiago_BR killed Gustbr16 with Aug
+[22:28:14] guibrotaxota deixou o jogo
+[22:28:17] LEO killed LBvinicius02 with AWP
+[22:28:18] C4X_Thiago_BR killed antoniobarazarte92 with Aug
+[22:28:19] mrlogo70 conectou-se
+[22:28:24] Kermit killed C4X_Thiago_BR with AK-47
+[22:28:26] Lil Pump killed ONE - CSGOHandouts.com with AK-47
+[22:28:27] MTW LUKASH0w fTw*~ killed Jakz with Deagle
+[22:28:31] Unbolzter conectou-se
+[22:28:32] guilheme51 killed Lil Pump with M4A1
+[22:28:32] MTW LUKASH0w fTw*~ killed OGoulart80 with Deagle
+[22:28:33] NeverSafe killed MTW LUKASH0w fTw*~ with M4A1
+[22:28:39] Unbolzter juntou-se a Terrorista Forças
+[22:28:43] Sagos killed âÐªÑuà¸«ÏSghostâ with Knife
+[22:28:45] mrlogo70 juntou-se a Countra-Terrorista Forças
+[22:28:50] Sagos killed LEO with M4A1
+[22:28:51] DarkGuardian killed NeverSafe with SG552
+[22:28:51] Kermit killed guilheme51 with AK-47
+[22:29:00] U.S.G.N.: Ping/State 'playing'
+[22:29:02] Randomk killed Joker with AK-47
+[22:29:03] REInatinho conectou-se
+[22:29:05] NeverSafe deixou o jogo
+[22:29:08] * Auto Teambalance *
+[22:29:08] Unbolzter juntou-se a Countra-Terrorista Forças
+[22:29:11] guilheme51 died
+[22:29:11] guilheme51 juntou-se a Terrorista Forças
+[22:29:19] Player conectou-se
+[22:29:20] REInatinho juntou-se a Countra-Terrorista Forças
+[22:29:23] C4X_Thiago_BR killed Botzinho with M3
+[22:29:29] Raven conectou-se
+[22:29:30] guathom conectou-se
+[22:29:30] rM | nlz! killed Sagos with M4A1
+[22:29:30] k¦rM | nlz!¦84¦78
+[22:29:32] Player juntou-se a Countra-Terrorista Forças
+[22:29:34] Jakz killed Kermit with M4A1
+[22:29:34] antoniobarazarte92 killed Jakz with SG552
+[22:29:36] Raven juntou-se a Terrorista Forças
+[22:29:37] MTW LUKASH0w fTw*~ killed rM | nlz! with AK-47
+[22:29:38] Joker killed Lil Pump with USP
+[22:29:39] ONE - CSGOHandouts.com killed antoniobarazarte92 with M4A1
+[22:29:44] MTW LUKASH0w fTw*~ killed LEO with M4A1
+[22:29:46] Sagos deixou o jogo
+[22:29:46] Disconnect Reason: Client request (Code 0)
+[22:29:46] ----- Disconnected -----
+[22:29:46] U.S.G.N.: Ping/State 'idle' (272 ms)

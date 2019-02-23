@@ -1,0 +1,49 @@
+CS2D 1.0.0.5 Logfile - 20 Nov 2017, 09:06:38
+
+[09:06:38] UDP socket initialized using port 36963
+[09:06:38] U.S.G.N.: Your game version is up to date!
+[09:06:38] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[09:06:39] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[09:06:39] U.S.G.N.: Ping/State 'playing'
+[09:06:39] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[09:06:39] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[09:07:46] U.S.G.N.: Ping/State 'idle' (315 ms)
+[09:08:46] U.S.G.N.: Ping/State 'idle' (350 ms)
+[09:08:54] U.S.G.N.: Received serverlist (servers: 150)
+[09:08:54] U.S.G.N.: Received serverlist (servers: 54)
+[09:08:56] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:08:56] U.S.G.N.: Ping/State 'idle' (334 ms)
+[09:08:56] "  (1x)
+[09:08:58] Connecting to 177.133.163.52:36963 (using U.S.G.N. ID #15431) ...
+[09:08:58] U.S.G.N.: Ping/State 'idle' (300 ms)
+[09:08:58] "  (1x)
+[09:09:00] Checking 'gfx/tiles/besto2.bmp': Already exists.
+[09:09:00] Checking 'gfx/button.png': Already exists.
+[09:09:00] Checking 'gfx/button_hover.png': Already exists.
+[09:09:00] Checking 'gfx/button_click.png': Already exists.
+[09:09:00] Checking 'gfx/battle royale/helmet.png': Already exists.
+[09:09:00] Requesting 0 files from server...
+[09:09:00] load map 'battle royale'
+[09:09:00] ----- Server joined -----
+[09:09:01] U.S.G.N.: Ping/State 'playing'
+[09:09:03] Sagos juntou-se a Countra-Terrorista Forças
+[09:09:05] Sagos Conectado no Lobby. 2/10
+[09:09:05] Sagos died
+[09:09:05] Sagos juntou-se aos espectadores
+[09:09:05] Sagos juntou-se a Terrorista Forças
+[09:09:13] Você coletou um capacete.
+[09:09:25] Paulo Henrique killed Sagos with Glock
+[09:09:25] k¦Paulo Henrique¦100¦0
+[09:09:27] Sagos died
+[09:09:27] Sagos juntou-se aos espectadores
+[09:09:30] Paulo Henrique: FOI MAL
+[09:09:36] Paulo Henrique Conectado no Lobby. 1/10
+[09:09:36] Paulo Henrique died
+[09:09:36] Paulo Henrique juntou-se aos espectadores
+[09:09:36] Paulo Henrique juntou-se a Terrorista Forças
+[09:09:44] Sagos juntou-se a Countra-Terrorista Forças
+[09:09:45] Sagos Conectado no Lobby. 2/10
+[09:09:45] Sagos died
+[09:09:45] Sagos juntou-se aos espectadores
+[09:09:45] Sagos juntou-se a Terrorista Forças
+[09:10:02] U.S.G.N.: Ping/State 'playing'

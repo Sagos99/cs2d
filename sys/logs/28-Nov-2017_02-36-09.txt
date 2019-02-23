@@ -1,0 +1,3745 @@
+CS2D 1.0.0.5 Logfile - 28 Nov 2017, 02:36:09
+
+[02:36:09] UDP socket initialized using port 36963
+[02:36:09] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[02:36:09] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[02:36:10] U.S.G.N.: Ping/State 'playing'
+[02:36:11] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[02:36:14] Starting server...
+[02:36:14] load map 'awp_grey Jumper'
+[02:36:14] ----- Server started -----
+[02:36:14] Lua: Adding function 'falar' to hook 'say'
+[02:36:14] Lua: Adding function 'segundos' to hook 'second'
+[02:36:14] Lua: Adding function 'coletar' to hook 'walkover'
+[02:36:14] Lua: Adding function 'atacar' to hook 'attack'
+[02:36:14] Lua: Adding function 'atacar2' to hook 'attack2'
+[02:36:14] Lua: Adding function 'teclas' to hook 'serveraction'
+[02:36:14] Lua: Adding function 'mymenu' to hook 'menu'
+[02:36:14] Lua: Adding function 'ataque' to hook 'hit'
+[02:36:14] Lua: Adding function 'dropar' to hook 'drop'
+[02:36:14] Lua: Adding function 'mover' to hook 'movetile'
+[02:36:15] U.S.G.N.: Server added to serverlist
+[02:36:15] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[02:36:16] Servidor Desligado
+[02:36:17] U.S.G.N.: Server removed from serverlist
+[02:36:17] ----- Disconnected -----
+[02:36:18] U.S.G.N.: Ping/State 'idle' (384 ms)
+[02:36:46] Starting server...
+[02:36:46] load map 'Batalha CT vs TR'
+[02:36:46] LOAD MAP RES.: failed to load image 'gfx/'M@tt/hospital.png'
+[02:36:46] "  (46x)
+[02:36:46] LOAD MAP RES.: failed to load sound 'sfx/Toa Hero 92/Robot Rock.ogg'
+[02:36:46] LOAD MAP RES.: failed to load sound 'sfx/50Cent candy shop.ogg'
+[02:36:46] LOAD MAP RES.: failed to load sound 'sfx/50CENT-IN DA CLUB.ogg'
+[02:36:46] LOAD MAP RES.: failed to load image 'gfx/Dayo/Map By Dayo.bmp'
+[02:36:46] "  (3x)
+[02:36:47] ----- Server started -----
+[02:36:47] Lua: Adding function 'falar' to hook 'say'
+[02:36:47] Lua: Adding function 'segundos' to hook 'second'
+[02:36:47] Lua: Adding function 'coletar' to hook 'walkover'
+[02:36:47] Lua: Adding function 'atacar' to hook 'attack'
+[02:36:47] Lua: Adding function 'atacar2' to hook 'attack2'
+[02:36:47] Lua: Adding function 'teclas' to hook 'serveraction'
+[02:36:47] Lua: Adding function 'mymenu' to hook 'menu'
+[02:36:47] Lua: Adding function 'ataque' to hook 'hit'
+[02:36:47] Lua: Adding function 'dropar' to hook 'drop'
+[02:36:47] Lua: Adding function 'mover' to hook 'movetile'
+[02:36:48] U.S.G.N.: Ping/State 'playing'
+[02:36:48] U.S.G.N.: Server added to serverlist
+[02:36:50] Sagos juntou-se a Countra-Terrorista Forças
+[02:36:53] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[02:36:58] ----- Mapchange -----
+[02:36:58] Starting server...
+[02:36:58] load map 'Battle Royale'
+[02:36:58] ----- Server started -----
+[02:36:58] Lua: Adding function 'falar' to hook 'say'
+[02:36:58] Lua: Adding function 'segundos' to hook 'second'
+[02:36:58] Lua: Adding function 'coletar' to hook 'walkover'
+[02:36:58] Lua: Adding function 'atacar' to hook 'attack'
+[02:36:58] Lua: Adding function 'atacar2' to hook 'attack2'
+[02:36:58] Lua: Adding function 'teclas' to hook 'serveraction'
+[02:36:58] Lua: Adding function 'mymenu' to hook 'menu'
+[02:36:58] Lua: Adding function 'ataque' to hook 'hit'
+[02:36:58] Lua: Adding function 'dropar' to hook 'drop'
+[02:36:58] Lua: Adding function 'mover' to hook 'movetile'
+[02:36:59] U.S.G.N.: Ping/State 'playing'
+[02:36:59] U.S.G.N.: Serverlist entry updated
+[02:36:59] Sagos juntou-se a Countra-Terrorista Forças
+[02:37:44] U.S.G.N.: Serverlist entry updated
+[02:37:54] [Info] Você pegou 30 Balas de Rifle
+[02:37:59] U.S.G.N.: Ping/State 'playing'
+[02:38:27] [Info] Você pegou 10 Balas de Shotgun
+[02:38:29] U.S.G.N.: Serverlist entry updated
+[02:39:00] U.S.G.N.: Ping/State 'playing'
+[02:39:15] U.S.G.N.: Serverlist entry updated
+[02:39:29] Goslordfaceless conectou-se
+[02:39:29] Goslordfaceless is using IP 186.251.11.67:22028 and no U.S.G.N. ID
+[02:39:29] Starting transfer to Goslordfaceless (files: 2) ...
+[02:39:29] Goslordfaceless needs 2 files. Starting to send files...
+[02:39:29] Sending 'gfx/tiles/besto2.bmp' to Goslordfaceless...
+[02:39:47] Sending 'maps/Battle Royale.map' to Goslordfaceless...
+[02:39:54] Goslordfaceless juntou-se a Countra-Terrorista Forças
+[02:40:00] U.S.G.N.: Serverlist entry updated
+[02:40:00] U.S.G.N.: Ping/State 'playing'
+[02:40:04] Sagos: mee
+[02:40:08] Sagos: esqueci de colocar senha
+[02:40:28] Sagos: man o server ta sendo criado ainda
+[02:40:45] U.S.G.N.: Serverlist entry updated
+[02:40:47] [Info] Você equipou Colete 3
+[02:40:51] [Info] Você pegou Analgésico
+[02:40:53] [Info] Aguarde 6 segundos para usar Analgésico
+[02:40:58] [Info] Você usou Analgésico
+[02:41:01] U.S.G.N.: Ping/State 'playing'
+[02:41:08] generating stats...
+[02:41:08] stats generated in 1 ms!
+[02:41:16] Goslordfaceless deixou o jogo (kickado)
+[02:41:31] U.S.G.N.: Serverlist entry updated
+[02:42:01] U.S.G.N.: Ping/State 'playing'
+[02:42:16] U.S.G.N.: Serverlist entry updated
+[02:43:02] U.S.G.N.: Ping/State 'playing'
+[02:43:02] U.S.G.N.: Serverlist entry updated
+[02:43:47] "  (1x)
+[02:44:02] U.S.G.N.: Ping/State 'playing'
+[02:44:32] U.S.G.N.: Serverlist entry updated
+[02:45:03] U.S.G.N.: Ping/State 'playing'
+[02:45:18] U.S.G.N.: Serverlist entry updated
+[02:45:53] [Info] Você pegou 30 Balas de SMG
+[02:45:54] [Info] Você pegou 15 Balas de Pistola
+[02:45:56] [Info] Você pegou 30 Balas de SMG
+[02:45:57] [Info] Você pegou 15 Balas de Pistola
+[02:45:59] [Info] Espaço insuficiente para carregar mais itens
+[02:46:00] "  (1x)
+[02:46:03] U.S.G.N.: Ping/State 'playing'
+[02:46:03] U.S.G.N.: Serverlist entry updated
+[02:46:08] generating stats...
+[02:46:08] stats generated in 1 ms!
+[02:46:13] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[02:46:14] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[02:46:14] rM | null! conectou-se
+[02:46:14] rM | null! is using IP 177.185.53.199:60606 and U.S.G.N. ID #14465
+[02:46:14] JOIN FAILURE: rM | null! (177.185.53.199:60606) can't join (map differs)
+[02:46:23] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[02:46:24] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[02:46:24] rM | null! conectou-se
+[02:46:24] rM | null! is using IP 177.185.53.199:60606 and U.S.G.N. ID #14465
+[02:46:25] Starting transfer to rM | null! (files: 2) ...
+[02:46:25] rM | null! needs 1 file. Starting to send file...
+[02:46:25] Sending 'maps/Battle Royale.map' to rM | null!...
+[02:46:37] rM | null! juntou-se a Countra-Terrorista Forças
+[02:46:48] U.S.G.N.: Serverlist entry updated
+[02:47:04] U.S.G.N.: Ping/State 'playing'
+[02:47:14] rM | null!: mn
+[02:47:18] Sagos: falta fazer dropa as bala do SMG
+[02:47:20] Sagos: e pistola
+[02:47:21] rM | null!: to desconfiando de um bixo aqui em casa
+[02:47:32] Sagos: responde ai vai me vender n? kk
+[02:47:34] U.S.G.N.: Serverlist entry updated
+[02:47:38] rM | null!: oq ?
+[02:47:46] Sagos: o wallpaper do seu perfil na steam
+[02:47:50] rM | null!: '.'
+[02:47:53] rM | null!: Vou ver em
+[02:47:56] rM | null!: vou pegar outro
+[02:47:59] rM | null!: com o lucas
+[02:48:02] Sagos: compro tbm
+[02:48:04] rM | null!: ai te vendo esse
+[02:48:04] U.S.G.N.: Ping/State 'playing'
+[02:48:08] rM | null!: ME
+[02:48:10] rM | null!: ta bom
+[02:48:11] rM | null!: ksdak
+[02:48:16] Sagos: mas depende
+[02:48:19] U.S.G.N.: Serverlist entry updated
+[02:48:20] Sagos: vende por quanto?
+[02:48:28] rM | null!: oq vc achar bom 
+[02:48:41] Sagos: fala 1 preço
+[02:48:45] rM | null!: Sla ue
+[02:48:47] rM | null!: kkkk
+[02:48:56] rM | null!: ela foi feita pelo lucas parece
+[02:49:00] Sagos: quanto ta valendo no mercado da steam?
+[02:49:01] rM | null!: Ta linda
+[02:49:04] U.S.G.N.: Serverlist entry updated
+[02:49:04] U.S.G.N.: Ping/State 'playing'
+[02:49:06] Sagos: n tem como '-'
+[02:49:14] rM | null!: Ele faz essas coisa
+[02:49:17] rM | null!: perfil
+[02:49:21] rM | null!: fundo
+[02:49:24] rM | null!: ele usa bot o safado
+[02:49:30] rM | null!: lvl 90
+[02:49:43] rM | null!: Cara ela ta valendo oq aparece aqui no canto 
+[02:49:45] rM | null!: 10 Gemas
+[02:49:50] U.S.G.N.: Serverlist entry updated
+[02:49:59] Sagos: mas ela mostra que é negociavel?
+[02:50:05] U.S.G.N.: Ping/State 'playing'
+[02:50:07] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[02:50:12] [Info] Você equipou: Famas
+[02:50:14] rM | null!: pera vou ver pra confirmar
+[02:50:35] U.S.G.N.: Serverlist entry updated
+[02:51:06] U.S.G.N.: Ping/State 'playing'
+[02:51:08] rM | null!: Partiu seu coracao
+[02:51:08] generating stats...
+[02:51:08] stats generated in 1 ms!
+[02:51:13] rM | null!: N negocial e n trocavel
+[02:51:15] rM | null!: mais pq ?
+[02:51:21] U.S.G.N.: Serverlist entry updated
+[02:51:31] Sagos: depende do wallpaper
+[02:51:37] Sagos: se n for oficial n da pra vender
+[02:51:41] Sagos: =/
+[02:51:44] rM | null!: :C
+[02:51:49] Sagos: ja ia vender minhas caixas no PUBG pra compra kk
+[02:51:53] JOIN FAILURE: MethødMan (191.43.71.50:22157) can't join (wrong password)
+[02:51:57] rM | null!: Mais e lindo
+[02:51:59] rM | null!: Vey
+[02:52:02] Sagos: eu sei
+[02:52:06] rM | null!: OLHA
+[02:52:06] U.S.G.N.: Serverlist entry updated
+[02:52:06] U.S.G.N.: Ping/State 'playing'
+[02:52:06] Sagos: ja viu meu wallpaper?
+[02:52:11] rM | null!: Vou ver
+[02:52:26] rM | null!: Portal 2
+[02:52:28] rM | null!: Foda
+[02:52:47] rM | null!: Carai ja tomou vac?
+[02:52:52] Sagos: s
+[02:52:55] rM | null!: Onde ?
+[02:52:59] Sagos: Unturned
+[02:53:03] rM | null!: KKKKKKKKKK
+[02:53:05] Sagos: kk
+[02:53:05] rM | null!: LOGO LA
+[02:53:07] U.S.G.N.: Ping/State 'playing'
+[02:53:08] Sagos: kkkkkk
+[02:53:10] rM | null!: kaskdas
+[02:53:15] rM | null!: Achei q foi em um cs
+[02:53:20] Sagos: ta loko
+[02:53:21] rM | null!: team fortress
+[02:53:25] rM | null!: sla
+[02:53:30] rM | null!: mais unturned nunca imaginei
+[02:53:34] rM | null!: oq vc usou ?
+[02:53:37] U.S.G.N.: Serverlist entry updated
+[02:53:41] Sagos: criei um hack 
+[02:53:49] Sagos: de bala infinita
+[02:53:52] rM | null!: Q linguagem?
+[02:53:57] Sagos: em delphi
+[02:54:01] rM | null!: kkkkkkkkkkkkkk
+[02:54:05] rM | null!: AI SE COME OS CARA
+[02:54:07] U.S.G.N.: Ping/State 'playing'
+[02:54:09] Sagos: n
+[02:54:12] Sagos: era no meu sv
+[02:54:12] JOIN FAILURE: MethødMan (191.43.71.50:22157) can't join (wrong password)
+[02:54:14] Sagos: só tinha eu
+[02:54:17] rM | null!: Atah
+[02:54:21] Sagos: mas no outro dia levei ban '-'
+[02:54:21] rM | null!: mais carai
+[02:54:22] U.S.G.N.: Serverlist entry updated
+[02:54:27] rM | null!: kkkk
+[02:54:30] rM | null!: os cara e rato
+[02:54:33] rM | null!: vigia td
+[02:54:44] rM | null!: I agr n tem como tirar?
+[02:54:47] Sagos: ss kk nunca imaginei q aquele jogo tinha proteção
+[02:54:50] Sagos: n da n
+[02:54:57] rM | null!: Tem jogo q da pra comprar o ban
+[02:55:00] rM | null!: kkkkkkk
+[02:55:07] U.S.G.N.: Serverlist entry updated
+[02:55:07] U.S.G.N.: Ping/State 'playing'
+[02:55:09] Sagos: mas o jogo é de graça
+[02:55:13] rM | null!: Tu paga e sai do ban
+[02:55:26] Sagos: é só criar outra acc na steam e joga
+[02:55:34] Sagos: mas o jogo é zuado nem vou joga mais aquilo
+[02:55:38] rM | null!: Como ganha wallpapers de jogos?
+[02:55:45] Sagos: n sei
+[02:55:48] rM | null!: mn eu to desconfiado dessa poha de 15$
+[02:55:49] Sagos: eu comprei os meus '-'
+[02:55:53] U.S.G.N.: Serverlist entry updated
+[02:55:55] [Info] Você pegou Energético
+[02:55:57] [Info] Aguarde 4 segundos para usar Energético
+[02:56:00] [Info] Você usou Energético
+[02:56:04] rM | null!: Namoral
+[02:56:08] U.S.G.N.: Ping/State 'playing'
+[02:56:08] generating stats...
+[02:56:08] stats generated in 1 ms!
+[02:56:10] [Info] Você pegou Analgésico
+[02:56:14] [Info] Aguarde 6 segundos para usar Analgésico
+[02:56:20] [Info] Você usou Analgésico
+[02:56:22] rM | null!: mes q vem ou eu compro minha placa 
+[02:56:22] [Info] Você pegou Analgésico
+[02:56:28] rM | null!: ou eu compra 200$ de jogo
+[02:56:29] rM | null!: kkkkk
+[02:56:35] rM | null!: Placa neh
+[02:56:38] U.S.G.N.: Serverlist entry updated
+[02:56:40] rM | null!: dps os jogo?
+[02:56:47] Sagos: s
+[02:56:55] Sagos: n adianta ter jogo sem pc pra joga
+[02:56:58] rM | null!: R7 estrala em mn
+[02:57:03] rM | null!: Ne
+[02:57:07] [Info] Você pegou Analgésico
+[02:57:08] U.S.G.N.: Ping/State 'playing'
+[02:57:12] [Info] Aguarde 6 segundos para usar Analgésico
+[02:57:17] [Info] Você usou Analgésico
+[02:57:18] rM | null!: a bichinha aguenta pesao
+[02:57:20] rM | null!: cara
+[02:57:23] U.S.G.N.: Serverlist entry updated
+[02:57:25] rM | null!: meu teclado ta td estranho
+[02:57:26] [Info] Você pegou Analgésico
+[02:57:48] rM | null!: se n tiver uma r7 aqui na cidade eu vou pegar a
+[02:57:52] rM | null!: GT710 msm
+[02:57:54] rM | null!: :(
+[02:57:55] [Info] Você pegou Analgésico
+[02:57:58] [Info] Aguarde 6 segundos para usar Analgésico
+[02:58:01] rM | null!: Ela n roda mt bem oq eu quero
+[02:58:03] [Info] Você usou Analgésico
+[02:58:09] U.S.G.N.: Serverlist entry updated
+[02:58:09] U.S.G.N.: Ping/State 'playing'
+[02:58:16] rM | null!: R7 pega 60fps no GTA V
+[02:58:30] rM | null!: gt710 td no minimo pega a 25 30 fps
+[02:58:35] rM | null!: as vezes 40
+[02:58:53] rM | null!: Overwatch na 710 n da pra aumentar a rendirizacao
+[02:58:54] U.S.G.N.: Serverlist entry updated
+[02:58:56] rM | null!: kkk
+[02:59:02] rM | null!: e os carinha fica td cagado
+[02:59:05] rM | null!: da nem pra v
+[02:59:09] U.S.G.N.: Ping/State 'playing'
+[02:59:19] Sagos: kkk
+[02:59:36] rM | null!: ow
+[02:59:39] U.S.G.N.: Serverlist entry updated
+[02:59:42] rM | null!: as cartas steam
+[02:59:48] rM | null!: elas e vendida auto?
+[03:00:01] Sagos: n
+[03:00:03] rM | null!: Um cara me falou q e so deixar anunciado
+[03:00:06] rM | null!: q vai sumindo
+[03:00:10] U.S.G.N.: Ping/State 'playing'
+[03:00:14] Sagos: é assim
+[03:00:14] rM | null!: e te dando o dinheiro
+[03:00:25] U.S.G.N.: Serverlist entry updated
+[03:00:27] Sagos: ex: vc começa a vender por 15 centavos
+[03:00:35] Sagos: ai vai fica la até alguem comprar
+[03:00:41] Sagos: ou até vc cancelar o anuncio
+[03:00:44] rM | null!: a
+[03:00:47] rM | null!: ngm ia comprar
+[03:00:55] rM | null!: tenho nem amigo nessa steam
+[03:00:56] rM | null!: so 3
+[03:01:03] Sagos: lógico q c vc colocar por 15 reais ngm vai compra
+[03:01:08] generating stats...
+[03:01:08] stats generated in 1 ms!
+[03:01:10] U.S.G.N.: Ping/State 'playing'
+[03:01:10] U.S.G.N.: Serverlist entry updated
+[03:01:20] rM | null!: mais msm sem ser amigo os cara pd comprar?
+[03:01:31] Sagos: ss qualquer pessoa pode comprar
+[03:01:35] rM | null!: Hm
+[03:01:40] Sagos: mas a steam cobra uma taxa pra vc vender
+[03:01:50] rM | null!: mais mano era pra mim ta com mais de 150 cartas
+[03:01:56] U.S.G.N.: Serverlist entry updated
+[03:01:59] rM | null!: de payday 2 e mais uns games aqui aleatorio
+[03:02:11] U.S.G.N.: Ping/State 'playing'
+[03:02:37] rM | null!: Mas ta suave
+[03:02:41] U.S.G.N.: Serverlist entry updated
+[03:02:43] rM | null!: dps eu tento recuperar
+[03:02:57] Sagos: steam cobra 13,03% =/
+[03:03:00] Sagos: isso me quebra
+[03:03:06] rM | null!: Como assim/
+[03:03:10] Sagos: tipo
+[03:03:11] U.S.G.N.: Ping/State 'playing'
+[03:03:22] Sagos: vc vende por 10 centavos
+[03:03:26] U.S.G.N.: Serverlist entry updated
+[03:03:27] rM | null!: A
+[03:03:29] rM | null!: mds
+[03:03:29] Sagos: se alguem compra vc fica com 8
+[03:03:33] rM | null!: kkkk
+[03:03:34] Sagos: e a steam pega 2 centavos pra ela
+[03:03:42] rM | null!: mds
+[03:03:54] Sagos: isso que zoa
+[03:03:54] rM | null!: mn tem gente q pega mais de 1k
+[03:04:01] rM | null!: vendendo
+[03:04:04] rM | null!: essas coisas
+[03:04:05] rM | null!: kkkk
+[03:04:07] rM | null!: mds
+[03:04:07] Sagos: a steam é mt rica vey
+[03:04:12] U.S.G.N.: Serverlist entry updated
+[03:04:12] U.S.G.N.: Ping/State 'playing'
+[03:04:12] rM | null!: s
+[03:04:20] Sagos: a cada segundo é vendido 5k de itens
+[03:04:28] Sagos: imagina o tanto de dinheiro que eles ganha
+[03:04:29] rM | null!: CARA TEM BOT PRA MARKETING
+[03:04:37] rM | null!: LvL
+[03:04:41] rM | null!: Cartas
+[03:04:57] U.S.G.N.: Serverlist entry updated
+[03:04:58] Sagos: eu n ligo mt pra lvl na steam n
+[03:05:00] rM | null!: Vc ja tem base de programaçao dps 
+[03:05:04] rM | null!: vou manda um video pra vc v
+[03:05:12] U.S.G.N.: Ping/State 'playing'
+[03:05:15] rM | null!: Eu queria um bot pra
+[03:05:18] rM | null!: cartas
+[03:05:25] rM | null!: e marketing
+[03:05:30] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[03:05:30] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[03:05:34] [Info] Você pegou 15 Balas de Pistola
+[03:05:35] [Info] Você já tem Famas no inventário
+[03:05:39] [Info] Você já tem USP no inventário
+[03:05:42] U.S.G.N.: Serverlist entry updated
+[03:05:49] Sagos: aff achei bug
+[03:05:51] Sagos: olha
+[03:05:55] Sagos: eu to de USP né?
+[03:05:58] rM | null!: s
+[03:06:07] rM | null!: s ja tinha
+[03:06:09] generating stats...
+[03:06:09] stats generated in 2 ms!
+[03:06:11] rM | null!: com os medic tbm
+[03:06:13] U.S.G.N.: Ping/State 'playing'
+[03:06:15] rM | null!: vc disse q arrumaria
+[03:06:18] Sagos: que medic?
+[03:06:22] rM | null!: mais q tava com preguiça
+[03:06:25] Sagos: ata os itens de cura
+[03:06:28] U.S.G.N.: Serverlist entry updated
+[03:06:32] rM | null!: E
+[03:06:37] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[03:06:39] [Info] Você já tem USP no inventário
+[03:06:40] "  (1x)
+[03:06:40] "  (1x)
+[03:06:43] rM | null!: ainda eu perguntei se vc sabia arrumar
+[03:06:47] rM | null!: vc disse q era izi
+[03:06:50] Sagos: n sei como faz esse bug da pistola
+[03:06:55] Sagos: o da cura é izi msm
+[03:07:03] Sagos: esse da pistola eu preciso saber como faz o bug
+[03:07:06] Sagos: pra arrumar
+[03:07:13] U.S.G.N.: Serverlist entry updated
+[03:07:13] U.S.G.N.: Ping/State 'playing'
+[03:07:26] rM | null!: Hm
+[03:07:26] Sagos: como vc fez?
+[03:07:36] rM | null!: Vc equipa ela 
+[03:07:39] rM | null!: mais ela n some
+[03:07:44] rM | null!: ai vc dropa
+[03:07:45] [Info] Você equipou: USP
+[03:07:48] rM | null!: ai ela some
+[03:07:52] rM | null!: como se pegasse 2
+[03:07:57] Sagos: equipei
+[03:07:58] U.S.G.N.: Serverlist entry updated
+[03:08:01] Sagos: mas sumiu do inventário
+[03:08:09] rM | null!: Tipo
+[03:08:12] rM | null!: Atira
+[03:08:13] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[03:08:14] U.S.G.N.: Ping/State 'playing'
+[03:08:14] rM | null!: ate acabar
+[03:08:17] Sagos: acabo
+[03:08:18] rM | null!: pronto
+[03:08:20] rM | null!: pega bala
+[03:08:24] [Info] Você pegou 15 Balas de Pistola
+[03:08:27] rM | null!: aperta 2
+[03:08:33] rM | null!: f2
+[03:08:35] rM | null!: drop
+[03:08:36] Sagos: kkkkkkk entendi
+[03:08:37] rM | null!: armas
+[03:08:38] rM | null!: kkkkkk
+[03:08:44] U.S.G.N.: Serverlist entry updated
+[03:08:44] Sagos: era pra sumir do inventário
+[03:08:47] rM | null!: s
+[03:09:14] U.S.G.N.: Ping/State 'playing'
+[03:09:29] U.S.G.N.: Serverlist entry updated
+[03:09:39] Sagos: vou arrumar esse bug pera ae
+[03:10:15] U.S.G.N.: Ping/State 'playing'
+[03:10:15] U.S.G.N.: Serverlist entry updated
+[03:11:00] "  (1x)
+[03:11:09] generating stats...
+[03:11:09] stats generated in 1 ms!
+[03:11:15] U.S.G.N.: Ping/State 'playing'
+[03:11:46] U.S.G.N.: Serverlist entry updated
+[03:12:00] rM | null!: KKKKKKKKKKKKKKKKKKKK
+[03:12:01] rM | null!: BUGO
+[03:12:05] rM | null!: bizarro
+[03:12:07] rM | null!: kaskd
+[03:12:21] U.S.G.N.: Ping/State 'playing'
+[03:12:31] U.S.G.N.: Serverlist entry updated
+[03:13:21] U.S.G.N.: Ping/State 'playing'
+[03:13:30] Sagos: vou arrumar os 4
+[03:13:34] Sagos: ja volto
+[03:13:34] rM | null!: Tipo
+[03:13:36] rM | null!: Ok
+[03:13:39] rM | null!: vc duplica
+[03:13:42] rM | null!: dropando
+[03:14:01] U.S.G.N.: Serverlist entry updated
+[03:14:22] U.S.G.N.: Ping/State 'playing'
+[03:14:47] U.S.G.N.: Serverlist entry updated
+[03:15:05] Sagos: arrumei
+[03:15:06] [Info] Você pegou 10 Balas de Shotgun
+[03:15:11] Sagos: bora testa
+[03:15:15] rM | null!: Ok
+[03:15:17] LOAD MAP: 'maps/Battle Roayle.map' does not exist
+[03:15:20] ----- Mapchange -----
+[03:15:20] Starting server...
+[03:15:20] load map 'Battle Royale'
+[03:15:20] ----- Server started -----
+[03:15:20] Lua: Adding function 'falar' to hook 'say'
+[03:15:20] Lua: Adding function 'segundos' to hook 'second'
+[03:15:20] Lua: Adding function 'coletar' to hook 'walkover'
+[03:15:20] Lua: Adding function 'atacar' to hook 'attack'
+[03:15:20] Lua: Adding function 'atacar2' to hook 'attack2'
+[03:15:20] Lua: Adding function 'teclas' to hook 'serveraction'
+[03:15:20] Lua: Adding function 'mymenu' to hook 'menu'
+[03:15:20] Lua: Adding function 'ataque' to hook 'hit'
+[03:15:20] Lua: Adding function 'dropar' to hook 'drop'
+[03:15:20] Lua: Adding function 'mover' to hook 'movetile'
+[03:15:21] U.S.G.N.: Ping/State 'playing'
+[03:15:21] U.S.G.N.: Serverlist entry updated
+[03:15:22] Sagos juntou-se a Countra-Terrorista Forças
+[03:15:31] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:15:31] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:15:31] rM | null! conectou-se
+[03:15:31] rM | null! is using IP 177.185.53.199:60606 and U.S.G.N. ID #14465
+[03:15:32] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[03:15:33] rM | null! juntou-se a Countra-Terrorista Forças
+[03:15:33] [Info] Você pegou 15 Balas de Pistola
+[03:15:33] [Info] Você equipou Deagle
+[03:15:44] rM | null!: S
+[03:15:46] Sagos: pronto
+[03:15:47] rM | null!: ta zuave
+[03:15:56] Sagos: mas ainda ta bugado os itens de cura
+[03:16:00] Sagos: usa dps dropa
+[03:16:07] U.S.G.N.: Serverlist entry updated
+[03:16:07] Sagos: vou arrumar agr
+[03:16:09] generating stats...
+[03:16:09] stats generated in 1 ms!
+[03:16:21] U.S.G.N.: Ping/State 'playing'
+[03:16:26] Sagos: sempre dou prioridade em arrumar bug pra dps
+[03:16:29] Sagos: adicionar mais coisa
+[03:16:33] rM | null!: S
+[03:16:38] rM | null!: um bug leva a outro
+[03:16:47] Sagos: se adicionar tudo de uma vez da merda kk
+[03:16:52] U.S.G.N.: Serverlist entry updated
+[03:17:01] Sagos: mostra nenhum né?
+[03:17:04] rM | null!: me da hit
+[03:17:05] rM | null!: kkkkk
+[03:17:08] rM | null!: fui seco
+[03:17:22] U.S.G.N.: Ping/State 'playing'
+[03:17:26] rM | null!: Duplico
+[03:17:29] Sagos: s
+[03:17:32] Sagos: vou arrumar agr
+[03:17:37] U.S.G.N.: Serverlist entry updated
+[03:17:39] rM | null!: MEEE
+[03:17:40] rM | null!: sumiu
+[03:17:42] rM | null!: kkkkkkk
+[03:17:43] Sagos: eu sei
+[03:17:49] rM | null!: WhAt
+[03:17:53] Sagos: é pq vc tava com -1 medkit kk
+[03:17:56] Sagos: tiro
+[03:17:59] Sagos: tipo*
+[03:17:59] rM | null!: Ata
+[03:18:08] Sagos: ele tira 1 medkit de vc quando vc usa
+[03:18:15] Sagos: e dps tira +1 quando vc dropa
+[03:18:19] Sagos: ai vc fica com -1 kk
+[03:18:22] U.S.G.N.: Ping/State 'playing'
+[03:18:22] U.S.G.N.: Serverlist entry updated
+[03:18:24] rM | null!: Ata
+[03:18:25] Sagos: vc pegou o que dropou e fica com 0
+[03:18:28] rM | null!: tendi
+[03:18:31] Sagos: vou arrumar agr
+[03:18:35] rM | null!: Ok
+[03:18:58] rM | null! deixou o jogo
+[03:19:08] U.S.G.N.: Serverlist entry updated
+[03:19:12] [Info] Você pegou Kit Médico
+[03:19:16] [Info] Você pegou Analgésico
+[03:19:19] [Info] Aguarde 6 segundos para usar Analgésico
+[03:19:20] [Info] Item Cancelado, não se mova para usar
+[03:19:23] U.S.G.N.: Ping/State 'playing'
+[03:19:53] U.S.G.N.: Serverlist entry updated
+[03:20:24] U.S.G.N.: Ping/State 'playing'
+[03:20:39] U.S.G.N.: Serverlist entry updated
+[03:21:09] generating stats...
+[03:21:09] stats generated in 1 ms!
+[03:21:24] U.S.G.N.: Serverlist entry updated
+[03:21:24] U.S.G.N.: Ping/State 'playing'
+[03:21:57] ----- Mapchange -----
+[03:21:57] Starting server...
+[03:21:57] load map 'Battle Royale'
+[03:21:57] ----- Server started -----
+[03:21:57] Lua: Adding function 'falar' to hook 'say'
+[03:21:57] Lua: Adding function 'segundos' to hook 'second'
+[03:21:57] Lua: Adding function 'coletar' to hook 'walkover'
+[03:21:57] Lua: Adding function 'atacar' to hook 'attack'
+[03:21:57] Lua: Adding function 'atacar2' to hook 'attack2'
+[03:21:57] Lua: Adding function 'teclas' to hook 'serveraction'
+[03:21:57] Lua: Adding function 'mymenu' to hook 'menu'
+[03:21:57] Lua: Adding function 'ataque' to hook 'hit'
+[03:21:57] Lua: Adding function 'dropar' to hook 'drop'
+[03:21:57] Lua: Adding function 'mover' to hook 'movetile'
+[03:21:58] U.S.G.N.: Serverlist entry updated
+[03:21:58] U.S.G.N.: Ping/State 'playing'
+[03:21:59] Sagos juntou-se a Countra-Terrorista Forças
+[03:22:02] [Info] Você pegou Energético
+[03:22:02] [Info] Você pegou Analgésico
+[03:22:03] [Info] Você pegou Kit Médico
+[03:22:03] [Info] Você pegou Kit Full
+[03:22:21] [Info] Aguarde 4 segundos para usar Energético
+[03:22:24] [Info] Item Cancelado, você o dropou
+[03:22:35] [Info] Você pegou Energético
+[03:22:44] U.S.G.N.: Serverlist entry updated
+[03:22:59] U.S.G.N.: Ping/State 'playing'
+[03:23:11] [Info] Você pegou Kit Médico
+[03:23:24] "  (1x)
+[03:23:28] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[03:23:29] U.S.G.N.: Serverlist entry updated
+[03:23:29] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[03:23:29] MethødMan conectou-se
+[03:23:29] MethødMan is using IP 191.43.71.50:22157 and U.S.G.N. ID #21825
+[03:23:30] JOIN FAILURE: MethødMan (191.43.71.50:22157) can't join (map differs)
+[03:23:31] [Info] Ligadura só cura até 75% de vida
+[03:23:35] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[03:23:35] [Info] Aguarde 6 segundos para usar Analgésico
+[03:23:35] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[03:23:35] MethødMan conectou-se
+[03:23:35] MethødMan is using IP 191.43.71.50:22157 and U.S.G.N. ID #21825
+[03:23:36] Starting transfer to MethødMan (files: 2) ...
+[03:23:37] MethødMan needs 1 file. Starting to send file...
+[03:23:37] Sending 'maps/Battle Royale.map' to MethødMan...
+[03:23:40] [Info] Aguarde, você já está usando um item
+[03:23:41] [Info] Você usou Analgésico
+[03:23:41] MethødMan juntou-se a Terrorista Forças
+[03:23:44] [Info] Você pegou Analgésico
+[03:23:48] Sagos: eae
+[03:23:50] MethødMan: entao man
+[03:23:54] [Info] Aguarde 6 segundos para usar Analgésico
+[03:23:57] [Info] Item Cancelado, você o dropou
+[03:23:58] MethødMan: qnd leio teu nome ja lembro do awp grey
+[03:23:59] U.S.G.N.: Ping/State 'playing'
+[03:24:03] MethødMan: com fundo de galaxia
+[03:24:06] Sagos: kkkkkk
+[03:24:07] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:24:07] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:24:07] rM | null! conectou-se
+[03:24:07] rM | null! is using IP 177.185.53.199:60606 and U.S.G.N. ID #14465
+[03:24:07] JOIN FAILURE: rM | null! (177.185.53.199:60606) can't join (map differs)
+[03:24:09] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:24:09] [Info] Você pegou Analgésico
+[03:24:09] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:24:09] rM | null! conectou-se
+[03:24:09] rM | null! is using IP 177.185.53.199:60606 and U.S.G.N. ID #14465
+[03:24:09] Starting transfer to rM | null! (files: 2) ...
+[03:24:09] rM | null! needs 1 file. Starting to send file...
+[03:24:09] Sending 'maps/Battle Royale.map' to rM | null!...
+[03:24:12] rM | null! juntou-se a Countra-Terrorista Forças
+[03:24:13] MethødMan: queria ajudar com oq der man
+[03:24:14] U.S.G.N.: Serverlist entry updated
+[03:24:19] rM | null!: ai sagos
+[03:24:22] MethødMan: n manjo mto de script
+[03:24:25] Sagos: vc é mapper?
+[03:24:28] MethødMan: n
+[03:24:33] MethødMan: o shift é
+[03:24:39] rM | null!: quem e esse
+[03:24:46] rM | null!: q isso sagos
+[03:24:47] MethødMan: aquele mano
+[03:24:53] Sagos: macro ué
+[03:24:53] MethødMan: q tava la no sv 
+[03:24:59] MethødMan: é um scriptzinho
+[03:25:00] U.S.G.N.: Serverlist entry updated
+[03:25:00] U.S.G.N.: Ping/State 'playing'
+[03:25:03] MethødMan: q eu rodo no autokeybord
+[03:25:08] rM | null!: what
+[03:25:09] MethødMan: o shift po
+[03:25:10] rM | null!: gira ai
+[03:25:16] MethødMan: aquele q fez o mapa do awp grey
+[03:25:21] MethødMan: 1 seg
+[03:25:31] rM | null!: sai dos macro
+[03:25:33] Sagos: kkkk
+[03:25:34] rM | null!: vou chamar o cara
+[03:25:37] rM | null! deixou o jogo
+[03:25:41] MethødMan: essa porra ta desativando
+[03:25:44] MethødMan: digo
+[03:25:45] U.S.G.N.: Serverlist entry updated
+[03:25:46] MethødMan: minimizando
+[03:25:51] MethødMan: eu fiz um record
+[03:25:55] MethødMan: do meu mouse
+[03:25:57] MethødMan: editei os valores
+[03:26:00] U.S.G.N.: Ping/State 'playing'
+[03:26:00] MethødMan: pra 15 ms
+[03:26:03] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:26:03] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:26:03] rM | null! conectou-se
+[03:26:03] rM | null! is using IP 177.185.53.199:60606 and U.S.G.N. ID #14465
+[03:26:03] JOIN FAILURE: rM | null! (177.185.53.199:60606) can't join (map differs)
+[03:26:05] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:26:05] MethødMan: eu to girando em 15 ms
+[03:26:05] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:26:05] rM | null! conectou-se
+[03:26:05] rM | null! is using IP 177.185.53.199:60606 and U.S.G.N. ID #14465
+[03:26:07] Sagos: slk
+[03:26:08] rM | null! juntou-se a Countra-Terrorista Forças
+[03:26:09] generating stats...
+[03:26:09] stats generated in 1 ms!
+[03:26:10] MethødMan: tentei por 1ms
+[03:26:11] MethødMan: mas buga
+[03:26:13] MethødMan: gira tao rapido
+[03:26:15] rM | null!: Shift o nick?
+[03:26:16] Sagos: lógico '-'
+[03:26:18] MethødMan: q ele n mexe
+[03:26:21] Sagos: 1000 ms = 1 segundo
+[03:26:23] MethødMan: si
+[03:26:25] MethødMan: shift 
+[03:26:26] rM | null! killed MethødMan with Knife
+[03:26:27] MethødMan *Morto*: o nome dele
+[03:26:30] U.S.G.N.: Serverlist entry updated
+[03:26:31] rM | null!: Ele n ta la n
+[03:26:36] MethødMan: oxe tava la agr
+[03:26:40] MethødMan: pera ae
+[03:26:43] MethødMan deixou o jogo
+[03:26:54] rM | null!: Ele sabe um pouco de script
+[03:27:01] U.S.G.N.: Ping/State 'playing'
+[03:27:04] rM | null!: Sera q ele da conta do img pick ?
+[03:27:16] U.S.G.N.: Serverlist entry updated
+[03:27:28] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[03:27:29] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[03:27:29] MethødMan conectou-se
+[03:27:29] MethødMan is using IP 191.43.71.50:22157 and U.S.G.N. ID #21825
+[03:27:31] MethødMan juntou-se a Countra-Terrorista Forças
+[03:27:34] MethødMan: krl man
+[03:27:37] MethødMan: ele deve ter saido
+[03:27:41] MethødMan: 27544
+[03:27:44] MethødMan: a usgn dele ai
+[03:27:52] MethødMan: ele fez aquele mapa de awp grey
+[03:27:53] MethødMan: q era grandao
+[03:27:57] MethødMan: ctf awp grey
+[03:28:02] MethødMan: bem antigo
+[03:28:06] U.S.G.N.: Ping/State 'playing'
+[03:28:11] rM | null!: Man
+[03:28:17] rM | null!: sera q tu consegue?
+[03:28:22] rM | null!: um IMG PICK
+[03:28:31] MethødMan: como assim?
+[03:28:37] rM | null!: Tipo
+[03:28:38] MethødMan: tinha um programa
+[03:28:39] rM | null!: tlgd
+[03:28:40] MethødMan: q eu usava
+[03:28:45] MethødMan: n lembro nem a porra do nome
+[03:28:47] U.S.G.N.: Serverlist entry updated
+[03:28:47] rM | null!: Uma 
+[03:28:51] rM | null!: Img de um iten
+[03:28:53] rM | null!: no chao
+[03:28:56] MethødMan: ahh
+[03:28:57] rM | null!: ai vc chega aperta G
+[03:28:59] rM | null!: ou E
+[03:29:00] rM | null!: pra pegar
+[03:29:07] U.S.G.N.: Ping/State 'playing'
+[03:29:12] MethødMan: mas vc quer os padroes do cs2d?
+[03:29:16] MethødMan: tipo isso q ta no chao?
+[03:29:24] rM | null!: N
+[03:29:27] Sagos: esse q ta no chão s
+[03:29:30] Sagos: só a mochila q n
+[03:29:30] rM | null!: E uma entidade propria
+[03:29:32] U.S.G.N.: Serverlist entry updated
+[03:29:41] rM | null!: Vc vai ter q criar a funcao
+[03:29:43] rM | null!: kk
+[03:29:46] MethødMan: kek
+[03:29:47] rM | null!: o smoker sabe mais ele some mn
+[03:29:54] MethødMan: o smoker
+[03:29:58] [Info] Você equipou Colete 3
+[03:30:03] MethødMan: ele poe o nick de smk?
+[03:30:07] U.S.G.N.: Ping/State 'playing'
+[03:30:09] rM | null!: Smoker*
+[03:30:17] U.S.G.N.: Serverlist entry updated
+[03:30:19] MethødMan: se for quem eu to pensando
+[03:30:26] rM | null!: Ele e scripter
+[03:30:30] MethødMan: eu to de dev no sv do joni de citylife
+[03:30:35] MethødMan: eu bani ele de la
+[03:30:41] MethødMan: ele tava muito rapido
+[03:30:43] MethødMan: no race event
+[03:30:50] rM | null!: e pq tem SMOKER e SMOKE
+[03:30:55] rM | null!: Smoker o scripter
+[03:31:00] rM | null!: Smoke e o smoke msm
+[03:31:00] MethødMan: cara com script é meio dificil eu ajudar
+[03:31:02] rM | null!: '-'
+[03:31:03] U.S.G.N.: Serverlist entry updated
+[03:31:08] U.S.G.N.: Ping/State 'playing'
+[03:31:09] generating stats...
+[03:31:09] stats generated in 1 ms!
+[03:31:15] rM | null!: TENTA achar uma galerinha
+[03:31:17] MethødMan: posso ajudar com os tests
+[03:31:19] rM | null!: q faça mapa
+[03:31:26] MethødMan: tenho uma galera aq como amigo
+[03:31:28] Sagos: se quiser pode tenta bugar o script ai
+[03:31:29] MethødMan: tinha um mano q era bom dms com mapa
+[03:31:32] Sagos: ai eu ja arrumo
+[03:31:38] rM | null!: FALA COM ELES
+[03:31:38] MethødMan: 1 seg
+[03:31:41] rM | null!: o fus sumiu
+[03:31:48] U.S.G.N.: Serverlist entry updated
+[03:31:51] rM | null!: Fus ta off discord
+[03:31:55] MethødMan: gui torres
+[03:32:00] rM | null!: trz?
+[03:32:00] MethødMan: ja ouviu falar?
+[03:32:02] MethødMan: s
+[03:32:03] rM | null!: kkkkkk
+[03:32:06] rM | null!: eu conheço
+[03:32:08] U.S.G.N.: Ping/State 'playing'
+[03:32:17] rM | null!: ele e mapper
+[03:32:19] MethødMan: s
+[03:32:22] MethødMan: e é mto bom
+[03:32:25] rM | null!: ele posta
+[03:32:27] rM | null!: na unreal
+[03:32:33] MethødMan: o perfil dele e enorm
+[03:32:33] rM | null!: Fala com ele
+[03:32:34] U.S.G.N.: Serverlist entry updated
+[03:32:42] rM | null!: Mais tipo
+[03:32:47] rM | null!: SO ELE VAI FAZER ?
+[03:32:51] rM | null!: o mapa e enorme
+[03:32:57] MethødMan: tenho q ver man
+[03:33:00] rM | null!: coisa de usar ou 2 monitor
+[03:33:02] MethødMan: se ele vai aceitar e pa
+[03:33:04] rM | null!: ou 2 pessoas
+[03:33:09] U.S.G.N.: Ping/State 'playing'
+[03:33:19] U.S.G.N.: Serverlist entry updated
+[03:33:19] rM | null!: pq o mapa tem q ser enorme
+[03:33:20] rM | null!: saca
+[03:33:28] MethødMan: s
+[03:33:32] MethødMan: qnts slot vai ter no sv?
+[03:33:36] Sagos: 32
+[03:33:41] rM | null!: MN
+[03:33:43] rM | null!: ENORME
+[03:33:44] Sagos: vai ser ligado em vps
+[03:33:44] rM | null!: kk
+[03:34:01] rM | null!: Sem mt risco de lag
+[03:34:04] U.S.G.N.: Serverlist entry updated
+[03:34:09] U.S.G.N.: Ping/State 'playing'
+[03:34:14] rM | null!: Sagos
+[03:34:15] rM | null!: hj
+[03:34:19] Sagos: qm tava fazendo o mapa msm?
+[03:34:19] rM | null!: eu encontrei o Paulo
+[03:34:23] rM | null!: Fus
+[03:34:28] rM | null!: mais eu sei la em
+[03:34:34] Sagos: ele fez um pouco ja?
+[03:34:34] rM | null!: Vou chamar no zap
+[03:34:38] rM | null!: vou ver
+[03:34:44] rM | null!: mais ele deve ta dormindo
+[03:34:50] rM | null!: amanha eu vejo
+[03:35:10] U.S.G.N.: Ping/State 'playing'
+[03:35:35] U.S.G.N.: Serverlist entry updated
+[03:36:09] generating stats...
+[03:36:09] stats generated in 1 ms!
+[03:36:10] U.S.G.N.: Ping/State 'playing'
+[03:36:15] rM | null!: Me da dano
+[03:36:20] U.S.G.N.: Serverlist entry updated
+[03:36:28] Sagos: pera
+[03:36:31] Sagos: to fazendo o script
+[03:36:33] Sagos: ja volto
+[03:36:35] rM | null!: Ok
+[03:36:58] MethødMan: mandie msg pra ele aq
+[03:37:04] rM | null!: Por onde?
+[03:37:06] U.S.G.N.: Serverlist entry updated
+[03:37:11] U.S.G.N.: Ping/State 'playing'
+[03:37:15] MethødMan: unreal
+[03:37:18] rM | null!: IXI
+[03:37:20] rM | null!: dificil
+[03:37:23] rM | null!: ele ver
+[03:37:24] rM | null!: la
+[03:37:25] MethødMan: tlgd kkkkkk
+[03:37:29] MethødMan: mas sla o sv voltou a ativa
+[03:37:31] MethødMan: ele deve ta sabendo
+[03:37:36] MethødMan: e so logar q a msg aparece
+[03:37:42] MethødMan: pera ae essa porra ta minimizando
+[03:37:51] U.S.G.N.: Serverlist entry updated
+[03:38:11] U.S.G.N.: Ping/State 'playing'
+[03:38:35] [Info] Você pegou 30 Balas de SMG
+[03:38:36] U.S.G.N.: Serverlist entry updated
+[03:39:12] U.S.G.N.: Ping/State 'playing'
+[03:39:22] U.S.G.N.: Serverlist entry updated
+[03:39:51] MethødMan: tu q manja de macro
+[03:40:07] U.S.G.N.: Serverlist entry updated
+[03:40:08] MethødMan: Procura automatic mouse and keybord
+[03:40:09] MethødMan: robsoft
+[03:40:12] U.S.G.N.: Ping/State 'playing'
+[03:40:41] [Info] Você pegou 30 Balas de SMG
+[03:40:43] [Info] Espaço insuficiente para carregar mais itens
+[03:40:49] MethødMan: abre o console
+[03:40:52] U.S.G.N.: Serverlist entry updated
+[03:40:54] MethødMan: e ve a msg
+[03:40:54] Sagos: ?
+[03:40:58] Sagos: qual?
+[03:41:06] MethødMan: minha
+[03:41:09] generating stats...
+[03:41:09] stats generated in 1 ms!
+[03:41:12] U.S.G.N.: Ping/State 'playing'
+[03:41:26] rM | null!: Dps tenta achar o tal do SHIFT
+[03:41:38] U.S.G.N.: Serverlist entry updated
+[03:41:48] Sagos: ta mas pra que o macro?
+[03:42:00] [Info] Você pegou 15 Balas de Pistola
+[03:42:13] U.S.G.N.: Ping/State 'playing'
+[03:42:20] MethødMan: cara conhece o joni?
+[03:42:23] U.S.G.N.: Serverlist entry updated
+[03:42:24] Sagos: n
+[03:42:29] MethødMan: Joni and Friends
+[03:42:43] Sagos: se conheço n to lembrado
+[03:42:45] rM | null!: kkkk
+[03:42:50] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[03:42:50] rM | null!: eu tenho o script 
+[03:42:52] MethødMan: ele tem varios servers
+[03:42:52] rM | null!: aqui
+[03:43:01] MethødMan: ele fez um do bob esponja
+[03:43:05] [Info] Sem balas de SMG, sua TMP foi guardada no inventário
+[03:43:06] rM | null!: eu tenho script do Adventure Quest World
+[03:43:08] U.S.G.N.: Serverlist entry updated
+[03:43:10] MethødMan: sim poooooooooooo
+[03:43:13] U.S.G.N.: Ping/State 'playing'
+[03:43:14] MethødMan: ele me pediu pra traduzir essa porra
+[03:43:16] rM | null!: Tenho a ultima versao
+[03:43:25] MethødMan: Eu traduzi a do roleplay
+[03:43:35] rM | null!: Tenho o OtherWorld tbm
+[03:43:39] rM | null!: o script
+[03:43:40] MethødMan: esse é zika tmb
+[03:43:44] MethødMan: mlk manda bem
+[03:43:54] U.S.G.N.: Serverlist entry updated
+[03:43:57] rM | null!: Q server ele tem
+[03:44:02] rM | null!: eu n vejo nenhum
+[03:44:05] MethødMan: cara ele abriu o do city life
+[03:44:09] MethødMan: ate q eu te falei q bani o cara la
+[03:44:14] U.S.G.N.: Ping/State 'playing'
+[03:44:16] MethødMan: porem
+[03:44:21] Sagos: ja volto
+[03:44:23] MethødMan: eu loguei nele antes de ontem
+[03:44:31] MethødMan: e ontem ja n tava on
+[03:44:38] MethødMan: tava cv com ele no face
+[03:44:40] U.S.G.N.: Serverlist entry updated
+[03:44:41] MethødMan: ele falou q tava puto
+[03:45:14] rM | null!: Esse joni
+[03:45:15] U.S.G.N.: Ping/State 'playing'
+[03:45:17] rM | null!: abre
+[03:45:19] rM | null!: e fecha
+[03:45:21] rM | null!: server
+[03:45:25] U.S.G.N.: Serverlist entry updated
+[03:45:35] rM | null!: esse do bob esponja eu joguei ano passado eu acho
+[03:45:39] MethødMan: s
+[03:45:39] rM | null!: ele abriu 
+[03:45:42] rM | null!: e fechou
+[03:45:43] rM | null!: kkk
+[03:45:46] MethødMan: foi genial
+[03:45:52] MethødMan: nunca ia esperar aquilo
+[03:46:02] rM | null!: Lunia manja mais
+[03:46:03] rM | null!: kk
+[03:46:09] generating stats...
+[03:46:09] stats generated in 1 ms!
+[03:46:10] rM | null!: n sei quem fez lunia
+[03:46:10] U.S.G.N.: Serverlist entry updated
+[03:46:14] rM | null!: mais e melhor q joni
+[03:46:15] U.S.G.N.: Ping/State 'playing'
+[03:46:21] rM | null!: ja viu?
+[03:46:23] rM | null!: lunia ?
+[03:46:25] MethødMan: lunia2d?
+[03:46:28] rM | null!: isso
+[03:46:32] MethødMan: lembro desse nome
+[03:46:34] MethødMan: mas n lembro do sv
+[03:46:43] rM | null!: tem server proprio pra download
+[03:46:51] rM | null!: ele usa o maximo da velocidade da sua net
+[03:46:55] U.S.G.N.: Serverlist entry updated
+[03:46:56] rM | null!: o baguio e loko
+[03:47:05] rM | null!: ou manda o server de download pra vc baixar
+[03:47:05] MethødMan: vish entao meus 50k de upload
+[03:47:08] rM | null!: dps noix testa
+[03:47:14] rM | null!: pera
+[03:47:16] rM | null! deixou o jogo
+[03:47:16] U.S.G.N.: Ping/State 'playing'
+[03:47:41] U.S.G.N.: Serverlist entry updated
+[03:47:51] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:47:52] "  (1x)
+[03:47:53] "  (1x)
+[03:47:54] "  (1x)
+[03:47:56] "  (1x)
+[03:47:57] "  (1x)
+[03:47:58] "  (2x)
+[03:47:59] "  (1x)
+[03:48:01] "  (1x)
+[03:48:01] "  (1x)
+[03:48:16] U.S.G.N.: Ping/State 'playing'
+[03:48:19] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:48:20] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:48:20] rM | null! conectou-se
+[03:48:20] rM | null! is using IP 177.185.53.199:60606 and U.S.G.N. ID #14465
+[03:48:20] JOIN FAILURE: rM | null! (177.185.53.199:60606) can't join (map differs)
+[03:48:21] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:48:22] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:48:22] rM | null! conectou-se
+[03:48:22] rM | null! is using IP 177.185.53.199:60606 and U.S.G.N. ID #14465
+[03:48:24] rM | null! juntou-se a Countra-Terrorista Forças
+[03:48:26] rM | null!: IP: 5.1.86.46
+[03:48:26] U.S.G.N.: Serverlist entry updated
+[03:48:38] MethødMan: abriu?
+[03:48:43] rM | null!: servidor pra jogar n ta aberto agr mais esse ai
+[03:48:46] rM | null!: e pra download
+[03:48:50] rM | null!: pra jogar no outro server
+[03:48:51] rM | null!: kkkk
+[03:48:56] rM | null!: Entra nesse 
+[03:48:59] rM | null!: e faz o download
+[03:49:07] rM | null!: ai qnd vc ver um server aberto chamdo
+[03:49:11] U.S.G.N.: Serverlist entry updated
+[03:49:15] rM | null!: Lunia 2D - ONLINE
+[03:49:16] U.S.G.N.: Ping/State 'playing'
+[03:49:19] rM | null!: eu acho q e assim
+[03:49:27] [Info] Você pegou 15 Balas de Pistola
+[03:49:27] [Info] Você equipou USP
+[03:49:27] rM | null!: Lunia2D - Online
+[03:49:33] MethødMan: pdc
+[03:49:33] Sagos: ja volto
+[03:49:34] MethødMan: ja vi esse sv
+[03:49:36] rM | null!: ok
+[03:49:38] MethødMan: mas n lembro como é
+[03:49:41] MethødMan: cara vou te falar na moral
+[03:49:45] MethødMan: jogo cs2d desde 2009
+[03:49:54] rM | null!: eu começei em 2007
+[03:49:57] U.S.G.N.: Serverlist entry updated
+[03:49:59] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:49:59] MethødMan: mas nao fiz minha conta em 2009
+[03:50:00] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:50:01] rM | null!: So q eu parava sempre
+[03:50:03] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:50:04] "  (1x)
+[03:50:05] "  (1x)
+[03:50:06] MethødMan: se nao me engano e a versao 0115
+[03:50:08] rM | null!: eu fiz so q perdi
+[03:50:08] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:50:09] MethødMan: 0015
+[03:50:10] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:50:10] MethødMan: sla
+[03:50:11] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:50:12] "  (2x)
+[03:50:13] "  (1x)
+[03:50:13] "  (1x)
+[03:50:14] MethødMan: so sei q tinha 1 e 5
+[03:50:14] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:50:15] "  (1x)
+[03:50:17] U.S.G.N.: Ping/State 'playing'
+[03:50:19] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:50:20] MethødMan: mas entao
+[03:50:20] rM | null!: eu perdi umas 6 conta
+[03:50:22] JOIN FAILURE: trz (187.2.46.190:21706) can't join (wrong password)
+[03:50:22] rM | null!: sla
+[03:50:23] rM | null!: kkkkkk
+[03:50:25] rM | null!: td ban
+[03:50:27] MethødMan: sempre quis fazer script
+[03:50:27] rM | null!: na unreal
+[03:50:29] MethødMan: e pa
+[03:50:33] MethødMan: mas nunca aprendi
+[03:50:36] rM | null!: OUSH
+[03:50:38] MethødMan: tentei pra krl
+[03:50:41] MethødMan: mal mal
+[03:50:42] rM | null!: nunca vai aprender
+[03:50:42] U.S.G.N.: Serverlist entry updated
+[03:50:45] MethødMan: eu consigo editar uns script facil
+[03:50:49] MethødMan: ou traduzir
+[03:50:53] rM | null!: MN
+[03:50:59] rM | null!: VC TEM Q TER PELO MENOS
+[03:51:02] rM | null!: A BASE
+[03:51:02] MethødMan: eu sei as linhas certas q eu posso traduzir isso e
+[03:51:04] MethødMan: facil
+[03:51:05] rM | null!: DA PROGRAMACAO
+[03:51:09] generating stats...
+[03:51:09] stats generated in 0 ms!
+[03:51:09] MethødMan: s
+[03:51:11] MethødMan: matematica
+[03:51:12] MethødMan: geometria
+[03:51:13] rM | null!: Nem
+[03:51:15] rM | null!: nem
+[03:51:17] U.S.G.N.: Ping/State 'playing'
+[03:51:20] rM | null!: Eu to fazendo curso
+[03:51:23] rM | null!: nem e td isso 
+[03:51:27] U.S.G.N.: Serverlist entry updated
+[03:51:28] rM | null!: Tem q fazer logica primeiro
+[03:51:30] MethødMan: mozilla tava me falando
+[03:51:36] MethødMan: conhece lol?
+[03:51:37] rM | null!: dps o curso q vc quer
+[03:51:40] rM | null!: S
+[03:51:43] MethødMan: sabe o singed?
+[03:51:57] rM | null!: N eu tenho no meu pc mais nem entro
+[03:51:58] rM | null!: kkkkkk
+[03:52:04] rM | null!: atualizei hj
+[03:52:05] MethødMan: n conheçe o singed/
+[03:52:05] rM | null!: 3gb
+[03:52:08] rM | null!: n
+[03:52:11] MethødMan: e o champ q sai correndo
+[03:52:13] U.S.G.N.: Serverlist entry updated
+[03:52:13] MethødMan: e sai uma fumacinha
+[03:52:14] MethødMan: atras dele
+[03:52:18] U.S.G.N.: Ping/State 'playing'
+[03:52:20] MethødMan: e quem passa nela fica envenenado
+[03:52:25] MethødMan: dei ideia pra ele por ele no classmod
+[03:52:28] MethødMan: ele ja ate fez
+[03:52:37] rM | null!: Mn
+[03:52:40] MethødMan: ele tava me dizendo q precisa de geometria pra faz
+[03:52:44] MethødMan: tava me explicando
+[03:52:46] rM | null!: NEM
+[03:52:47] rM | null!: cara
+[03:52:48] MethødMan: q tem q calcular a area
+[03:52:49] MethødMan: e pa
+[03:52:51] rM | null!: isso e so bla bla bla
+[03:52:53] MethødMan: da fumaça
+[03:52:58] U.S.G.N.: Serverlist entry updated
+[03:53:04] rM | null!: Cara
+[03:53:06] rM | null!: nn
+[03:53:09] rM | null!: so precisa
+[03:53:14] rM | null!: DOS TILE DO CS2D
+[03:53:16] rM | null!: kk osh
+[03:53:18] U.S.G.N.: Ping/State 'playing'
+[03:53:19] MethødMan: sla man
+[03:53:22] MethødMan: ele faz de um jeito
+[03:53:25] rM | null!: posicao do seu personagem
+[03:53:26] MethødMan: q nao consome quase nada do sv
+[03:53:36] MethødMan: me manda no privado
+[03:53:42] MethødMan: oq tu acha q eu preciso
+[03:53:44] U.S.G.N.: Serverlist entry updated
+[03:53:45] MethødMan: pra aprender a programar
+[03:53:48] rM | null!: Eu criei um mmo rpg
+[03:53:51] MethødMan: tu falou do basico e pa
+[03:53:56] MethødMan: dentro do cs2d/
+[03:53:57] rM | null!: se vc ver os efeito q tem nele
+[03:54:11] rM | null!: Qnd vc entra ja faz efeito
+[03:54:13] rM | null!: kkk
+[03:54:17] MethødMan: kkkkkkkkk
+[03:54:19] U.S.G.N.: Ping/State 'playing'
+[03:54:22] MethødMan: ja imagino
+[03:54:29] U.S.G.N.: Serverlist entry updated
+[03:54:32] rM | null!: vc entra tipo vc cai de um lugar saca tipo um 
+[03:54:34] rM | null!: briljo
+[03:54:56] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:54:57] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:54:57] rM | null! 2 conectou-se
+[03:54:57] rM | null! 2 is using IP 177.185.53.199:56388 and U.S.G.N. ID #14465
+[03:54:57] JOIN FAILURE: rM | null! 2 (177.185.53.199:56388) can't join (map differs)
+[03:54:58] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:54:59] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:54:59] rM | null! 2 conectou-se
+[03:54:59] rM | null! 2 is using IP 177.185.53.199:56388 and U.S.G.N. ID #14465
+[03:55:01] rM | null! 2 juntou-se a Countra-Terrorista Forças
+[03:55:04] rM | null! 2: cs bugo
+[03:55:05] rM | null! 2: wtf
+[03:55:14] U.S.G.N.: Serverlist entry updated
+[03:55:16] [Info] Você pegou 15 Balas de Pistola
+[03:55:16] [Info] Você pegou 30 Balas de Rifle
+[03:55:17] [Info] Você pegou 10 Balas de Shotgun
+[03:55:18] Sagos: ufa
+[03:55:19] MethødMan: o meu as vezes da violation
+[03:55:20] U.S.G.N.: Ping/State 'playing'
+[03:55:22] rM | null! 2: ss
+[03:55:24] rM | null! 2: deu isso
+[03:55:26] MethødMan: acess violation
+[03:55:27] Sagos: terminei o drop de tds as bala
+[03:55:28] MethødMan: do nada
+[03:55:29] rM | null! 2: isso
+[03:55:30] Sagos: vou att o mapa
+[03:55:31] ----- Mapchange -----
+[03:55:31] Starting server...
+[03:55:32] load map 'Battle Royale'
+[03:55:32] ----- Server started -----
+[03:55:32] Lua: Adding function 'falar' to hook 'say'
+[03:55:32] Lua: Adding function 'segundos' to hook 'second'
+[03:55:32] Lua: Adding function 'coletar' to hook 'walkover'
+[03:55:32] Lua: Adding function 'atacar' to hook 'attack'
+[03:55:32] Lua: Adding function 'atacar2' to hook 'attack2'
+[03:55:32] Lua: Adding function 'teclas' to hook 'serveraction'
+[03:55:32] Lua: Adding function 'mymenu' to hook 'menu'
+[03:55:32] Lua: Adding function 'ataque' to hook 'hit'
+[03:55:32] Lua: Adding function 'dropar' to hook 'drop'
+[03:55:32] Lua: Adding function 'mover' to hook 'movetile'
+[03:55:32] U.S.G.N.: Serverlist entry updated
+[03:55:32] U.S.G.N.: Ping/State 'playing'
+[03:55:33] Sagos juntou-se a Countra-Terrorista Forças
+[03:55:36] [Info] Você equipou Colete 3
+[03:55:42] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[03:55:42] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[03:55:42] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[03:55:42] rM | null! conectou-se
+[03:55:42] rM | null! is using IP 177.185.53.199:56388 and U.S.G.N. ID #14465
+[03:55:42] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[03:55:42] MethødMan conectou-se
+[03:55:42] MethødMan is using IP 191.43.71.50:22157 and U.S.G.N. ID #21825
+[03:55:44] [Info] Você pegou 30 Balas de SMG
+[03:55:45] [Info] Você pegou 10 Balas de Shotgun
+[03:55:45] rM | null! juntou-se a Countra-Terrorista Forças
+[03:55:45] [Info] Você pegou 30 Balas de Rifle
+[03:55:45] MethødMan juntou-se a Terrorista Forças
+[03:55:45] [Info] Você pegou 15 Balas de Pistola
+[03:55:51] MethødMan: cara vou te falar na moral
+[03:55:54] MethødMan: to desempregado
+[03:55:56] rM | null!: capacidade 70?
+[03:55:58] MethødMan: tem porra nenhuma pra fazer
+[03:56:03] MethødMan: se puder me manda no privado
+[03:56:05] MethødMan: blz?
+[03:56:08] rM | null!: Ok
+[03:56:09] generating stats...
+[03:56:09] stats generated in 1 ms!
+[03:56:12] Sagos: ss eu vi que a capacidade inicial no PUBG é 70
+[03:56:14] MethødMan: vou me dedicar a isso
+[03:56:18] U.S.G.N.: Serverlist entry updated
+[03:56:22] rM | null!: Beleuza
+[03:56:26] Sagos: dedicar em q?
+[03:56:32] MethødMan: aprender a programar
+[03:56:33] rM | null!: Progamaçao
+[03:56:33] U.S.G.N.: Ping/State 'playing'
+[03:56:37] MethødMan: sei traduzir 
+[03:56:38] rM | null!: Mn meu teclado ta zuado
+[03:56:39] MethødMan: q e cosia facil
+[03:56:48] MethødMan: e as vezes editar uma coisa ou outra
+[03:56:52] Sagos: drops de bala funfando
+[03:56:58] [Info] Você pegou 15 Balas de Pistola
+[03:57:03] U.S.G.N.: Serverlist entry updated
+[03:57:09] Sagos: programar é da hr ^^
+[03:57:10] MethødMan: cara sobre os mapas
+[03:57:12] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[03:57:17] MethødMan: o mapa
+[03:57:22] MethødMan: vai ser um mapa grande com varias partes
+[03:57:26] MethødMan: ou um mapa grande so
+[03:57:34] U.S.G.N.: Ping/State 'playing'
+[03:57:37] MethødMan: com varias partes eu quero dizer meio q varias are
+[03:57:38] MethødMan: nas
+[03:57:42] rM | null!: GRANDE 1 so
+[03:57:47] rM | null!: N VAI TER PARTES
+[03:57:49] U.S.G.N.: Serverlist entry updated
+[03:57:51] Sagos: grande 1 só
+[03:57:51] rM | null!: IA FICAR ZUADAO
+[03:57:53] Sagos: sem partes
+[03:57:58] Sagos: ja viu PUBG?
+[03:58:00] MethødMan: ss
+[03:58:05] Sagos: a msm coisa de lag
+[03:58:07] Sagos: de la*
+[03:58:11] Sagos: só que em 2D
+[03:58:18] MethødMan: hm
+[03:58:18] rM | null!: Mn
+[03:58:21] rM | null!: sagos
+[03:58:26] rM | null!: fr1 me aceito
+[03:58:29] rM | null!: vou falar com ele
+[03:58:33] rM | null!: ai ele e fus faz o mapa
+[03:58:34] U.S.G.N.: Serverlist entry updated
+[03:58:34] U.S.G.N.: Ping/State 'playing'
+[03:58:38] Sagos: blz
+[03:58:46] Sagos: vcs 2 vai testa tudo né?
+[03:58:55] rM | null!: Ja ta suave men
+[03:58:59] Sagos: eu acho que ta tudo sem bug
+[03:59:00] rM | null!: oq tinha ja resolveu
+[03:59:08] rM | null!: So aquele q qnd usa as bala
+[03:59:09] Sagos: n to testando mt pq tem vcs
+[03:59:12] rM | null!: n da pra dropar
+[03:59:13] rM | null!: td
+[03:59:19] U.S.G.N.: Serverlist entry updated
+[03:59:24] Sagos: se eu fazer dropa vai duplicar
+[03:59:27] rM | null!: s
+[03:59:29] Sagos: tipo ele ta com 5 bala
+[03:59:34] Sagos: dropa e quando pegar vai ser 30
+[03:59:34] U.S.G.N.: Ping/State 'playing'
+[03:59:36] rM | null!: agr
+[03:59:40] rM | null!: o sistema de folego
+[03:59:44] rM | null!: ou de gas
+[03:59:46] rM | null!: ou de aviao
+[03:59:55] Sagos: quando entra aki o que acontece?
+[04:00:04] rM | null!: Aparece os segundos
+[04:00:05] U.S.G.N.: Serverlist entry updated
+[04:00:08] Sagos: pode ficar só 15 seg dps disso leva dano?
+[04:00:13] rM | null!: s
+[04:00:22] Sagos: ta vou pensar em como fazer isso
+[04:00:23] MethødMan: tu vai por slow na agua?
+[04:00:24] rM | null!: ou ter alguma coisa especifica
+[04:00:27] rM | null!: q n toma dano
+[04:00:29] rM | null!: em agua
+[04:00:32] Sagos: nuss vdd vou colocar slow na agua
+[04:00:35] U.S.G.N.: Ping/State 'playing'
+[04:00:35] rM | null!: s
+[04:00:35] MethødMan: tem aquela 
+[04:00:37] rM | null!: uai
+[04:00:37] MethødMan: de emergir
+[04:00:42] MethødMan: mas fica dificil por no cs
+[04:00:46] MethødMan: por ser 2d
+[04:00:50] U.S.G.N.: Serverlist entry updated
+[04:01:05] rM | null!: A
+[04:01:09] generating stats...
+[04:01:09] stats generated in 1 ms!
+[04:01:13] MethødMan: sse 40/120
+[04:01:14] rM | null!: va ter q ter graminha na agua
+[04:01:15] rM | null!: kkkkk
+[04:01:21] MethødMan: e oq?
+[04:01:28] MethødMan: capacidade de balas?
+[04:01:31] rM | null!: camuflador
+[04:01:35] U.S.G.N.: Serverlist entry updated
+[04:01:35] U.S.G.N.: Ping/State 'playing'
+[04:01:37] rM | null!: n
+[04:01:38] MethødMan: tomou dano?
+[04:01:40] rM | null!: INVENTARIO
+[04:01:44] Sagos: n vi atira dnv
+[04:01:50] Sagos: n
+[04:02:01] Sagos: agr s
+[04:02:04] Sagos: para doido kk
+[04:02:05] MethødMan: tomou?
+[04:02:09] MethødMan: n foi a facada dele n?
+[04:02:13] Sagos: foi
+[04:02:18] MethødMan: da pra recarregar sem bala
+[04:02:21] U.S.G.N.: Serverlist entry updated
+[04:02:23] MethødMan: ahhhhhhhhh
+[04:02:26] MethødMan: tendi
+[04:02:28] rM | null!: KKKKKKK
+[04:02:29] rM | null!: agr
+[04:02:34] MethødMan: foi dano?
+[04:02:36] U.S.G.N.: Ping/State 'playing'
+[04:02:36] Sagos: n
+[04:02:37] rM | null!: n cara
+[04:02:39] rM | null!: sem bala
+[04:02:42] rM | null!: ela da o tiro
+[04:02:46] rM | null!: e guarda
+[04:02:50] Sagos: se n tiver bala n tem dano
+[04:02:52] rM | null!: tiro sem dano pq n tem bala
+[04:02:55] MethødMan: s
+[04:03:05] [Info] Você já tem USP no inventário
+[04:03:06] U.S.G.N.: Serverlist entry updated
+[04:03:06] rM | null!: pera
+[04:03:09] rM | null!: sagos 
+[04:03:15] rM | null!: vou mandar o script do mozilla
+[04:03:17] rM | null!: pra vc ver
+[04:03:19] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[04:03:23] [Info] Você pegou 15 Balas de Pistola
+[04:03:23] [Info] Você equipou Deagle
+[04:03:23] [Info] Você pegou 30 Balas de SMG
+[04:03:25] [Info] Você pegou 15 Balas de Pistola
+[04:03:32] rM | null!: calma ai ja volto
+[04:03:36] MethødMan: tihna qnts balas?
+[04:03:36] U.S.G.N.: Ping/State 'playing'
+[04:03:38] rM | null! deixou o jogo
+[04:03:41] Sagos: tenho 12
+[04:03:48] Sagos: 10
+[04:03:51] U.S.G.N.: Serverlist entry updated
+[04:03:53] Sagos: dropei 15 aki
+[04:03:58] MethødMan: os valores das armors
+[04:04:01] MethødMan: vc editou no game msm ne?
+[04:04:08] Sagos: nem editei ainda
+[04:04:10] Sagos: ta o padrão
+[04:04:22] Sagos: o que coloquei no script foi pra n pegar
+[04:04:26] Sagos: armor inferior
+[04:04:32] MethødMan: otima ideia
+[04:04:36] [Info] Você já possui um colete igual ou melhor
+[04:04:37] U.S.G.N.: Ping/State 'playing'
+[04:04:37] U.S.G.N.: Serverlist entry updated
+[04:04:42] MethødMan: esse flood
+[04:04:45] MethødMan: tu vai tirar?
+[04:04:54] Sagos: s
+[04:04:59] Sagos: mas só dps
+[04:05:06] MethødMan: se eu tiver a arma no inv
+[04:05:10] MethødMan: ela ja usa automaticamente?
+[04:05:20] Sagos: quando pegar bala pra ela?
+[04:05:22] U.S.G.N.: Serverlist entry updated
+[04:05:29] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[04:05:33] [Info] Você pegou 15 Balas de Pistola
+[04:05:33] [Info] Você equipou Deagle
+[04:05:35] MethødMan: ta perfeito
+[04:05:37] U.S.G.N.: Ping/State 'playing'
+[04:05:51] Sagos: cada bala ocupa 1 de capacidade
+[04:05:58] MethødMan: 30 aq
+[04:06:04] Sagos: vc pegou 30 bala ent
+[04:06:07] U.S.G.N.: Serverlist entry updated
+[04:06:09] generating stats...
+[04:06:09] stats generated in 2 ms!
+[04:06:19] MethødMan: ta descendo de 3 em 3
+[04:06:21] MethødMan: a cada tiro
+[04:06:34] Sagos: pq vc ligou o burt mode
+[04:06:38] U.S.G.N.: Ping/State 'playing'
+[04:06:38] Sagos: sai 3 bala de uma vez
+[04:06:53] U.S.G.N.: Serverlist entry updated
+[04:07:01] Sagos: n precisa equipa no inventário
+[04:07:04] MethødMan: achei um bug eu acho
+[04:07:09] Sagos: qual?
+[04:07:12] MethødMan: ta saindo qnts balas?
+[04:07:16] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[04:07:19] [Info] Você pegou 30 Balas de Rifle
+[04:07:19] [Info] Você equipou Famas
+[04:07:19] MethødMan: 1 ne?
+[04:07:23] MethødMan: seguinte
+[04:07:26] MethødMan: la em capacidade
+[04:07:31] MethødMan: desce de 3 em 3 em burst mod
+[04:07:33] MethødMan: correto
+[04:07:36] MethødMan: as balas acabaram
+[04:07:38] U.S.G.N.: Ping/State 'playing'
+[04:07:38] U.S.G.N.: Serverlist entry updated
+[04:07:39] MethødMan: puxei a arma no inv
+[04:07:43] MethødMan: e passei ensima da bala
+[04:07:50] MethødMan: ela se recarregou no sistema do sv
+[04:07:55] MethødMan: e no sistema do jogo ja tava setado 30
+[04:07:57] MethødMan: q é comum
+[04:08:00] MethødMan: porem
+[04:08:07] MethødMan: como o script deu strip
+[04:08:11] MethødMan: se nao me engano
+[04:08:14] MethødMan: e esse o comando
+[04:08:21] MethødMan: o burst mod parece q ficou
+[04:08:23] MethødMan: entao a cada tiro
+[04:08:24] U.S.G.N.: Serverlist entry updated
+[04:08:26] MethødMan: -3
+[04:08:28] MethødMan: em capacidade
+[04:08:32] MethødMan: mesmo fora do burst mod
+[04:08:35] MethødMan: pq eu zerei a arma
+[04:08:37] MethødMan: ela deu strip
+[04:08:37] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[04:08:39] U.S.G.N.: Ping/State 'playing'
+[04:08:40] MethødMan: e eu puxei dnv
+[04:08:40] [Info] Você pegou 30 Balas de Rifle
+[04:08:40] [Info] Você equipou Famas
+[04:08:43] MethødMan: tendeu?
+[04:08:51] Sagos: vdd
+[04:08:55] Sagos: vou arrumar pera ae
+[04:08:56] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[04:09:00] MethødMan: arma na mao
+[04:09:03] MethødMan: 25 balas
+[04:09:09] U.S.G.N.: Serverlist entry updated
+[04:09:27] MethødMan: vou buscar agua ja volto
+[04:09:39] U.S.G.N.: Ping/State 'playing'
+[04:09:54] U.S.G.N.: Serverlist entry updated
+[04:10:40] "  (1x)
+[04:10:40] U.S.G.N.: Ping/State 'playing'
+[04:10:40] ----- Mapchange -----
+[04:10:40] Starting server...
+[04:10:40] load map 'Battle Royale'
+[04:10:41] ----- Server started -----
+[04:10:41] Lua: Adding function 'falar' to hook 'say'
+[04:10:41] Lua: Adding function 'segundos' to hook 'second'
+[04:10:41] Lua: Adding function 'coletar' to hook 'walkover'
+[04:10:41] Lua: Adding function 'atacar' to hook 'attack'
+[04:10:41] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:10:41] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:10:41] Lua: Adding function 'mymenu' to hook 'menu'
+[04:10:41] Lua: Adding function 'ataque' to hook 'hit'
+[04:10:41] Lua: Adding function 'dropar' to hook 'drop'
+[04:10:41] Lua: Adding function 'mover' to hook 'movetile'
+[04:10:42] Sagos juntou-se a Countra-Terrorista Forças
+[04:10:42] U.S.G.N.: Serverlist entry updated
+[04:10:42] U.S.G.N.: Ping/State 'playing'
+[04:10:44] [Info] Você equipou Colete 3
+[04:10:45] [Info] Você pegou Energético
+[04:10:45] [Info] Você pegou Analgésico
+[04:10:51] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[04:10:52] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[04:10:52] MethødMan conectou-se
+[04:10:52] MethødMan is using IP 191.43.71.50:22157 and U.S.G.N. ID #21825
+[04:10:54] [Info] Você pegou 30 Balas de Rifle
+[04:11:02] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[04:11:02] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[04:11:06] [Info] Você pegou 30 Balas de Rifle
+[04:11:06] [Info] Você equipou Famas
+[04:11:09] generating stats...
+[04:11:09] stats generated in 1 ms!
+[04:11:13] MethødMan juntou-se a Countra-Terrorista Forças
+[04:11:27] U.S.G.N.: Serverlist entry updated
+[04:11:30] MethødMan: dps olha o macro
+[04:11:30] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[04:11:32] MethødMan: q te falei
+[04:11:36] MethødMan: vou chamar de macro
+[04:11:39] MethødMan: e avançado pra krl
+[04:11:42] U.S.G.N.: Ping/State 'playing'
+[04:11:49] Sagos: eu n uso programas pra macro
+[04:11:53] Sagos: meu teclado ja tem
+[04:11:55] MethødMan: nao e macro
+[04:12:01] MethødMan: e um recorder
+[04:12:04] MethødMan: avançado pra krl
+[04:12:09] MethødMan: tem como criar muita coisa
+[04:12:12] U.S.G.N.: Serverlist entry updated
+[04:12:13] MethødMan: pra quem sabe programar
+[04:12:14] Sagos: qual nome?
+[04:12:19] MethødMan: automatic mouse and keybord
+[04:12:22] MethødMan: robsoft
+[04:12:24] MethødMan: se n me engano
+[04:12:26] MethødMan: ele é comprado
+[04:12:28] MethødMan: eu tenho ele crackeado
+[04:12:43] U.S.G.N.: Ping/State 'playing'
+[04:12:49] Sagos: blz dps vou da uma olhada
+[04:12:57] MethødMan: ele grava oq eu faço
+[04:12:58] U.S.G.N.: Serverlist entry updated
+[04:13:00] MethødMan: se liga
+[04:13:23] MethødMan: foi assim q eu fiz o giro
+[04:13:26] MethødMan: eu girei
+[04:13:31] MethødMan: e editei as velocidades
+[04:13:43] Sagos: entendi
+[04:13:43] U.S.G.N.: Serverlist entry updated
+[04:13:43] U.S.G.N.: Ping/State 'playing'
+[04:13:47] [Info] Você já tem Famas no inventário
+[04:14:09] "  (1x)
+[04:14:14] [Info] Você pegou 30 Balas de Rifle
+[04:14:14] [Info] Você equipou Famas
+[04:14:14] MethødMan: as munições
+[04:14:18] MethødMan: tu vai mudar esse sistema?
+[04:14:19] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[04:14:19] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[04:14:19] rM | null! conectou-se
+[04:14:19] rM | null! is using IP 177.185.53.199:59099 and U.S.G.N. ID #14465
+[04:14:20] JOIN FAILURE: rM | null! (177.185.53.199:59099) can't join (map differs)
+[04:14:21] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[04:14:21] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[04:14:21] rM | null! conectou-se
+[04:14:21] rM | null! is using IP 177.185.53.199:59099 and U.S.G.N. ID #14465
+[04:14:24] rM | null! juntou-se a Countra-Terrorista Forças
+[04:14:25] MethødMan: pra mostrar so oq o player tem na mao?
+[04:14:29] U.S.G.N.: Serverlist entry updated
+[04:14:30] rM | null!: sagos
+[04:14:34] rM | null!: olha discord
+[04:14:44] U.S.G.N.: Ping/State 'playing'
+[04:14:44] Sagos: queria mudar
+[04:14:48] Sagos: mas n sei
+[04:15:05] Sagos: queria fazer tipo !shotgun 8
+[04:15:09] Sagos: ai dropa 8 bala
+[04:15:11] Sagos: seria mais facil
+[04:15:11] MethødMan: conseguiu consertar?
+[04:15:14] U.S.G.N.: Serverlist entry updated
+[04:15:23] rM | null!: method
+[04:15:23] Sagos: acho q s n testei
+[04:15:25] rM | null!: aceitei la
+[04:15:27] MethødMan: vou testar
+[04:15:30] MethødMan: eu v
+[04:15:31] MethødMan: i
+[04:15:34] MethødMan: pera ae
+[04:15:44] U.S.G.N.: Ping/State 'playing'
+[04:15:54] MethødMan: continua contando 3
+[04:15:59] U.S.G.N.: Serverlist entry updated
+[04:16:05] rM | null!: Acontece isso
+[04:16:08] rM | null!: com vc morre
+[04:16:09] generating stats...
+[04:16:09] stats generated in 1 ms!
+[04:16:12] rM | null!: no brutal
+[04:16:18] rM | null!: ai vc volta atirando
+[04:16:20] rM | null!: normal
+[04:16:21] MethødMan: tipo a famas tem burst mod
+[04:16:24] rM | null!: ainda vai tar brutal
+[04:16:28] MethødMan: se tu zerar as blas no burst mod
+[04:16:31] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[04:16:32] MethødMan: e equipar ela
+[04:16:33] [Info] Você pegou 30 Balas de Rifle
+[04:16:33] [Info] Você equipou Famas
+[04:16:35] MethødMan: e pegar as balas dnv
+[04:16:38] MethødMan: ela conta de 3 em 3
+[04:16:42] MethødMan: mesmo o sem burst mod
+[04:16:45] U.S.G.N.: Ping/State 'playing'
+[04:16:45] U.S.G.N.: Serverlist entry updated
+[04:17:30] "  (1x)
+[04:17:45] U.S.G.N.: Ping/State 'playing'
+[04:17:47] rM | null! killed MethødMan with Deagle
+[04:17:51] rM | null!: kkkkk
+[04:17:58] MethødMan: ahhh
+[04:18:03] MethødMan: abri o menu
+[04:18:06] MethødMan: dropei a arma
+[04:18:09] MethødMan: com o menu aberto
+[04:18:12] MethødMan: achei q ia dar equip
+[04:18:13] MethødMan: xD
+[04:18:15] U.S.G.N.: Serverlist entry updated
+[04:18:34] Sagos: blz dps vou da uma olhada
+[04:18:36] ----- Mapchange -----
+[04:18:36] Starting server...
+[04:18:36] load map 'Battle Royale'
+[04:18:36] ----- Server started -----
+[04:18:36] Lua: Adding function 'falar' to hook 'say'
+[04:18:36] Lua: Adding function 'segundos' to hook 'second'
+[04:18:36] Lua: Adding function 'coletar' to hook 'walkover'
+[04:18:36] Lua: Adding function 'atacar' to hook 'attack'
+[04:18:36] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:18:36] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:18:36] Lua: Adding function 'mymenu' to hook 'menu'
+[04:18:36] Lua: Adding function 'ataque' to hook 'hit'
+[04:18:36] Lua: Adding function 'dropar' to hook 'drop'
+[04:18:36] Lua: Adding function 'mover' to hook 'movetile'
+[04:18:36] U.S.G.N.: Ping/State 'playing'
+[04:18:36] U.S.G.N.: Serverlist entry updated
+[04:18:37] Sagos juntou-se a Countra-Terrorista Forças
+[04:18:44] [Info] Você pegou 30 Balas de Rifle
+[04:18:47] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[04:18:47] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[04:18:48] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[04:18:48] MethødMan conectou-se
+[04:18:48] MethødMan is using IP 191.43.71.50:22157 and U.S.G.N. ID #21825
+[04:18:48] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[04:18:48] rM | null! conectou-se
+[04:18:48] rM | null! is using IP 177.185.53.199:59099 and U.S.G.N. ID #14465
+[04:18:50] MethødMan juntou-se a Countra-Terrorista Forças
+[04:18:51] rM | null! juntou-se a Terrorista Forças
+[04:18:51] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[04:18:51] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[04:18:52] [Info] Você pegou 30 Balas de Rifle
+[04:18:52] [Info] Você equipou Famas
+[04:18:53] MethødMan: done?
+[04:18:56] rM | null!: Vc n consegue nem abrir
+[04:18:58] Sagos: pronto arrumei
+[04:19:00] Sagos: testa ai
+[04:19:00] rM | null!: tipo
+[04:19:01] MethødMan: :D
+[04:19:03] rM | null!: vc abre
+[04:19:04] rM | null!: e laga
+[04:19:06] rM | null!: kkk
+[04:19:09] rM | null!: tudo mesmo
+[04:19:21] rM | null!: me mata
+[04:19:22] U.S.G.N.: Serverlist entry updated
+[04:19:25] Sagos killed rM | null! with Knife
+[04:19:31] MethødMan: aeeeeee mlk
+[04:19:34] MethødMan: agr foi
+[04:19:37] U.S.G.N.: Ping/State 'playing'
+[04:19:38] Sagos: ^^
+[04:19:39] [Info] Você pegou Energético
+[04:19:40] [Info] Você equipou Colete 3
+[04:19:43] rM | null!: agr s
+[04:19:52] [Info] Você já tem USP no inventário
+[04:19:53] rM | null!: esse bug eu te falei faz tempo kkkk
+[04:19:58] rM | null!: vc nem viu 
+[04:19:59] Sagos: n lembrava
+[04:20:03] rM | null!: jsdjsksd
+[04:20:05] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[04:20:06] rM | null!: lolzera
+[04:20:07] U.S.G.N.: Serverlist entry updated
+[04:20:09] Sagos: kkkkkk
+[04:20:13] rM | null!: ZOEIRERA
+[04:20:15] rM | null!: kkkkk
+[04:20:26] Error: player rM | null! (#3) tries to select weapon which he does not own (wpn id 2)
+[04:20:31] Sagos: sou main ZOEiro
+[04:20:37] U.S.G.N.: Ping/State 'playing'
+[04:20:40] [Info] Você já tem USP no inventário
+[04:20:43] [Info] Você equipou: USP
+[04:20:48] rM | null!: Aminesia ataca e a zoeira bate
+[04:20:51] [Info] Você pegou 15 Balas de Pistola
+[04:20:52] U.S.G.N.: Serverlist entry updated
+[04:20:52] [Info] Você pegou 30 Balas de Rifle
+[04:20:52] [Info] Você equipou Famas
+[04:20:59] MethødMan: ai
+[04:21:03] MethødMan: tu testou isso na glock?
+[04:21:03] Sagos: acho q n tem mais bug
+[04:21:06] Sagos: ss
+[04:21:09] generating stats...
+[04:21:09] stats generated in 1 ms!
+[04:21:09] Sagos: e ja arrumei junto
+[04:21:11] rM | null!: Sagos
+[04:21:14] rM | null!: abre meu script
+[04:21:15] rM | null!: kkkkkkkk
+[04:21:19] rM | null!: DESASTRE
+[04:21:20] MethødMan: aeeee
+[04:21:25] MethødMan: abre um script
+[04:21:25] rM | null!: MN
+[04:21:30] rM | null!: TA MT PESADO
+[04:21:30] MethødMan: q pedi o crazybooy pra me ajudar a criar tmb
+[04:21:33] MethødMan: dps
+[04:21:34] MethødMan: ?
+[04:21:38] U.S.G.N.: Serverlist entry updated
+[04:21:38] U.S.G.N.: Ping/State 'playing'
+[04:21:39] Sagos: o q ta pesado?
+[04:21:39] MethødMan: so pra tu da uma olhada
+[04:21:43] rM | null!: SLAA men
+[04:21:44] rM | null!: abre
+[04:21:46] rM | null!: pra tu ver
+[04:21:48] rM | null!: PQP
+[04:22:01] rM | null! killed MethødMan with Glock
+[04:22:05] MethødMan: ai man
+[04:22:10] MethødMan: ce via por umas bind ne?
+[04:22:18] rM | null!: ?
+[04:22:22] MethødMan: tipo no classmod
+[04:22:23] U.S.G.N.: Serverlist entry updated
+[04:22:25] MethødMan: q tinha como por o item no f3
+[04:22:30] MethødMan: ou sla
+[04:22:38] U.S.G.N.: Ping/State 'playing'
+[04:22:42] rM | null!: f3 aqui vai mostrar o mapao
+[04:22:47] rM | null!: shuar dsk
+[04:22:49] MethødMan: mas vai ter bind?
+[04:22:54] rM | null!: Nop
+[04:23:07] rM | null!: f3 vai mostrar aonde ta a radiacao
+[04:23:09] U.S.G.N.: Serverlist entry updated
+[04:23:11] rM | null!: e o safe
+[04:23:14] MethødMan: man
+[04:23:19] MethødMan: ate os gringo
+[04:23:23] MethødMan: vai lotar esse sv
+[04:23:39] U.S.G.N.: Ping/State 'playing'
+[04:23:54] U.S.G.N.: Serverlist entry updated
+[04:24:15] MethødMan: ai mano
+[04:24:18] MethødMan: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[04:24:22] MethødMan: o cara me respondeu
+[04:24:25] MethødMan: agr
+[04:24:29] rM | null!: trz?
+[04:24:31] MethødMan: o cuzao
+[04:24:34] MethødMan: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[04:24:35] MethødMan: 
+hahahah cheira coisa do null em, manda aí, talve
+[04:24:40] U.S.G.N.: Serverlist entry updated
+[04:24:40] U.S.G.N.: Ping/State 'playing'
+[04:24:41] MethødMan: isso q ele respondeu
+[04:24:50] rM | null!: KKKKKK
+[04:24:52] MethødMan: KYOPSAPOYSAYOSAKP
+[04:24:54] rM | null!: SAKDKSAKSDS
+[04:24:56] rM | null!: Oia q gay
+[04:24:59] rM | null!: fala q e eu msm
+[04:25:13] rM | null!: kdskdskds
+[04:25:20] ----- Mapchange -----
+[04:25:20] Starting server...
+[04:25:20] load map 'Big Adventure v1.0 TEST'
+[04:25:20] LOAD MAP RES.: failed to load image 'gfx/npc5.png'
+[04:25:20] LOAD MAP RES.: failed to load image 'gfx/npc1.png'
+[04:25:20] "  (1x)
+[04:25:20] ----- Server started -----
+[04:25:20] Lua: Adding function '_join' to hook 'join'
+[04:25:20] Lua: Adding function '_always' to hook 'always'
+[04:25:20] Lua: Adding function '_kill' to hook 'kill'
+[04:25:20] Lua: Adding function '_hit' to hook 'hit'
+[04:25:20] Lua: Adding function '_drop' to hook 'drop'
+[04:25:20] Lua: Adding function '_attack' to hook 'attack'
+[04:25:20] Lua: Adding function '_say' to hook 'say'
+[04:25:20] Lua: Adding function '_leave' to hook 'leave'
+[04:25:20] Lua: Adding function 'okill' to hook 'objectkill'
+[04:25:20] Lua: Adding function 'mouse_clientdata' to hook 'clientdata'
+[04:25:20] Lua: Adding function '_usebutton' to hook 'usebutton'
+[04:25:20] Lua: Adding function '_menu' to hook 'menu'
+[04:25:20] Lua: Adding function '_die' to hook 'die'
+[04:25:20] Lua: Adding function '_walkover' to hook 'walkover'
+[04:25:20] Lua: Adding function '_spawn' to hook 'spawn'
+[04:25:20] Lua: Adding function 'objectdamage' to hook 'objectdamage'
+[04:25:20] Lua: Adding function '_minute' to hook 'minute'
+[04:25:20] Lua: Adding function '_second' to hook 'second'
+[04:25:20] Lua: Adding function '_spray' to hook 'spray'
+[04:25:20] Lua: Adding function 'pt' to hook 'projectile'
+[04:25:20] Lua: Adding function '_serveraction' to hook 'serveraction'
+[04:25:20] Lua: Adding function '_flashlight' to hook 'flashlight'
+[04:25:20] Lua: Adding function '_Sa' to hook 'say'
+[04:25:20] Lua: Adding function 'hc_say_hook' to hook 'say'
+[04:25:20] Lua: Adding function 'hc_ms100_hook' to hook 'ms100'
+[04:25:20] Lua: Adding function 'hc_leave_hook' to hook 'leave'
+[04:25:20] Bem-Vindo Sagos Juntou-Se ao server!
+[04:25:20] [Console] Logado com Sucesso
+[04:25:21] U.S.G.N.: Ping/State 'playing'
+[04:25:21] U.S.G.N.: Serverlist entry updated
+[04:25:24] Sagos juntou-se a Countra-Terrorista Forças
+[04:25:26] [Console] Seu Spawn Protect Esta Ativado 5 time.
+[04:25:30] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[04:25:30] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[04:25:31] [Console] Seu Spawn Protect esta Desativado.
+[04:25:31] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[04:25:31] rM | null! conectou-se
+[04:25:31] rM | null! is using IP 177.185.53.199:59099 and U.S.G.N. ID #14465
+[04:25:31] rM | null! Upou para o Nivel 1!
+[04:25:31] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[04:25:31] MethødMan conectou-se
+[04:25:31] MethødMan is using IP 191.43.71.50:22157 and U.S.G.N. ID #21825
+[04:25:31] MethødMan Upou para o Nivel 1!
+[04:25:31] Starting transfer to MethødMan (files: 6) ...
+[04:25:31] Starting transfer to rM | null! (files: 6) ...
+[04:25:31] MethødMan needs 5 files. Starting to send files...
+[04:25:31] Sending 'gfx/tiles/JAFadventure4.bmp' to MethødMan...
+[04:25:32] rM | null! needs 4 files. Starting to send files...
+[04:25:43] Sending 'gfx/JAF/NPC/npc2.png' to MethødMan...
+[04:25:43] Sending 'gfx/JAF/NPC/Tnpc2.png' to MethødMan...
+[04:25:43] Sending 'gfx/!1_JAF/Otherworld/wood.png' to MethødMan...
+[04:25:43] Sending 'maps/Big Adventure v1.0 TEST.map' to MethødMan...
+[04:25:43] Sending 'gfx/tiles/JAFadventure4.bmp' to rM | null!...
+[04:25:44] Bem-Vindo MethødMan Juntou-Se ao server!
+[04:25:55] Sending 'gfx/JAF/NPC/npc2.png' to rM | null!...
+[04:25:55] Sending 'gfx/JAF/NPC/Tnpc2.png' to rM | null!...
+[04:25:55] Sending 'maps/Big Adventure v1.0 TEST.map' to rM | null!...
+[04:26:07] U.S.G.N.: Serverlist entry updated
+[04:26:09] Mapa e Mod Feitos Por Crack_Down/Null
+[04:26:09] generating stats...
+[04:26:09] stats generated in 1 ms!
+[04:26:09] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[04:26:11] TSocket: 'api.steampowered.com' Time Out (stage: 3)
+[04:26:11] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[04:26:11] MethødMan conectou-se
+[04:26:11] MethødMan is using IP 191.43.71.50:22157 and U.S.G.N. ID #21825
+[04:26:13] [Console]Voce Juntou-Se a Floresta
+[04:26:14] Bem-Vindo MethødMan Juntou-Se ao server!
+[04:26:21] [Console]Voce Retornou a Big Cidade
+[04:26:32] Voce Comprou 10% De Mana
+[04:26:57] Servidor Desligado
+[04:27:02] ----- Disconnected -----
+[04:27:04] M-NET: received join data from unexpected source (252, 177.185.53.199:59099)
+[04:27:16] "  (1x)
+[04:27:20] Starting server...
+[04:27:20] load map 'Battle Royale'
+[04:27:20] ----- Server started -----
+[04:27:20] Lua: Adding function 'falar' to hook 'say'
+[04:27:20] Lua: Adding function 'segundos' to hook 'second'
+[04:27:20] Lua: Adding function 'coletar' to hook 'walkover'
+[04:27:20] Lua: Adding function 'atacar' to hook 'attack'
+[04:27:20] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:27:20] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:27:20] Lua: Adding function 'mymenu' to hook 'menu'
+[04:27:20] Lua: Adding function 'ataque' to hook 'hit'
+[04:27:20] Lua: Adding function 'dropar' to hook 'drop'
+[04:27:20] Lua: Adding function 'mover' to hook 'movetile'
+[04:27:21] Sagos juntou-se a Countra-Terrorista Forças
+[04:27:21] U.S.G.N.: Serverlist entry updated
+[04:27:21] U.S.G.N.: Ping/State 'playing'
+[04:27:26] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[04:27:28] [Info] Você equipou Colete 3
+[04:27:34] [Info] Você pegou 30 Balas de Rifle
+[04:27:41] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[04:27:41] [Info] Você pegou 30 Balas de Rifle
+[04:27:41] [Info] Você equipou Famas
+[04:27:45] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[04:27:46] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[04:27:46] rM | null! conectou-se
+[04:27:46] rM | null! is using IP 177.185.53.199:59099 and U.S.G.N. ID #14465
+[04:27:46] JOIN FAILURE: rM | null! (177.185.53.199:59099) can't join (map differs)
+[04:27:47] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[04:27:48] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[04:27:48] rM | null! conectou-se
+[04:27:48] rM | null! is using IP 177.185.53.199:59099 and U.S.G.N. ID #14465
+[04:27:50] rM | null! juntou-se a Countra-Terrorista Forças
+[04:27:52] rM | null!: akdskasd
+[04:27:55] Sagos: man
+[04:27:55] rM | null!: kkkkkkkkkkkkkkk
+[04:27:56] rM | null!: falei
+[04:27:57] JOIN FAILURE: MethødMan (191.43.71.50:22157) can't join (wrong password)
+[04:27:59] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[04:28:00] Sagos: o jogo começou a trava
+[04:28:00] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[04:28:00] MethødMan conectou-se
+[04:28:00] MethødMan is using IP 191.43.71.50:22157 and U.S.G.N. ID #21825
+[04:28:01] Sagos: kkkkkkkk
+[04:28:02] MethødMan juntou-se a Countra-Terrorista Forças
+[04:28:04] rM | null!: KKKKKKKK
+[04:28:05] MethødMan: qq deu mam
+[04:28:05] rM | null!: Mano
+[04:28:06] U.S.G.N.: Serverlist entry updated
+[04:28:07] MethødMan: man
+[04:28:08] rM | null!: mais ta lindo
+[04:28:10] rM | null!: namoral
+[04:28:14] Sagos: ele me passou um script
+[04:28:16] rM | null!: vc conseguiu jogar?
+[04:28:17] Sagos: q travo o jogo
+[04:28:17] MethødMan: ai eu mandei 3 contato pra ele
+[04:28:21] U.S.G.N.: Ping/State 'playing'
+[04:28:24] rM | null!: TRAVAR O JOGO?
+[04:28:24] MethødMan: ele responde aquilo
+[04:28:31] Sagos: ss o jogo travou '-'
+[04:28:32] MethødMan: mas n mando convite em nenhu mcontato
+[04:28:33] rM | null!: Uai 
+[04:28:34] MethødMan: >_>
+[04:28:36] MethødMan: ai cara
+[04:28:41] MethødMan: nao foi o mapa renderizando n?
+[04:28:41] rM | null!: aqui e de ngm nunca travou
+[04:28:46] MethødMan: pq aq trava
+[04:28:51] Sagos: n o mapa ja tava renderizado
+[04:28:51] MethødMan: eu coloco map detail
+[04:28:51] rM | null!: os cara ja tento abrir
+[04:28:52] U.S.G.N.: Serverlist entry updated
+[04:28:59] rM | null!: abriu
+[04:29:00] rM | null!: mais
+[04:29:04] rM | null!: o lag tava pesado
+[04:29:05] MethødMan: manda teu discord ai
+[04:29:08] MethødMan: vou te mandar uma velha ideia
+[04:29:17] Sagos: o meu?
+[04:29:18] rM | null!: Tenta dnv sagos
+[04:29:20] rM | null!: wtf
+[04:29:22] U.S.G.N.: Ping/State 'playing'
+[04:29:35] MethødMan: o seu
+[04:29:37] U.S.G.N.: Serverlist entry updated
+[04:29:42] rM | null!: method
+[04:29:47] rM | null!: seu ser ver abre ?
+[04:30:22] U.S.G.N.: Ping/State 'playing'
+[04:30:22] U.S.G.N.: Serverlist entry updated
+[04:30:23] MethødMan: abre
+[04:30:27] MethødMan: mas 
+[04:30:33] MethødMan: acho q quando reinstalei o cs
+[04:30:38] MethødMan: saiu as config
+[04:30:41] MethødMan: e eu vou ter q por a porta
+[04:30:48] MethødMan: add ai sagos
+[04:30:57] MethødMan: Dillimore0196
+[04:31:03] rM | null!: Tenta abrir meu mod
+[04:31:04] rM | null!: kkkkkk
+[04:31:08] U.S.G.N.: Serverlist entry updated
+[04:31:23] U.S.G.N.: Ping/State 'playing'
+[04:31:49] rM | null!: sagos
+[04:31:53] rM | null!: dps te mando print
+[04:31:53] U.S.G.N.: Serverlist entry updated
+[04:31:58] rM | null!: eu dentro do meu script
+[04:31:59] rM | null!: e suave
+[04:32:03] rM | null!: ele so laga a net
+[04:32:09] generating stats...
+[04:32:09] stats generated in 1 ms!
+[04:32:10] MethødMan: 1362 linhas
+[04:32:12] Sagos: s minha net caiu
+[04:32:12] rM | null!: s
+[04:32:17] Sagos: e volto rapidão
+[04:32:24] Sagos: doidera '-'
+[04:32:28] rM | null!: kkkk 
+[04:32:29] U.S.G.N.: Ping/State 'playing'
+[04:32:29] Sagos: q q vc colocou nesse script kk
+[04:32:29] MethødMan: add la
+[04:32:31] rM | null!: n sei oq e
+[04:32:33] rM | null!: LVL
+[04:32:39] U.S.G.N.: Serverlist entry updated
+[04:32:39] rM | null!: Efeito
+[04:32:42] rM | null!: skill
+[04:32:52] rM | null!: uns hud
+[04:32:56] rM | null!: mana
+[04:33:01] rM | null!: itens
+[04:33:03] rM | null!: farmar
+[04:33:03] Sagos: esse aki ja ta com 2347 linhas
+[04:33:05] rM | null!: inv
+[04:33:07] Sagos: e só tem isso aki '-'
+[04:33:10] rM | null!: kkkk
+[04:33:24] U.S.G.N.: Serverlist entry updated
+[04:33:29] U.S.G.N.: Ping/State 'playing'
+[04:34:09] U.S.G.N.: Serverlist entry updated
+[04:34:22] Sagos: vou pensa numa maneira de ativar o folego
+[04:34:29] U.S.G.N.: Ping/State 'playing'
+[04:34:36] MethødMan: vou abrir la
+[04:34:40] rM | null!: nome
+[04:34:41] rM | null!: ?
+[04:34:43] MethødMan: AAAAAAAAAAAAAA
+[04:34:44] MethødMan deixou o jogo
+[04:34:52] rM | null!: net dele e de 50mb
+[04:34:55] U.S.G.N.: Serverlist entry updated
+[04:34:56] rM | null!: vamo ver se guent
+[04:34:59] Sagos: slk
+[04:35:01] rM | null!: mandei os print
+[04:35:02] Sagos: a minha é 1 mb
+[04:35:07] rM | null!: la no discord
+[04:35:22] rM | null!: perai rapidim vou ver se o server ta on
+[04:35:24] rM | null! deixou o jogo
+[04:35:30] U.S.G.N.: Ping/State 'playing'
+[04:35:40] U.S.G.N.: Serverlist entry updated
+[04:36:25] "  (1x)
+[04:36:30] U.S.G.N.: Ping/State 'playing'
+[04:37:09] generating stats...
+[04:37:09] stats generated in 1 ms!
+[04:37:11] U.S.G.N.: Serverlist entry updated
+[04:37:31] U.S.G.N.: Ping/State 'playing'
+[04:37:56] U.S.G.N.: Serverlist entry updated
+[04:38:23] ----- Mapchange -----
+[04:38:23] Starting server...
+[04:38:23] load map 'Battle Royale'
+[04:38:23] ----- Server started -----
+[04:38:23] Lua: Adding function 'falar' to hook 'say'
+[04:38:23] Lua: Adding function 'segundos' to hook 'second'
+[04:38:23] Lua: Adding function 'coletar' to hook 'walkover'
+[04:38:23] Lua: Adding function 'atacar' to hook 'attack'
+[04:38:23] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:38:23] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:38:23] Lua: Adding function 'mymenu' to hook 'menu'
+[04:38:23] Lua: Adding function 'ataque' to hook 'hit'
+[04:38:23] Lua: Adding function 'dropar' to hook 'drop'
+[04:38:23] Lua: Adding function 'mover' to hook 'movetile'
+[04:38:24] U.S.G.N.: Serverlist entry updated
+[04:38:24] U.S.G.N.: Ping/State 'playing'
+[04:38:25] Sagos juntou-se a Countra-Terrorista Forças
+[04:38:28] [Info] Você pegou Energético
+[04:38:28] [Info] Você pegou Analgésico
+[04:38:30] [Info] Aguarde 6 segundos para usar Analgésico
+[04:38:36] [Info] Você usou Analgésico
+[04:38:36] [Info] Aguarde 4 segundos para usar Energético
+[04:38:40] [Info] Você usou Energético
+[04:39:25] U.S.G.N.: Ping/State 'playing'
+[04:39:55] U.S.G.N.: Serverlist entry updated
+[04:40:25] U.S.G.N.: Ping/State 'playing'
+[04:40:40] U.S.G.N.: Serverlist entry updated
+[04:41:26] U.S.G.N.: Ping/State 'playing'
+[04:41:26] U.S.G.N.: Serverlist entry updated
+[04:42:09] generating stats...
+[04:42:09] stats generated in 1 ms!
+[04:42:11] U.S.G.N.: Serverlist entry updated
+[04:42:26] U.S.G.N.: Ping/State 'playing'
+[04:42:56] U.S.G.N.: Serverlist entry updated
+[04:43:23] U.S.G.N.: rM | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[04:43:24] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[04:43:24] rM | null! conectou-se
+[04:43:24] rM | null! is using IP 177.185.53.199:49522 and U.S.G.N. ID #14465
+[04:43:24] JOIN FAILURE: rM | null! (177.185.53.199:49522) can't join (map differs)
+[04:43:27] U.S.G.N.: Ping/State 'playing'
+[04:43:42] U.S.G.N.: Serverlist entry updated
+[04:44:27] "  (1x)
+[04:44:27] U.S.G.N.: Ping/State 'playing'
+[04:45:28] "  (1x)
+[04:46:28] "  (1x)
+[04:46:43] U.S.G.N.: Serverlist entry updated
+[04:47:09] generating stats...
+[04:47:09] stats generated in 1 ms!
+[04:47:10] Servidor Desligado
+[04:47:11] U.S.G.N.: Server removed from serverlist
+[04:47:11] ----- Disconnected -----
+[04:47:13] U.S.G.N.: Ping/State 'idle' (1391 ms)
+[04:47:19] load map 'Battle Roayle'
+[04:47:19] LOAD MAP: 'maps/Battle Roayle.map' does not exist
+[04:47:30] load map 'Battle Royale'
+[04:47:46] U.S.G.N.: Ping/State 'idle' (800 ms)
+[04:48:10] M-NET: received join data from unexpected source (252, 191.43.71.50:24169)
+[04:48:13] "  (1x)
+[04:48:16] U.S.G.N.: Ping/State 'idle' (736 ms)
+[04:48:47] "  (1x)
+[04:49:16] U.S.G.N.: Ping/State 'idle' (336 ms)
+[04:49:47] U.S.G.N.: Ping/State 'idle' (288 ms)
+[04:49:56] save map as 'Battle Royale'
+[04:49:58] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[04:50:04] Starting server...
+[04:50:04] load map 'Battle Royale'
+[04:50:04] ----- Server started -----
+[04:50:04] Lua: Adding function 'falar' to hook 'say'
+[04:50:04] Lua: Adding function 'segundos' to hook 'second'
+[04:50:04] Lua: Adding function 'coletar' to hook 'walkover'
+[04:50:04] Lua: Adding function 'atacar' to hook 'attack'
+[04:50:04] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:50:04] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:50:04] Lua: Adding function 'mymenu' to hook 'menu'
+[04:50:04] Lua: Adding function 'ataque' to hook 'hit'
+[04:50:04] Lua: Adding function 'dropar' to hook 'drop'
+[04:50:04] Lua: Adding function 'mover' to hook 'movetile'
+[04:50:06] U.S.G.N.: Ping/State 'playing'
+[04:50:06] U.S.G.N.: Server added to serverlist
+[04:50:07] Sagos juntou-se a Countra-Terrorista Forças
+[04:50:17] [Info] Você equipou Colete 3
+[04:50:26] [Info] Você pegou 30 Balas de Rifle
+[04:50:51] U.S.G.N.: Serverlist entry updated
+[04:51:00] Servidor Desligado
+[04:51:00] U.S.G.N.: Server removed from serverlist
+[04:51:00] ----- Disconnected -----
+[04:51:01] U.S.G.N.: Ping/State 'idle' (256 ms)
+[04:51:09] load map 'Battle Royale'
+[04:51:31] U.S.G.N.: Ping/State 'idle' (288 ms)
+[04:52:02] "  (1x)
+[04:52:32] U.S.G.N.: Ping/State 'idle' (624 ms)
+[04:52:54] Starting server...
+[04:52:54] load map 'Battle Royale'
+[04:52:55] ----- Server started -----
+[04:52:55] Lua: Adding function 'falar' to hook 'say'
+[04:52:55] Lua: Adding function 'segundos' to hook 'second'
+[04:52:55] Lua: Adding function 'coletar' to hook 'walkover'
+[04:52:55] Lua: Adding function 'atacar' to hook 'attack'
+[04:52:55] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:52:55] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:52:55] Lua: Adding function 'mymenu' to hook 'menu'
+[04:52:55] Lua: Adding function 'ataque' to hook 'hit'
+[04:52:55] Lua: Adding function 'dropar' to hook 'drop'
+[04:52:55] Lua: Adding function 'mover' to hook 'movetile'
+[04:52:56] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[04:52:56] U.S.G.N.: Server added to serverlist
+[04:52:56] Sagos juntou-se a Countra-Terrorista Forças
+[04:52:57] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:52:57]  -> [C]: in function 'msg2'
+[04:52:57]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:52:57]  -> in Lua hook 'movetile', params: 1, 24, 4
+[04:52:57] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:52:57]  -> [C]: in function 'msg2'
+[04:52:57]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:52:57]  -> in Lua hook 'movetile', params: 1, 24, 5
+[04:52:57] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:52:57]  -> [C]: in function 'msg2'
+[04:52:57]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:52:57]  -> in Lua hook 'movetile', params: 1, 23, 5
+[04:52:57] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:52:57]  -> [C]: in function 'msg2'
+[04:52:57]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:52:57]  -> in Lua hook 'movetile', params: 1, 23, 6
+[04:52:58] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:52:58]  -> [C]: in function 'msg2'
+[04:52:58]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:52:58]  -> in Lua hook 'movetile', params: 1, 22, 6
+[04:52:58] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:52:58]  -> [C]: in function 'msg2'
+[04:52:58]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:52:58]  -> in Lua hook 'movetile', params: 1, 22, 7
+[04:52:58] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:52:58]  -> [C]: in function 'msg2'
+[04:52:58]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:52:58]  -> in Lua hook 'movetile', params: 1, 22, 8
+[04:52:58] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:52:58]  -> [C]: in function 'msg2'
+[04:52:58]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:52:58]  -> in Lua hook 'movetile', params: 1, 22, 9
+[04:53:14] ----- Mapchange -----
+[04:53:14] Starting server...
+[04:53:14] load map 'Battle Royale'
+[04:53:14] ----- Server started -----
+[04:53:14] Lua: Adding function 'falar' to hook 'say'
+[04:53:14] Lua: Adding function 'segundos' to hook 'second'
+[04:53:14] Lua: Adding function 'coletar' to hook 'walkover'
+[04:53:14] Lua: Adding function 'atacar' to hook 'attack'
+[04:53:14] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:53:14] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:53:14] Lua: Adding function 'mymenu' to hook 'menu'
+[04:53:14] Lua: Adding function 'ataque' to hook 'hit'
+[04:53:14] Lua: Adding function 'dropar' to hook 'drop'
+[04:53:14] Lua: Adding function 'mover' to hook 'movetile'
+[04:53:15] U.S.G.N.: Ping/State 'playing'
+[04:53:15] U.S.G.N.: Serverlist entry updated
+[04:53:20] Sagos juntou-se a Countra-Terrorista Forças
+[04:53:20] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:20]  -> [C]: in function 'msg2'
+[04:53:20]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:20]  -> in Lua hook 'movetile', params: 1, 24, 4
+[04:53:44] ----- Mapchange -----
+[04:53:44] Starting server...
+[04:53:44] load map 'Battle Royale'
+[04:53:44] ----- Server started -----
+[04:53:45] Lua: Adding function 'falar' to hook 'say'
+[04:53:45] Lua: Adding function 'segundos' to hook 'second'
+[04:53:45] Lua: Adding function 'coletar' to hook 'walkover'
+[04:53:45] Lua: Adding function 'atacar' to hook 'attack'
+[04:53:45] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:53:45] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:53:45] Lua: Adding function 'mymenu' to hook 'menu'
+[04:53:45] Lua: Adding function 'ataque' to hook 'hit'
+[04:53:45] Lua: Adding function 'dropar' to hook 'drop'
+[04:53:45] Lua: Adding function 'mover' to hook 'movetile'
+[04:53:46] U.S.G.N.: Ping/State 'playing'
+[04:53:46] U.S.G.N.: Serverlist entry updated
+[04:53:49] Sagos juntou-se a Countra-Terrorista Forças
+[04:53:50] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:50]  -> [C]: in function 'msg2'
+[04:53:50]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:50]  -> in Lua hook 'movetile', params: 1, 24, 4
+[04:53:50] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:50]  -> [C]: in function 'msg2'
+[04:53:50]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:50]  -> in Lua hook 'movetile', params: 1, 24, 5
+[04:53:50] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:50]  -> [C]: in function 'msg2'
+[04:53:50]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:50]  -> in Lua hook 'movetile', params: 1, 24, 6
+[04:53:50] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:50]  -> [C]: in function 'msg2'
+[04:53:50]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:50]  -> in Lua hook 'movetile', params: 1, 24, 7
+[04:53:50] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:50]  -> [C]: in function 'msg2'
+[04:53:50]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:50]  -> in Lua hook 'movetile', params: 1, 24, 8
+[04:53:50] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:50]  -> [C]: in function 'msg2'
+[04:53:50]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:50]  -> in Lua hook 'movetile', params: 1, 24, 7
+[04:53:51] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:51]  -> [C]: in function 'msg2'
+[04:53:51]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:51]  -> in Lua hook 'movetile', params: 1, 23, 7
+[04:53:51] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:51]  -> [C]: in function 'msg2'
+[04:53:51]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:51]  -> in Lua hook 'movetile', params: 1, 22, 7
+[04:53:51] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:51]  -> [C]: in function 'msg2'
+[04:53:51]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:51]  -> in Lua hook 'movetile', params: 1, 21, 7
+[04:53:51] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #2 to 'msg2' (string expected, got boolean)
+[04:53:51]  -> [C]: in function 'msg2'
+[04:53:51]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:53:51]  -> in Lua hook 'movetile', params: 1, 21, 8
+[04:54:32] U.S.G.N.: Serverlist entry updated
+[04:54:47] U.S.G.N.: Ping/State 'playing'
+[04:55:01] ----- Mapchange -----
+[04:55:01] Starting server...
+[04:55:01] load map 'Battle Royale'
+[04:55:01] ----- Server started -----
+[04:55:01] Lua: Adding function 'falar' to hook 'say'
+[04:55:01] Lua: Adding function 'segundos' to hook 'second'
+[04:55:01] Lua: Adding function 'coletar' to hook 'walkover'
+[04:55:01] Lua: Adding function 'atacar' to hook 'attack'
+[04:55:01] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:55:01] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:55:01] Lua: Adding function 'mymenu' to hook 'menu'
+[04:55:01] Lua: Adding function 'ataque' to hook 'hit'
+[04:55:01] Lua: Adding function 'dropar' to hook 'drop'
+[04:55:01] Lua: Adding function 'mover' to hook 'movetile'
+[04:55:03] U.S.G.N.: Ping/State 'playing'
+[04:55:03] U.S.G.N.: Serverlist entry updated
+[04:55:05] Sagos juntou-se a Countra-Terrorista Forças
+[04:55:48] U.S.G.N.: Serverlist entry updated
+[04:56:03] U.S.G.N.: Ping/State 'playing'
+[04:56:09] generating stats...
+[04:56:09] stats generated in 1 ms!
+[04:56:34] U.S.G.N.: Serverlist entry updated
+[04:57:04] U.S.G.N.: Ping/State 'playing'
+[04:57:51] Servidor Desligado
+[04:57:52] U.S.G.N.: Server removed from serverlist
+[04:57:52] ----- Disconnected -----
+[04:57:53] U.S.G.N.: Ping/State 'idle' (592 ms)
+[04:57:54] Starting server...
+[04:57:54] load map 'Battle Royale'
+[04:57:54] ----- Server started -----
+[04:57:54] Lua: Adding function 'falar' to hook 'say'
+[04:57:54] Lua: Adding function 'segundos' to hook 'second'
+[04:57:54] Lua: Adding function 'coletar' to hook 'walkover'
+[04:57:54] Lua: Adding function 'atacar' to hook 'attack'
+[04:57:54] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:57:54] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:57:54] Lua: Adding function 'mymenu' to hook 'menu'
+[04:57:54] Lua: Adding function 'ataque' to hook 'hit'
+[04:57:54] Lua: Adding function 'dropar' to hook 'drop'
+[04:57:54] Lua: Adding function 'mover' to hook 'movetile'
+[04:57:55] U.S.G.N.: Ping/State 'playing'
+[04:57:55] U.S.G.N.: Server added to serverlist
+[04:58:01] Sagos juntou-se a Countra-Terrorista Forças
+[04:58:23] ----- Mapchange -----
+[04:58:23] Starting server...
+[04:58:23] load map 'Battle Royale'
+[04:58:23] ----- Server started -----
+[04:58:23] Lua: Adding function 'falar' to hook 'say'
+[04:58:23] Lua: Adding function 'segundos' to hook 'second'
+[04:58:23] Lua: Adding function 'coletar' to hook 'walkover'
+[04:58:23] Lua: Adding function 'atacar' to hook 'attack'
+[04:58:23] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:58:23] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:58:23] Lua: Adding function 'mymenu' to hook 'menu'
+[04:58:23] Lua: Adding function 'ataque' to hook 'hit'
+[04:58:23] Lua: Adding function 'dropar' to hook 'drop'
+[04:58:23] Lua: Adding function 'mover' to hook 'movetile'
+[04:58:23] U.S.G.N.: Serverlist entry updated
+[04:58:23] U.S.G.N.: Ping/State 'playing'
+[04:58:24] Sagos juntou-se a Countra-Terrorista Forças
+[04:58:25] 1
+[04:58:26] 0
+[04:58:26] "  (3x)
+[04:58:27] entity
+[04:58:28] "  (3x)
+[04:58:29] 0
+[04:58:30] "  (3x)
+[04:58:31] "  (2x)
+[04:58:32] "  (1x)
+[04:58:33] "  (2x)
+[04:58:34] "  (3x)
+[04:58:34] "  (1x)
+[04:58:34] entity
+[04:58:35] "  (4x)
+[04:58:37] "  (1x)
+[04:58:38] "  (6x)
+[04:58:39] "  (5x)
+[04:58:40] "  (5x)
+[04:58:40] "  (1x)
+[04:59:09] U.S.G.N.: Serverlist entry updated
+[04:59:23] U.S.G.N.: Ping/State 'playing'
+[04:59:41] ----- Mapchange -----
+[04:59:41] Starting server...
+[04:59:41] load map 'Battle Royale'
+[04:59:42] ----- Server started -----
+[04:59:42] Lua: Adding function 'falar' to hook 'say'
+[04:59:42] Lua: Adding function 'segundos' to hook 'second'
+[04:59:42] Lua: Adding function 'coletar' to hook 'walkover'
+[04:59:42] Lua: Adding function 'atacar' to hook 'attack'
+[04:59:42] Lua: Adding function 'atacar2' to hook 'attack2'
+[04:59:42] Lua: Adding function 'teclas' to hook 'serveraction'
+[04:59:42] Lua: Adding function 'mymenu' to hook 'menu'
+[04:59:42] Lua: Adding function 'ataque' to hook 'hit'
+[04:59:42] Lua: Adding function 'dropar' to hook 'drop'
+[04:59:42] Lua: Adding function 'mover' to hook 'movetile'
+[04:59:43] U.S.G.N.: Serverlist entry updated
+[04:59:43] U.S.G.N.: Ping/State 'playing'
+[04:59:44] Sagos juntou-se a Countra-Terrorista Forças
+[04:59:44] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[04:59:44]  -> [C]: in function 'msg'
+[04:59:44]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:59:44]  -> in Lua hook 'movetile', params: 1, 24, 4
+[04:59:45] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[04:59:45]  -> [C]: in function 'msg'
+[04:59:45]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:59:45]  -> in Lua hook 'movetile', params: 1, 25, 4
+[04:59:45] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[04:59:45]  -> [C]: in function 'msg'
+[04:59:45]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:59:45]  -> in Lua hook 'movetile', params: 1, 26, 4
+[04:59:45] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[04:59:45]  -> [C]: in function 'msg'
+[04:59:45]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[04:59:45]  -> in Lua hook 'movetile', params: 1, 26, 5
+[05:00:26] ----- Mapchange -----
+[05:00:26] Starting server...
+[05:00:26] load map 'Battle Royale'
+[05:00:26] ----- Server started -----
+[05:00:26] Lua: Adding function 'falar' to hook 'say'
+[05:00:26] Lua: Adding function 'segundos' to hook 'second'
+[05:00:26] Lua: Adding function 'coletar' to hook 'walkover'
+[05:00:26] Lua: Adding function 'atacar' to hook 'attack'
+[05:00:26] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:00:26] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:00:26] Lua: Adding function 'mymenu' to hook 'menu'
+[05:00:26] Lua: Adding function 'ataque' to hook 'hit'
+[05:00:26] Lua: Adding function 'dropar' to hook 'drop'
+[05:00:26] Lua: Adding function 'mover' to hook 'movetile'
+[05:00:29] Sagos juntou-se a Countra-Terrorista Forças
+[05:00:29] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:29]  -> [C]: in function 'msg'
+[05:00:29]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:29]  -> in Lua hook 'movetile', params: 1, 24, 4
+[05:00:30] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:30]  -> [C]: in function 'msg'
+[05:00:30]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:30]  -> in Lua hook 'movetile', params: 1, 25, 4
+[05:00:33] U.S.G.N.: Ping/State 'playing'
+[05:00:37] U.S.G.N.: Serverlist entry updated
+[05:00:39] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:39]  -> [C]: in function 'msg'
+[05:00:39]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:39]  -> in Lua hook 'movetile', params: 1, 25, 5
+[05:00:39] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:39]  -> [C]: in function 'msg'
+[05:00:39]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:39]  -> in Lua hook 'movetile', params: 1, 25, 6
+[05:00:40] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:40]  -> [C]: in function 'msg'
+[05:00:40]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:40]  -> in Lua hook 'movetile', params: 1, 25, 7
+[05:00:40] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:40]  -> [C]: in function 'msg'
+[05:00:40]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:40]  -> in Lua hook 'movetile', params: 1, 25, 6
+[05:00:40] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:40]  -> [C]: in function 'msg'
+[05:00:40]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:40]  -> in Lua hook 'movetile', params: 1, 24, 6
+[05:00:41] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:41]  -> [C]: in function 'msg'
+[05:00:41]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:41]  -> in Lua hook 'movetile', params: 1, 23, 6
+[05:00:41] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:41]  -> [C]: in function 'msg'
+[05:00:41]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:41]  -> in Lua hook 'movetile', params: 1, 22, 6
+[05:00:41] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:41]  -> [C]: in function 'msg'
+[05:00:41]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:41]  -> in Lua hook 'movetile', params: 1, 21, 6
+[05:00:41] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:41]  -> [C]: in function 'msg'
+[05:00:41]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:41]  -> in Lua hook 'movetile', params: 1, 20, 6
+[05:00:41] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:41]  -> [C]: in function 'msg'
+[05:00:41]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:41]  -> in Lua hook 'movetile', params: 1, 21, 6
+[05:00:42] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:42]  -> [C]: in function 'msg'
+[05:00:42]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:42]  -> in Lua hook 'movetile', params: 1, 22, 6
+[05:00:42] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:99: bad argument #1 to 'msg' (string expected, got boolean)
+[05:00:42]  -> [C]: in function 'msg'
+[05:00:42]  -> sys/lua/SagosWins/Battle Royale.lua:99: in function <sys/lua/SagosWins/Battle Royale.lua:92>
+[05:00:42]  -> in Lua hook 'movetile', params: 1, 21, 6
+[05:00:43] Servidor Desligado
+[05:00:43] U.S.G.N.: Server removed from serverlist
+[05:00:43] ----- Disconnected -----
+[05:00:44] U.S.G.N.: Ping/State 'idle' (272 ms)
+[05:00:53] load map 'Battle Royale'
+[05:01:15] U.S.G.N.: Ping/State 'idle' (640 ms)
+[05:01:45] U.S.G.N.: Ping/State 'idle' (672 ms)
+[05:01:53] save map as 'Battle Royale'
+[05:01:55] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[05:02:17] Starting server...
+[05:02:17] load map 'Battle Royale'
+[05:02:17] ----- Server started -----
+[05:02:17] Lua: Adding function 'falar' to hook 'say'
+[05:02:17] Lua: Adding function 'segundos' to hook 'second'
+[05:02:17] Lua: Adding function 'coletar' to hook 'walkover'
+[05:02:17] Lua: Adding function 'atacar' to hook 'attack'
+[05:02:17] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:02:17] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:02:17] Lua: Adding function 'mymenu' to hook 'menu'
+[05:02:17] Lua: Adding function 'ataque' to hook 'hit'
+[05:02:17] Lua: Adding function 'dropar' to hook 'drop'
+[05:02:17] Lua: Adding function 'mover' to hook 'movetile'
+[05:02:18] U.S.G.N.: Ping/State 'playing'
+[05:02:18] U.S.G.N.: Server added to serverlist
+[05:02:23] Sagos juntou-se a Countra-Terrorista Forças
+[05:02:33] [Info] Você equipou Colete 3
+[05:02:39] Parede
+[05:02:58] "  (1x)
+[05:03:05] U.S.G.N.: Serverlist entry updated
+[05:03:09] generating stats...
+[05:03:09] stats generated in 0 ms!
+[05:03:20] U.S.G.N.: Ping/State 'playing'
+[05:03:50] U.S.G.N.: Serverlist entry updated
+[05:04:04] ----- Mapchange -----
+[05:04:04] Starting server...
+[05:04:04] load map 'Battle Royale'
+[05:04:04] ----- Server started -----
+[05:04:04] Lua: Adding function 'falar' to hook 'say'
+[05:04:04] Lua: Adding function 'segundos' to hook 'second'
+[05:04:04] Lua: Adding function 'coletar' to hook 'walkover'
+[05:04:04] Lua: Adding function 'atacar' to hook 'attack'
+[05:04:04] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:04:04] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:04:04] Lua: Adding function 'mymenu' to hook 'menu'
+[05:04:04] Lua: Adding function 'ataque' to hook 'hit'
+[05:04:04] Lua: Adding function 'dropar' to hook 'drop'
+[05:04:04] Lua: Adding function 'mover' to hook 'movetile'
+[05:04:06] U.S.G.N.: Ping/State 'playing'
+[05:04:06] U.S.G.N.: Serverlist entry updated
+[05:04:07] Sagos juntou-se a Countra-Terrorista Forças
+[05:04:23] ----- Mapchange -----
+[05:04:23] Starting server...
+[05:04:23] load map 'Battle Royale'
+[05:04:23] ----- Server started -----
+[05:04:23] Lua: Adding function 'falar' to hook 'say'
+[05:04:23] Lua: Adding function 'segundos' to hook 'second'
+[05:04:23] Lua: Adding function 'coletar' to hook 'walkover'
+[05:04:23] Lua: Adding function 'atacar' to hook 'attack'
+[05:04:23] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:04:23] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:04:23] Lua: Adding function 'mymenu' to hook 'menu'
+[05:04:23] Lua: Adding function 'ataque' to hook 'hit'
+[05:04:23] Lua: Adding function 'dropar' to hook 'drop'
+[05:04:23] Lua: Adding function 'mover' to hook 'movetile'
+[05:04:24] U.S.G.N.: Ping/State 'playing'
+[05:04:24] U.S.G.N.: Serverlist entry updated
+[05:04:25] Sagos juntou-se a Countra-Terrorista Forças
+[05:04:38] ----- Mapchange -----
+[05:04:38] Starting server...
+[05:04:38] load map 'Battle Royale'
+[05:04:39] ----- Server started -----
+[05:04:39] Lua: Adding function 'falar' to hook 'say'
+[05:04:39] Lua: Adding function 'segundos' to hook 'second'
+[05:04:39] Lua: Adding function 'coletar' to hook 'walkover'
+[05:04:39] Lua: Adding function 'atacar' to hook 'attack'
+[05:04:39] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:04:39] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:04:39] Lua: Adding function 'mymenu' to hook 'menu'
+[05:04:39] Lua: Adding function 'ataque' to hook 'hit'
+[05:04:39] Lua: Adding function 'dropar' to hook 'drop'
+[05:04:39] Lua: Adding function 'mover' to hook 'movetile'
+[05:04:40] U.S.G.N.: Ping/State 'playing'
+[05:04:40] U.S.G.N.: Serverlist entry updated
+[05:04:41] Sagos juntou-se a Countra-Terrorista Forças
+[05:05:06] ----- Mapchange -----
+[05:05:06] Starting server...
+[05:05:06] load map 'Battle Royale'
+[05:05:06] ----- Server started -----
+[05:05:06] Lua: Adding function 'falar' to hook 'say'
+[05:05:06] Lua: Adding function 'segundos' to hook 'second'
+[05:05:06] Lua: Adding function 'coletar' to hook 'walkover'
+[05:05:06] Lua: Adding function 'atacar' to hook 'attack'
+[05:05:06] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:05:06] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:05:06] Lua: Adding function 'mymenu' to hook 'menu'
+[05:05:06] Lua: Adding function 'ataque' to hook 'hit'
+[05:05:06] Lua: Adding function 'dropar' to hook 'drop'
+[05:05:06] Lua: Adding function 'mover' to hook 'movetile'
+[05:05:09] Sagos juntou-se a Countra-Terrorista Forças
+[05:05:12] U.S.G.N.: Ping/State 'playing'
+[05:05:17] U.S.G.N.: Serverlist entry updated
+[05:05:22] ----- Mapchange -----
+[05:05:22] Starting server...
+[05:05:22] load map 'Battle Royale'
+[05:05:22] ----- Server started -----
+[05:05:22] Lua: Adding function 'falar' to hook 'say'
+[05:05:22] Lua: Adding function 'segundos' to hook 'second'
+[05:05:22] Lua: Adding function 'coletar' to hook 'walkover'
+[05:05:22] Lua: Adding function 'atacar' to hook 'attack'
+[05:05:22] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:05:22] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:05:22] Lua: Adding function 'mymenu' to hook 'menu'
+[05:05:22] Lua: Adding function 'ataque' to hook 'hit'
+[05:05:22] Lua: Adding function 'dropar' to hook 'drop'
+[05:05:22] Lua: Adding function 'mover' to hook 'movetile'
+[05:05:23] U.S.G.N.: Ping/State 'playing'
+[05:05:23] U.S.G.N.: Serverlist entry updated
+[05:05:28] Sagos juntou-se a Countra-Terrorista Forças
+[05:05:36] ----- Mapchange -----
+[05:05:36] Starting server...
+[05:05:36] load map 'Battle Royale'
+[05:05:36] ----- Server started -----
+[05:05:36] Lua: Adding function 'falar' to hook 'say'
+[05:05:36] Lua: Adding function 'segundos' to hook 'second'
+[05:05:36] Lua: Adding function 'coletar' to hook 'walkover'
+[05:05:36] Lua: Adding function 'atacar' to hook 'attack'
+[05:05:36] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:05:36] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:05:36] Lua: Adding function 'mymenu' to hook 'menu'
+[05:05:36] Lua: Adding function 'ataque' to hook 'hit'
+[05:05:36] Lua: Adding function 'dropar' to hook 'drop'
+[05:05:36] Lua: Adding function 'mover' to hook 'movetile'
+[05:05:37] U.S.G.N.: Ping/State 'playing'
+[05:05:37] U.S.G.N.: Serverlist entry updated
+[05:05:38] Sagos juntou-se a Countra-Terrorista Forças
+[05:06:01] ----- Mapchange -----
+[05:06:01] Starting server...
+[05:06:01] load map 'Battle Royale'
+[05:06:01] ----- Server started -----
+[05:06:02] Lua: Adding function 'falar' to hook 'say'
+[05:06:02] Lua: Adding function 'segundos' to hook 'second'
+[05:06:02] Lua: Adding function 'coletar' to hook 'walkover'
+[05:06:02] Lua: Adding function 'atacar' to hook 'attack'
+[05:06:02] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:06:02] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:06:02] Lua: Adding function 'mymenu' to hook 'menu'
+[05:06:02] Lua: Adding function 'ataque' to hook 'hit'
+[05:06:02] Lua: Adding function 'dropar' to hook 'drop'
+[05:06:02] Lua: Adding function 'mover' to hook 'movetile'
+[05:06:03] Sagos juntou-se a Countra-Terrorista Forças
+[05:06:07] U.S.G.N.: Ping/State 'playing'
+[05:06:12] U.S.G.N.: Serverlist entry updated
+[05:06:20] ----- Mapchange -----
+[05:06:20] Starting server...
+[05:06:20] load map 'Battle Royale'
+[05:06:20] ----- Server started -----
+[05:06:20] Lua: Adding function 'falar' to hook 'say'
+[05:06:20] Lua: Adding function 'segundos' to hook 'second'
+[05:06:20] Lua: Adding function 'coletar' to hook 'walkover'
+[05:06:20] Lua: Adding function 'atacar' to hook 'attack'
+[05:06:20] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:06:20] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:06:20] Lua: Adding function 'mymenu' to hook 'menu'
+[05:06:20] Lua: Adding function 'ataque' to hook 'hit'
+[05:06:20] Lua: Adding function 'dropar' to hook 'drop'
+[05:06:20] Lua: Adding function 'mover' to hook 'movetile'
+[05:06:21] U.S.G.N.: Ping/State 'playing'
+[05:06:21] U.S.G.N.: Serverlist entry updated
+[05:06:22] Sagos juntou-se a Countra-Terrorista Forças
+[05:06:29] ----- Mapchange -----
+[05:06:29] Starting server...
+[05:06:29] load map 'Battle Royale'
+[05:06:29] ----- Server started -----
+[05:06:29] Lua: Adding function 'falar' to hook 'say'
+[05:06:29] Lua: Adding function 'segundos' to hook 'second'
+[05:06:29] Lua: Adding function 'coletar' to hook 'walkover'
+[05:06:29] Lua: Adding function 'atacar' to hook 'attack'
+[05:06:29] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:06:29] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:06:29] Lua: Adding function 'mymenu' to hook 'menu'
+[05:06:29] Lua: Adding function 'ataque' to hook 'hit'
+[05:06:29] Lua: Adding function 'dropar' to hook 'drop'
+[05:06:29] Lua: Adding function 'mover' to hook 'movetile'
+[05:06:30] U.S.G.N.: Serverlist entry updated
+[05:06:30] U.S.G.N.: Ping/State 'playing'
+[05:06:30] Sagos juntou-se a Countra-Terrorista Forças
+[05:06:43] ----- Mapchange -----
+[05:06:43] Starting server...
+[05:06:43] load map 'Battle Royale'
+[05:06:43] ----- Server started -----
+[05:06:43] Lua: Adding function 'falar' to hook 'say'
+[05:06:43] Lua: Adding function 'segundos' to hook 'second'
+[05:06:43] Lua: Adding function 'coletar' to hook 'walkover'
+[05:06:43] Lua: Adding function 'atacar' to hook 'attack'
+[05:06:43] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:06:43] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:06:43] Lua: Adding function 'mymenu' to hook 'menu'
+[05:06:43] Lua: Adding function 'ataque' to hook 'hit'
+[05:06:43] Lua: Adding function 'dropar' to hook 'drop'
+[05:06:43] Lua: Adding function 'mover' to hook 'movetile'
+[05:06:44] U.S.G.N.: Ping/State 'playing'
+[05:06:44] U.S.G.N.: Serverlist entry updated
+[05:06:45] Sagos juntou-se a Countra-Terrorista Forças
+[05:06:56] ----- Mapchange -----
+[05:06:56] Starting server...
+[05:06:56] load map 'Battle Royale'
+[05:06:57] ----- Server started -----
+[05:06:57] Lua: Adding function 'falar' to hook 'say'
+[05:06:57] Lua: Adding function 'segundos' to hook 'second'
+[05:06:57] Lua: Adding function 'coletar' to hook 'walkover'
+[05:06:57] Lua: Adding function 'atacar' to hook 'attack'
+[05:06:57] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:06:57] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:06:57] Lua: Adding function 'mymenu' to hook 'menu'
+[05:06:57] Lua: Adding function 'ataque' to hook 'hit'
+[05:06:57] Lua: Adding function 'dropar' to hook 'drop'
+[05:06:57] Lua: Adding function 'mover' to hook 'movetile'
+[05:06:57] U.S.G.N.: Serverlist entry updated
+[05:06:57] U.S.G.N.: Ping/State 'playing'
+[05:06:58] Sagos juntou-se a Countra-Terrorista Forças
+[05:07:42] U.S.G.N.: Serverlist entry updated
+[05:07:57] U.S.G.N.: Ping/State 'playing'
+[05:08:09] generating stats...
+[05:08:09] stats generated in 1 ms!
+[05:08:28] U.S.G.N.: Serverlist entry updated
+[05:08:36] ----- Mapchange -----
+[05:08:36] Starting server...
+[05:08:36] load map 'Battle Royale'
+[05:08:36] ----- Server started -----
+[05:08:36] Lua: Adding function 'falar' to hook 'say'
+[05:08:36] Lua: Adding function 'segundos' to hook 'second'
+[05:08:36] Lua: Adding function 'coletar' to hook 'walkover'
+[05:08:36] Lua: Adding function 'atacar' to hook 'attack'
+[05:08:36] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:08:36] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:08:36] Lua: Adding function 'mymenu' to hook 'menu'
+[05:08:36] Lua: Adding function 'ataque' to hook 'hit'
+[05:08:36] Lua: Adding function 'dropar' to hook 'drop'
+[05:08:36] Lua: Adding function 'mover' to hook 'movetile'
+[05:08:37] U.S.G.N.: Serverlist entry updated
+[05:08:37] U.S.G.N.: Ping/State 'playing'
+[05:08:38] Sagos juntou-se a Countra-Terrorista Forças
+[05:08:38] 24
+[05:08:40] "  (1x)
+[05:08:41] "  (5x)
+[05:08:41] "  (2x)
+[05:08:42] 12
+[05:08:43] "  (3x)
+[05:08:44] "  (6x)
+[05:08:44] "  (3x)
+[05:08:44] 3
+[05:08:45] "  (2x)
+[05:08:46] "  (6x)
+[05:08:46] "  (2x)
+[05:08:46] 12
+[05:08:47] "  (3x)
+[05:08:48] "  (6x)
+[05:08:48] "  (1x)
+[05:08:54] Servidor Desligado
+[05:08:55] U.S.G.N.: Server removed from serverlist
+[05:08:55] ----- Disconnected -----
+[05:08:56] U.S.G.N.: Ping/State 'idle' (272 ms)
+[05:09:40] Starting server...
+[05:09:40] load map 'Battle Royale'
+[05:09:40] ----- Server started -----
+[05:09:40] Lua: Adding function 'falar' to hook 'say'
+[05:09:40] Lua: Adding function 'segundos' to hook 'second'
+[05:09:40] Lua: Adding function 'coletar' to hook 'walkover'
+[05:09:40] Lua: Adding function 'atacar' to hook 'attack'
+[05:09:40] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:09:40] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:09:40] Lua: Adding function 'mymenu' to hook 'menu'
+[05:09:40] Lua: Adding function 'ataque' to hook 'hit'
+[05:09:40] Lua: Adding function 'dropar' to hook 'drop'
+[05:09:40] Lua: Adding function 'mover' to hook 'movetile'
+[05:09:41] U.S.G.N.: Server added to serverlist
+[05:09:41] U.S.G.N.: Ping/State 'playing'
+[05:09:42] Sagos juntou-se a Countra-Terrorista Forças
+[05:09:46] Água
+[05:09:47] "  (2x)
+[05:09:49] "  (3x)
+[05:09:50] "  (1x)
+[05:09:51] "  (1x)
+[05:09:54] "  (2x)
+[05:09:55] "  (2x)
+[05:09:56] "  (3x)
+[05:09:57] "  (1x)
+[05:09:58] "  (4x)
+[05:09:59] "  (2x)
+[05:09:59] "  (1x)
+[05:10:26] U.S.G.N.: Serverlist entry updated
+[05:10:42] U.S.G.N.: Ping/State 'playing'
+[05:11:12] U.S.G.N.: Serverlist entry updated
+[05:11:42] U.S.G.N.: Ping/State 'playing'
+[05:11:57] U.S.G.N.: Serverlist entry updated
+[05:12:43] U.S.G.N.: Ping/State 'playing'
+[05:12:43] U.S.G.N.: Serverlist entry updated
+[05:13:22] Servidor Desligado
+[05:13:23] U.S.G.N.: Server removed from serverlist
+[05:13:23] ----- Disconnected -----
+[05:13:24] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:13:51] load map 'Battle Royale'
+[05:14:03] U.S.G.N.: Ping/State 'idle' (288 ms)
+[05:14:13] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[05:15:14] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:16:14] U.S.G.N.: Ping/State 'idle' (272 ms)
+[05:17:15] "  (1x)
+[05:18:15] U.S.G.N.: Ping/State 'idle' (256 ms)
+[05:19:16] U.S.G.N.: Ping/State 'idle' (304 ms)
+[05:20:16] U.S.G.N.: Ping/State 'idle' (288 ms)
+[05:21:17] U.S.G.N.: Ping/State 'idle' (272 ms)
+[05:22:17] "  (1x)
+[05:23:18] "  (1x)
+[05:24:18] "  (1x)
+[05:24:21] Starting server...
+[05:24:21] load map 'Battle Royale'
+[05:24:21] ----- Server started -----
+[05:24:21] Lua: Adding function 'falar' to hook 'say'
+[05:24:21] Lua: Adding function 'segundos' to hook 'second'
+[05:24:21] Lua: Adding function 'coletar' to hook 'walkover'
+[05:24:21] Lua: Adding function 'atacar' to hook 'attack'
+[05:24:21] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:24:21] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:24:21] Lua: Adding function 'mymenu' to hook 'menu'
+[05:24:21] Lua: Adding function 'ataque' to hook 'hit'
+[05:24:21] Lua: Adding function 'dropar' to hook 'drop'
+[05:24:21] Lua: Adding function 'mover' to hook 'movetile'
+[05:24:22] U.S.G.N.: Server added to serverlist
+[05:24:22] U.S.G.N.: Ping/State 'playing'
+[05:24:23] Sagos juntou-se a Countra-Terrorista Forças
+[05:25:04] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[05:25:08] U.S.G.N.: Serverlist entry updated
+[05:25:09] generating stats...
+[05:25:09] stats generated in 1 ms!
+[05:25:13] [Info] Você pegou 15 Balas de Pistola
+[05:25:13] [Info] Você equipou USP
+[05:25:17] [Info] Você pegou 15 Balas de Pistola
+[05:25:20] "  (1x)
+[05:25:23] U.S.G.N.: Ping/State 'playing'
+[05:25:25] [Info] Você pegou 15 Balas de Pistola
+[05:25:53] U.S.G.N.: Serverlist entry updated
+[05:26:23] U.S.G.N.: Ping/State 'playing'
+[05:26:38] U.S.G.N.: Serverlist entry updated
+[05:27:24] U.S.G.N.: Ping/State 'playing'
+[05:27:24] U.S.G.N.: Serverlist entry updated
+[05:28:09] "  (1x)
+[05:28:24] U.S.G.N.: Ping/State 'playing'
+[05:28:54] U.S.G.N.: Serverlist entry updated
+[05:29:25] U.S.G.N.: Ping/State 'playing'
+[05:29:40] U.S.G.N.: Serverlist entry updated
+[05:30:09] generating stats...
+[05:30:09] stats generated in 0 ms!
+[05:30:25] U.S.G.N.: Serverlist entry updated
+[05:30:25] U.S.G.N.: Ping/State 'playing'
+[05:31:10] U.S.G.N.: Serverlist entry updated
+[05:31:26] U.S.G.N.: Ping/State 'playing'
+[05:31:56] U.S.G.N.: Serverlist entry updated
+[05:32:26] U.S.G.N.: Ping/State 'playing'
+[05:32:41] U.S.G.N.: Serverlist entry updated
+[05:33:27] U.S.G.N.: Ping/State 'playing'
+[05:33:27] U.S.G.N.: Serverlist entry updated
+[05:34:12] "  (1x)
+[05:34:27] U.S.G.N.: Ping/State 'playing'
+[05:34:57] U.S.G.N.: Serverlist entry updated
+[05:35:09] generating stats...
+[05:35:09] stats generated in 0 ms!
+[05:35:27] U.S.G.N.: Ping/State 'playing'
+[05:35:43] U.S.G.N.: Serverlist entry updated
+[05:36:28] "  (1x)
+[05:36:28] U.S.G.N.: Ping/State 'playing'
+[05:37:13] U.S.G.N.: Serverlist entry updated
+[05:37:28] U.S.G.N.: Ping/State 'playing'
+[05:37:45] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[05:37:46] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[05:37:46] MethødMan conectou-se
+[05:37:46] MethødMan is using IP 191.43.71.50:24169 and U.S.G.N. ID #21825
+[05:37:46] JOIN FAILURE: MethødMan (191.43.71.50:24169) can't join (map differs)
+[05:37:48] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[05:37:49] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[05:37:49] MethødMan conectou-se
+[05:37:49] MethødMan is using IP 191.43.71.50:24169 and U.S.G.N. ID #21825
+[05:37:49] Starting transfer to MethødMan (files: 2) ...
+[05:37:49] MethødMan needs 1 file. Starting to send file...
+[05:37:49] Sending 'maps/Battle Royale.map' to MethødMan...
+[05:37:52] MethødMan juntou-se a Countra-Terrorista Forças
+[05:37:59] U.S.G.N.: Serverlist entry updated
+[05:38:04] Sagos: to fazendo o folego ainda
+[05:38:26] Sagos: man
+[05:38:29] U.S.G.N.: Ping/State 'playing'
+[05:38:30] Sagos: ta ai?
+[05:38:44] U.S.G.N.: Serverlist entry updated
+[05:38:58] Sagos: ow
+[05:39:00] MethødMan: s
+[05:39:02] Sagos: dps que acabar o folego
+[05:39:11] Sagos: quanto de HP o jogador vai perder
+[05:39:14] Sagos: se continuar na agua?
+[05:39:22] MethødMan: ai depende
+[05:39:28] MethødMan: os valores q tu vai por
+[05:39:29] MethødMan: de dano
+[05:39:29] U.S.G.N.: Ping/State 'playing'
+[05:39:29] U.S.G.N.: Serverlist entry updated
+[05:39:32] Sagos: s eu sei
+[05:39:39] Sagos: to perguntando quanto de dano vai leva
+[05:39:40] MethødMan: e tmb
+[05:39:48] MethødMan: de dano minimo assim
+[05:39:48] Sagos: 5 em 5?
+[05:39:52] MethødMan: 5 e pouco
+[05:39:57] MethødMan: depende da quantidade de agua tmb
+[05:40:00] MethødMan: tem mta variavel
+[05:40:05] MethødMan: mas acho q uns 
+[05:40:09] generating stats...
+[05:40:09] stats generated in 1 ms!
+[05:40:10] MethødMan: pera ae so 1 seg vou ver aq
+[05:40:15] U.S.G.N.: Serverlist entry updated
+[05:40:30] U.S.G.N.: Ping/State 'playing'
+[05:41:00] U.S.G.N.: Serverlist entry updated
+[05:41:23] MethødMan: 15
+[05:41:30] U.S.G.N.: Ping/State 'playing'
+[05:41:34] Sagos: ok
+[05:41:45] MethødMan: 15 o cara sobrevive 6 segundo na agua
+[05:41:46] U.S.G.N.: Serverlist entry updated
+[05:41:48] MethødMan: morre no segundo 7
+[05:42:00] MethødMan: e ele te meio q 3 segundos pra sair fora
+[05:42:31] U.S.G.N.: Ping/State 'playing'
+[05:42:31] U.S.G.N.: Serverlist entry updated
+[05:42:40] Sagos: nn tipo
+[05:42:49] Sagos: eu to colocando um "pulmão"
+[05:42:58] Sagos: quando ele n tiver mais folego ele começa a 
+[05:42:59] Sagos: levar dano
+[05:43:14] Sagos: ele vai ficar uns 15 segundos na agua sem levar da
+[05:43:16] U.S.G.N.: Serverlist entry updated
+[05:43:21] Sagos: dps disso começa a perder HP
+[05:43:31] U.S.G.N.: Ping/State 'playing'
+[05:44:02] U.S.G.N.: Serverlist entry updated
+[05:44:30] ----- Mapchange -----
+[05:44:30] Starting server...
+[05:44:30] load map 'Battle Royale'
+[05:44:30] ----- Server started -----
+[05:44:30] Lua: Adding function 'falar' to hook 'say'
+[05:44:30] Lua: Adding function 'segundos' to hook 'second'
+[05:44:30] Lua: Adding function 'coletar' to hook 'walkover'
+[05:44:30] Lua: Adding function 'atacar' to hook 'attack'
+[05:44:30] Lua: Adding function 'atacar2' to hook 'attack2'
+[05:44:30] Lua: Adding function 'teclas' to hook 'serveraction'
+[05:44:30] Lua: Adding function 'mymenu' to hook 'menu'
+[05:44:30] Lua: Adding function 'ataque' to hook 'hit'
+[05:44:30] Lua: Adding function 'dropar' to hook 'drop'
+[05:44:30] Lua: Adding function 'mover' to hook 'movetile'
+[05:44:31] U.S.G.N.: Ping/State 'playing'
+[05:44:31] U.S.G.N.: Serverlist entry updated
+[05:44:32] Sagos juntou-se a Countra-Terrorista Forças
+[05:44:34] [Info] Você equipou Colete 3
+[05:44:40] [Info] Você pegou 30 Balas de Rifle
+[05:44:41] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[05:44:41] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[05:44:41] MethødMan conectou-se
+[05:44:41] MethødMan is using IP 191.43.71.50:24169 and U.S.G.N. ID #21825
+[05:44:44] MethødMan juntou-se a Countra-Terrorista Forças
+[05:44:45] MethødMan: entao
+[05:44:47] MethødMan: 15 seg
+[05:44:49] Sagos: vou testa
+[05:44:51] MethødMan: os 15 de dano
+[05:44:59] MethødMan: eles dao 6 segundos pro cara
+[05:45:03] MethødMan: entao tem q ser um numero maior
+[05:45:08] Sagos: ae funfo
+[05:45:09] generating stats...
+[05:45:09] stats generated in 1 ms!
+[05:45:11] Sagos killed by Morreu afogado
+[05:45:14] Sagos: kkk
+[05:45:16] U.S.G.N.: Serverlist entry updated
+[05:45:17] MethødMan: kkkkkkkkkkk
+[05:45:22] [Info] Você já possui um colete igual ou melhor
+[05:45:24] MethødMan killed by Morreu afogado
+[05:45:26] MethødMan: 7 seg
+[05:45:31] U.S.G.N.: Ping/State 'playing'
+[05:45:34] MethødMan: mas acho q vai ter q diminuir esses 7
+[05:45:41] MethødMan: pq nego vai abusar
+[05:45:49] MethødMan: sao 20 seg na agua 
+[05:45:55] [Info] Você já possui um colete igual ou melhor
+[05:45:58] MethødMan: na real 22
+[05:46:02] U.S.G.N.: Serverlist entry updated
+[05:46:04] MethødMan: os dois eu to contando pro cara correr
+[05:46:21] Sagos: mds esqueci de colocar slow na agua
+[05:46:32] U.S.G.N.: Ping/State 'playing'
+[05:46:47] U.S.G.N.: Serverlist entry updated
+[05:46:54] MethødMan: ai
+[05:47:01] Sagos: essa velocidade ta bom?
+[05:47:05] Sagos: na agua
+[05:47:10] MethødMan: seta speedmod em mim
+[05:47:14] MethødMan: go
+[05:47:18] Sagos: pronto
+[05:47:27] MethødMan: e qnts isso?
+[05:47:27] Sagos: mais lento?
+[05:47:29] Sagos: -7
+[05:47:32] U.S.G.N.: Serverlist entry updated
+[05:47:32] U.S.G.N.: Ping/State 'playing'
+[05:47:36] MethødMan: negativo?
+[05:47:37] Sagos: s
+[05:47:41] Sagos: 0 é o speed normal
+[05:47:47] MethødMan: poe -8
+[05:47:52] Sagos: pronto
+[05:48:01] MethødMan: qual vai ser a quantidade de agua do mapa?
+[05:48:04] MethødMan: vai ser em volta
+[05:48:06] MethødMan: vai ter areas
+[05:48:08] MethødMan: tipo lagoas
+[05:48:11] MethødMan: eita
+[05:48:16] MethødMan: como vai ser?
+[05:48:16] Sagos: depende do Fus
+[05:48:18] U.S.G.N.: Serverlist entry updated
+[05:48:19] Sagos: ele que ta fazendo
+[05:48:22] Sagos: n sei o que ele ja fez
+[05:48:22] MethødMan: pq se tiver muita agua
+[05:48:29] MethødMan: vai ter q ser maior a puniçao
+[05:48:32] MethødMan: t
+[05:48:33] U.S.G.N.: Ping/State 'playing'
+[05:48:45] MethødMan: mas essa quantidade ta 10/10
+[05:48:48] MethødMan: -8 ne?
+[05:48:51] MethødMan: n ta nem demais
+[05:48:54] MethødMan: nem de menos
+[05:49:03] U.S.G.N.: Serverlist entry updated
+[05:49:04] MethødMan: seta 100 de hp ai
+[05:49:07] MethødMan died
+[05:49:13] MethødMan: speedmod
+[05:49:19] Sagos: -8?
+[05:49:20] MethødMan: s
+[05:49:22] MethødMan: go
+[05:49:33] Sagos: vou colocar -10
+[05:49:33] U.S.G.N.: Ping/State 'playing'
+[05:49:38] Sagos: pronto
+[05:49:42] Sagos: acho que é melhor né?
+[05:49:48] U.S.G.N.: Serverlist entry updated
+[05:49:51] MethødMan: olha o cara tem 15 segundos
+[05:49:57] MethødMan: ta bom
+[05:50:02] MethødMan killed by Morreu afogado
+[05:50:02] MethødMan *Morto*: poe um timer no cantinho
+[05:50:03] Sagos: s acho q da tempo
+[05:50:04] MethødMan *Morto*: oxe
+[05:50:09] generating stats...
+[05:50:09] stats generated in 1 ms!
+[05:50:10] MethødMan: da tempo sim
+[05:50:16] MethødMan: da slow dnv
+[05:50:20] MethødMan: e me fala qnts tiles tem aq
+[05:50:21] Sagos: vou colocar o timer daqui a pouco
+[05:50:32] Sagos: quantos tile aonde?
+[05:50:34] U.S.G.N.: Ping/State 'playing'
+[05:50:34] U.S.G.N.: Serverlist entry updated
+[05:50:36] MethødMan: 11x5
+[05:50:39] MethødMan: 55 tiles
+[05:50:45] MethødMan: vou ver se da pra andar as 55
+[05:51:11] MethødMan: 55 de hp
+[05:51:19] U.S.G.N.: Serverlist entry updated
+[05:51:24] Sagos: da tempo tranquilo ent
+[05:51:29] MethødMan: da pra andar umas 50 tile
+[05:51:34] U.S.G.N.: Ping/State 'playing'
+[05:51:37] Sagos: ah n ser que o Fus faça um oceano kkk
+[05:51:41] MethødMan: 52 tile
+[05:51:46] MethødMan: certin
+[05:51:50] MethødMan: da pra andar 52
+[05:51:53] Sagos: vou dx -10 ent
+[05:52:04] U.S.G.N.: Serverlist entry updated
+[05:52:06] MethødMan: mas assi
+[05:52:08] MethødMan: assim
+[05:52:16] MethødMan: o cara vai ser punidasso por andar na agua
+[05:52:24] MethødMan: pq vai ser facil acertar pipoco nele
+[05:52:35] U.S.G.N.: Ping/State 'playing'
+[05:52:50] U.S.G.N.: Serverlist entry updated
+[05:53:06] Sagos: mas é igual no PUBG
+[05:53:22] Sagos: se vc ficar na agua os cara tbm te mete bala kk
+[05:53:35] U.S.G.N.: Serverlist entry updated
+[05:53:35] U.S.G.N.: Ping/State 'playing'
+[05:53:41] MethødMan: abre console
+[05:53:49] MethødMan: ah tu leu
+[05:53:51] MethødMan: ja volto
+[05:53:59] Sagos: ok
+[05:54:21] U.S.G.N.: Serverlist entry updated
+[05:54:36] U.S.G.N.: Ping/State 'playing'
+[05:55:06] U.S.G.N.: Serverlist entry updated
+[05:55:09] generating stats...
+[05:55:09] stats generated in 0 ms!
+[05:55:36] U.S.G.N.: Ping/State 'playing'
+[05:55:51] U.S.G.N.: Serverlist entry updated
+[05:56:37] U.S.G.N.: Ping/State 'playing'
+[05:56:37] U.S.G.N.: Serverlist entry updated
+[05:57:22] "  (1x)
+[05:57:37] U.S.G.N.: Ping/State 'playing'
+[05:58:00] MethødMan deixou o jogo
+[05:58:07] U.S.G.N.: Serverlist entry updated
+[05:58:38] U.S.G.N.: Ping/State 'playing'
+[05:58:41] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[05:58:42] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[05:58:42] MethødMan conectou-se
+[05:58:42] MethødMan is using IP 191.43.71.50:24169 and U.S.G.N. ID #21825
+[05:58:43] MethødMan juntou-se a Countra-Terrorista Forças
+[05:58:53] U.S.G.N.: Serverlist entry updated
+[05:59:21] MethødMan: ai cara
+[05:59:30] MethødMan killed Sagos with Knife
+[05:59:36] MethødMan: o cuzao
+[05:59:38] U.S.G.N.: Serverlist entry updated
+[05:59:38] U.S.G.N.: Ping/State 'playing'
+[06:00:04] ----- Mapchange -----
+[06:00:04] Starting server...
+[06:00:04] load map 'Battle Royale'
+[06:00:04] ----- Server started -----
+[06:00:04] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:105: unfinished string near '" -10)'
+[06:00:04] U.S.G.N.: Ping/State 'playing'
+[06:00:04] U.S.G.N.: Serverlist entry updated
+[06:00:06] Sagos juntou-se a Countra-Terrorista Forças
+[06:00:09] generating stats...
+[06:00:09] stats generated in 1 ms!
+[06:00:14] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[06:00:15] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[06:00:15] MethødMan conectou-se
+[06:00:15] MethødMan is using IP 191.43.71.50:24169 and U.S.G.N. ID #21825
+[06:00:16] MethødMan juntou-se a Countra-Terrorista Forças
+[06:00:19] MethødMan: Entao mano
+[06:00:22] ----- Mapchange -----
+[06:00:22] Starting server...
+[06:00:22] load map 'Battle Royale'
+[06:00:22] ----- Server started -----
+[06:00:22] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:2352: unfinished string near '" 5)'
+[06:00:22] U.S.G.N.: Serverlist entry updated
+[06:00:24] Sagos juntou-se a Countra-Terrorista Forças
+[06:00:28] U.S.G.N.: Ping/State 'playing'
+[06:00:33] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[06:00:34] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[06:00:34] MethødMan conectou-se
+[06:00:34] MethødMan is using IP 191.43.71.50:24169 and U.S.G.N. ID #21825
+[06:00:35] MethødMan juntou-se a Countra-Terrorista Forças
+[06:00:37] ----- Mapchange -----
+[06:00:37] Starting server...
+[06:00:37] load map 'Battle Royale'
+[06:00:38] ----- Server started -----
+[06:00:38] Lua: Adding function 'falar' to hook 'say'
+[06:00:38] Lua: Adding function 'segundos' to hook 'second'
+[06:00:38] Lua: Adding function 'coletar' to hook 'walkover'
+[06:00:38] Lua: Adding function 'atacar' to hook 'attack'
+[06:00:38] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:00:38] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:00:38] Lua: Adding function 'mymenu' to hook 'menu'
+[06:00:38] Lua: Adding function 'ataque' to hook 'hit'
+[06:00:38] Lua: Adding function 'dropar' to hook 'drop'
+[06:00:38] Lua: Adding function 'mover' to hook 'movetile'
+[06:00:39] U.S.G.N.: Ping/State 'playing'
+[06:00:39] U.S.G.N.: Serverlist entry updated
+[06:00:39] Sagos juntou-se a Countra-Terrorista Forças
+[06:00:48] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[06:00:49] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[06:00:49] MethødMan conectou-se
+[06:00:49] MethødMan is using IP 191.43.71.50:24169 and U.S.G.N. ID #21825
+[06:00:49] MethødMan juntou-se a Countra-Terrorista Forças
+[06:00:53] MethødMan: tenho uma coisa
+[06:00:54] Sagos: mDs bugo pera ae
+[06:00:56] MethødMan: q tu precisa
+[06:00:58] MethødMan: ver
+[06:01:01] Sagos: o q?
+[06:01:02] MethødMan: http://www.unrealsoftware.de/forum_posts.php?post=
+[06:01:04] MethødMan: kek
+[06:01:14] Sagos: n foi o link inteiro
+[06:01:17] Sagos: manda no discord
+[06:01:24] U.S.G.N.: Serverlist entry updated
+[06:01:24] MethødMan: dillimore0196
+[06:01:30] Sagos: Sagos#8954
+[06:01:39] U.S.G.N.: Ping/State 'playing'
+[06:01:52] MethødMan: done
+[06:02:09] U.S.G.N.: Serverlist entry updated
+[06:02:20] Sagos: aceitei
+[06:02:40] U.S.G.N.: Ping/State 'playing'
+[06:02:55] U.S.G.N.: Serverlist entry updated
+[06:03:45] U.S.G.N.: Ping/State 'playing'
+[06:04:25] U.S.G.N.: Serverlist entry updated
+[06:04:46] U.S.G.N.: Ping/State 'playing'
+[06:05:09] generating stats...
+[06:05:09] stats generated in 1 ms!
+[06:05:11] U.S.G.N.: Serverlist entry updated
+[06:05:46] U.S.G.N.: Ping/State 'playing'
+[06:05:56] U.S.G.N.: Serverlist entry updated
+[06:06:05] MethødMan killed by Morreu afogado
+[06:06:41] U.S.G.N.: Serverlist entry updated
+[06:06:47] U.S.G.N.: Ping/State 'playing'
+[06:07:27] U.S.G.N.: Serverlist entry updated
+[06:07:32] MethødMan: o slow ficou
+[06:07:47] U.S.G.N.: Ping/State 'playing'
+[06:08:12] U.S.G.N.: Serverlist entry updated
+[06:08:22] ----- Mapchange -----
+[06:08:22] Starting server...
+[06:08:22] load map 'Battle Royale'
+[06:08:22] ----- Server started -----
+[06:08:22] Lua: Adding function 'falar' to hook 'say'
+[06:08:22] Lua: Adding function 'segundos' to hook 'second'
+[06:08:22] Lua: Adding function 'coletar' to hook 'walkover'
+[06:08:22] Lua: Adding function 'atacar' to hook 'attack'
+[06:08:22] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:08:22] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:08:22] Lua: Adding function 'mymenu' to hook 'menu'
+[06:08:22] Lua: Adding function 'ataque' to hook 'hit'
+[06:08:22] Lua: Adding function 'dropar' to hook 'drop'
+[06:08:22] Lua: Adding function 'mover' to hook 'movetile'
+[06:08:22] U.S.G.N.: Serverlist entry updated
+[06:08:22] U.S.G.N.: Ping/State 'playing'
+[06:08:23] Sagos juntou-se a Countra-Terrorista Forças
+[06:08:32] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[06:08:33] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[06:08:33] MethødMan conectou-se
+[06:08:33] MethødMan is using IP 191.43.71.50:24169 and U.S.G.N. ID #21825
+[06:08:36] MethødMan juntou-se a Terrorista Forças
+[06:08:48] Sagos: '-'
+[06:08:51] MethødMan: kkkkkkkkkkk
+[06:08:53] Sagos: o speed n voltou ao normal kk
+[06:08:55] Sagos: pera ae
+[06:09:08] U.S.G.N.: Serverlist entry updated
+[06:09:12] MethødMan: piao do bau
+[06:09:15] [Info] Você pegou Energético
+[06:09:16] [Info] Você pegou Analgésico
+[06:09:18] [Info] Aguarde 6 segundos para usar Analgésico
+[06:09:23] U.S.G.N.: Ping/State 'playing'
+[06:09:24] [Info] Você usou Analgésico
+[06:09:24] [Info] Aguarde 4 segundos para usar Energético
+[06:09:28] [Info] Você usou Energético
+[06:09:35] MethødMan: acho q aq pega 5 ms
+[06:09:39] MethødMan: com esse fps
+[06:09:43] [Info] Você pegou 15 Balas de Pistola
+[06:09:48] Error: player MethødMan (#2) tries to select weapon which he does not own (wpn id 21)
+[06:09:53] U.S.G.N.: Serverlist entry updated
+[06:10:07] Error: player MethødMan (#2) tries to select weapon which he does not own (wpn id 21)
+[06:10:09] generating stats...
+[06:10:09] stats generated in 1 ms!
+[06:10:23] U.S.G.N.: Ping/State 'playing'
+[06:10:38] U.S.G.N.: Serverlist entry updated
+[06:10:45] [Info] Você equipou Colete 3
+[06:10:45] MethødMan: ficou zika essa lanterna
+[06:10:48] Sagos: s
+[06:10:51] Sagos: tbm achei
+[06:11:09] MethødMan: o traçante
+[06:11:11] MethødMan: ficou do caralho
+[06:11:14] MethødMan: n sei como escreve
+[06:11:24] U.S.G.N.: Ping/State 'playing'
+[06:11:24] U.S.G.N.: Serverlist entry updated
+[06:11:30] MethødMan: faisca
+[06:11:39] MethødMan: ficou mto bom
+[06:11:43] MethødMan: mesmo com grafico no minimo
+[06:11:46] Sagos: as vezes tem das bala tbm
+[06:11:51] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[06:11:52] MethødMan: aq sempre tem
+[06:11:55] [Info] Você pegou 30 Balas de Rifle
+[06:11:56] MethødMan: sempre ricocheteia
+[06:11:58] [Info] Você pegou 30 Balas de Rifle
+[06:12:03] Sagos: como fez isso?
+[06:12:09] U.S.G.N.: Serverlist entry updated
+[06:12:14] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[06:12:17] MethødMan: ai faz isso?
+[06:12:18] Sagos: aki n é sempre
+[06:12:19] [Info] Você pegou 30 Balas de Rifle
+[06:12:19] [Info] Você equipou Famas
+[06:12:21] Sagos: só as vezes
+[06:12:22] [Info] Você pegou 30 Balas de Rifle
+[06:12:24] U.S.G.N.: Ping/State 'playing'
+[06:12:25] [Info] Você pegou 30 Balas de Rifle
+[06:12:27] "  (1x)
+[06:12:30] [Info] Espaço insuficiente para carregar mais itens
+[06:12:32] MethødMan: detalhe de particula
+[06:12:33] MethødMan: muito alto
+[06:12:43] MethødMan: opengl
+[06:12:52] Warning: Restart Game To Apply Graphics Driver Changes!
+[06:12:53] MethødMan:  /equip 2 32
+[06:12:54] U.S.G.N.: Serverlist entry updated
+[06:13:06] Sagos: só preciso reiniciar o jogo agr
+[06:13:12] Sagos: tava DirectX
+[06:13:13] MethødMan: ve se due certo
+[06:13:15] MethødMan: ah
+[06:13:18] MethødMan: eu uso opengl
+[06:13:21] MethødMan: pq meu pc e uma bosta
+[06:13:24] MethødMan: e opengl roda bem
+[06:13:25] U.S.G.N.: Ping/State 'playing'
+[06:13:28] MethødMan: 63 fps
+[06:13:32] MethødMan: pq ta no mapa pequeno
+[06:13:35] Sagos: onde vejo FPS?
+[06:13:39] MethødMan: debug
+[06:13:40] U.S.G.N.: Serverlist entry updated
+[06:13:47] MethødMan:  /debug
+[06:13:53] MethødMan: tem um q deixa ele fixo
+[06:13:55] MethødMan: sempre fica la
+[06:13:56] Sagos: travado em 63
+[06:13:59] MethødMan: igual nas antiga
+[06:14:03] MethødMan: 63 e o limit
+[06:14:04] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[06:14:05] MethødMan: queria tirar
+[06:14:07] MethødMan: mas acho q vai da bug
+[06:14:10] MethødMan: igual aqueles jogos antigos
+[06:14:13] MethødMan: q o fps sobe mto
+[06:14:13] [Info] Você pegou 30 Balas de Rifle
+[06:14:13] [Info] Você equipou Famas
+[06:14:15] MethødMan: e fica aceleradao
+[06:14:16] [Info] Você pegou 30 Balas de Rifle
+[06:14:19] "  (1x)
+[06:14:21] "  (1x)
+[06:14:25] MethødMan: cada facada
+[06:14:25] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:14:25] U.S.G.N.: Serverlist entry updated
+[06:14:25] U.S.G.N.: Ping/State 'playing'
+[06:14:29] MethødMan: voa faisca
+[06:14:32] MethødMan: pra tras
+[06:14:33] Sagos: s
+[06:14:37] Sagos: as facada s
+[06:14:41] Sagos: mas os tiro só as vezes
+[06:14:54] MethødMan: equipa 45 ai
+[06:14:56] Error: player MethødMan (#2) tries to select weapon which he does not own (wpn id 32)
+[06:15:08] MethødMan: de um brilho
+[06:15:09] generating stats...
+[06:15:09] stats generated in 1 ms!
+[06:15:10] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:15:11] U.S.G.N.: Serverlist entry updated
+[06:15:11] MethødMan: agr q percebi
+[06:15:18] Sagos: s 
+[06:15:19] MethødMan: circulo
+[06:15:26] U.S.G.N.: Ping/State 'playing'
+[06:15:27] MethødMan: 47
+[06:15:50] MethødMan: eu percebi q essa bala
+[06:15:51] MethødMan: q fica na ponta
+[06:15:53] MethødMan: n sai
+[06:15:56] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:15:56] U.S.G.N.: Serverlist entry updated
+[06:15:59] MethødMan: so poe uma fumacinha
+[06:16:03] MethødMan: pra fingi q ela sai
+[06:16:08] Sagos: kkkk
+[06:16:11] MethødMan: kkkkkkkkkkkkkkkkk
+[06:16:20] MethødMan: equipa 90
+[06:16:23] MethødMan: pra nos 2
+[06:16:26] U.S.G.N.: Ping/State 'playing'
+[06:16:35] MethødMan: krai
+[06:16:37] MethødMan: n da pra andar
+[06:16:38] MethødMan: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[06:16:41] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:16:41] U.S.G.N.: Serverlist entry updated
+[06:16:43] MethødMan: N Consigo andar
+[06:16:43] Sagos: kkkk
+[06:16:52] MethødMan: agr foi
+[06:16:54] Sagos: pronto
+[06:16:57] Sagos: setei 0 seu speed
+[06:17:03] MethødMan: krl
+[06:17:05] MethødMan: o fps nem abaixa
+[06:17:06] MethødMan: q dlc mano
+[06:17:08] MethødMan: tnc
+[06:17:10] Sagos: slk olha o som de nos 2 atirando kkkkk
+[06:17:24] MethødMan: mano
+[06:17:26] Sagos: kkkkkkkkk
+[06:17:26] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:17:27] U.S.G.N.: Serverlist entry updated
+[06:17:27] U.S.G.N.: Ping/State 'playing'
+[06:17:27] MethødMan: 10/10
+[06:17:33] MethødMan: com fps fixo ainda
+[06:17:36] Sagos: 63 FPS
+[06:17:38] MethødMan: antigamente qnd os sv ia carregar
+[06:17:41] Sagos: aki n vai muda o FPS
+[06:17:41] MethødMan: meu pc travava
+[06:17:43] MethødMan: kkkkkkkkkkkkk
+[06:17:52] MethødMan: era 2k de player se n me engano
+[06:18:12] [Info] Você pegou Analgésico
+[06:18:12] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:18:12] U.S.G.N.: Serverlist entry updated
+[06:18:12] [Info] Você pegou Energético
+[06:18:15] [Info] Aguarde 6 segundos para usar Analgésico
+[06:18:17] [Info] Aguarde, você já está usando um item
+[06:18:20] [Info] Você usou Analgésico
+[06:18:23] [Info] Aguarde 4 segundos para usar Energético
+[06:18:27] [Info] Você usou Energético
+[06:18:27] U.S.G.N.: Ping/State 'playing'
+[06:18:57] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:18:57] U.S.G.N.: Serverlist entry updated
+[06:19:01] MethødMan: equipa flame
+[06:19:04] MethødMan: acho q e 47
+[06:19:14] Sagos: 46*
+[06:19:27] MethødMan: eita porra
+[06:19:28] U.S.G.N.: Ping/State 'playing'
+[06:19:29] Sagos: oloco q da hr
+[06:19:30] MethødMan: n tinha percebido isso
+[06:19:32] Sagos: o calor
+[06:19:35] MethødMan: s
+[06:19:42] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:19:43] U.S.G.N.: Serverlist entry updated
+[06:19:46] MethødMan: queria jogar essa porra
+[06:19:48] MethødMan: com tudo no full
+[06:19:50] MethødMan: ate as sombra
+[06:19:53] MethødMan: kkkkkkkkkkk
+[06:19:58] Sagos: oloco man
+[06:20:03] Sagos: se ta jogando na calculadora? '-'
+[06:20:09] generating stats...
+[06:20:09] stats generated in 1 ms!
+[06:20:17] MethødMan: nem calculadora é
+[06:20:28] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:20:28] U.S.G.N.: Ping/State 'playing'
+[06:20:28] U.S.G.N.: Serverlist entry updated
+[06:20:31] MethødMan: era pra tu tomar dano continuo
+[06:20:40] MethødMan: pegar fogo no rabo
+[06:20:53] Sagos: da pra arrumar isso
+[06:21:02] MethødMan: tem alguma arma pra testar/
+[06:21:05] MethødMan: granada
+[06:21:06] MethødMan: sla
+[06:21:10] MethødMan: molotov
+[06:21:13] MethødMan: airstrike
+[06:21:13] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:21:13] U.S.G.N.: Serverlist entry updated
+[06:21:19] Sagos: pera
+[06:21:29] U.S.G.N.: Ping/State 'playing'
+[06:21:52] ----- Mapchange -----
+[06:21:52] Starting server...
+[06:21:52] load map 'Battle Royale'
+[06:21:52] ----- Server started -----
+[06:21:52] parsing Lua server script (mp_luaserver = 'server.lua')
+[06:21:52] Lua: Adding function 'falar' to hook 'say'
+[06:21:52] Lua: Adding function 'segundos' to hook 'second'
+[06:21:52] Lua: Adding function 'coletar' to hook 'walkover'
+[06:21:52] Lua: Adding function 'atacar' to hook 'attack'
+[06:21:52] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:21:52] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:21:52] Lua: Adding function 'mymenu' to hook 'menu'
+[06:21:52] Lua: Adding function 'ataque' to hook 'hit'
+[06:21:52] Lua: Adding function 'dropar' to hook 'drop'
+[06:21:52] Lua: Adding function 'mover' to hook 'movetile'
+[06:21:52] Lua: Adding function 'flamethrower' to hook 'hit'
+[06:21:52] Lua: Adding function 'queimar' to hook 'always'
+[06:21:52] Minimap: Loaded from cache
+[06:21:52] Avatar: #76561198142001640 (Steam) cache avatar loaded
+[06:21:52] U.S.G.N.: Sending serverlist ADD-request...
+[06:21:52] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[06:21:53] U.S.G.N.: Serverlist entry updated
+[06:21:53] U.S.G.N.: Ping/State 'playing'
+[06:21:53] Sagos juntou-se a Countra-Terrorista Forças
+[06:21:54] Radar: Loaded from cache
+[06:22:02] recv join attempt... (191.43.71.50:24169)
+[06:22:02] MethødMan clientdata: WIN {28cefe3ac30ab30ab5268978955263db4006400}
+[06:22:02] U.S.G.N.: MethødMan (191.43.71.50) joining with U.S.G.N. ID #21825 - verifying...
+[06:22:03] U.S.G.N.: 191.43.71.50 is using U.S.G.N. ID #21825
+[06:22:03] MethødMan conectou-se
+[06:22:03] MethødMan is using IP 191.43.71.50:24169 and U.S.G.N. ID #21825
+[06:22:05] MethødMan juntou-se a Terrorista Forças
+[06:22:14] Sagos: kkk
+[06:22:14] MethødMan: lol
+[06:22:24] MethødMan: mas sera q comba?
+[06:22:32] Sagos: s
+[06:22:34] Sagos killed MethødMan with Flamethrower
+[06:22:36] MethødMan: ai e roubado
+[06:22:38] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:22:38] U.S.G.N.: Serverlist entry updated
+[06:22:40] MethødMan: o dano tem q ser menor
+[06:22:46] MethødMan: vai ter flame no battle royale
+[06:22:49] MethødMan: ou so as armas do pub?
+[06:22:51] Sagos: n
+[06:22:53] U.S.G.N.: Ping/State 'playing'
+[06:22:55] Sagos: só armas do pubg
+[06:23:12] [Info] Você equipou Colete 3
+[06:23:14] [Info] Você pegou Kit Full
+[06:23:15] [Info] Você pegou Energético
+[06:23:15] [Info] Você pegou Analgésico
+[06:23:17] [Info] Aguarde 4 segundos para usar Energético
+[06:23:20] [Info] Você usou Energético
+[06:23:21] [Info] Aguarde 6 segundos para usar Analgésico
+[06:23:23] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:23:23] U.S.G.N.: Serverlist entry updated
+[06:23:26] [Info] Você usou Analgésico
+[06:23:27] MethødMan killed Sagos with Flamethrower
+[06:23:33] MethødMan: klr virei um spinner
+[06:23:40] [Info] Você já possui um colete igual ou melhor
+[06:23:46] MethødMan died
+[06:23:51] MethødMan: ta lento
+[06:23:54] U.S.G.N.: Ping/State 'playing'
+[06:23:58] Sagos: lógico
+[06:24:02] Sagos: to usando a mão
+[06:24:05] MethødMan: kkkkkkkkkkkkk
+[06:24:09] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:24:09] U.S.G.N.: Serverlist entry updated
+[06:24:54] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:24:54] U.S.G.N.: Serverlist entry updated
+[06:24:54] U.S.G.N.: Ping/State 'playing'
+[06:25:04] MethødMan: ffffffffffffffffffffffffffffffffffffffffffffffffff
+[06:25:05] MethødMan: ffffffffffffffffffffffffffffffffffff
+[06:25:09] generating stats...
+[06:25:09] stats generated in 1 ms!
+[06:25:10] MethødMan: ffffffffffffffffffff
+[06:25:16] Sagos: kkkk
+[06:25:17] MethødMan: ffffffffffffffffffffffffffffffffffffffffffffffffff
+[06:25:19] MethødMan: fffffffffffffffffffffffffffffffffffffffaffsfffffff
+[06:25:28] MethødMan: fffffffffffffffffffffffffffffffffff
+[06:25:39] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:25:40] U.S.G.N.: Serverlist entry updated
+[06:25:50] MethødMan: ffffffffffffffffffffffffffffffffff
+[06:25:52] "  (1x)
+[06:25:55] U.S.G.N.: Ping/State 'playing'
+[06:25:55] Sagos killed MethødMan with Knife
+[06:25:58] MethødMan *Morto*: coloquei
+[06:25:59] [Info] Você pegou Kit Full
+[06:25:59] [Info] Você pegou Kit Médico
+[06:26:00] [Info] Você pegou Analgésico
+[06:26:00] MethødMan *Morto*: 1 ms
+[06:26:00] [Info] Você pegou Energético
+[06:26:02] MethødMan: nem vai
+[06:26:06] MethødMan: askysopakypoas
+[06:26:12] Sagos: o meu é o teclado
+[06:26:17] Sagos: n tenho programa
+[06:26:25] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:26:55] U.S.G.N.: Ping/State 'playing'
+[06:26:59] [Info] Você pegou Energético
+[06:26:59] [Info] Você pegou Analgésico
+[06:27:02] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[06:27:10] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:27:10] U.S.G.N.: Serverlist entry updated
+[06:27:55] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:27:56] U.S.G.N.: Ping/State 'playing'
+[06:27:56] U.S.G.N.: Serverlist entry updated
+[06:28:13] MethødMan: ta ae?
+[06:28:16] MethødMan: ?
+[06:28:29] MethødMan: ou
+[06:28:41] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:28:41] U.S.G.N.: Serverlist entry updated
+[06:28:56] U.S.G.N.: Ping/State 'playing'
+[06:29:00] MethødMan deixou o jogo
+[06:29:17] ----- Mapchange -----
+[06:29:17] Starting server...
+[06:29:17] load map 'Battle Royale'
+[06:29:17] ----- Server started -----
+[06:29:17] parsing Lua server script (mp_luaserver = 'server.lua')
+[06:29:17] Lua: Adding function 'falar' to hook 'say'
+[06:29:17] Lua: Adding function 'segundos' to hook 'second'
+[06:29:17] Lua: Adding function 'coletar' to hook 'walkover'
+[06:29:17] Lua: Adding function 'atacar' to hook 'attack'
+[06:29:17] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:29:17] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:29:17] Lua: Adding function 'mymenu' to hook 'menu'
+[06:29:17] Lua: Adding function 'ataque' to hook 'hit'
+[06:29:17] Lua: Adding function 'dropar' to hook 'drop'
+[06:29:17] Lua: Adding function 'mover' to hook 'movetile'
+[06:29:17] Minimap: Loaded from cache
+[06:29:17] U.S.G.N.: Sending serverlist ADD-request...
+[06:29:17] U.S.G.N.: Serverlist entry updated
+[06:29:17] U.S.G.N.: Ping/State 'playing'
+[06:29:17] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[06:29:18] Sagos juntou-se a Countra-Terrorista Forças
+[06:29:18] Radar: Loaded from cache
+[06:29:37] [Info] Você pegou Energético
+[06:29:37] [Info] Você pegou Analgésico
+[06:29:40] [Info] Aguarde 4 segundos para usar Energético
+[06:29:44] [Info] Você usou Energético
+[06:29:49] [Info] Aguarde 6 segundos para usar Analgésico
+[06:29:54] [Info] Você usou Analgésico
+[06:30:02] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:30:03] U.S.G.N.: Serverlist entry updated
+[06:30:09] generating stats...
+[06:30:09] stats generated in 1 ms!
+[06:30:18] U.S.G.N.: Ping/State 'playing'
+[06:30:48] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:30:48] U.S.G.N.: Serverlist entry updated
+[06:31:18] U.S.G.N.: Ping/State 'playing'
+[06:31:33] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:31:33] U.S.G.N.: Serverlist entry updated
+[06:32:18] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:32:19] U.S.G.N.: Ping/State 'playing'
+[06:32:19] U.S.G.N.: Serverlist entry updated
+[06:33:04] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:33:04] U.S.G.N.: Serverlist entry updated
+[06:33:19] U.S.G.N.: Ping/State 'playing'
+[06:33:49] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:33:49] U.S.G.N.: Serverlist entry updated
+[06:34:20] U.S.G.N.: Ping/State 'playing'
+[06:34:35] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:34:35] U.S.G.N.: Serverlist entry updated
+[06:35:09] generating stats...
+[06:35:09] stats generated in 1 ms!
+[06:35:20] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:35:20] U.S.G.N.: Ping/State 'playing'
+[06:35:20] U.S.G.N.: Serverlist entry updated
+[06:36:05] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:36:06] U.S.G.N.: Serverlist entry updated
+[06:36:21] U.S.G.N.: Ping/State 'playing'
+[06:36:51] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:36:51] U.S.G.N.: Serverlist entry updated
+[06:37:21] U.S.G.N.: Ping/State 'playing'
+[06:37:36] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:37:36] U.S.G.N.: Serverlist entry updated
+[06:38:21] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:38:22] U.S.G.N.: Ping/State 'playing'
+[06:38:22] U.S.G.N.: Serverlist entry updated
+[06:39:07] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:39:07] U.S.G.N.: Serverlist entry updated
+[06:39:22] U.S.G.N.: Ping/State 'playing'
+[06:39:52] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:39:52] U.S.G.N.: Serverlist entry updated
+[06:40:09] generating stats...
+[06:40:09] stats generated in 1 ms!
+[06:40:23] U.S.G.N.: Ping/State 'playing'
+[06:40:37] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:40:38] U.S.G.N.: Serverlist entry updated
+[06:41:23] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:41:23] U.S.G.N.: Ping/State 'playing'
+[06:41:23] U.S.G.N.: Serverlist entry updated
+[06:42:08] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:42:08] U.S.G.N.: Serverlist entry updated
+[06:42:24] U.S.G.N.: Ping/State 'playing'
+[06:42:54] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:42:54] U.S.G.N.: Serverlist entry updated
+[06:43:24] U.S.G.N.: Ping/State 'playing'
+[06:43:39] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:43:39] U.S.G.N.: Serverlist entry updated
+[06:44:24] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:44:25] U.S.G.N.: Ping/State 'playing'
+[06:44:25] U.S.G.N.: Serverlist entry updated
+[06:45:09] generating stats...
+[06:45:09] stats generated in 1 ms!
+[06:45:10] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:45:10] U.S.G.N.: Serverlist entry updated
+[06:45:25] U.S.G.N.: Ping/State 'playing'
+[06:45:55] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:45:55] U.S.G.N.: Serverlist entry updated
+[06:46:25] U.S.G.N.: Ping/State 'playing'
+[06:46:40] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:46:41] U.S.G.N.: Serverlist entry updated
+[06:47:26] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:47:26] U.S.G.N.: Ping/State 'playing'
+[06:47:26] U.S.G.N.: Serverlist entry updated
+[06:48:11] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:48:11] U.S.G.N.: Serverlist entry updated
+[06:48:26] U.S.G.N.: Ping/State 'playing'
+[06:48:56] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:48:57] U.S.G.N.: Serverlist entry updated
+[06:49:27] U.S.G.N.: Ping/State 'playing'
+[06:49:42] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:49:42] U.S.G.N.: Serverlist entry updated
+[06:50:09] generating stats...
+[06:50:09] stats generated in 1 ms!
+[06:50:27] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:50:27] U.S.G.N.: Ping/State 'playing'
+[06:50:27] U.S.G.N.: Serverlist entry updated
+[06:51:13] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:51:13] U.S.G.N.: Serverlist entry updated
+[06:51:28] U.S.G.N.: Ping/State 'playing'
+[06:51:58] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:51:58] U.S.G.N.: Serverlist entry updated
+[06:52:28] U.S.G.N.: Ping/State 'playing'
+[06:52:43] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:52:44] U.S.G.N.: Serverlist entry updated
+[06:53:26] ----- Mapchange -----
+[06:53:26] Starting server...
+[06:53:26] load map 'Battle Royale'
+[06:53:26] ----- Server started -----
+[06:53:26] parsing Lua server script (mp_luaserver = 'server.lua')
+[06:53:26] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:80: '=' expected near 'a'
+[06:53:26] Minimap: Loaded from cache
+[06:53:27] U.S.G.N.: Sending serverlist ADD-request...
+[06:53:27] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[06:53:27] U.S.G.N.: Serverlist entry updated
+[06:53:27] U.S.G.N.: Ping/State 'playing'
+[06:53:28] Sagos juntou-se a Countra-Terrorista Forças
+[06:53:28] Radar: Loaded from cache
+[06:53:43] ----- Mapchange -----
+[06:53:43] Starting server...
+[06:53:43] load map 'Battle Royale'
+[06:53:43] ----- Server started -----
+[06:53:43] parsing Lua server script (mp_luaserver = 'server.lua')
+[06:53:43] Lua: Adding function 'falar' to hook 'say'
+[06:53:43] Lua: Adding function 'segundos' to hook 'second'
+[06:53:43] Lua: Adding function 'coletar' to hook 'walkover'
+[06:53:43] Lua: Adding function 'atacar' to hook 'attack'
+[06:53:43] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:53:43] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:53:43] Lua: Adding function 'mymenu' to hook 'menu'
+[06:53:43] Lua: Adding function 'ataque' to hook 'hit'
+[06:53:43] Lua: Adding function 'dropar' to hook 'drop'
+[06:53:43] Lua: Adding function 'mover' to hook 'movetile'
+[06:53:43] Minimap: Loaded from cache
+[06:53:44] U.S.G.N.: Sending serverlist ADD-request...
+[06:53:44] U.S.G.N.: Ping/State 'playing'
+[06:53:44] U.S.G.N.: Serverlist entry updated
+[06:53:44] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[06:53:45] Sagos juntou-se a Countra-Terrorista Forças
+[06:53:45] Radar: Loaded from cache
+[06:54:29] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:54:29] U.S.G.N.: Serverlist entry updated
+[06:54:37] [Info] Você pegou Energético
+[06:54:38] [Info] Você pegou Analgésico
+[06:54:42] [Info] Aguarde 6 segundos para usar Analgésico
+[06:54:44] U.S.G.N.: Ping/State 'playing'
+[06:54:47] [Info] Você usou Analgésico
+[06:54:48] [Info] Aguarde 4 segundos para usar Energético
+[06:54:51] [Info] Você usou Energético
+[06:55:09] generating stats...
+[06:55:09] stats generated in 1 ms!
+[06:55:14] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:55:15] U.S.G.N.: Serverlist entry updated
+[06:55:45] U.S.G.N.: Ping/State 'playing'
+[06:56:00] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:56:00] U.S.G.N.: Serverlist entry updated
+[06:56:37] ----- Mapchange -----
+[06:56:37] Starting server...
+[06:56:37] load map 'Battle Royale'
+[06:56:37] ----- Server started -----
+[06:56:37] parsing Lua server script (mp_luaserver = 'server.lua')
+[06:56:37] Lua: Adding function 'falar' to hook 'say'
+[06:56:37] Lua: Adding function 'segundos' to hook 'second'
+[06:56:37] Lua: Adding function 'coletar' to hook 'walkover'
+[06:56:37] Lua: Adding function 'atacar' to hook 'attack'
+[06:56:37] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:56:37] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:56:37] Lua: Adding function 'mymenu' to hook 'menu'
+[06:56:37] Lua: Adding function 'ataque' to hook 'hit'
+[06:56:37] Lua: Adding function 'dropar' to hook 'drop'
+[06:56:37] Lua: Adding function 'mover' to hook 'movetile'
+[06:56:37] Minimap: Loaded from cache
+[06:56:37] U.S.G.N.: Sending serverlist ADD-request...
+[06:56:37] U.S.G.N.: Serverlist entry updated
+[06:56:37] U.S.G.N.: Ping/State 'playing'
+[06:56:37] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[06:56:38] Sagos juntou-se a Countra-Terrorista Forças
+[06:56:38] Radar: Loaded from cache
+[06:57:22] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:57:23] U.S.G.N.: Serverlist entry updated
+[06:57:30] ----- Mapchange -----
+[06:57:30] Starting server...
+[06:57:30] load map 'Battle Royale'
+[06:57:30] ----- Server started -----
+[06:57:30] parsing Lua server script (mp_luaserver = 'server.lua')
+[06:57:30] Lua: Adding function 'falar' to hook 'say'
+[06:57:30] Lua: Adding function 'segundos' to hook 'second'
+[06:57:30] Lua: Adding function 'coletar' to hook 'walkover'
+[06:57:30] Lua: Adding function 'atacar' to hook 'attack'
+[06:57:30] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:57:30] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:57:30] Lua: Adding function 'mymenu' to hook 'menu'
+[06:57:30] Lua: Adding function 'ataque' to hook 'hit'
+[06:57:30] Lua: Adding function 'dropar' to hook 'drop'
+[06:57:30] Lua: Adding function 'mover' to hook 'movetile'
+[06:57:30] Minimap: Loaded from cache
+[06:57:31] U.S.G.N.: Sending serverlist ADD-request...
+[06:57:31] U.S.G.N.: Ping/State 'playing'
+[06:57:31] U.S.G.N.: Serverlist entry updated
+[06:57:31] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[06:57:33] Sagos juntou-se a Countra-Terrorista Forças
+[06:57:33] Radar: Loaded from cache
+[06:57:58] Servidor Desligado
+[06:57:59] U.S.G.N.: Sending serverlist DELETE-request...
+[06:57:59] U.S.G.N.: Server removed from serverlist
+[06:57:59] ----- Disconnected -----
+[06:58:00] U.S.G.N.: Ping/State 'idle' (272 ms)
+[06:58:10] Starting server...
+[06:58:10] load map 'Battle Royale'
+[06:58:10] ----- Server started -----
+[06:58:10] parsing Lua server script (mp_luaserver = 'server.lua')
+[06:58:10] Lua: Adding function 'falar' to hook 'say'
+[06:58:10] Lua: Adding function 'segundos' to hook 'second'
+[06:58:10] Lua: Adding function 'coletar' to hook 'walkover'
+[06:58:10] Lua: Adding function 'atacar' to hook 'attack'
+[06:58:10] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:58:10] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:58:10] Lua: Adding function 'mymenu' to hook 'menu'
+[06:58:10] Lua: Adding function 'ataque' to hook 'hit'
+[06:58:10] Lua: Adding function 'dropar' to hook 'drop'
+[06:58:10] Lua: Adding function 'mover' to hook 'movetile'
+[06:58:10] Minimap: Loaded from cache
+[06:58:11] U.S.G.N.: Sending serverlist ADD-request...
+[06:58:11] U.S.G.N.: Server added to serverlist
+[06:58:11] U.S.G.N.: Ping/State 'playing'
+[06:58:11] Sagos juntou-se a Countra-Terrorista Forças
+[06:58:12] Radar: Loaded from cache
+[06:58:36] Sagos killed by Morreu afogado
+[06:58:56] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:58:56] U.S.G.N.: Serverlist entry updated
+[06:59:06] ----- Mapchange -----
+[06:59:06] Starting server...
+[06:59:06] load map 'Battle Royale'
+[06:59:06] ----- Server started -----
+[06:59:06] parsing Lua server script (mp_luaserver = 'server.lua')
+[06:59:06] Lua: Adding function 'falar' to hook 'say'
+[06:59:06] Lua: Adding function 'segundos' to hook 'second'
+[06:59:06] Lua: Adding function 'coletar' to hook 'walkover'
+[06:59:06] Lua: Adding function 'atacar' to hook 'attack'
+[06:59:06] Lua: Adding function 'atacar2' to hook 'attack2'
+[06:59:06] Lua: Adding function 'teclas' to hook 'serveraction'
+[06:59:06] Lua: Adding function 'mymenu' to hook 'menu'
+[06:59:06] Lua: Adding function 'ataque' to hook 'hit'
+[06:59:06] Lua: Adding function 'dropar' to hook 'drop'
+[06:59:06] Lua: Adding function 'mover' to hook 'movetile'
+[06:59:06] Minimap: Loaded from cache
+[06:59:06] U.S.G.N.: Sending serverlist ADD-request...
+[06:59:07] U.S.G.N.: Serverlist entry updated
+[06:59:07] U.S.G.N.: Ping/State 'playing'
+[06:59:07] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[06:59:08] Sagos juntou-se a Countra-Terrorista Forças
+[06:59:08] Radar: Loaded from cache
+[06:59:13] [Info] Você pegou Energético
+[06:59:13] [Info] Você pegou Analgésico
+[06:59:16] [Info] Você equipou Colete 3
+[06:59:24] [Info] Aguarde 4 segundos para usar Energético
+[06:59:28] [Info] Você usou Energético
+[06:59:46] [Info] Aguarde 6 segundos para usar Analgésico
+[06:59:52] [Info] Você usou Analgésico
+[06:59:52] U.S.G.N.: Sending serverlist UPDATE-request...
+[06:59:52] U.S.G.N.: Serverlist entry updated
+[07:00:07] U.S.G.N.: Ping/State 'playing'
+[07:00:37] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:00:37] U.S.G.N.: Serverlist entry updated
+[07:01:10] generating stats...
+[07:01:10] stats generated in 1 ms!
+[07:01:13] U.S.G.N.: Ping/State 'playing'
+[07:01:15] [Info] Você pegou 15 Balas de Pistola
+[07:01:17] [Info] Você pegou Analgésico
+[07:01:17] [Info] Você pegou Energético
+[07:01:22] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:01:23] U.S.G.N.: Serverlist entry updated
+[07:01:25] [Info] Aguarde 6 segundos para usar Analgésico
+[07:01:30] [Info] Você usou Analgésico
+[07:02:08] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:02:08] U.S.G.N.: Serverlist entry updated
+[07:02:13] U.S.G.N.: Ping/State 'playing'
+[07:02:35] ----- Mapchange -----
+[07:02:35] Starting server...
+[07:02:35] load map 'Battle Royale'
+[07:02:35] ----- Server started -----
+[07:02:35] parsing Lua server script (mp_luaserver = 'server.lua')
+[07:02:35] Lua: Adding function 'falar' to hook 'say'
+[07:02:35] Lua: Adding function 'segundos' to hook 'second'
+[07:02:35] Lua: Adding function 'coletar' to hook 'walkover'
+[07:02:35] Lua: Adding function 'atacar' to hook 'attack'
+[07:02:35] Lua: Adding function 'atacar2' to hook 'attack2'
+[07:02:35] Lua: Adding function 'teclas' to hook 'serveraction'
+[07:02:35] Lua: Adding function 'mymenu' to hook 'menu'
+[07:02:35] Lua: Adding function 'ataque' to hook 'hit'
+[07:02:35] Lua: Adding function 'dropar' to hook 'drop'
+[07:02:35] Lua: Adding function 'mover' to hook 'movetile'
+[07:02:35] Minimap: Loaded from cache
+[07:02:36] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[07:02:36] U.S.G.N.: Sending serverlist ADD-request...
+[07:02:36] U.S.G.N.: Serverlist entry updated
+[07:02:36] U.S.G.N.: Ping/State 'playing'
+[07:02:38] Sagos juntou-se a Countra-Terrorista Forças
+[07:02:38] Radar: Loaded from cache
+[07:03:01] Sagos killed by Morreu afogado
+[07:03:03] ----- Mapchange -----
+[07:03:03] Starting server...
+[07:03:03] load map 'Battle Royale'
+[07:03:03] ----- Server started -----
+[07:03:03] parsing Lua server script (mp_luaserver = 'server.lua')
+[07:03:03] Lua: Adding function 'falar' to hook 'say'
+[07:03:03] Lua: Adding function 'segundos' to hook 'second'
+[07:03:03] Lua: Adding function 'coletar' to hook 'walkover'
+[07:03:03] Lua: Adding function 'atacar' to hook 'attack'
+[07:03:03] Lua: Adding function 'atacar2' to hook 'attack2'
+[07:03:03] Lua: Adding function 'teclas' to hook 'serveraction'
+[07:03:03] Lua: Adding function 'mymenu' to hook 'menu'
+[07:03:03] Lua: Adding function 'ataque' to hook 'hit'
+[07:03:03] Lua: Adding function 'dropar' to hook 'drop'
+[07:03:03] Lua: Adding function 'mover' to hook 'movetile'
+[07:03:04] Minimap: Loaded from cache
+[07:03:04] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[07:03:04] U.S.G.N.: Sending serverlist ADD-request...
+[07:03:05] U.S.G.N.: Ping/State 'playing'
+[07:03:05] U.S.G.N.: Serverlist entry updated
+[07:03:05] Sagos juntou-se a Countra-Terrorista Forças
+[07:03:05] Radar: Loaded from cache
+[07:03:28] Sagos killed by Morreu afogado
+[07:03:50] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:03:50] U.S.G.N.: Serverlist entry updated
+[07:04:05] U.S.G.N.: Ping/State 'playing'
+[07:04:35] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:04:35] U.S.G.N.: Serverlist entry updated
+[07:05:05] U.S.G.N.: Ping/State 'playing'
+[07:05:17] ----- Mapchange -----
+[07:05:17] Starting server...
+[07:05:17] load map 'Battle Royale'
+[07:05:17] ----- Server started -----
+[07:05:17] parsing Lua server script (mp_luaserver = 'server.lua')
+[07:05:17] Lua: Adding function 'falar' to hook 'say'
+[07:05:17] Lua: Adding function 'segundos' to hook 'second'
+[07:05:17] Lua: Adding function 'coletar' to hook 'walkover'
+[07:05:17] Lua: Adding function 'atacar' to hook 'attack'
+[07:05:17] Lua: Adding function 'atacar2' to hook 'attack2'
+[07:05:17] Lua: Adding function 'teclas' to hook 'serveraction'
+[07:05:17] Lua: Adding function 'mymenu' to hook 'menu'
+[07:05:17] Lua: Adding function 'ataque' to hook 'hit'
+[07:05:17] Lua: Adding function 'dropar' to hook 'drop'
+[07:05:17] Lua: Adding function 'mover' to hook 'movetile'
+[07:05:17] Minimap: Loaded from cache
+[07:05:17] U.S.G.N.: Sending serverlist ADD-request...
+[07:05:17] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[07:05:18] U.S.G.N.: Ping/State 'playing'
+[07:05:18] U.S.G.N.: Serverlist entry updated
+[07:05:18] Sagos juntou-se a Countra-Terrorista Forças
+[07:05:19] Radar: Loaded from cache
+[07:05:46] Sagos killed by Morreu afogado
+[07:06:03] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:06:03] U.S.G.N.: Serverlist entry updated
+[07:06:10] generating stats...
+[07:06:10] stats generated in 1 ms!
+[07:06:18] U.S.G.N.: Ping/State 'playing'
+[07:06:48] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:06:48] U.S.G.N.: Serverlist entry updated
+[07:07:18] U.S.G.N.: Ping/State 'playing'
+[07:07:33] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:07:34] U.S.G.N.: Serverlist entry updated
+[07:08:19] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:08:19] U.S.G.N.: Serverlist entry updated
+[07:08:19] U.S.G.N.: Ping/State 'playing'
+[07:09:04] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:09:04] U.S.G.N.: Serverlist entry updated
+[07:09:19] U.S.G.N.: Ping/State 'playing'
+[07:09:49] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:09:50] U.S.G.N.: Serverlist entry updated
+[07:10:20] U.S.G.N.: Ping/State 'playing'
+[07:10:35] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:10:35] U.S.G.N.: Serverlist entry updated
+[07:11:01] ----- Mapchange -----
+[07:11:01] Starting server...
+[07:11:01] load map 'Battle Royale'
+[07:11:01] ----- Server started -----
+[07:11:01] parsing Lua server script (mp_luaserver = 'server.lua')
+[07:11:01] Lua: Adding function 'falar' to hook 'say'
+[07:11:01] Lua: Adding function 'segundos' to hook 'second'
+[07:11:01] Lua: Adding function 'coletar' to hook 'walkover'
+[07:11:01] Lua: Adding function 'atacar' to hook 'attack'
+[07:11:01] Lua: Adding function 'atacar2' to hook 'attack2'
+[07:11:01] Lua: Adding function 'teclas' to hook 'serveraction'
+[07:11:01] Lua: Adding function 'mymenu' to hook 'menu'
+[07:11:01] Lua: Adding function 'ataque' to hook 'hit'
+[07:11:01] Lua: Adding function 'dropar' to hook 'drop'
+[07:11:01] Lua: Adding function 'mover' to hook 'movetile'
+[07:11:01] Minimap: Loaded from cache
+[07:11:01] U.S.G.N.: Sending serverlist ADD-request...
+[07:11:01] Avatar: #76561198077078199 (Steam) cache avatar loaded
+[07:11:01] U.S.G.N.: Ping/State 'playing'
+[07:11:01] U.S.G.N.: Serverlist entry updated
+[07:11:02] Sagos juntou-se a Countra-Terrorista Forças
+[07:11:02] Radar: Loaded from cache
+[07:11:10] generating stats...
+[07:11:10] stats generated in 2 ms!
+[07:11:32] [Info] Você equipou Colete 3
+[07:11:33] [Info] Você pegou Ligadura
+[07:11:35] [Info] Você pegou Analgésico
+[07:11:35] [Info] Você pegou Energético
+[07:11:38] [Info] Você pegou 30 Balas de Rifle
+[07:11:46] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:11:47] U.S.G.N.: Serverlist entry updated
+[07:12:02] U.S.G.N.: Ping/State 'playing'
+[07:12:32] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:12:32] U.S.G.N.: Serverlist entry updated
+[07:13:02] U.S.G.N.: Ping/State 'playing'
+[07:13:17] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:13:18] U.S.G.N.: Serverlist entry updated
+[07:13:36] [Info] Você pegou Energético
+[07:13:36] [Info] Você pegou Analgésico
+[07:13:42] [Info] Aguarde 4 segundos para usar Energético
+[07:13:45] [Info] Você usou Energético
+[07:14:02] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:14:13] U.S.G.N.: Ping/State 'playing'
+[07:14:48] U.S.G.N.: Sending serverlist UPDATE-request...
+[07:14:48] U.S.G.N.: Serverlist entry updated
+[07:15:10] Servidor Desligado
+[07:15:10] U.S.G.N.: Sending serverlist DELETE-request...
+[07:15:10] U.S.G.N.: Server removed from serverlist
+[07:15:10] ----- Disconnected -----
+[07:15:12] U.S.G.N.: Ping/State 'idle' (784 ms)

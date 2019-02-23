@@ -1,0 +1,202 @@
+CS2D 1.0.0.5 Logfile - 21 Nov 2017, 17:35:56
+
+[17:35:56] UDP socket initialized using port 36963
+[17:35:57] U.S.G.N.: Your game version is up to date!
+[17:35:57] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[17:35:59] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[17:36:00] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[17:36:32] Cached servers added to list: 19
+[17:36:32] U.S.G.N.: Received serverlist (servers: 78)
+[17:36:32] U.S.G.N.: Received serverlist (servers: 150)
+[17:36:34] Connecting to 31.202.128.250:36963 (using U.S.G.N. ID #15431) ...
+[17:36:35] U.S.G.N.: Ping/State 'idle' (512 ms)
+[17:36:35] U.S.G.N.: Ping/State 'idle' (528 ms)
+[17:36:36] Checking 'gfx/tiles/best.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/de_vantage/humvee.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/truck.bmp': Already exists.
+[17:36:36] Checking 'gfx/sprites/car.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/de_vantage/umbrella1.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/de_vantage/umbrella2.png': Already exists.
+[17:36:36] Checking 'gfx/weapons/satchelcharge.bmp': Already exists.
+[17:36:36] Checking 'gfx/weapons/ak47_d.bmp': Already exists.
+[17:36:36] Checking 'gfx/sprites/table.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/table3.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/pizza.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/newstand.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/bench_shadow.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/bench.png': Already exists.
+[17:36:36] Checking 'sfx/env/click2.wav': Already exists.
+[17:36:36] Checking 'sfx/doors/doormove5.wav': Already exists.
+[17:36:36] Checking 'gfx/sprites/de_vantage/roof2.png': Already exists.
+[17:36:36] Checking 'gfx/sprites/tree01.bmp': Already exists.
+[17:36:36] Checking 'sfx/env/fire_medium_loop1.wav': Already exists.
+[17:36:36] Checking 'gfx/battle_royale/crate_black.png': Already exists.
+[17:36:36] Checking 'gfx/battle_royale/crate_gray.png': Already exists.
+[17:36:36] Checking 'gfx/battle_royale/crate_green.png': Already exists.
+[17:36:36] Checking 'gfx/battle_royale/crate_orange.png': Already exists.
+[17:36:36] Checking 'gfx/battle_royale/crate_purple.png': Already exists.
+[17:36:36] Checking 'gfx/battle_royale/crate_white.png': Already exists.
+[17:36:36] Checking 'sfx/battle_royale/ds.ogg': Does not exist. Request transfer!
+[17:36:36] Checking 'gfx/block.bmp': Already exists.
+[17:36:36] Checking 'maps/bg_foes_v3.1.map': Does not exist. Request transfer!
+[17:36:36] Requesting 2 files from server...
+[17:36:36] Downloading 'sfx/battle_royale/ds.ogg' from server...
+[17:36:37] Created directory 'sfx/battle_royale' for received files
+[17:36:37] Downloading 'maps/bg_foes_v3.1.map' from server...
+[17:36:38] load map 'bg_foes_v3.1'
+[17:36:40] ----- Server joined -----
+[17:36:41] U.S.G.N.: Ping/State 'playing'
+[17:36:41] JÃKR ZireyK killed Wanderer00 with M3
+[17:36:41] JÃKR ZireyK had advanced 1 level(s)! They are now level 11!
+[17:36:43] Fasttt conectou-se
+[17:36:46] Sagos juntou-se a Countra-Terrorista Forças
+[17:36:47] Fasttt juntou-se a Terrorista Forças
+[17:36:54] DimAn killed Phoro with P90
+[17:36:54] JÃKR ZireyK killed DimAn with M3
+[17:36:54] JÃKR ZireyK had advanced 1 level(s)! They are now level 12!
+[17:37:07] IvBR killed JÃKR ZireyK with MP5
+[17:37:07] IvBR had advanced 2 level(s)! They are now level 11!
+[17:37:16] IvBR killed Wisniewski with MP5
+[17:37:16] IvBR had advanced 1 level(s)! They are now level 12!
+[17:37:16] IvBR had advanced 2 level(s)! They are now level 14!
+[17:37:16] IvBR has WON the game!
+[17:37:16] Round Restart in 5 sec
+[17:37:18] pubg expert!! *Morto*: lolol
+[17:37:32] Item(s) found: Snowball
+[17:37:35] DimAn killed IvBR with SG552
+[17:37:39] zhezha.minotavr.1978 conectou-se
+[17:37:43] U.S.G.N.: Ping/State 'playing'
+[17:37:49] null': cade vc
+[17:37:50] Fasttt killed N3vR0NsRU:3 with USP
+[17:37:52] null': sagos
+[17:37:56] Sagos: sla onde eu to '-'
+[17:37:56] N3vR0NsRU:3 deixou o jogo
+[17:37:56] Sugar__ conectou-se
+[17:37:59] null': aslkdas
+[17:38:01] zhezha.minotavr.1978 deixou o jogo
+[17:38:01] pubg expert!! killed Fasttt with Galil
+[17:38:03] DimAn killed Phoro with SG552
+[17:38:03] DimAn had advanced 1 level(s)! They are now level 37!
+[17:38:04] Item(s) found: TMP
+[17:38:06] JÃKR ZireyK killed allex.carlos with USP
+[17:38:07] IvBR *Morto*: alguem br ???
+[17:38:14] StirlizZ juntou-se a Countra-Terrorista Forças
+[17:38:18] null': aqui
+[17:38:24] JÃKR ZireyK killed pubg expert!! with USP
+[17:38:24] JÃKR ZireyK had advanced 1 level(s)! They are now level 13!
+[17:38:31] DimAn killed Wisniewski with SG552
+[17:38:33] IvBR *Morto*: add
+[17:38:38] DimAn killed Sagos with SG552
+[17:38:38] k¦DimAn¦35¦206
+[17:38:39] DimAn killed null' with SG552
+[17:38:39] DimAn had advanced 1 level(s)! They are now level 38!
+[17:38:41] null' *Morto*: asdaska
+[17:38:43] U.S.G.N.: Ping/State 'playing'
+[17:38:46] JÃKR ZireyK killed Wanderer00 with Galil
+[17:38:46] JÃKR ZireyK had advanced 2 level(s)! They are now level 15!
+[17:38:50] null' *Morto*: add ai
+[17:38:55] Wisniewski *Morto*: rank
+[17:38:55] r¦Wisniewski¦102 of 2988¦56,56,48,1.16,1 h 19 m
+[17:38:55] IvBR *Morto*: nao sei 
+[17:38:55] StirlizZ *Morto*: which ai
+[17:39:02] Sagos *Morto*: kkkkkk esse gas é mt nada a ver
+[17:39:02] IvBR *Morto*: rank
+[17:39:02] r¦IvBR¦2948 of 2988¦20,20,45,0.44,57 m 2 s
+[17:39:07] null' *Morto*: S
+[17:39:09] null' *Morto*: BIZARRO
+[17:39:11] null' *Morto*: kkkkkkk
+[17:39:17] null' *Morto*: A rapidao
+[17:39:19] pubg expert!! votos para kickar DimAn
+[17:39:19] null' *Morto*: pra vim
+[17:39:25] DimAn killed JÃKR ZireyK with Molotov Cocktail
+[17:39:25] DimAn had advanced 1 level(s)! They are now level 39!
+[17:39:25] DimAn has WON the game!
+[17:39:25] Round Restart in 5 sec
+[17:39:28] DimAn killed himself with Molotov Cocktail
+[17:39:28] Wisniewski votos para kickar DimAn
+[17:39:31] DimAn deixou o jogo
+[17:39:40] Sagos: e kd o avião?
+[17:39:42] Sagos: '-'
+[17:39:44] U.S.G.N.: Ping/State 'playing'
+[17:39:44] null': n tem
+[17:39:44] Wisniewski killed allex.carlos with Chainsaw
+[17:39:45] Fasttt killed JÃKR ZireyK with UMP45
+[17:39:46] Item(s) found: Five-Seven
+[17:39:48] pubg expert!! killed Phoro with Machete
+[17:39:50] Item(s) found: Bandage and Secondary Ammo
+[17:39:57] Item(s) found: Kevlar
+[17:40:01] "  (1x)
+[17:40:11] Sagos killed by Molotov Cocktail
+[17:40:13] IvBR killed null' with Mac 10
+[17:40:13] IvBR had advanced 2 level(s)! They are now level 16!
+[17:40:29] Fasttt killed StirlizZ with Galil
+[17:40:33] Wanderer00 killed IvBR with TMP
+[17:40:33] Wanderer00 had advanced 2 level(s)! They are now level 9!
+[17:40:36] Wisniewski killed Wanderer00 with Famas
+[17:40:43] pubg expert!! killed Fasttt with Molotov Cocktail
+[17:40:44] pubg expert!! killed Wisniewski with P90
+[17:40:44] pubg expert!! had advanced 1 level(s)! They are now level 41!
+[17:40:44] pubg expert!! has WON the game!
+[17:40:44] Round Restart in 5 sec
+[17:40:44] IvBR votos para kickar Wisniewski
+[17:40:49] U.S.G.N.: Ping/State 'playing'
+[17:40:57] The Nick conectou-se
+[17:40:58] Sugar__ deixou o jogo
+[17:41:04] Sagos killed allex.carlos with Knife
+[17:41:04] Sagos had advanced 3 level(s)! They are now level 4!
+[17:41:07] null': ala
+[17:41:08] The Nick juntou-se a Terrorista Forças
+[17:41:13] Sagos: o q?
+[17:41:24] Lord Tomat conectou-se
+[17:41:25] Wanderer00 killed null' with TMP
+[17:41:26] Item(s) found: Deagle
+[17:41:35] JÃKR ZireyK killed StirlizZ with TMP
+[17:41:39] Lord Tomat juntou-se a Terrorista Forças
+[17:41:40] pubg expert!! killed IvBR with Molotov Cocktail
+[17:41:41] Wisniewski killed JÃKR ZireyK with MP5
+[17:41:45] IvBR *Morto*: vai toma no cu
+[17:41:46] Sagos killed Wanderer00 with P90
+[17:41:46] Sagos had advanced 2 level(s)! They are now level 6!
+[17:41:49] IvBR votos para kickar pubg expert!!
+[17:41:49] U.S.G.N.: Ping/State 'playing'
+[17:41:53] pubg expert!! deixou o jogo
+[17:41:56] The Nick votos pro mapa bg_foes_v3.1
+[17:42:00] Fasttt killed Phoro with Galil
+[17:42:01] Wisniewski killed Sagos with MP5
+[17:42:01] k¦Wisniewski¦33¦202
+[17:42:03] StirlizZ *Morto*: there is no vote
+[17:42:05] Fasttt killed Wisniewski with Galil
+[17:42:05] Fasttt had advanced 1 level(s)! They are now level 44!
+[17:42:05] Fasttt has WON the game!
+[17:42:05] Round Restart in 5 sec
+[17:42:05] StraightOutta15FPS conectou-se
+[17:42:06] null' *Morto*: olha o gaz
+[17:42:09] null' *Morto*: kkkkkkkk
+[17:42:09] StraightOutta15FPS juntou-se a Terrorista Forças
+[17:42:17] Sagos: mt zuado isso aki
+[17:42:22] The Nick killed himself with Molotov Cocktail
+[17:42:27] Black100 conectou-se
+[17:42:28] IvBR killed null' with UMP45
+[17:42:30] JÃKR ZireyK killed allex.carlos with AK-47
+[17:42:30] JÃKR ZireyK had advanced 1 level(s)! They are now level 16!
+[17:42:30] The Nick votos para kickar Wisniewski
+[17:42:34] Saffqa conectou-se
+[17:42:35] JÃKR ZireyK killed StirlizZ with AK-47
+[17:42:43] Sagos: why kick him?
+[17:42:44] Black100 juntou-se a Countra-Terrorista Forças
+[17:42:47] Lord Tomat killed Sagos with FN F2000
+[17:42:47] Lord Tomat had advanced 1 level(s)! They are now level 21!
+[17:42:47] k¦Lord Tomat¦1¦0
+[17:42:48] allex.carlos deixou o jogo
+[17:42:50] U.S.G.N.: Ping/State 'playing'
+[17:42:57] JÃKR ZireyK killed Lord Tomat with AK-47
+[17:42:57] JÃKR ZireyK had advanced 1 level(s)! They are now level 17!
+[17:43:04] Saffqa juntou-se a Countra-Terrorista Forças
+[17:43:11] StraightOutta15FPS killed Wisniewski with MP5
+[17:43:11] StraightOutta15FPS had advanced 1 level(s)! They are now level 9!
+[17:43:13] JÃKR ZireyK killed IvBR with AK-47
+[17:43:13] JÃKR ZireyK had advanced 1 level(s)! They are now level 18!
+[17:43:15] Sagos deixou o jogo
+[17:43:15] Disconnect Reason: Client request (Code 0)
+[17:43:15] ----- Disconnected -----
+[17:43:16] U.S.G.N.: Ping/State 'idle' (480 ms)

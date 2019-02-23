@@ -1,0 +1,350 @@
+CS2D 1.0.0.7 Logfile - 03 Feb 2019, 20:35:49
+
+[20:35:49] Steam: Logged in as #76561198077078199
+[20:35:49] UDP socket initialized using port 56848
+[20:35:50] U.S.G.N.: Your game version is up to date!
+[20:35:52] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[20:35:56] Cached servers added to list: 178
+[20:35:57] U.S.G.N.: Received serverlist (servers: 89)
+[20:36:15] Connecting to 18.228.226.88:39874 (using U.S.G.N. ID #15431) ...
+[20:36:15] U.S.G.N.: Ping/State 'idle' (320 ms)
+[20:36:15] "  (1x)
+[20:36:16] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[20:36:16] Checking 'weed.png': Does not exist. Request transfer!
+[20:36:16] Checking 'gfx/hats/weed.png': Already exists.
+[20:36:16] Requesting 1 file from server...
+[20:36:16] Downloading 'weed.png' from server...
+[20:36:16] ERROR: Failed to create directory '' for received files
+[20:36:17] load map 'awp_grey'
+[20:36:17] ----- Server joined -----
+[20:36:17] Bem vindo ao nosso servidor, Sagos!
+[20:36:17] Seu score total em nossa rede é 78/42 e sua patente é Bronze
+[20:36:18] U.S.G.N.: Ping/State 'playing'
+[20:36:21] D a n i L o killed unlimited. novA with AWP
+[20:36:22] xMythical [Prata II]: ads
+[20:36:23] xMythical deixou o servidor
+[20:36:24] legendS. sys killed SK__PLAVOK with AWP
+[20:36:25] Sagos aliou-se a Equipe Contra-Terrorista
+[20:36:25] SK__PLAVOK [Ouro]: a
+[20:36:27] xMythical conectou-se ao servidor
+[20:36:29] sK. kwSK * *MORTO*: ala
+[20:36:30] legend'S Server
+[20:36:30] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[20:36:30] Novidade: Use !block <id> para bloquear um usuário.
+[20:36:30] Novidade: Use !unblock <id> para debloquear um usuário.
+[20:36:30] grf. impkvel [Prata]: monge
+[20:36:30] sK. kwSK * *MORTO*: system
+[20:36:31] tL'Ugok votou pela expulsão de Yaky
+[20:36:31] SK__PLAVOK [Ouro]: sys bueludo
+[20:36:34] tL'Ugok [Mestre]: kicka off
+[20:36:35] sK. kwSK * *MORTO*: system
+[20:36:41] unlimited. novA votou pela expulsão de Yaky
+[20:36:43] grf. impkvel votou pela expulsão de sK. kwSK *
+[20:36:45] Sagos votou pela expulsão de Yaky
+[20:36:45] tL'Ugok [Mestre]: 0/8
+[20:36:48] grf. impkvel [Prata]: kowauski
+[20:36:50] D a n i L o killed legendS. sys with AWP
+[20:36:50] sK. kwSK * *MORTO*: ?
+[20:36:51] legendS. sys [Lenda]: ?
+[20:36:52] grf. impkvel [Prata]: s2
+[20:36:52] sK. kwSK * *MORTO*: system
+[20:36:53] legendS. sys [Lenda]: ala
+[20:36:55] sK. kwSK * *MORTO*: se tu acha que manja de script
+[20:36:58] sK. kwSK * *MORTO*: é pq nao conhece
+[20:36:58] D a n i L o killed Yaky with Knife
+[20:37:00] sK. kwSK * *MORTO*: o sagoswins ai
+[20:37:00] SK__PLAVOK [Ouro]: k
+[20:37:00] legendS. sys [Lenda]: oloco
+[20:37:01] SK__PLAVOK votou pela expulsão de Yaky
+[20:37:02] sK. kwSK * *MORTO*: id 5
+[20:37:07] Sagos [Bronze]: kk
+[20:37:07] sK. kwSK *: maluco era brabo nos script
+[20:37:09] sK. kwSK *: no cs2d antigo
+[20:37:10] grf. impkvel [Prata]: sago deus
+[20:37:17] aktsuki. krakëN killed tL'Ugok with AWP
+[20:37:17] grf. impkvel [Prata]: '@god
+[20:37:18] legendS. sys [Lenda]: tadin
+[20:37:18] tL'Ugok [Mestre]: XD
+[20:37:18] U.S.G.N.: Ping/State 'playing'
+[20:37:19] SK__PLAVOK killed grf. impkvel with AWP
+[20:37:19] aktsuki. krakëN [Semi-Pro]: KKKKKKKKKKKK
+[20:37:19] tL'Ugok [Mestre]: kkkkkk
+[20:37:22] tL'Ugok [Mestre]: ole ke
+[20:37:24] tL'Ugok [Mestre]: xD
+[20:37:24] aktsuki. krakëN killed legendS. sys with AWP
+[20:37:25] aktsuki. krakëN [Semi-Pro]: deita
+[20:37:26] legendS. sys [Lenda]: de aço
+[20:37:26] Sagos killed Yaky with Knife
+[20:37:28] aktsuki. krakëN [Semi-Pro]: nem atiro
+[20:37:29] legendS. sys [Lenda]: kwsk de aço
+[20:37:29] unlimited. novA killed SK__PLAVOK with AWP
+[20:37:29] Sagos killed unlimited. novA with AWP
+[20:37:30] legend'S Server
+[20:37:30] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[20:37:30] Novidade: Use !block <id> para bloquear um usuário.
+[20:37:30] Novidade: Use !unblock <id> para debloquear um usuário.
+[20:37:30] SK__PLAVOK [Ouro]: xD
+[20:37:32] aktsuki. krakëN [Semi-Pro]: a
+[20:37:38] xMythical deixou o servidor
+[20:37:40] sK. kwSK *: a unica coisa q tenho no meu corpo
+[20:37:42] sK. kwSK *: é o meu coraçao
+[20:37:42] aktsuki. krakëN [Semi-Pro]: poe a cara sys
+[20:37:43] sK. kwSK *: que bate
+[20:37:43] unlimited. novA killed SK__PLAVOK with AWP
+[20:37:44] sK. kwSK *: por voce
+[20:37:51] sK. kwSK *: tendeu?
+[20:37:53] legendS. sys [Lenda]: <3
+[20:37:57] tL'Ugok [Mestre]: xD
+[20:37:58] aktsuki. krakëN [Semi-Pro]: osh
+[20:37:59] legendS. sys killed sK. kwSK * with AWP
+[20:37:59] Sagos killed tL'Ugok with AWP
+[20:37:59] unlimited. novA killed Sagos with AWP
+[20:37:59] k¦unlimited. novA¦100¦100
+[20:37:59] aktsuki. krakëN [Semi-Pro]: KKKKKKKKKK
+[20:38:00] tL'Ugok [Mestre]: XD
+[20:38:01] tL'Ugok [Mestre]: kkkkkkkkkk
+[20:38:03] tL'Ugok [Mestre]: q isso
+[20:38:04] legendS. sys killed D a n i L o with AWP
+[20:38:09] aktsuki. krakëN killed grf. impkvel with AWP
+[20:38:12] legendS. sys [Lenda]: ala
+[20:38:18] "  (1x)
+[20:38:19] U.S.G.N.: Ping/State 'playing'
+[20:38:24] legendS. sys killed aktsuki. krakëN with AWP
+[20:38:25] aktsuki. krakëN [Semi-Pro]: K
+[20:38:26] legendS. sys [Lenda]: maldito
+[20:38:27] aktsuki. krakëN [Semi-Pro]: KKKKKKK
+[20:38:28] SK__PLAVOK [Ouro]: sys ta errando hein
+[20:38:30] legend'S Server
+[20:38:30] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[20:38:30] Novidade: Use !block <id> para bloquear um usuário.
+[20:38:30] Novidade: Use !unblock <id> para debloquear um usuário.
+[20:38:36] unlimited. novA killed SK__PLAVOK with AWP
+[20:38:37] SK__PLAVOK [Ouro]: a
+[20:38:40] grf. impkvel killed Sagos with AWP
+[20:38:40] k¦grf. impkvel¦100¦100
+[20:38:43] tL'Ugok killed sK. kwSK * with AWP
+[20:38:46] tL'Ugok [Mestre]: XD
+[20:38:49] legendS. sys killed aktsuki. krakëN with AWP
+[20:38:50] aktsuki. krakëN [Semi-Pro]: q
+[20:38:55] legendS. sys killed D a n i L o with AWP
+[20:38:57] aktsuki. krakëN [Semi-Pro]: ue
+[20:38:58] grf. impkvel [Prata]: b
+[20:38:59] aktsuki. krakëN [Semi-Pro]: q doenca
+[20:38:59] grf. impkvel [Prata]: o
+[20:39:00] grf. impkvel [Prata]: t
+[20:39:02] atc spirity conectou-se ao servidor
+[20:39:05] sK. kwSK *: sangor
+[20:39:06] Sagos killed legendS. sys with AWP
+[20:39:08] D a n i L o votou pela expulsão de grf. impkvel
+[20:39:09] Yaky killed D a n i L o with AWP
+[20:39:12] aktsuki. krakëN killed tL'Ugok with AWP
+[20:39:13] grf. impkvel killed SK__PLAVOK with AWP
+[20:39:13] grf. impkvel killed Sagos with AWP
+[20:39:13] k¦grf. impkvel¦100¦100
+[20:39:13] D a n i L o [Diamante]: xiu mano faz teu jogo
+[20:39:14] tL'Ugok [Mestre]: ????????
+[20:39:15] SK__PLAVOK [Ouro]: sagos
+[20:39:17] SK__PLAVOK [Ouro]: lerdo
+[20:39:17] atc spirity aliou-se a Equipe Terrorista
+[20:39:17] tL'Ugok [Mestre]: sem nexo esse bug
+[20:39:18] grf. impkvel [Prata]: HUAUEHAUEAEA
+[20:39:19] unlimited. novA killed sK. kwSK * with Knife
+[20:39:19] U.S.G.N.: Ping/State 'playing'
+[20:39:20] grf. impkvel [Prata]: tiltou ?
+[20:39:20] D a n i L o [Diamante]: so um tipo de cara q perde paciencia rapido
+[20:39:21] D a n i L o [Diamante]: com kid
+[20:39:23] Sagos [Bronze]: eu fui na faca
+[20:39:24] D a n i L o [Diamante]: de merda
+[20:39:24] sK. kwSK * votou pela expulsão de atc spirity
+[20:39:25] grf. impkvel [Prata]: ai
+[20:39:26] sK. kwSK * *MORTO*: sai daqu
+[20:39:27] Sagos [Bronze]: e tu tbm morreu '-'
+[20:39:27] D a n i L o [Diamante]: tlgd?
+[20:39:30] legend'S Server
+[20:39:30] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[20:39:30] Novidade: Use !block <id> para bloquear um usuário.
+[20:39:30] Novidade: Use !unblock <id> para debloquear um usuário.
+[20:39:34] grf. impkvel [Prata]: ai
+[20:39:39] D a n i L o [Diamante]: joga teu jogo ai ksks
+[20:39:41] aktsuki. krakëN killed Yaky with AWP
+[20:39:43] D a n i L o [Diamante]: e fdc vc
+[20:39:43] atc spirity *MORTO*: Acabei de chegar e quer que eu saia ?
+[20:39:44] grf. impkvel [Prata]: A
+[20:39:45] tL'Ugok [Mestre]: 1/10 kkkk
+[20:39:48] sK. kwSK * *MORTO*: sim
+[20:39:50] D a n i L o votou pela expulsão de atc spirity
+[20:39:51] atc spirity *MORTO*: Cuzão mesmo z_z
+[20:39:52] D a n i L o [Diamante]: sai
+[20:39:55] atc spirity *MORTO*: ala
+[20:39:56] D a n i L o [Diamante]: sai dai krl
+[20:39:56] grf. impkvel [Prata]: tu é o dnl ?
+[20:39:57] atc spirity *MORTO*: vsf vcs
+[20:39:57] unlimited. novA killed aktsuki. krakëN with Knife
+[20:39:59] aktsuki. krakëN [Semi-Pro]: osh
+[20:40:00] aktsuki. krakëN [Semi-Pro]: nem vi
+[20:40:00] D a n i L o [Diamante]: vem ct
+[20:40:02] aktsuki. krakëN [Semi-Pro]: olhei pro celular
+[20:40:02] sK. kwSK * *MORTO*: sai daqui sprt
+[20:40:03] D a n i L o [Diamante]: viadu
+[20:40:03] aktsuki. krakëN [Semi-Pro]: KKKKKKKKKKKKKK
+[20:40:11] sK. kwSK *: se n sair
+[20:40:13] sK. kwSK *: eu vou te matar
+[20:40:13] legendS. sys killed SK__PLAVOK with AWP
+[20:40:14] grf. impkvel killed Sagos with Knife
+[20:40:14] k¦grf. impkvel¦100¦100
+[20:40:18] atc spirity killed sK. kwSK * with AWP
+[20:40:18] SK__PLAVOK [Ouro]: noss
+[20:40:19] D a n i L o killed legendS. sys with AWP
+[20:40:19] D a n i L o killed atc spirity with AWP
+[20:40:19] tL'Ugok killed D a n i L o with AWP
+[20:40:20] U.S.G.N.: Ping/State 'playing'
+[20:40:21] legendS. sys [Lenda]: que loucura
+[20:40:21] grf. impkvel [Prata II]: o sprt
+[20:40:22] D a n i L o [Diamante]: mano
+[20:40:22] sK. kwSK * *MORTO*: boa dnl
+[20:40:24] grf. impkvel [Prata II]: oh
+[20:40:26] D a n i L o [Diamante]: trava mto
+[20:40:28] atc spirity *MORTO*: XD se aproveitar de cover dos outros da ruim
+[20:40:30] legend'S Server
+[20:40:30] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[20:40:30] Novidade: Use !block <id> para bloquear um usuário.
+[20:40:30] Novidade: Use !unblock <id> para debloquear um usuário.
+[20:40:30] SK__PLAVOK [Ouro]: nao guenta cima so o danilo pego ali caraio
+[20:40:31] legendS. sys [Lenda]: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[20:40:31] tL'Ugok [Mestre]: xxD
+[20:40:31] SK__PLAVOK [Ouro]: '-'
+[20:40:34] grf. impkvel [Prata II]: sprt
+[20:40:34] legendS. sys [Lenda]: olha o kraken
+[20:40:35] atc spirity *MORTO*: oi gk
+[20:40:35] aktsuki. krakëN killed unlimited. novA with AWP
+[20:40:38] aktsuki. krakëN [Semi-Pro]: PAKOSEKPOASEKPOEKPOAEKPOKE
+[20:40:39] tL'Ugok [Mestre]: XD
+[20:40:40] sK. kwSK * *MORTO*: olha o gk ai
+[20:40:40] tL'Ugok [Mestre]: jkjkjkjjkhjkh
+[20:40:41] legendS. sys [Lenda]: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[20:40:41] tL'Ugok killed aktsuki. krakëN with AWP
+[20:40:43] legendS. sys [Lenda]: 58 tiro
+[20:40:44] tL'Ugok [Mestre]: seu nub
+[20:40:44] aktsuki. krakëN [Semi-Pro]: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[20:40:46] legendS. sys [Lenda]: pra matar o kraken
+[20:40:47] aktsuki. krakëN [Semi-Pro]: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[20:40:52] legendS. sys killed SK__PLAVOK with AWP
+[20:40:52] sK. kwSK * killed atc spirity with AWP
+[20:40:54] SK__PLAVOK [Ouro]: a
+[20:40:54] grf. impkvel killed Sagos with AWP
+[20:40:54] k¦grf. impkvel¦100¦100
+[20:40:54] SK__PLAVOK [Ouro]: pq
+[20:40:56] SK__PLAVOK [Ouro]: sys
+[20:40:57] grf. impkvel killed aktsuki. krakëN with AWP
+[20:40:58] SK__PLAVOK [Ouro]: egua
+[20:40:58] aktsuki. krakëN [Semi-Pro]: ALA
+[20:40:59] sK. kwSK * killed Yaky with AWP
+[20:41:00] Yaky deixou o servidor
+[20:41:01] tL'Ugok killed D a n i L o with AWP
+[20:41:03] Yaky conectou-se ao servidor
+[20:41:04] tL'Ugok killed sK. kwSK * with AWP
+[20:41:06] tL'Ugok [Mestre]: xD
+[20:41:06] Yaky aliou-se a Equipe Terrorista
+[20:41:06] legendS. sys [Lenda]: boa
+[20:41:07] D a n i L o [Diamante]: kws
+[20:41:07] sK. kwSK * *MORTO*: nem vi
+[20:41:07] aktsuki. krakëN aliou-se a Equipe Contra-Terrorista
+[20:41:07] tL'Ugok [Mestre]: lkkkkkkk
+[20:41:08] D a n i L o [Diamante]: ta ondi
+[20:41:09] D a n i L o [Diamante]: krl
+[20:41:10] sK. kwSK *: KKKKKKKKKKKKKKKKKKKKKKK
+[20:41:11] sK. kwSK *: EU NEM VI ELE
+[20:41:13] sK. kwSK *: ACHEI Q ERA CT
+[20:41:14] aktsuki. krakëN killed legendS. sys with AWP
+[20:41:14] aktsuki. krakëN killed atc spirity with AWP
+[20:41:14] aktsuki. krakëN killed Yaky with AWP
+[20:41:17] D a n i L o [Diamante]: boa
+[20:41:17] grf. impkvel killed aktsuki. krakëN with AWP
+[20:41:17] sK. kwSK * killed grf. impkvel with AWP
+[20:41:18] legendS. sys [Lenda]: mano eu sai
+[20:41:19] aktsuki. krakëN [Semi-Pro]: KKKKKKKKKKKKKKKKKK
+[20:41:20] U.S.G.N.: Ping/State 'playing'
+[20:41:20] legendS. sys [Lenda]: pros cara atirar
+[20:41:21] sK. kwSK *: morreu pro gk
+[20:41:24] legendS. sys [Lenda]: achei q ia atirar
+[20:41:24] sK. kwSK *: KKKKKKKKKKKKKKKKKKKKK
+[20:41:25] grf. impkvel [Prata II]: ?
+[20:41:25] legendS. sys [Lenda]: voltei
+[20:41:28] legendS. sys [Lenda]: e levei triple
+[20:41:29] legendS. sys [Lenda]: pqp
+[20:41:30] legend'S Server
+[20:41:30] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[20:41:30] Novidade: Use !block <id> para bloquear um usuário.
+[20:41:30] Novidade: Use !unblock <id> para debloquear um usuário.
+[20:41:30] grf. impkvel [Prata II]: rindo de q fdp
+[20:41:31] Sagos killed unlimited. novA with AWP
+[20:41:32] aktsuki. krakëN [Semi-Pro]: pse sys
+[20:41:33] sK. kwSK * killed tL'Ugok with AWP
+[20:41:33] legendS. sys [Lenda]: kkkkkkkkkkkkkkkkkkkkkkkk
+[20:41:34] tL'Ugok [Mestre]: '-'
+[20:41:36] aktsuki. krakëN [Semi-Pro]: tudo calculadso aqui
+[20:41:36] sK. kwSK *: MORREU PRA GK
+[20:41:36] tL'Ugok [Mestre]: tmnc man
+[20:41:36] grf. impkvel votou pela expulsão de sK. kwSK *
+[20:41:41] legendS. sys killed Sagos with AWP
+[20:41:41] k¦legendS. sys¦100¦100
+[20:41:42] aktsuki. krakëN killed legendS. sys with AWP
+[20:41:42] aktsuki. krakëN killed tL'Ugok with AWP
+[20:41:45] tL'Ugok [Mestre]: kkkkkkk
+[20:41:46] Yaky killed sK. kwSK * with AWP
+[20:41:47] legendS. sys [Lenda]: clica ugok
+[20:41:48] legendS. sys [Lenda]: clica
+[20:41:49] Yaky killed SK__PLAVOK with AWP
+[20:41:50] SK__PLAVOK [Ouro]: a
+[20:41:50] grf. impkvel [Prata II]: YAKY
+[20:41:51] grf. impkvel killed aktsuki. krakëN with AWP
+[20:41:53] tL'Ugok [Mestre]: clica
+[20:41:53] grf. impkvel [Prata II]: me
+[20:41:54] legendS. sys [Lenda]: KKKKKKKKKKKKK
+[20:41:54] aktsuki. krakëN [Semi-Pro]: oia esse gk
+[20:41:55] unlimited. novA killed D a n i L o with AWP
+[20:41:56] Yaky [Mestre]: hi
+[20:41:57] legendS. sys [Lenda]: tomou tf
+[20:41:58] tL'Ugok [Mestre]: eu tava sem bal
+[20:41:58] legendS. sys [Lenda]: na lata
+[20:41:59] legendS. sys [Lenda]: kraken
+[20:41:59] aktsuki. krakëN [Semi-Pro]: mlk atira no nada
+[20:42:01] aktsuki. krakëN [Semi-Pro]: e mata
+[20:42:05] grf. impkvel [Prata II]: ''
+[20:42:07] grf. impkvel [Prata II]: cry w
+[20:42:10] Yaky killed SK__PLAVOK with AWP
+[20:42:11] aktsuki. krakëN [Semi-Pro]: se ugok
+[20:42:12] SK__PLAVOK [Ouro]: a
+[20:42:12] aktsuki. krakëN [Semi-Pro]: atira
+[20:42:14] atc spirity killed sK. kwSK * with AWP
+[20:42:14] aktsuki. krakëN [Semi-Pro]: geral morre
+[20:42:17] atc spirity killed aktsuki. krakëN with AWP
+[20:42:19] aktsuki. krakëN [Semi-Pro]: fdp
+[20:42:21] atc spirity killed Sagos with AWP
+[20:42:21] k¦atc spirity¦100¦100
+[20:42:21] U.S.G.N.: Ping/State 'playing'
+[20:42:21] tL'Ugok [Mestre]: krakeN ruim
+[20:42:22] grf. impkvel killed D a n i L o with AWP
+[20:42:25] grf. impkvel [Prata II]:  w
+[20:42:25] SK__PLAVOK [Ouro]: xD
+[20:42:26] sK. kwSK * *MORTO*: oloco
+[20:42:27] D a n i L o [Diamante]: to lag vsf
+[20:42:28] aktsuki. krakëN [Semi-Pro]: c ala boca sseu merda
+[20:42:30] legend'S Server
+[20:42:30] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[20:42:30] Novidade: Use !block <id> para bloquear um usuário.
+[20:42:30] Novidade: Use !unblock <id> para debloquear um usuário.
+[20:42:31] grf. impkvel [Prata II]: vsf vc
+[20:42:32] grf. impkvel [Prata II]: me respeita
+[20:42:35] grf. impkvel killed Sagos with Knife
+[20:42:35] k¦grf. impkvel¦100¦100
+[20:42:36] SK__PLAVOK killed legendS. sys with AWP
+[20:42:37] D a n i L o [Diamante]: mlk
+[20:42:37] legendS. sys [Lenda]: ?
+[20:42:39] Yaky killed SK__PLAVOK with AWP
+[20:42:39] D a n i L o [Diamante]: n qro papo com vc
+[20:42:40] legendS. sys [Lenda]: mano
+[20:42:40] sK. kwSK *: vlw sys
+[20:42:40] SK__PLAVOK [Ouro]: a
+[20:42:43] D a n i L o [Diamante]: nem to te dando trela
+[20:42:46] aktsuki. krakëN killed tL'Ugok with AWP

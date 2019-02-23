@@ -1,0 +1,4161 @@
+CS2D 1.0.0.5 Logfile - 25 Nov 2017, 00:00:17
+
+[00:00:17] U.S.G.N.: Serverlist entry updated
+[00:00:47] U.S.G.N.: Ping/State 'playing'
+[00:01:02] U.S.G.N.: Serverlist entry updated
+[00:01:03] generating stats...
+[00:01:03] stats generated in 0 ms!
+[00:01:48] U.S.G.N.: Serverlist entry updated
+[00:01:48] U.S.G.N.: Ping/State 'playing'
+[00:02:53] "  (1x)
+[00:03:18] U.S.G.N.: Serverlist entry updated
+[00:03:54] U.S.G.N.: Ping/State 'playing'
+[00:04:04] U.S.G.N.: Serverlist entry updated
+[00:04:49] "  (1x)
+[00:04:54] U.S.G.N.: Ping/State 'playing'
+[00:05:35] U.S.G.N.: Serverlist entry updated
+[00:05:55] U.S.G.N.: Ping/State 'playing'
+[00:06:03] generating stats...
+[00:06:03] stats generated in 1 ms!
+[00:06:20] U.S.G.N.: Serverlist entry updated
+[00:06:55] U.S.G.N.: Ping/State 'playing'
+[00:07:05] U.S.G.N.: Serverlist entry updated
+[00:07:56] U.S.G.N.: Ping/State 'playing'
+[00:07:58] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[00:07:59] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[00:07:59] rM.awp | null! conectou-se
+[00:07:59] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[00:07:59] JOIN FAILURE: rM.awp | null! (177.185.53.199:64504) can't join (map differs)
+[00:08:15] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[00:08:16] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[00:08:16] rM.awp | null! conectou-se
+[00:08:16] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[00:08:18] rM.awp | null! juntou-se a Terrorista Forças
+[00:08:36] U.S.G.N.: Serverlist entry updated
+[00:08:56] U.S.G.N.: Ping/State 'playing'
+[00:09:21] U.S.G.N.: Serverlist entry updated
+[00:09:38] rM.awp | null!: Mn
+[00:09:54] rM.awp | null!: navegador da steam e melhor q o google chrome ksad
+[00:10:01] rM.awp | null!: Nem pega tanto do ping
+[00:10:02] U.S.G.N.: Ping/State 'playing'
+[00:10:07] U.S.G.N.: Serverlist entry updated
+[00:10:25] rM.awp | null!: OMG
+[00:10:31] rM.awp | null!: E MUITO GRANDE
+[00:10:37] rM.awp | null!: Mais oq e esse verde
+[00:10:52] U.S.G.N.: Serverlist entry updated
+[00:11:02] U.S.G.N.: Ping/State 'playing'
+[00:11:03] generating stats...
+[00:11:03] stats generated in 0 ms!
+[00:11:37] U.S.G.N.: Serverlist entry updated
+[00:12:03] U.S.G.N.: Ping/State 'playing'
+[00:12:25] U.S.G.N.: Serverlist entry updated
+[00:13:03] U.S.G.N.: Ping/State 'playing'
+[00:13:11] U.S.G.N.: Serverlist entry updated
+[00:13:28] rM.awp | null! killed Sagos with Knife
+[00:13:56] U.S.G.N.: Serverlist entry updated
+[00:14:04] U.S.G.N.: Ping/State 'playing'
+[00:14:41] U.S.G.N.: Serverlist entry updated
+[00:15:04] U.S.G.N.: Ping/State 'playing'
+[00:15:25] rM.awp | null! deixou o jogo
+[00:16:03] generating stats...
+[00:16:03] stats generated in 1 ms!
+[00:16:05] U.S.G.N.: Ping/State 'playing'
+[00:16:12] U.S.G.N.: Serverlist entry updated
+[00:16:57] "  (1x)
+[00:17:05] U.S.G.N.: Ping/State 'playing'
+[00:17:42] U.S.G.N.: Serverlist entry updated
+[00:18:06] U.S.G.N.: Ping/State 'playing'
+[00:18:28] U.S.G.N.: Serverlist entry updated
+[00:18:42] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[00:18:43] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[00:18:43] rM.awp | null! conectou-se
+[00:18:43] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[00:18:43] JOIN FAILURE: rM.awp | null! (177.185.53.199:64504) can't join (map differs)
+[00:18:44] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[00:18:45] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[00:18:45] rM.awp | null! conectou-se
+[00:18:45] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[00:18:47] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[00:19:06] U.S.G.N.: Ping/State 'playing'
+[00:19:13] U.S.G.N.: Serverlist entry updated
+[00:19:18] U.S.G.N.: pL. Fus' (191.248.35.24) joining with U.S.G.N. ID #22107 - verifying...
+[00:19:18] U.S.G.N.: 191.248.35.24 is using U.S.G.N. ID #22107
+[00:19:18] pL. Fus' conectou-se
+[00:19:18] pL. Fus' is using IP 191.248.35.24:62754 and U.S.G.N. ID #22107
+[00:19:18] Starting transfer to pL. Fus' (files: 2) ...
+[00:19:18] pL. Fus' needs 1 file. Starting to send file...
+[00:19:18] Sending 'maps/Battle Royale.map' to pL. Fus'...
+[00:19:24] pL. Fus' juntou-se a Countra-Terrorista Forças
+[00:19:33] rM.awp | null!: Pera
+[00:19:35] rM.awp | null!: mn
+[00:19:43] rM.awp | null!: preciso q vc faça um mapa de pubg
+[00:19:51] rM.awp | null!: ja viu ?
+[00:19:56] pL. Fus': sim
+[00:19:58] U.S.G.N.: Serverlist entry updated
+[00:20:06] rM.awp | null!: Pera q vou te manda o link do mapa oficial
+[00:20:07] U.S.G.N.: Ping/State 'playing'
+[00:20:15] pL. Fus': tem como fazer sem script ate
+[00:20:23] pL. Fus': so com as mecanicas do editor
+[00:20:27] rM.awp | null!: '-'
+[00:20:31] rM.awp | null!: rlx
+[00:20:39] rM.awp | null!: vc n viu nem metado do nosso projeto
+[00:20:42] rM.awp | null!: u.u
+[00:20:44] U.S.G.N.: Serverlist entry updated
+[00:20:45] pL. Fus': iaa
+[00:20:48] pL. Fus': kkkk
+[00:20:52] rM.awp | null!: https://www.pubgmap.com/map/erangel#3.0.0.0
+[00:20:54] rM.awp | null!: ai
+[00:21:03] generating stats...
+[00:21:03] stats generated in 1 ms!
+[00:21:05] rM.awp | null!: Se quiser usa esse tile
+[00:21:07] U.S.G.N.: Ping/State 'playing'
+[00:21:10] rM.awp | null!: e bem estilo pubg msm
+[00:21:20] pL. Fus': ta bugado essa porra
+[00:21:24] pL. Fus': pra copiar do console
+[00:21:25] pL. Fus': manda dnv
+[00:21:27] rM.awp | null!: https://www.pubgmap.com/map/erangel#3.0.0.0
+[00:21:28] pL. Fus': e n fala nada dps
+[00:21:29] rM.awp | null!: https://www.pubgmap.com/map/erangel#3.0.0.0
+[00:21:29] pL. Fus': dnv
+[00:21:31] rM.awp | null!: https://www.pubgmap.com/map/erangel#3.0.0.0
+[00:21:41] pL. Fus': foi
+[00:21:43] pL. Fus': vou ver
+[00:21:43] rM.awp | null!: Ok
+[00:21:46] rM.awp | null!: olha aqui
+[00:21:52] rM.awp | null!: Quer ver como ta o script ?
+[00:22:02] pL. Fus': dps, n manjo mt de script
+[00:22:06] pL. Fus': ja vou avisando
+[00:22:08] U.S.G.N.: Ping/State 'playing'
+[00:22:08] rM.awp | null!: aqui fi
+[00:22:09] rM.awp | null!: kkkkkk
+[00:22:13] rM.awp | null!: vc ja ta no script
+[00:22:15] U.S.G.N.: Serverlist entry updated
+[00:22:18] rM.awp | null!: Ve como ta ficando
+[00:22:21] pL. Fus': vo ve o mapa la
+[00:22:25] rM.awp | null!: esses sao os itents
+[00:22:27] rM.awp | null!: itens
+[00:22:47] rM.awp | null!: aperta f2
+[00:22:57] rM.awp | null!: vou te dar dano ai vc usa o kit ou sla
+[00:23:00] U.S.G.N.: Serverlist entry updated
+[00:23:08] U.S.G.N.: Ping/State 'playing'
+[00:23:13] pL. Fus': 8 segundos
+[00:23:20] rM.awp | null!: n pode se mecher kkkkkkk
+[00:23:40] pL. Fus': ae
+[00:23:45] U.S.G.N.: Serverlist entry updated
+[00:23:46] rM.awp | null!: Energetico
+[00:23:50] rM.awp | null!: usa 2 de uma vez
+[00:24:04] rM.awp | null!: ai sagos
+[00:24:08] rM.awp | null!: ele vai fazer o mapa pra noix
+[00:24:08] U.S.G.N.: Ping/State 'playing'
+[00:24:16] Sagos: passou o link pra ele?
+[00:24:19] rM.awp | null!: ss
+[00:24:31] U.S.G.N.: Serverlist entry updated
+[00:24:34] Sagos: blz
+[00:24:37] Sagos: vou continuar no script
+[00:24:38] rM.awp | null!: Ele sabe usar td do editor
+[00:24:54] rM.awp | null!: FUS ?
+[00:24:54] pL. Fus': vc vao querer baseado no tamanho real msm?
+[00:25:00] Sagos: s
+[00:25:06] rM.awp | null!: :)
+[00:25:07] Sagos: preciso que fique grande
+[00:25:09] U.S.G.N.: Ping/State 'playing'
+[00:25:12] rM.awp | null!: BEM GRANDE
+[00:25:15] rM.awp | null!: kkk
+[00:25:16] U.S.G.N.: Serverlist entry updated
+[00:25:16] pL. Fus': blz kkk
+[00:25:17] Sagos: mDs kk
+[00:25:20] [Info] Você pegou 15 Balas de Pistola
+[00:25:21] [Info] Você pegou 30 Balas de Rifle
+[00:25:24] rM.awp | null!: Tem 2 munitor fus ?
+[00:25:27] pL. Fus': tenho
+[00:25:31] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[00:25:31] rM.awp | null!: Usa eles
+[00:25:34] rM.awp | null!: ai fica maior ainda
+[00:25:38] pL. Fus': rlx mn eu me viro
+[00:25:43] rM.awp | null!: Pd crer
+[00:25:45] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[00:25:45] pL. Fus': odeio usar 2 monitor
+[00:25:49] rM.awp | null!: KKKK
+[00:25:52] [Info] Você equipou Colete 1
+[00:25:54] [Info] Você equipou Colete 2
+[00:25:55] rM.awp | null!: Mais com os 2 fica maior
+[00:25:55] [Info] Você equipou Colete 3
+[00:25:58] rM.awp | null!: melhor pra ver
+[00:26:01] U.S.G.N.: Serverlist entry updated
+[00:26:02] pL. Fus': tu jogou no alexandria o no dayz
+[00:26:03] generating stats...
+[00:26:03] stats generated in 2 ms!
+[00:26:05] pL. Fus': do smoker ne null?
+[00:26:09] rM.awp | null!: s
+[00:26:09] U.S.G.N.: Ping/State 'playing'
+[00:26:12] rM.awp | null!: k
+[00:26:14] pL. Fus': naquele estilo?
+[00:26:21] rM.awp | null!: Iae sagos
+[00:26:22] [Info] Você pegou Analgésico
+[00:26:22] rM.awp | null!: vc q sabe
+[00:26:34] rM.awp | null!: fus tenta fazer uma iluminação mais clara
+[00:26:36] rM.awp | null!: saca
+[00:26:38] rM.awp | null!: mais sol
+[00:26:43] rM.awp | null!: MAIS VIVA
+[00:26:43] pL. Fus': blz
+[00:26:44] Sagos: n joguei nesse ai do smoker
+[00:26:47] U.S.G.N.: Serverlist entry updated
+[00:26:53] pL. Fus': vou ver se tenho aqui sagos pra tu
+[00:26:56] pL. Fus': dar uma olhada
+[00:26:57] rM.awp | null!: Tenta fazer q o mapa seja bem VIVO
+[00:27:02] Sagos: blz
+[00:27:08] pL. Fus': ja volto
+[00:27:10] U.S.G.N.: Ping/State 'playing'
+[00:27:12] rM.awp | null!: N faz mt dark
+[00:27:15] rM.awp | null!: Ok vai la
+[00:27:15] Sagos: ah vc tem q fazer o lobby tbm
+[00:27:15] pL. Fus': ok
+[00:27:21] Sagos: mas se quiser
+[00:27:22] rM.awp | null!: ss
+[00:27:24] rM.awp | null!: o lobby
+[00:27:25] Sagos: dx essa parte cmg
+[00:27:32] U.S.G.N.: Serverlist entry updated
+[00:27:33] pL. Fus': blz
+[00:27:35] pL. Fus': ja volto
+[00:27:36] pL. Fus' deixou o jogo
+[00:27:37] rM.awp | null!: Ok
+[00:27:39] rM.awp | null!: Aew
+[00:27:41] rM.awp | null!: ele manja
+[00:27:44] rM.awp | null!: pakarai
+[00:27:47] Sagos: e no mapa n pode ter pts de teleport
+[00:27:55] rM.awp | null!: Eu e ele ia fazer um hide and seek
+[00:27:59] rM.awp | null!: ele q fez o mapa
+[00:28:01] rM.awp | null!: todo escuro
+[00:28:04] rM.awp | null!: ficou foda
+[00:28:08] Sagos: ^^
+[00:28:10] U.S.G.N.: Ping/State 'playing'
+[00:28:12] rM.awp | null!: :>
+[00:28:13] Sagos: eu n manjo mt de mapa
+[00:28:16] Sagos: só dos script msm
+[00:28:17] U.S.G.N.: Serverlist entry updated
+[00:28:18] Sagos: kk
+[00:28:18] U.S.G.N.: pL. Fus' (191.248.35.24) joining with U.S.G.N. ID #22107 - verifying...
+[00:28:19] rM.awp | null!: KK
+[00:28:19] U.S.G.N.: 191.248.35.24 is using U.S.G.N. ID #22107
+[00:28:19] pL. Fus' conectou-se
+[00:28:19] pL. Fus' is using IP 191.248.35.24:62754 and U.S.G.N. ID #22107
+[00:28:22] pL. Fus' juntou-se a Countra-Terrorista Forças
+[00:28:22] [Info] Você pegou Kit Full
+[00:28:25] rM.awp | null!: O colt tbm manja nos map
+[00:28:30] pL. Fus': to com o alexandria
+[00:28:33] pL. Fus': so pra tu dar uma olhada
+[00:28:34] rM.awp | null!: Abre la
+[00:28:38] Sagos: nome do sv?
+[00:28:38] pL. Fus': mas eu prefiro o dayz
+[00:28:41] pL. Fus': vou procurar dps
+[00:28:46] pL. Fus': nome AAAA senha 1213
+[00:28:52] Sagos: ok
+[00:28:52] rM.awp | null!: Eu tenho o do dayz aqui
+[00:28:56] rM.awp | null!: so q no outro cs2d kkk
+[00:28:56] pL. Fus': pds abre null
+[00:29:00] pL. Fus': porra
+[00:29:02] pL. Fus': kk
+[00:29:03] U.S.G.N.: Serverlist entry updated
+[00:29:03] pL. Fus': vo abrir
+[00:29:03] rM.awp | null!: dps eu tenho achar
+[00:29:04] pL. Fus' deixou o jogo
+[00:29:06] rM.awp | null!: Vamo
+[00:29:11] U.S.G.N.: Ping/State 'playing'
+[00:29:14] Servidor Desligado
+[00:29:15] U.S.G.N.: Server removed from serverlist
+[00:29:15] ----- Disconnected -----
+[00:29:16] U.S.G.N.: Ping/State 'idle' (368 ms)
+[00:29:16] Cached servers added to list: 35
+[00:29:22] U.S.G.N.: Received serverlist (servers: 150)
+[00:29:22] U.S.G.N.: Received serverlist (servers: 43)
+[00:29:32] "  (1x)
+[00:29:32] U.S.G.N.: Received serverlist (servers: 150)
+[00:30:06] U.S.G.N.: Received serverlist (servers: 42)
+[00:30:06] U.S.G.N.: Received serverlist (servers: 150)
+[00:30:16] U.S.G.N.: Ping/State 'idle' (272 ms)
+[00:30:30] U.S.G.N.: Received serverlist (servers: 41)
+[00:30:30] U.S.G.N.: Received serverlist (servers: 150)
+[00:30:50] M-NET: received join data from unexpected source (252, 46.48.201.28:62504)
+[00:31:12] U.S.G.N.: Received serverlist (servers: 38)
+[00:31:12] U.S.G.N.: Received serverlist (servers: 150)
+[00:31:22] U.S.G.N.: Ping/State 'idle' (272 ms)
+[00:31:33] U.S.G.N.: Received serverlist (servers: 36)
+[00:31:33] U.S.G.N.: Received serverlist (servers: 150)
+[00:32:22] U.S.G.N.: Ping/State 'idle' (272 ms)
+[00:33:23] "  (1x)
+[00:34:23] "  (1x)
+[00:35:24] "  (1x)
+[00:36:24] "  (1x)
+[00:37:25] "  (1x)
+[00:37:40] Cached servers added to list: 35
+[00:37:40] U.S.G.N.: Received serverlist (servers: 38)
+[00:37:40] U.S.G.N.: Received serverlist (servers: 150)
+[00:37:53] Starting server...
+[00:37:53] load map 'surv_Alexandria_v1.2.0'
+[00:37:53] LOAD MAP: failed to load tiles 'for_alexandria.png'
+[00:38:25] U.S.G.N.: Ping/State 'idle' (272 ms)
+[00:39:12] Starting server...
+[00:39:12] load map 'dayz_lingor_island'
+[00:39:12] LOAD MAP: dark_sand.bmp background is missing
+[00:39:12] LOAD MAP: failed to load tiles 'ctf_acacia.png'
+[00:39:26] U.S.G.N.: Ping/State 'idle' (272 ms)
+[00:40:26] "  (1x)
+[00:41:25] Starting server...
+[00:41:25] load map 'surv_Alexandria_v1.2.0'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/caminhao.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/Chair.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/barril.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/truck.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/!!!alexandria/ambient_2.ogg'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/!!!alexandria/fire.ogg'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/car_3_broken_green.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/!!!alexandria/doorstop4.wav'
+[00:41:25] "  (4x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/ladder.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/shadow corner 2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/shadow corner 1.png'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/!!!alexandria/tank_idle.wav'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/carlight.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/police.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/conteiner.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/carpet1.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] "  (2x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] "  (2x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/ladder.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/ladder.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/flashlight.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_corner1.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall2.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/XShadow.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/YShadow.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/XShadow.bmp'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/chat.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/EnergyRestore.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/HealthRestore.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/info.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/killed.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/pick.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/drop.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/water_swallow.ogg'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] "  (3x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] "  (10x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] "  (3x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] "  (3x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/serenity.ogg'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/barril.png'
+[00:41:25] "  (2x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/!!!alexandria/fire.ogg'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/barril.png'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/serenity.ogg'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/Survival/energetico.png'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/crunch.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/hurt1.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/hurt2.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/hurt3.wav'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/s_wall.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/!!! Alexandria/ladder.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/web.png'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/cash.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/chat.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/sell.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/purchase.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/!!!alexandria/button1.wav'
+[00:41:25] "  (2x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/esqueleto.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/Chair.png'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/caminhao.bmp'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/!!!alexandria/button1.wav'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] "  (3x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] "  (3x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endside.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] "  (1x)
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endcorner1.bmp'
+[00:41:25] LOAD MAP RES.: failed to load image 'gfx/XSmoker1/endtop.bmp'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/!!!alexandria/button1.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/levelup.ogg'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/levelup.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/rain.ogg'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/computing.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/computing2.wav'
+[00:41:25] LOAD MAP RES.: failed to load sound 'sfx/XSmoker1/Survival/up.wav'
+[00:41:26] ----- Server started -----
+[00:41:26] Lua: Adding function 'falar' to hook 'say'
+[00:41:26] Lua: Adding function 'segundos' to hook 'second'
+[00:41:26] Lua: Adding function 'coletar' to hook 'walkover'
+[00:41:26] Lua: Adding function 'atacar' to hook 'attack'
+[00:41:26] Lua: Adding function 'atacar2' to hook 'attack2'
+[00:41:26] Lua: Adding function 'teclas' to hook 'serveraction'
+[00:41:26] Lua: Adding function 'mymenu' to hook 'menu'
+[00:41:26] Lua: Adding function 'ataque' to hook 'hit'
+[00:41:26] Lua: Adding function 'dropar' to hook 'drop'
+[00:41:26] Lua: Adding function 'mover' to hook 'movetile'
+[00:41:26] U.S.G.N.: Ping/State 'playing'
+[00:41:26] U.S.G.N.: Server added to serverlist
+[00:42:03] Sagos juntou-se a Countra-Terrorista Forças
+[00:42:15] U.S.G.N.: Serverlist entry updated
+[00:42:23] Sagos died
+[00:42:23] Sagos juntou-se aos espectadores
+[00:42:31] U.S.G.N.: Ping/State 'playing'
+[00:42:31] U.S.G.N.: pL. Fus' (191.248.35.24) joining with U.S.G.N. ID #22107 - verifying...
+[00:42:32] U.S.G.N.: 191.248.35.24 is using U.S.G.N. ID #22107
+[00:42:32] pL. Fus' conectou-se
+[00:42:32] pL. Fus' is using IP 191.248.35.24:36963 and U.S.G.N. ID #22107
+[00:42:48] pL. Fus' *Morto*: sdds desse mapa
+[00:42:53] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[00:42:54] pL. Fus' *Morto*: com script ele e m dahr
+[00:42:54] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[00:42:54] rM.awp | null! conectou-se
+[00:42:54] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[00:42:54] Starting transfer to rM.awp | null! (files: 8) ...
+[00:42:54] rM.awp | null! needs 2 files. Starting to send files...
+[00:42:54] Sending 'gfx/tiles/for_alexandria.png' to rM.awp | null!...
+[00:43:01] U.S.G.N.: Serverlist entry updated
+[00:43:03] generating stats...
+[00:43:03] stats generated in 1 ms!
+[00:43:17] Sending 'maps/surv_Alexandria_v1.2.0.map' to rM.awp | null!...
+[00:43:21] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[00:43:27] pL. Fus' juntou-se a Countra-Terrorista Forças
+[00:43:31] U.S.G.N.: Ping/State 'playing'
+[00:43:32] pL. Fus': n tem arma null
+[00:43:38] pL. Fus': era no script ne?
+[00:43:42] rM.awp | null!: sdsakkd
+[00:43:43] rM.awp | null!: q
+[00:43:43] pL. Fus': que o smoker colocava
+[00:43:46] U.S.G.N.: Serverlist entry updated
+[00:43:49] rM.awp | null!: s
+[00:43:51] rM.awp | null!: uai
+[00:43:56] rM.awp | null!: s fus
+[00:43:59] rM.awp | null!: casinhas assim
+[00:44:05] rM.awp | null!: entrar o teto sumir
+[00:44:07] rM.awp | null!: dkkds
+[00:44:15] rM.awp | null!: pft
+[00:44:21] pL. Fus': ss
+[00:44:25] pL. Fus': vamo spec
+[00:44:26] rM.awp | null!: tenta fazer tipo o do pubg msm
+[00:44:28] rM.awp | null!: la no mapa
+[00:44:31] rM.awp | null!: q mandei pra ti
+[00:44:32] U.S.G.N.: Ping/State 'playing'
+[00:44:32] U.S.G.N.: Serverlist entry updated
+[00:44:34] rM.awp | null!: mostra td
+[00:44:36] rM.awp | null! died
+[00:44:36] rM.awp | null! juntou-se aos espectadores
+[00:44:38] pL. Fus': vou ver as estruturas la
+[00:44:42] pL. Fus': e fazer baseado
+[00:44:42] rM.awp | null! *Morto*: MDS
+[00:44:44] pL. Fus' died
+[00:44:44] pL. Fus' juntou-se aos espectadores
+[00:44:45] rM.awp | null! *Morto*: agr
+[00:44:48] rM.awp | null! *Morto*: agr q vi
+[00:44:51] rM.awp | null! *Morto*: olha o tamanho
+[00:44:52] rM.awp | null! *Morto*: disso
+[00:44:54] rM.awp | null! *Morto*: kkkkkkkkkkkkkkk
+[00:44:54] pL. Fus' *Morto*: pse
+[00:44:56] pL. Fus' *Morto*: kkkkkkkkkkkkk
+[00:44:58] Sagos *Morto*: sério
+[00:45:01] Sagos *Morto*: ta pequeno '-'
+[00:45:05] rM.awp | null! *Morto*: TA NADA
+[00:45:07] rM.awp | null! *Morto*: slk
+[00:45:07] pL. Fus' *Morto*:  '-'
+[00:45:10] pL. Fus' *Morto*: ah ta
+[00:45:16] pL. Fus' *Morto*: porra quer me foder tbm
+[00:45:17] U.S.G.N.: Serverlist entry updated
+[00:45:17] pL. Fus' *Morto*: kkkkkkkkkkkkkkkkkkkkkk
+[00:45:20] rM.awp | null! *Morto*: KKKKKKKKKKKKKKKKKKKK
+[00:45:21] Sagos *Morto*: kkkkkkkkk
+[00:45:27] rM.awp | null! *Morto*: maior q isso eu ja vi
+[00:45:29] rM.awp | null! *Morto*: um de rpg
+[00:45:32] U.S.G.N.: Ping/State 'playing'
+[00:45:42] Sagos *Morto*: mas um ex
+[00:45:43] pL. Fus' *Morto*: sim mas deve ter sido mais de 1 nego
+[00:45:45] pL. Fus' *Morto*: pra monar
+[00:45:47] pL. Fus' *Morto*: montar*
+[00:45:49] Sagos *Morto*: nesse mapa n tem lugar onde spawnar itens
+[00:45:52] Sagos *Morto*: pq tem poucas casas
+[00:45:55] rM.awp | null! *Morto*: S
+[00:45:55] pL. Fus' *Morto*: o smoker fez esse sozinho
+[00:45:58] rM.awp | null! *Morto*: eu falei pro fus
+[00:46:02] U.S.G.N.: Serverlist entry updated
+[00:46:04] rM.awp | null! *Morto*: fazer igual do pubg msm
+[00:46:09] rM.awp | null! *Morto*: mata prkrlo
+[00:46:14] rM.awp | null! *Morto*: ai tem cidadinhas
+[00:46:22] pL. Fus' *Morto*: pdp
+[00:46:25] rM.awp | null! *Morto*: fazendinhas e talz
+[00:46:33] U.S.G.N.: Ping/State 'playing'
+[00:46:38] pL. Fus' *Morto*: botao do gemidao
+[00:46:39] pL. Fus' *Morto*: gg
+[00:46:42] rM.awp | null! *Morto*: N
+[00:46:44] rM.awp | null! *Morto*: e mt tenso
+[00:46:44] pL. Fus' *Morto*: kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:46:47] rM.awp | null! *Morto*: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:46:48] U.S.G.N.: Serverlist entry updated
+[00:46:52] rM.awp | null! *Morto*: Lembro até hj disso
+[00:46:54] rM.awp | null! *Morto*: sakdaskdsakd
+[00:46:56] pL. Fus' *Morto*: kkkkkkkkkkkkkkkkk
+[00:47:00] Sagos *Morto*: kkkk
+[00:47:05] rM.awp | null! *Morto*: Mo strong aquilo
+[00:47:06] rM.awp | null! *Morto*: ANNNNNN
+[00:47:07] rM.awp | null! *Morto*: annnnnnnnnn
+[00:47:09] rM.awp | null! *Morto*: annnnnnnnnnnnnn
+[00:47:11] pL. Fus' *Morto*: haehaehaheahe
+[00:47:15] rM.awp | null! *Morto*: Mn
+[00:47:20] rM.awp | null! *Morto*: NAMORAL NAO
+[00:47:21] rM.awp | null! *Morto*: kkkkkkkkk
+[00:47:24] pL. Fus' *Morto*: kkkkkkk rlx
+[00:47:27] rM.awp | null! *Morto*: Diga n ao gemidao
+[00:47:29] rM.awp | null! *Morto*: kdsakdsakd
+[00:47:31] pL. Fus' *Morto*: aushdausdhasd
+[00:47:33] U.S.G.N.: Ping/State 'playing'
+[00:47:33] U.S.G.N.: Serverlist entry updated
+[00:47:57] rM.awp | null! *Morto*: vamo dar um tour
+[00:47:59] rM.awp | null! *Morto*: no mapa
+[00:48:01] pL. Fus' *Morto*: kd fala pra ele abrir o dayz agr
+[00:48:03] generating stats...
+[00:48:03] stats generated in 1 ms!
+[00:48:04] Sagos *Morto*: to fazendo isso aki
+[00:48:05] rM.awp | null! *Morto*: pra ver se ta pequeno jogando
+[00:48:18] U.S.G.N.: Serverlist entry updated
+[00:48:20] pL. Fus' *Morto*: null
+[00:48:22] rM.awp | null! *Morto*: ?
+[00:48:26] pL. Fus' *Morto*: o lobby desse mapa e dahora tbm
+[00:48:30] pL. Fus' *Morto*: lembra
+[00:48:33] U.S.G.N.: Ping/State 'playing'
+[00:48:35] pL. Fus' *Morto*: la na direita
+[00:48:35] rM.awp | null! *Morto*: lembro nada
+[00:48:37] rM.awp | null! *Morto*: kkkkkkk
+[00:48:39] pL. Fus' *Morto*: em cima
+[00:48:40] rM.awp | null! *Morto*: Cade
+[00:48:46] ----- Mapchange -----
+[00:48:46] Starting server...
+[00:48:46] load map 'dayz_lingor_island'
+[00:48:46] LOAD MAP: dark_sand.bmp background is missing
+[00:48:46] LOAD MAP RES.: failed to load sound 'sfx/carrionswarm.ogg'
+[00:48:46] LOAD MAP RES.: failed to load sound 'sfx/Dayz_rainforest_ambience_fizzykil.ogg'
+[00:48:46] ----- Server started -----
+[00:48:46] Lua: Adding function 'falar' to hook 'say'
+[00:48:46] Lua: Adding function 'segundos' to hook 'second'
+[00:48:46] Lua: Adding function 'coletar' to hook 'walkover'
+[00:48:46] Lua: Adding function 'atacar' to hook 'attack'
+[00:48:46] Lua: Adding function 'atacar2' to hook 'attack2'
+[00:48:46] Lua: Adding function 'teclas' to hook 'serveraction'
+[00:48:46] Lua: Adding function 'mymenu' to hook 'menu'
+[00:48:46] Lua: Adding function 'ataque' to hook 'hit'
+[00:48:46] Lua: Adding function 'dropar' to hook 'drop'
+[00:48:46] Lua: Adding function 'mover' to hook 'movetile'
+[00:48:47] U.S.G.N.: Ping/State 'playing'
+[00:48:47] U.S.G.N.: Serverlist entry updated
+[00:48:57] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[00:48:57] U.S.G.N.: pL. Fus' (191.248.35.24) joining with U.S.G.N. ID #22107 - verifying...
+[00:48:58] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[00:48:58] rM.awp | null! conectou-se
+[00:48:58] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[00:48:58] U.S.G.N.: 191.248.35.24 is using U.S.G.N. ID #22107
+[00:48:58] pL. Fus' conectou-se
+[00:48:58] pL. Fus' is using IP 191.248.35.24:36963 and U.S.G.N. ID #22107
+[00:48:59] NET: Can't send background file (unbuffered)
+[00:48:59] Starting transfer to rM.awp | null! (files: 7) ...
+[00:48:59] rM.awp | null! needs 6 files. Starting to send files...
+[00:48:59] Sending 'gfx/tiles/ctf_acacia.png' to rM.awp | null!...
+[00:49:08] Sending 'gfx/zm_Island_Of_The_Dead/shadow wall.png' to rM.awp | null!...
+[00:49:08] Sending 'gfx/zm_Island_Of_The_Dead/shadow corner.png' to rM.awp | null!...
+[00:49:08] Sending 'gfx/zm_Island_Of_The_Dead/shadow corner 1.png' to rM.awp | null!...
+[00:49:08] Sending 'gfx/zm_Island_Of_The_Dead/shadow corner 2.png' to rM.awp | null!...
+[00:49:08] Sending 'maps/dayz_lingor_island.map' to rM.awp | null!...
+[00:49:17] pL. Fus' *Morto*: outro mapa minusculo
+[00:49:20] rM.awp | null! *Morto*: Esse tbm
+[00:49:24] rM.awp | null! *Morto*: ta grande
+[00:49:25] rM.awp | null! *Morto*: kkkkkkkkkkkkkkkkkkkkkkk
+[00:49:29] rM.awp | null! *Morto*: MDS
+[00:49:32] rM.awp | null! *Morto*: quem fez isso
+[00:49:34] U.S.G.N.: Serverlist entry updated
+[00:49:35] pL. Fus' *Morto*: smoker
+[00:49:38] rM.awp | null! *Morto*: ta so o poh da gaita
+[00:49:39] pL. Fus' *Morto*: aquele demonio
+[00:49:43] rM.awp | null! *Morto*: MN
+[00:49:46] rM.awp | null! *Morto*: ele tem duença ?
+[00:49:49] U.S.G.N.: Ping/State 'playing'
+[00:49:49] rM.awp | null! *Morto*: ldsaldlasdlsadlkaskdaskd
+[00:49:50] pL. Fus' *Morto*: kkkkkkkkkkkkk
+[00:49:53] rM.awp | null! *Morto*: MDS
+[00:50:01] pL. Fus' *Morto*: olha que desgraça gigante
+[00:50:05] rM.awp | null! *Morto*: S
+[00:50:14] rM.awp | null! *Morto*: tem estrutura pra disgraça
+[00:50:15] rM.awp | null! *Morto*: dkskdskdskdskd
+[00:50:19] pL. Fus' *Morto*: kkkkkkkkkkkk
+[00:50:20] U.S.G.N.: Serverlist entry updated
+[00:50:22] rM.awp | null! *Morto*: Ate eu fus rodei
+[00:50:22] pL. Fus' *Morto*: imagina o tempo
+[00:50:26] rM.awp | null! *Morto*: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:50:42] rM.awp | null! *Morto*: O CARA TA SO A CAVEIRA
+[00:50:44] rM.awp | null! *Morto*: kkkdsdksdksd
+[00:50:49] pL. Fus' *Morto*: kkkkkkkkkkkkkkkkk
+[00:50:50] U.S.G.N.: Ping/State 'playing'
+[00:50:51] rM.awp | null! *Morto*: Morreu jogando
+[00:50:56] rM.awp | null! *Morto*: fazendo map
+[00:50:59] rM.awp | null! *Morto*: pqp
+[00:51:02] pL. Fus' *Morto*: ausdhaushdausdhuashdausd
+[00:51:06] U.S.G.N.: Serverlist entry updated
+[00:51:11] rM.awp | null! *Morto*: Vamo dar um tour ?
+[00:51:12] rM.awp | null! *Morto*: kkkkkkkkkkkkkk
+[00:51:13] pL. Fus' *Morto*: ala esse arrombado colocava umas mina
+[00:51:16] rM.awp | null! *Morto*: ve se noix se encontra
+[00:51:18] pL. Fus' *Morto*: embaixo das areveres
+[00:51:21] pL. Fus' *Morto*: eu morria direto
+[00:51:25] pL. Fus' *Morto*: bora
+[00:51:29] pL. Fus' juntou-se a Countra-Terrorista Forças
+[00:51:31] rM.awp | null! juntou-se a Terrorista Forças
+[00:51:45] pL. Fus': ta com o script do pugb
+[00:51:48] pL. Fus': aysdaushduas
+[00:51:50] rM.awp | null!: ?
+[00:51:51] U.S.G.N.: Ping/State 'playing'
+[00:51:51] U.S.G.N.: Serverlist entry updated
+[00:51:52] rM.awp | null!: kkkkkkkkkkkkkk
+[00:51:55] Sagos *Morto*: kkk
+[00:52:18] rM.awp | null!: tbm to
+[00:52:20] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkk
+[00:52:34] rM.awp | null!: bom pra testar
+[00:52:34] Sagos *Morto*: null
+[00:52:36] U.S.G.N.: Serverlist entry updated
+[00:52:41] Sagos *Morto*: vai pra esquerda que vc encontra ele
+[00:52:48] Sagos *Morto*: pra baixo
+[00:52:51] pL. Fus': ala vc no mapa
+[00:52:51] U.S.G.N.: Ping/State 'playing'
+[00:52:54] rM.awp | null!: s
+[00:52:55] rM.awp | null!: klsadlasldasld
+[00:53:00] Sagos *Morto*: ata n sabia que vcs se via
+[00:53:03] generating stats...
+[00:53:03] stats generated in 1 ms!
+[00:53:10] rM.awp | null! killed pL. Fus' with RPG Launcher
+[00:53:12] rM.awp | null!: asdksakdaskdkasdkasdkasd
+[00:53:14] pL. Fus': fila da puta
+[00:53:15] rM.awp | null!: parei
+[00:53:17] rM.awp | null!: ksadkasdksakdas
+[00:53:21] U.S.G.N.: Serverlist entry updated
+[00:53:26] Sagos *Morto*: quase se mata
+[00:53:28] Sagos *Morto*: 1 de HP
+[00:53:40] rM.awp | null!: krlo
+[00:53:45] rM.awp | null!: aqui ta otimo
+[00:53:47] rM.awp | null!: pra testar
+[00:53:47] pL. Fus': mano
+[00:53:49] rM.awp | null!: o script
+[00:53:52] pL. Fus': toda hr qe eu atiro
+[00:53:56] pL. Fus': ele guarda a arma
+[00:53:57] U.S.G.N.: Ping/State 'playing'
+[00:54:00] pL. Fus': no inventario
+[00:54:07] U.S.G.N.: Serverlist entry updated
+[00:54:27] Sagos juntou-se a Countra-Terrorista Forças
+[00:54:32] [Info] Você pegou Kit Médico
+[00:54:37] rM.awp | null!: sagos
+[00:54:38] pL. Fus': deu uma olhada no mapa sagos?
+[00:54:38] [Info] Você pegou Kit Médico
+[00:54:42] Sagos: s
+[00:54:44] [Info] Você pegou 30 Balas de Rifle
+[00:54:46] rM.awp | null!: aqui ta otimo pra testar
+[00:54:48] rM.awp | null!: o mod
+[00:54:49] rM.awp | null!: dksdk
+[00:54:52] U.S.G.N.: Serverlist entry updated
+[00:54:53] [Info] Espaço insuficiente para carregar mais itens
+[00:54:57] U.S.G.N.: Ping/State 'playing'
+[00:55:04] Sagos: +/-
+[00:55:10] Sagos: o spawn dos itens n ta aleatório
+[00:55:11] rM.awp | null!: e so pra testar
+[00:55:14] rM.awp | null!: n
+[00:55:16] rM.awp | null!: vc coloca
+[00:55:18] rM.awp | null!: vc msm
+[00:55:20] rM.awp | null!: com script
+[00:55:26] Sagos: s mas ai eu preciso do mapa
+[00:55:27] rM.awp | null!: mais tem q ser td juntinho
+[00:55:29] rM.awp | null!: igual pubg
+[00:55:33] rM.awp | null!: e msm
+[00:55:34] Sagos: claro
+[00:55:36] Sagos: tipo
+[00:55:37] U.S.G.N.: Serverlist entry updated
+[00:55:48] Sagos: se o script spawna uma pistola
+[00:55:54] Sagos: ja vai ter as bala do lado
+[00:55:56] [Info] Espaço insuficiente para carregar mais itens
+[00:55:58] U.S.G.N.: Ping/State 'playing'
+[00:55:58] rM.awp | null!: hm
+[00:56:01] rM.awp | null!: gm
+[00:56:03] rM.awp | null!: dks
+[00:56:07] rM.awp | null!: FODA
+[00:56:10] pL. Fus': vai dmorar um pouco pra fazer um mapa
+[00:56:12] pL. Fus': tao grande
+[00:56:14] rM.awp | null!: mn tinha um cara querendo ajudar
+[00:56:15] rM.awp | null!: no script
+[00:56:20] Sagos: qm?
+[00:56:23] U.S.G.N.: Serverlist entry updated
+[00:56:25] rM.awp | null!: lucaSWAT
+[00:56:30] Sagos: lembro dele
+[00:56:37] Sagos: se ele quiser
+[00:56:42] Sagos: pode fazer o capa 1 2 e 3
+[00:56:51] rM.awp | null!: ele sabe fazer das img ?
+[00:56:57] Sagos: n sei o quanto ele sabe
+[00:56:58] U.S.G.N.: Ping/State 'playing'
+[00:57:00] [Info] Sem balas de pistola, sua Glock foi guardada no inventário
+[00:57:04] rM.awp | null!: ele ta off agr
+[00:57:08] U.S.G.N.: Serverlist entry updated
+[00:57:09] rM.awp | null!: mais se ele entrar eu falo
+[00:57:13] [Info] Espaço insuficiente para carregar mais itens
+[00:57:40] Sagos: n tem bala no mapa '-'
+[00:57:44] rM.awp | null!: tenho 2 kit
+[00:57:47] rM.awp | null!: toma fus
+[00:57:48] rM.awp | null!: 1
+[00:57:50] [Info] Você pegou Kit Médico
+[00:57:51] pL. Fus': ja suei
+[00:57:53] pL. Fus': usei*
+[00:57:54] rM.awp | null!: ata
+[00:57:54] U.S.G.N.: Serverlist entry updated
+[00:57:57] rM.awp | null!: mais toma
+[00:57:59] U.S.G.N.: Ping/State 'playing'
+[00:58:01] pL. Fus': n quero
+[00:58:03] [Info] Você pegou Kit Médico
+[00:58:03] generating stats...
+[00:58:03] stats generated in 2 ms!
+[00:58:04] pL. Fus': enfia na buna
+[00:58:06] rM.awp | null!: kasdksa
+[00:58:14] rM.awp | null! killed himself with RPG Launcher
+[00:58:14] rM.awp | null! killed pL. Fus' with RPG Launcher
+[00:58:16] rM.awp | null! *Morto*: mds
+[00:58:17] Sagos: kkkkkkkkkkkkkkkkkk
+[00:58:17] rM.awp | null! *Morto*: kkkkkkkkkkkkkkkkk
+[00:58:18] pL. Fus': kkkkkkkkkkkkkkkkkkkkkkkkkkk
+[00:58:22] [Info] Espaço insuficiente para carregar mais itens
+[00:58:24] "  (2x)
+[00:58:25] "  (2x)
+[00:58:26] "  (2x)
+[00:58:26] "  (1x)
+[00:58:27] rM.awp | null!: cagamo na vara
+[00:58:33] pL. Fus': uashduahsdausd
+[00:58:34] rM.awp | null!: ala
+[00:58:37] [Info] Espaço insuficiente para carregar mais itens
+[00:58:38] "  (2x)
+[00:58:38] "  (1x)
+[00:58:38] pL. Fus': ja volto
+[00:58:39] rM.awp | null!: achei uma gail
+[00:58:39] U.S.G.N.: Serverlist entry updated
+[00:58:40] [Info] Espaço insuficiente para carregar mais itens
+[00:58:40] "  (1x)
+[00:58:43] rM.awp | null!: e bala do lado
+[00:58:45] rM.awp | null!: ksadks
+[00:58:46] pL. Fus': porra eu tenho ue dormir null
+[00:58:48] rM.awp | null!: igualzim pubg
+[00:58:52] Sagos: Fus
+[00:58:53] pL. Fus': se eu reprovar nessa bagaça
+[00:58:58] pL. Fus': se vai pagar outro curso
+[00:58:58] rM.awp | null!: skdaskdaskdkas
+[00:58:59] U.S.G.N.: Ping/State 'playing'
+[00:59:02] pL. Fus': fala
+[00:59:19] Sagos: da pra tirar o minimapa?
+[00:59:24] U.S.G.N.: Serverlist entry updated
+[00:59:28] Sagos: os player n pode ver onde ta os outros '-'
+[00:59:33] pL. Fus': sim
+[00:59:37] rM.awp | null!: sagos
+[00:59:41] [Info] Espaço insuficiente para carregar mais itens
+[00:59:44] rM.awp | null!: e aquele sistema de mapa em tempo real
+[00:59:52] rM.awp | null!: q mostra ate a radiação se possivel
+[00:59:58] pL. Fus': o sistema do botao do gemidao
+[00:59:59] rM.awp | null!: ai vai ter ?
+[01:00:00] U.S.G.N.: Ping/State 'playing'
+[01:00:02] rM.awp | null! killed by Mine
+[01:00:04] rM.awp | null! *Morto*: mds
+[01:00:07] Sagos: vai
+[01:00:07] pL. Fus': kkkkkkkkkkk
+[01:00:09] rM.awp | null!: morri na arvore
+[01:00:10] U.S.G.N.: Serverlist entry updated
+[01:00:20] [Info] Ligadura só cura até 75% de vida
+[01:00:25] [Info] Você pegou 15 Balas de Pistola
+[01:00:36] pL. Fus': para com essas ideia de gemido null
+[01:00:41] rM.awp | null!: kkkkkk
+[01:00:42] pL. Fus': ideia bosta mn
+[01:00:44] rM.awp | null!: vc q deu a ideia
+[01:00:45] rM.awp | null!: kkkkkkkkkkkk
+[01:00:54] [Info] Espaço insuficiente para carregar mais itens
+[01:00:55] U.S.G.N.: Serverlist entry updated
+[01:01:00] U.S.G.N.: Ping/State 'playing'
+[01:01:12] Sagos killed pL. Fus' with Elite
+[01:01:16] pL. Fus': vou te destruir
+[01:01:22] Sagos: kkkkkk como
+[01:01:40] U.S.G.N.: Serverlist entry updated
+[01:01:44] Sagos: onde vc acho bala '-'
+[01:01:47] rM.awp | null!: no chao
+[01:02:01] U.S.G.N.: Ping/State 'playing'
+[01:02:01] rM.awp | null!: ali tem
+[01:02:14] [Info] Sem balas de pistola, sua Elite foi guardada no inventário
+[01:02:18] [Info] Você pegou Kit Médico
+[01:02:21] rM.awp | null! killed Sagos with M249
+[01:02:26] U.S.G.N.: Serverlist entry updated
+[01:02:26] Sagos: 7 HP -.-'
+[01:02:29] rM.awp | null!: askdaskd
+[01:02:35] rM.awp | null!: Agr vou usar meu kitzim
+[01:02:37] rM.awp | null!: e to suave
+[01:02:47] rM.awp | null!: tava com um full aqui
+[01:02:48] [Info] Você equipou Colete 1
+[01:02:49] rM.awp | null!: xkkdsakdsak
+[01:02:53] rM.awp | null!: Pronto
+[01:03:01] U.S.G.N.: Ping/State 'playing'
+[01:03:03] generating stats...
+[01:03:03] stats generated in 1 ms!
+[01:03:11] U.S.G.N.: Serverlist entry updated
+[01:03:12] pL. Fus' killed Sagos with Scout
+[01:03:12] Sagos *Morto*: kkkkkkkk
+[01:03:14] pL. Fus': kkkkkkkkkkkkkkkkkkkkkkkk
+[01:03:14] Sagos *Morto*: FDM
+[01:03:17] rM.awp | null!: TRETA
+[01:03:19] rM.awp | null!: kkkkkkkkkkkkkkkkkk
+[01:03:35] Sagos killed pL. Fus' with morre diabo
+[01:03:38] rM.awp | null!: asdkaskdaskdaskdsa
+[01:03:39] pL. Fus': que
+[01:03:39] Sagos: xD
+[01:03:40] rM.awp | null!: WTF
+[01:03:45] pL. Fus': kkkkkkkkkkkkkkkkkkkkkkkk
+[01:03:45] rM.awp | null!: custom kill
+[01:03:47] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkkk
+[01:03:52] pL. Fus': melhor arma
+[01:03:57] [Info] Você pegou 30 Balas de Rifle
+[01:04:02] Sagos: só vem
+[01:04:05] pL. Fus': kkkkkkkk
+[01:04:07] U.S.G.N.: Ping/State 'playing'
+[01:04:17] pL. Fus': wtf eu peguei uma gas grenade
+[01:04:17] rM.awp | null! killed Sagos with M249
+[01:04:20] rM.awp | null!: asjdasjd
+[01:04:21] pL. Fus': 10 bala de 12
+[01:04:22] Sagos: merda de colete
+[01:04:28] rM.awp | null!: gas e bala
+[01:04:32] rM.awp | null!: pra shotgun
+[01:04:36] pL. Fus': pdp
+[01:04:42] [Info] Você pegou 30 Balas de Rifle
+[01:04:42] U.S.G.N.: Serverlist entry updated
+[01:04:46] [Info] Você já possui um colete igual ou melhor
+[01:04:49] rM.awp | null!: tava sem vida
+[01:04:50] rM.awp | null!: ksdkasdksakdsak
+[01:04:57] rM.awp | null!: sgos
+[01:04:59] rM.awp | null! killed pL. Fus' with M249
+[01:05:00] [Info] Espaço insuficiente para carregar mais itens
+[01:05:05] rM.awp | null!: dps de 75%
+[01:05:07] U.S.G.N.: Ping/State 'playing'
+[01:05:08] rM.awp | null!: n posso usar mais
+[01:05:10] rM.awp | null!: o de 75
+[01:05:13] [Info] Você pegou Kit Médico
+[01:05:27] U.S.G.N.: Serverlist entry updated
+[01:05:32] Sagos: só kit full ou bebida pra ficar full life
+[01:05:36] rM.awp | null!: ATA
+[01:05:37] rM.awp | null!: KASDK
+[01:05:51] [Info] Espaço insuficiente para carregar mais itens
+[01:06:00] [Info] Ligadura só cura até 75% de vida
+[01:06:08] U.S.G.N.: Ping/State 'playing'
+[01:06:13] U.S.G.N.: Serverlist entry updated
+[01:06:28] rM.awp | null! killed Sagos with M134
+[01:06:30] rM.awp | null!: askdaskdaskd
+[01:06:46] [Info] Você já tem Elite no inventário
+[01:06:48] [Info] Espaço insuficiente para carregar mais itens
+[01:06:52] [Info] Você equipou: Elite
+[01:06:54] [Info] Sem balas de pistola, sua Elite foi guardada no inventário
+[01:06:58] U.S.G.N.: Serverlist entry updated
+[01:07:03] [Info] Sem balas de SMG, sua TMP foi guardada no inventário
+[01:07:04] pL. Fus': sai
+[01:07:08] U.S.G.N.: Ping/State 'playing'
+[01:07:09] [Info] Você já tem Elite no inventário
+[01:07:09] rM.awp | null!: kasjkdja
+[01:07:13] [Info] Espaço insuficiente para carregar mais itens
+[01:07:35] [Info] Você pegou 30 Balas de Rifle
+[01:07:36] "  (2x)
+[01:07:39] rM.awp | null!: capeta
+[01:07:40] rM.awp | null!: n morre
+[01:07:43] U.S.G.N.: Serverlist entry updated
+[01:07:45] [Info] Você pegou Kit Médico
+[01:08:03] generating stats...
+[01:08:03] stats generated in 1 ms!
+[01:08:04] [Info] Espaço insuficiente para carregar mais itens
+[01:08:08] rM.awp | null! killed pL. Fus' with M134
+[01:08:09] U.S.G.N.: Ping/State 'playing'
+[01:08:10] rM.awp | null!: askdasjdkasksdkadkasdksakd
+[01:08:12] pL. Fus': sua desgraça
+[01:08:16] rM.awp | null!: jason do pubg
+[01:08:18] rM.awp | null!: respeita
+[01:08:19] Sagos killed pL. Fus' with M4A1
+[01:08:21] rM.awp | null!: ala
+[01:08:22] rM.awp | null!: treta
+[01:08:23] pL. Fus': olha o otro arrombado
+[01:08:27] rM.awp | null!: escutei tiro
+[01:08:28] pL. Fus': kkkkkkkkkkkkkkkkk
+[01:08:28] Sagos: kkkkkkkk
+[01:08:29] U.S.G.N.: Serverlist entry updated
+[01:08:31] rM.awp | null!: KKKKKKKKKKKKKKKKKKKKKK
+[01:08:32] rM.awp | null!: ALA
+[01:08:34] rM.awp | null!: passos
+[01:08:43] rM.awp | null! killed pL. Fus' with M134
+[01:08:46] rM.awp | null!: kkkkkkkkkkkkk
+[01:09:02] Sagos killed rM.awp | null! with M4A1
+[01:09:04] rM.awp | null!: ala
+[01:09:05] rM.awp | null!: kkkkkkkkkkkkkkkk
+[01:09:06] [Info] Você equipou Colete 2
+[01:09:07] pL. Fus': asdhaushdausdhausd
+[01:09:09] [Info] Você já tem TMP no inventário
+[01:09:11] rM.awp | null!: tava com armor
+[01:09:13] Sagos: kkkkkkkkk
+[01:09:16] rM.awp | null!: invisivel
+[01:09:19] U.S.G.N.: Ping/State 'playing'
+[01:09:40] Sagos killed rM.awp | null! with M134
+[01:09:42] rM.awp | null!: asdkasdkas
+[01:09:52] rM.awp | null!: tomou molotada na cara
+[01:09:59] U.S.G.N.: Serverlist entry updated
+[01:10:03] Sagos: dx eu usa meu kit aki
+[01:10:05] [Info] Aguarde 6 segundos para usar Kit Médico
+[01:10:07] rM.awp | null!: kkkkkk
+[01:10:09] rM.awp | null!: fdo
+[01:10:10] rM.awp | null!: asdaskd
+[01:10:11] [Info] Você usou Kit Médico
+[01:10:18] [Info] Você pegou Kit Full
+[01:10:20] U.S.G.N.: Ping/State 'playing'
+[01:10:21] [Info] Aguarde 8 segundos para usar Kit Full
+[01:10:28] [Info] Você usou Kit Full
+[01:10:40] Sagos: null
+[01:10:42] Sagos: .-.
+[01:10:43] Sagos: acheu bug
+[01:10:45] U.S.G.N.: Serverlist entry updated
+[01:10:47] Sagos: achei*
+[01:10:47] rM.awp | null!: QUAL
+[01:10:49] [Info] Você pegou Kit Full
+[01:10:55] Sagos: uso o kit full
+[01:10:57] Sagos: dps dropo
+[01:11:02] Sagos: ai vai usa
+[01:11:08] Sagos: o e kit fica no chão kk
+[01:11:12] rM.awp | null!: ai duplica
+[01:11:15] Sagos: s
+[01:11:19] Sagos: olha
+[01:11:20] U.S.G.N.: Ping/State 'playing'
+[01:11:27] Sagos: n mata
+[01:11:30] U.S.G.N.: Serverlist entry updated
+[01:11:35] Sagos: to 43 de vida
+[01:11:40] Sagos: vou usar e dropa
+[01:11:53] Sagos: wtf to sem kit
+[01:11:56] Sagos: tem kit ai?
+[01:11:57] rM.awp | null!: KKKKKKKKKKKKKKKK
+[01:11:58] [Info] Você pegou Kit Full
+[01:11:59] rM.awp | null!: ai
+[01:12:01] Sagos: peguei 1
+[01:12:05] [Info] Aguarde 8 segundos para usar Kit Full
+[01:12:09] rM.awp | null!: Fus ta se equipando 
+[01:12:11] rM.awp | null!: pra pegar noix
+[01:12:12] [Info] Você usou Kit Full
+[01:12:13] pL. Fus': kkkkkkk
+[01:12:15] rM.awp | null!: kkkkkkkkkkkkkk
+[01:12:15] U.S.G.N.: Serverlist entry updated
+[01:12:19] rM.awp | null!: safado
+[01:12:20] Sagos: viu
+[01:12:20] rM.awp | null!: eu vi
+[01:12:21] U.S.G.N.: Ping/State 'playing'
+[01:12:24] rM.awp | null!: e pra arrumar ?
+[01:12:25] Sagos: to full life e dropo
+[01:12:27] rM.awp | null!: n tem como ?
+[01:12:29] Sagos: facil 
+[01:12:33] rM.awp | null!: ATA
+[01:12:34] Sagos: mas to com preguiça kk
+[01:12:35] rM.awp | null!: vem fus
+[01:12:36] rM.awp | null!: fdp
+[01:12:36] [Info] Você pegou Kit Full
+[01:12:40] [Info] Você pegou 30 Balas de Rifle
+[01:12:40] rM.awp | null!: TO DE AWP
+[01:12:58] pL. Fus': eu n acho arma nessa porra
+[01:13:01] U.S.G.N.: Serverlist entry updated
+[01:13:03] generating stats...
+[01:13:03] stats generated in 2 ms!
+[01:13:14] pL. Fus': sai
+[01:13:21] U.S.G.N.: Ping/State 'playing'
+[01:13:46] U.S.G.N.: Serverlist entry updated
+[01:14:04] Sagos killed pL. Fus' with M134
+[01:14:06] Sagos killed rM.awp | null! with M134
+[01:14:07] pL. Fus': viado
+[01:14:07] rM.awp | null!: asdkasld
+[01:14:09] pL. Fus': kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:14:09] rM.awp | null!: TRAIU
+[01:14:12] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:14:12] Sagos: kkkkkkkkkkkkkkk
+[01:14:14] [Info] Você já tem Elite no inventário
+[01:14:14] [Info] Você já tem TMP no inventário
+[01:14:14] pL. Fus': kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:14:21] U.S.G.N.: Ping/State 'playing'
+[01:14:25] rM.awp | null!: dps dessa vou ate me matar
+[01:14:26] rM.awp | null! killed by Mine
+[01:14:26] [Info] Você já tem TMP no inventário
+[01:14:31] pL. Fus': eu vou vazar mn
+[01:14:32] U.S.G.N.: Serverlist entry updated
+[01:14:34] rM.awp | null!: E noix 
+[01:14:38] Sagos: e eu vou fazer o script
+[01:14:42] rM.awp | null!: Amanhã tu começa o mapa ?
+[01:14:44] pL. Fus': amanha ja começo o mapa
+[01:14:46] pL. Fus': s
+[01:14:47] rM.awp | null!: KASDksakdsa
+[01:14:48] rM.awp | null!: KSDKSAdkaskdaskdas
+[01:14:56] rM.awp | null!: Vai some
+[01:15:06] pL. Fus': sim, sua mae ta chamando
+[01:15:08] Sagos: ele vai terminar o mapa
+[01:15:09] rM.awp | null!: kasdksadk
+[01:15:09] pL. Fus': vai fica bolada
+[01:15:10] rM.awp | null!: kasdkasdk
+[01:15:13] Sagos: e eu n vou terminar o script
+[01:15:17] U.S.G.N.: Serverlist entry updated
+[01:15:20] rM.awp | null!: kasdksa
+[01:15:22] rM.awp | null!: vai sim sagos
+[01:15:22] U.S.G.N.: Ping/State 'playing'
+[01:15:26] rM.awp | null!: o mapa vai ser HARD
+[01:15:28] rM.awp | null!: pra krlo
+[01:15:39] pL. Fus': ss vai dar mo trampo
+[01:15:39] Sagos: fus
+[01:15:43] pL. Fus': oe
+[01:15:46] Sagos: n pode ter pontos de teleport ok?
+[01:15:52] pL. Fus': ok
+[01:15:59] pL. Fus' killed rM.awp | null! with XM1014
+[01:16:01] rM.awp | null!: OMG
+[01:16:02] U.S.G.N.: Serverlist entry updated
+[01:16:04] pL. Fus': kkkkkkkkkkkkkkkkkkkkkk
+[01:16:05] rM.awp | null!: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[01:16:07] rM.awp | null!: Q SUSTO
+[01:16:08] rM.awp | null!: FDP
+[01:16:09] pL. Fus': KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKkkk
+[01:16:12] rM.awp | null!: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[01:16:13] rM.awp | null!: mn
+[01:16:15] rM.awp | null!: GELEI
+[01:16:20] Sagos: se quiser fazer alguns pts de teleport
+[01:16:20] pL. Fus': ausdhausdhaushdausdhausdhasd
+[01:16:22] U.S.G.N.: Ping/State 'playing'
+[01:16:25] Sagos: tem que ser bem longe
+[01:16:32] Sagos: pq o avião n pode passar por la
+[01:16:38] pL. Fus': blz
+[01:16:45] rM.awp | null!: Vai ter aviao fus
+[01:16:46] rM.awp | null!: ksadksadkaskdaskdsak
+[01:16:48] U.S.G.N.: Serverlist entry updated
+[01:16:50] rM.awp | null!: MN EU SO QUERO VER
+[01:16:55] rM.awp | null!: ate eu to curioso
+[01:17:00] pL. Fus': e eu fiquei tipo "aviao...?"
+[01:17:04] pL. Fus': kkkk
+[01:17:04] rM.awp | null!: KKKKKKKKKKKKKKKK
+[01:17:07] rM.awp | null!: S aviao
+[01:17:11] Sagos: nunca viram video de pubg? kk
+[01:17:23] U.S.G.N.: Ping/State 'playing'
+[01:17:25] pL. Fus': ja mas nunca rolou aviao nenhum
+[01:17:33] rM.awp | null!: aviao no 2d
+[01:17:33] U.S.G.N.: Serverlist entry updated
+[01:17:39] Sagos: tem 2 avião
+[01:17:42] rM.awp | null!: Mn
+[01:17:45] rM.awp | null!: AVIAO NO 2D
+[01:17:47] rM.awp | null!: WTF
+[01:17:52] pL. Fus': vcs jogam 2d 3d ou 2d msm?
+[01:17:58] [Info] Espaço insuficiente para carregar mais itens
+[01:18:03] generating stats...
+[01:18:03] stats generated in 1 ms!
+[01:18:05] rM.awp | null!: sagos joga o 3d
+[01:18:06] rM.awp | null!: ksakdsakdaskdkasd
+[01:18:14] pL. Fus': e mo bugado
+[01:18:18] U.S.G.N.: Serverlist entry updated
+[01:18:23] pL. Fus': mas vou ter que fazer o mapa no 3d
+[01:18:23] U.S.G.N.: Ping/State 'playing'
+[01:18:25] Sagos killed rM.awp | null! with M134
+[01:18:28] rM.awp | null!: quase
+[01:18:30] rM.awp | null!: matei
+[01:18:31] pL. Fus': pra n ficar zoado pros outros
+[01:18:43] rM.awp | null!: oq fus
+[01:18:52] Sagos: eu jogo no 2D
+[01:18:54] pL. Fus': a se foder le console
+[01:18:56] pL. Fus': kkkkk
+[01:19:04] U.S.G.N.: Serverlist entry updated
+[01:19:05] rM.awp | null!: nem vo
+[01:19:09] [Info] Espaço insuficiente para carregar mais itens
+[01:19:15] pL. Fus': rebelde vc
+[01:19:18] [Info] Você pegou Kit Médico
+[01:19:21] rM.awp | null!: Eu jogo no 3d kadkaskd
+[01:19:22] [Info] Aguarde 6 segundos para usar Kit Médico
+[01:19:24] U.S.G.N.: Ping/State 'playing'
+[01:19:26] pL. Fus': vc e doente
+[01:19:27] rM.awp | null!: MAIS E MEIO CAGADO
+[01:19:28] [Info] Você usou Kit Médico
+[01:19:30] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:19:36] rM.awp | null!: igual seu pai
+[01:19:40] Sagos: n gostei nenhum pouco do 3D
+[01:19:41] pL. Fus': "MEIO" vc ta sendo "MEIO" modesto
+[01:19:49] U.S.G.N.: Serverlist entry updated
+[01:20:01] Sagos killed rM.awp | null! with M134
+[01:20:06] rM.awp | null!: VIADO N MORRE
+[01:20:10] rM.awp | null!: ta usando kit ?
+[01:20:15] Sagos: claro
+[01:20:18] [Info] Você pegou Kit Médico
+[01:20:19] rM.awp | null!: KKKKKKKK
+[01:20:24] U.S.G.N.: Ping/State 'playing'
+[01:20:34] U.S.G.N.: Serverlist entry updated
+[01:20:40] rM.awp | null!: treta
+[01:20:42] rM.awp | null!: ouvi tiro
+[01:20:42] [Info] Aguarde 6 segundos para usar Kit Médico
+[01:20:45] [Info] Item Cancelado, não se mova para usar
+[01:20:46] pL. Fus' killed Sagos with Aug
+[01:20:53] pL. Fus': ha
+[01:20:55] Sagos: demora mt pra usar o kit '-'
+[01:21:00] rM.awp | null! killed pL. Fus' with Aug
+[01:21:03] Sagos: kkk ta igual no pubg
+[01:21:03] pL. Fus': viado
+[01:21:08] rM.awp | null!: aksdks
+[01:21:14] rM.awp | null!: kasska
+[01:21:18] rM.awp | null!: ASSIM Q E BOM SAGOS
+[01:21:20] U.S.G.N.: Serverlist entry updated
+[01:21:25] U.S.G.N.: Ping/State 'playing'
+[01:21:29] rM.awp | null!: Deixa eu usar o meu aqui neh
+[01:21:31] rM.awp | null!: u.u
+[01:21:35] rM.awp | null!: nice
+[01:21:37] pL. Fus': ja ouviu falar no borao do gemidao sagos?
+[01:21:40] pL. Fus': botao*
+[01:21:44] rM.awp | null!: Mn
+[01:21:45] Sagos: então
+[01:21:46] rM.awp | null!: nem queira
+[01:21:47] pL. Fus': kkkkkkkkkkkkkkkkkkkkkkk
+[01:21:49] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkkkkk
+[01:21:49] Sagos: eu ja fiz esse botão e.e
+[01:21:53] rM.awp | null!: KKKKKKKKKKKKKKKKKKKKKKKK
+[01:21:54] rM.awp | null!: ala
+[01:21:58] rM.awp | null!: FUS
+[01:22:03] pL. Fus': asudhausd
+[01:22:04] rM.awp | null!: ACHAMOS UM INDIVIDUO
+[01:22:05] U.S.G.N.: Serverlist entry updated
+[01:22:06] rM.awp | null!: q JA FEZ
+[01:22:09] rM.awp | null!: ALEM DE NOS
+[01:22:14] pL. Fus': ahehaehaeha
+[01:22:17] pL. Fus': e mt bom mn
+[01:22:19] pL. Fus': mas nem vo colocar
+[01:22:25] U.S.G.N.: Ping/State 'playing'
+[01:22:31] rM.awp | null!: achei um lugar aqui cheio de loot
+[01:22:33] rM.awp | null!: e zombie
+[01:22:34] rM.awp | null!: kkkkkkkkk
+[01:22:43] pL. Fus': sim, da /kill
+[01:22:51] U.S.G.N.: Serverlist entry updated
+[01:22:55] Sagos: ja volto vou fazer o script se n
+[01:22:57] Sagos: nunca vms jogar
+[01:23:04] generating stats...
+[01:23:04] stats generated in 2 ms!
+[01:23:06] pL. Fus': eu vou dormir
+[01:23:09] Sagos died
+[01:23:09] Sagos juntou-se aos espectadores
+[01:23:11] pL. Fus': amanha tenho prova
+[01:23:17] rM.awp | null!: kasdkaskdaskdaskdkask
+[01:23:19] rM.awp | null!: FUS
+[01:23:20] pL. Fus': oe
+[01:23:23] rM.awp | null!: MAMA EU
+[01:23:26] U.S.G.N.: Ping/State 'playing'
+[01:23:27] pL. Fus': vai se foder
+[01:23:32] rM.awp | null!: '.'
+[01:23:36] U.S.G.N.: Serverlist entry updated
+[01:23:37] pL. Fus': vemk me matar
+[01:23:44] pL. Fus': vc n consegue
+[01:23:46] rM.awp | null!: n vc ta de homem bomba
+[01:23:53] rM.awp | null!: vai se tacar em mim
+[01:23:58] pL. Fus': ta arregando msm 
+[01:24:05] rM.awp | null!: fazer oq ne
+[01:24:12] rM.awp | null! killed by Barbed Wire
+[01:24:15] rM.awp | null!: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[01:24:17] pL. Fus': kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:24:19] pL. Fus': KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[01:24:21] rM.awp | null!: MANO ACHEI Q ERA TILE
+[01:24:21] U.S.G.N.: Serverlist entry updated
+[01:24:24] rM.awp | null!: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[01:24:26] U.S.G.N.: Ping/State 'playing'
+[01:24:26] pL. Fus': pq meu hp foi pra 1
+[01:24:29] pL. Fus': vsf sagos
+[01:24:47] pL. Fus': ausdhaushduasd
+[01:24:52] pL. Fus': laser
+[01:24:54] "  (1x)
+[01:25:07] U.S.G.N.: Serverlist entry updated
+[01:25:24] pL. Fus' killed rM.awp | null! with Laser
+[01:25:27] U.S.G.N.: Ping/State 'playing'
+[01:25:52] U.S.G.N.: Serverlist entry updated
+[01:26:08] pL. Fus' killed rM.awp | null! with Knife
+[01:26:10] rM.awp | null!: asdkisadkas
+[01:26:12] pL. Fus': ushduahsduasdhuasd
+[01:26:19] rM.awp | null!: puta maligna
+[01:26:24] pL. Fus': kkkkkkkkkkkkk
+[01:26:26] rM.awp | null!: KKKKKKKKKKK
+[01:26:27] U.S.G.N.: Ping/State 'playing'
+[01:26:32] rM.awp | null!: meee
+[01:26:33] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkk
+[01:26:37] U.S.G.N.: Serverlist entry updated
+[01:26:45] rM.awp | null!: Isso aqui parece um pinro
+[01:26:47] rM.awp | null!: pinto
+[01:26:49] só ataca null
+[01:26:55] deixei ele com 1 de vida
+[01:27:15] pL. Fus': kkkkkkkk
+[01:27:23] U.S.G.N.: Serverlist entry updated
+[01:27:28] U.S.G.N.: Ping/State 'playing'
+[01:27:33] rM.awp | null! killed pL. Fus' with AK-47
+[01:27:35] pL. Fus': viado
+[01:27:37] rM.awp | null!: asldlasdla
+[01:27:39] pL. Fus': kkkkkkkkkkkkkkk
+[01:27:50] pL. Fus' votos para kickar rM.awp | null!
+[01:27:58] rM.awp | null!: ele tava de duble arma
+[01:27:59] rM.awp | null!: kasdkaskdsakdaskdksa
+[01:28:04] generating stats...
+[01:28:04] stats generated in 1 ms!
+[01:28:06] pL. Fus': agr eu vou dormir
+[01:28:08] pL. Fus': krlh
+[01:28:08] U.S.G.N.: Serverlist entry updated
+[01:28:09] pL. Fus': chega
+[01:28:10] rM.awp | null!: PERA
+[01:28:11] rM.awp | null!: mais 1
+[01:28:16] rM.awp | null!: kasdkaskd
+[01:28:16] pL. Fus': VAI TOMAR NO SEU CU
+[01:28:27] rM.awp | null!: NoN
+[01:28:28] U.S.G.N.: Ping/State 'playing'
+[01:28:29] rM.awp | null!: kkkk
+[01:28:31] pL. Fus': kk
+[01:28:42] pL. Fus': vou dormir em cima da moto
+[01:28:47] pL. Fus': ficar paraplegico
+[01:28:49] rM.awp | null!: kkkkkkkkkkkkkk
+[01:28:53] U.S.G.N.: Serverlist entry updated
+[01:29:00] rM.awp | null!: vai reprovar na primeira acelerad
+[01:29:24] pL. Fus': se n vai me mata
+[01:29:29] U.S.G.N.: Ping/State 'playing'
+[01:29:30] pL. Fus' died
+[01:29:30] pL. Fus' juntou-se aos espectadores
+[01:29:33] rM.awp | null!: KKKKKKKKKKKKKKKKK
+[01:29:34] rM.awp | null!: fdp
+[01:29:39] U.S.G.N.: Serverlist entry updated
+[01:29:47] [b]I Killer conectou-se
+[01:29:47] [b]I Killer juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]Blowball conectou-se
+[01:29:47] [b]Blowball juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]Gladiator conectou-se
+[01:29:47] [b]Gladiator juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]Starfish conectou-se
+[01:29:47] [b]Starfish juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]USGN.de conectou-se
+[01:29:47] [b]USGN.de juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]Supreme conectou-se
+[01:29:47] [b]Supreme juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]CS2D.com conectou-se
+[01:29:47] [b]CS2D.com juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]Tom conectou-se
+[01:29:47] [b]Tom juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]Keksmeister conectou-se
+[01:29:47] [b]Keksmeister juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]PlayWithPentablet conectou-se
+[01:29:47] [b]PlayWithPentablet juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]NoIntelligence conectou-se
+[01:29:47] [b]NoIntelligence juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]MyAss conectou-se
+[01:29:47] [b]MyAss juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]The Bullet conectou-se
+[01:29:47] [b]The Bullet juntou-se a Countra-Terrorista Forças
+[01:29:47] [b]CS2D rocks! conectou-se
+[01:29:47] [b]CS2D rocks! juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]Chris conectou-se
+[01:29:48] [b]Chris juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]Assassin conectou-se
+[01:29:48] [b]Assassin juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]PlayWithWheel conectou-se
+[01:29:48] [b]PlayWithWheel juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]Linux Lover conectou-se
+[01:29:48] [b]Linux Lover juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]ROFLCopter conectou-se
+[01:29:48] [b]ROFLCopter juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]yeah conectou-se
+[01:29:48] [b]yeah juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]D0om conectou-se
+[01:29:48] [b]D0om juntou-se a Countra-Terrorista Forças
+[01:29:48] LUA ERROR: bots/includes/collect.lua:22: attempt to call global 'item' (a table value)
+[01:29:48]  -> bots/includes/collect.lua:22: in function 'fai_collect'
+[01:29:48]  -> bots/Standard AI.lua:108: in function <bots/Standard AI.lua:83>
+[01:29:48] Freezing bots to stop Lua error msg flood! Use 'bot_freeze 0' to unfreeze bots!
+[01:29:48] [b]Cutthroat conectou-se
+[01:29:48] [b]Cutthroat juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]Infernal conectou-se
+[01:29:48] [b]Infernal juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]Circuit conectou-se
+[01:29:48] [b]Circuit juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]LUL conectou-se
+[01:29:48] [b]LUL juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]Uber AI conectou-se
+[01:29:48] [b]Uber AI juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]Uber Killer conectou-se
+[01:29:48] [b]Uber Killer juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]Deagle Master conectou-se
+[01:29:48] [b]Deagle Master juntou-se a Countra-Terrorista Forças
+[01:29:48] [b]Mr Mafia conectou-se
+[01:29:48] [b]Mr Mafia juntou-se a Countra-Terrorista Forças
+[01:29:51] rM.awp | null!: MEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+[01:29:51] pL. Fus' juntou-se a Countra-Terrorista Forças
+[01:29:53] rM.awp | null!: sai daqui
+[01:29:55] pL. Fus' killed [b]NoIntelligence with Knife
+[01:29:56] [b]I Killer deixou o jogo (kickado)
+[01:29:56] [b]Blowball deixou o jogo (kickado)
+[01:29:56] [b]Gladiator deixou o jogo (kickado)
+[01:29:56] [b]Starfish deixou o jogo (kickado)
+[01:29:56] [b]USGN.de deixou o jogo (kickado)
+[01:29:56] [b]Supreme deixou o jogo (kickado)
+[01:29:56] [b]CS2D.com deixou o jogo (kickado)
+[01:29:56] [b]Tom deixou o jogo (kickado)
+[01:29:56] [b]Keksmeister deixou o jogo (kickado)
+[01:29:56] [b]PlayWithPentablet deixou o jogo (kickado)
+[01:29:56] [b]NoIntelligence deixou o jogo (kickado)
+[01:29:56] [b]MyAss deixou o jogo (kickado)
+[01:29:56] [b]The Bullet deixou o jogo (kickado)
+[01:29:56] [b]CS2D rocks! deixou o jogo (kickado)
+[01:29:56] [b]Chris deixou o jogo (kickado)
+[01:29:56] [b]Assassin deixou o jogo (kickado)
+[01:29:56] [b]PlayWithWheel deixou o jogo (kickado)
+[01:29:56] [b]Linux Lover deixou o jogo (kickado)
+[01:29:56] [b]ROFLCopter deixou o jogo (kickado)
+[01:29:56] [b]yeah deixou o jogo (kickado)
+[01:29:56] [b]D0om deixou o jogo (kickado)
+[01:29:56] [b]Cutthroat deixou o jogo (kickado)
+[01:29:56] [b]Infernal deixou o jogo (kickado)
+[01:29:56] [b]Circuit deixou o jogo (kickado)
+[01:29:56] [b]LUL deixou o jogo (kickado)
+[01:29:56] [b]Uber AI deixou o jogo (kickado)
+[01:29:56] [b]Uber Killer deixou o jogo (kickado)
+[01:29:56] [b]Deagle Master deixou o jogo (kickado)
+[01:29:56] [b]Mr Mafia deixou o jogo (kickado)
+[01:29:56] rM.awp | null!: veado
+[01:29:58] pL. Fus': kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[01:30:07] pL. Fus': vazei
+[01:30:11] pL. Fus' deixou o jogo
+[01:30:14] rM.awp | null!: nnnnnnnnnnnn
+[01:30:16] rM.awp | null!: kkkkkkkkkkkkkkkkkkkk
+[01:30:17] Sagos *Morto*: kkkkkkkkkkkkkkkkkkkkkkkkk
+[01:30:20] rM.awp | null! died
+[01:30:20] rM.awp | null! juntou-se aos espectadores
+[01:30:24] U.S.G.N.: Serverlist entry updated
+[01:30:29] U.S.G.N.: Ping/State 'playing'
+[01:30:33] rM.awp | null! *Morto*: coloca os bot ai
+[01:30:37] rM.awp | null! *Morto*: pra ficar assistindo
+[01:30:41] Sagos *Morto*: n da
+[01:30:42] rM.awp | null! *Morto*: enquanto vc faz ai
+[01:30:45] rM.awp | null! *Morto*: kkkkkkkkk
+[01:30:47] rM.awp | null! *Morto*: pq ?
+[01:30:47] Sagos *Morto*: eu tirei o script deles
+[01:30:50] rM.awp | null! *Morto*: atah
+[01:30:54] Sagos *Morto*: ele n cosegue mais anda
+[01:30:55] Sagos *Morto*: olha
+[01:30:56] [b]0_o conectou-se
+[01:30:56] [b]0_o juntou-se a Terrorista Forças
+[01:30:56] [b]NoIntelligence conectou-se
+[01:30:56] [b]NoIntelligence juntou-se a Countra-Terrorista Forças
+[01:30:56] [b]Master of Disaster conectou-se
+[01:30:56] [b]Master of Disaster juntou-se a Terrorista Forças
+[01:30:56] [b]USGN.de conectou-se
+[01:30:56] [b]USGN.de juntou-se a Countra-Terrorista Forças
+[01:30:56] [b]Supreme conectou-se
+[01:30:56] [b]Supreme juntou-se a Terrorista Forças
+[01:30:57] [b]Rob conectou-se
+[01:30:57] [b]Rob juntou-se a Countra-Terrorista Forças
+[01:30:57] [b]CS2D rocks! conectou-se
+[01:30:57] [b]CS2D rocks! juntou-se a Terrorista Forças
+[01:30:57] [b]Carnage conectou-se
+[01:30:57] [b]Carnage juntou-se a Countra-Terrorista Forças
+[01:30:57] [b]Drone conectou-se
+[01:30:57] [b]Drone juntou-se a Terrorista Forças
+[01:30:57] [b]Scrap conectou-se
+[01:30:57] [b]Scrap juntou-se a Countra-Terrorista Forças
+[01:30:57] [b]Chris conectou-se
+[01:30:57] [b]Chris juntou-se a Terrorista Forças
+[01:30:57] [b]yeah conectou-se
+[01:30:57] [b]yeah juntou-se a Countra-Terrorista Forças
+[01:30:57] [b]LUL conectou-se
+[01:30:57] [b]LUL juntou-se a Terrorista Forças
+[01:30:57] [b]Slayer conectou-se
+[01:30:57] [b]Slayer juntou-se a Countra-Terrorista Forças
+[01:30:58] [b]PlayWithJoystick conectou-se
+[01:30:58] [b]PlayWithJoystick juntou-se a Terrorista Forças
+[01:30:58] [b]HE Overkill conectou-se
+[01:30:58] [b]HE Overkill juntou-se a Countra-Terrorista Forças
+[01:30:58] [b]Robo conectou-se
+[01:30:58] [b]Robo juntou-se a Terrorista Forças
+[01:30:58] [b]D0om conectou-se
+[01:30:58] [b]D0om juntou-se a Countra-Terrorista Forças
+[01:30:58] [b]0wn4ge conectou-se
+[01:30:58] [b]0wn4ge juntou-se a Terrorista Forças
+[01:30:58] [b]pwner0r conectou-se
+[01:30:58] [b]pwner0r juntou-se a Countra-Terrorista Forças
+[01:30:58] [b]Nightblaster conectou-se
+[01:30:58] [b]Nightblaster juntou-se a Terrorista Forças
+[01:30:58] [b]m00h conectou-se
+[01:30:58] [b]m00h juntou-se a Countra-Terrorista Forças
+[01:30:58] [b]MyAss conectou-se
+[01:30:58] [b]MyAss juntou-se a Terrorista Forças
+[01:30:59] [b]lawlz conectou-se
+[01:30:59] [b]lawlz juntou-se a Countra-Terrorista Forças
+[01:30:59] [b]Starfish conectou-se
+[01:30:59] [b]Starfish juntou-se a Terrorista Forças
+[01:30:59] [b]ROFLCopter conectou-se
+[01:30:59] [b]ROFLCopter juntou-se a Countra-Terrorista Forças
+[01:30:59] [b]Blowball conectou-se
+[01:30:59] [b]Blowball juntou-se a Terrorista Forças
+[01:30:59] [b]ZOMG conectou-se
+[01:30:59] [b]ZOMG juntou-se a Countra-Terrorista Forças
+[01:30:59] [b]Hacker_Little conectou-se
+[01:30:59] [b]Hacker_Little juntou-se a Terrorista Forças
+[01:30:59] [b]Feuersturm conectou-se
+[01:30:59] [b]Feuersturm juntou-se a Countra-Terrorista Forças
+[01:31:10] U.S.G.N.: Serverlist entry updated
+[01:31:15] rM.awp | null! *Morto*: freezo os coitado
+[01:31:17] rM.awp | null! *Morto*: kkkkkkkk
+[01:31:22] Sagos *Morto*: lll
+[01:31:23] Sagos *Morto*: kkk
+[01:31:29] rM.awp | null! *Morto*: Vou ali fazer um suco
+[01:31:30] U.S.G.N.: Ping/State 'playing'
+[01:31:42] rM.awp | null! *Morto*: N sei doq vou fazer em
+[01:31:46] rM.awp | null! *Morto*: acho q de moranguet
+[01:31:55] U.S.G.N.: Serverlist entry updated
+[01:32:03] ----- Mapchange -----
+[01:32:03] Starting server...
+[01:32:03] load map 'Battle Royale'
+[01:32:03] ----- Server started -----
+[01:32:03] Lua: Adding function 'falar' to hook 'say'
+[01:32:03] Lua: Adding function 'segundos' to hook 'second'
+[01:32:03] Lua: Adding function 'coletar' to hook 'walkover'
+[01:32:03] Lua: Adding function 'atacar' to hook 'attack'
+[01:32:03] Lua: Adding function 'atacar2' to hook 'attack2'
+[01:32:03] Lua: Adding function 'teclas' to hook 'serveraction'
+[01:32:03] Lua: Adding function 'mymenu' to hook 'menu'
+[01:32:03] Lua: Adding function 'ataque' to hook 'hit'
+[01:32:03] Lua: Adding function 'dropar' to hook 'drop'
+[01:32:03] Lua: Adding function 'mover' to hook 'movetile'
+[01:32:04] Sagos juntou-se a Countra-Terrorista Forças
+[01:32:04] U.S.G.N.: Serverlist entry updated
+[01:32:04] U.S.G.N.: Ping/State 'playing'
+[01:32:07] [Info] Você equipou Colete 3
+[01:32:14] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[01:32:14] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[01:32:14] rM.awp | null! conectou-se
+[01:32:14] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[01:32:15] JOIN FAILURE: rM.awp | null! (177.185.53.199:64504) can't join (map differs)
+[01:32:50] U.S.G.N.: Serverlist entry updated
+[01:33:04] generating stats...
+[01:33:04] stats generated in 1 ms!
+[01:33:05] U.S.G.N.: Ping/State 'playing'
+[01:33:35] U.S.G.N.: Serverlist entry updated
+[01:34:05] U.S.G.N.: Ping/State 'playing'
+[01:34:20] U.S.G.N.: Serverlist entry updated
+[01:35:05] "  (1x)
+[01:35:05] U.S.G.N.: Ping/State 'playing'
+[01:35:50] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[01:35:51] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[01:35:51] rM.awp | null! conectou-se
+[01:35:51] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[01:35:51] U.S.G.N.: Serverlist entry updated
+[01:35:51] Starting transfer to rM.awp | null! (files: 2) ...
+[01:35:51] rM.awp | null! needs 1 file. Starting to send file...
+[01:35:51] Sending 'maps/Battle Royale.map' to rM.awp | null!...
+[01:35:57] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[01:36:06] U.S.G.N.: Ping/State 'playing'
+[01:36:36] U.S.G.N.: Serverlist entry updated
+[01:37:06] U.S.G.N.: Ping/State 'playing'
+[01:37:22] U.S.G.N.: Serverlist entry updated
+[01:38:04] generating stats...
+[01:38:04] stats generated in 1 ms!
+[01:38:07] U.S.G.N.: Serverlist entry updated
+[01:38:07] U.S.G.N.: Ping/State 'playing'
+[01:38:52] U.S.G.N.: Serverlist entry updated
+[01:39:07] U.S.G.N.: Ping/State 'playing'
+[01:40:08] "  (1x)
+[01:40:23] U.S.G.N.: Serverlist entry updated
+[01:40:23] rM.awp | null! deixou o jogo
+[01:41:08] U.S.G.N.: Serverlist entry updated
+[01:41:08] U.S.G.N.: Ping/State 'playing'
+[01:41:54] U.S.G.N.: Serverlist entry updated
+[01:42:09] U.S.G.N.: Ping/State 'playing'
+[01:42:39] U.S.G.N.: Serverlist entry updated
+[01:43:04] generating stats...
+[01:43:04] stats generated in 1 ms!
+[01:43:09] U.S.G.N.: Ping/State 'playing'
+[01:43:24] U.S.G.N.: Serverlist entry updated
+[01:44:10] "  (1x)
+[01:44:10] U.S.G.N.: Ping/State 'playing'
+[01:44:55] U.S.G.N.: Serverlist entry updated
+[01:45:10] U.S.G.N.: Ping/State 'playing'
+[01:45:40] U.S.G.N.: Serverlist entry updated
+[01:46:11] U.S.G.N.: Ping/State 'playing'
+[01:46:26] U.S.G.N.: Serverlist entry updated
+[01:47:11] U.S.G.N.: Ping/State 'playing'
+[01:47:11] U.S.G.N.: Serverlist entry updated
+[01:47:57] "  (1x)
+[01:48:04] generating stats...
+[01:48:04] stats generated in 1 ms!
+[01:48:12] U.S.G.N.: Ping/State 'playing'
+[01:48:42] U.S.G.N.: Serverlist entry updated
+[01:48:57] ----- Mapchange -----
+[01:48:57] Starting server...
+[01:48:57] load map 'Battle Royale'
+[01:48:57] ----- Server started -----
+[01:48:57] Lua: Adding function 'falar' to hook 'say'
+[01:48:57] Lua: Adding function 'segundos' to hook 'second'
+[01:48:57] Lua: Adding function 'coletar' to hook 'walkover'
+[01:48:57] Lua: Adding function 'atacar' to hook 'attack'
+[01:48:57] Lua: Adding function 'atacar2' to hook 'attack2'
+[01:48:57] Lua: Adding function 'teclas' to hook 'serveraction'
+[01:48:57] Lua: Adding function 'mymenu' to hook 'menu'
+[01:48:57] Lua: Adding function 'ataque' to hook 'hit'
+[01:48:57] Lua: Adding function 'dropar' to hook 'drop'
+[01:48:57] Lua: Adding function 'mover' to hook 'movetile'
+[01:48:58] U.S.G.N.: Ping/State 'playing'
+[01:48:58] U.S.G.N.: Serverlist entry updated
+[01:48:59] Sagos juntou-se a Countra-Terrorista Forças
+[01:49:05] [Info] Você pegou 10 Balas de Shotgun
+[01:49:05] [Info] Você pegou 30 Balas de Rifle
+[01:49:08] [Info] Você pegou 10 Balas de Shotgun
+[01:49:13] [Info] Espaço insuficiente para carregar mais itens
+[01:49:15] "  (1x)
+[01:49:35] "  (1x)
+[01:49:36] "  (1x)
+[01:49:37] "  (2x)
+[01:49:43] U.S.G.N.: Serverlist entry updated
+[01:49:57] [Info] Você pegou 10 Balas de Shotgun
+[01:49:57] "  (1x)
+[01:49:59] U.S.G.N.: Ping/State 'playing'
+[01:50:06] [Info] Você pegou 10 Balas de Shotgun
+[01:50:28] "  (2x)
+[01:50:29] U.S.G.N.: Serverlist entry updated
+[01:50:58] ----- Mapchange -----
+[01:50:58] Starting server...
+[01:50:58] load map 'Battle Royale'
+[01:50:58] ----- Server started -----
+[01:50:58] Lua: Adding function 'falar' to hook 'say'
+[01:50:58] Lua: Adding function 'segundos' to hook 'second'
+[01:50:58] Lua: Adding function 'coletar' to hook 'walkover'
+[01:50:58] Lua: Adding function 'atacar' to hook 'attack'
+[01:50:58] Lua: Adding function 'atacar2' to hook 'attack2'
+[01:50:58] Lua: Adding function 'teclas' to hook 'serveraction'
+[01:50:58] Lua: Adding function 'mymenu' to hook 'menu'
+[01:50:58] Lua: Adding function 'ataque' to hook 'hit'
+[01:50:58] Lua: Adding function 'dropar' to hook 'drop'
+[01:50:58] Lua: Adding function 'mover' to hook 'movetile'
+[01:50:59] U.S.G.N.: Ping/State 'playing'
+[01:50:59] U.S.G.N.: Serverlist entry updated
+[01:51:01] Sagos juntou-se a Countra-Terrorista Forças
+[01:51:05] [Info] Você pegou 10 Balas de Shotgun
+[01:51:08] "  (1x)
+[01:51:10] [Info] Você equipou Colete 3
+[01:51:15] ----- Mapchange -----
+[01:51:15] Starting server...
+[01:51:15] load map 'Battle Royale'
+[01:51:15] ----- Server started -----
+[01:51:15] Lua: Adding function 'falar' to hook 'say'
+[01:51:15] Lua: Adding function 'segundos' to hook 'second'
+[01:51:15] Lua: Adding function 'coletar' to hook 'walkover'
+[01:51:15] Lua: Adding function 'atacar' to hook 'attack'
+[01:51:15] Lua: Adding function 'atacar2' to hook 'attack2'
+[01:51:15] Lua: Adding function 'teclas' to hook 'serveraction'
+[01:51:15] Lua: Adding function 'mymenu' to hook 'menu'
+[01:51:15] Lua: Adding function 'ataque' to hook 'hit'
+[01:51:15] Lua: Adding function 'dropar' to hook 'drop'
+[01:51:15] Lua: Adding function 'mover' to hook 'movetile'
+[01:51:15] U.S.G.N.: Serverlist entry updated
+[01:51:15] U.S.G.N.: Ping/State 'playing'
+[01:51:20] Sagos juntou-se a Countra-Terrorista Forças
+[01:51:25] [Info] Você pegou Analgésico
+[01:51:26] [Info] Você pegou Energético
+[01:51:26] [Info] Você pegou Kit Full
+[01:51:26] [Info] Você pegou Kit Médico
+[01:51:28] [Info] Você pegou Ligadura
+[01:52:01] U.S.G.N.: Serverlist entry updated
+[01:52:16] U.S.G.N.: Ping/State 'playing'
+[01:52:46] U.S.G.N.: Serverlist entry updated
+[01:53:04] generating stats...
+[01:53:04] stats generated in 1 ms!
+[01:53:16] U.S.G.N.: Ping/State 'playing'
+[01:53:32] U.S.G.N.: Serverlist entry updated
+[01:54:17] U.S.G.N.: Ping/State 'playing'
+[01:54:17] U.S.G.N.: Serverlist entry updated
+[01:55:02] "  (1x)
+[01:55:14] ----- Mapchange -----
+[01:55:14] Starting server...
+[01:55:14] load map 'Battle Royale'
+[01:55:14] ----- Server started -----
+[01:55:14] Lua: Adding function 'falar' to hook 'say'
+[01:55:14] Lua: Adding function 'segundos' to hook 'second'
+[01:55:14] Lua: Adding function 'coletar' to hook 'walkover'
+[01:55:14] Lua: Adding function 'atacar' to hook 'attack'
+[01:55:14] Lua: Adding function 'atacar2' to hook 'attack2'
+[01:55:14] Lua: Adding function 'teclas' to hook 'serveraction'
+[01:55:14] Lua: Adding function 'mymenu' to hook 'menu'
+[01:55:14] Lua: Adding function 'ataque' to hook 'hit'
+[01:55:14] Lua: Adding function 'dropar' to hook 'drop'
+[01:55:14] Lua: Adding function 'mover' to hook 'movetile'
+[01:55:15] U.S.G.N.: Ping/State 'playing'
+[01:55:15] U.S.G.N.: Serverlist entry updated
+[01:55:16] Sagos juntou-se a Countra-Terrorista Forças
+[01:55:21] [Info] Você pegou Kit Full
+[01:55:21] [Info] Você pegou Kit Médico
+[01:55:21] [Info] Você pegou Analgésico
+[01:55:22] [Info] Você pegou Energético
+[01:55:22] [Info] Você pegou Ligadura
+[01:55:24] [Info] Você equipou Colete 3
+[01:55:26] [Info] Você já possui um colete igual ou melhor
+[01:55:27] "  (1x)
+[01:55:28] "  (1x)
+[01:55:31] [Info] Você pegou Energético
+[01:55:33] [Info] Você pegou Kit Full
+[01:55:55] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[01:55:55] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[01:55:58] [Info] Você pegou 15 Balas de Pistola
+[01:56:00] U.S.G.N.: Serverlist entry updated
+[01:56:16] U.S.G.N.: Ping/State 'playing'
+[01:56:19] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[01:56:36] [Info] Você pegou Kit Full
+[01:56:45] [Info] Aguarde 8 segundos para usar Kit Full
+[01:56:46] U.S.G.N.: Serverlist entry updated
+[01:56:53] [Info] Você usou Kit Full
+[01:56:56] [Info] Você pegou Kit Full
+[01:57:16] U.S.G.N.: Ping/State 'playing'
+[01:57:31] U.S.G.N.: Serverlist entry updated
+[01:58:04] generating stats...
+[01:58:04] stats generated in 1 ms!
+[01:58:17] U.S.G.N.: Serverlist entry updated
+[01:58:17] U.S.G.N.: Ping/State 'playing'
+[01:59:02] U.S.G.N.: Serverlist entry updated
+[01:59:17] U.S.G.N.: Ping/State 'playing'
+[01:59:47] U.S.G.N.: Serverlist entry updated
+[02:00:17] U.S.G.N.: Ping/State 'playing'
+[02:01:18] U.S.G.N.: Serverlist entry updated
+[02:01:18] U.S.G.N.: Ping/State 'playing'
+[02:02:03] U.S.G.N.: Serverlist entry updated
+[02:02:18] U.S.G.N.: Ping/State 'playing'
+[02:02:49] U.S.G.N.: Serverlist entry updated
+[02:03:04] generating stats...
+[02:03:04] stats generated in 1 ms!
+[02:03:19] U.S.G.N.: Ping/State 'playing'
+[02:03:28] ----- Mapchange -----
+[02:03:28] Starting server...
+[02:03:28] load map 'Battle Royale'
+[02:03:28] ----- Server started -----
+[02:03:28] Lua: Adding function 'falar' to hook 'say'
+[02:03:28] Lua: Adding function 'segundos' to hook 'second'
+[02:03:28] Lua: Adding function 'coletar' to hook 'walkover'
+[02:03:28] Lua: Adding function 'atacar' to hook 'attack'
+[02:03:28] Lua: Adding function 'atacar2' to hook 'attack2'
+[02:03:28] Lua: Adding function 'teclas' to hook 'serveraction'
+[02:03:28] Lua: Adding function 'mymenu' to hook 'menu'
+[02:03:28] Lua: Adding function 'ataque' to hook 'hit'
+[02:03:28] Lua: Adding function 'dropar' to hook 'drop'
+[02:03:28] Lua: Adding function 'mover' to hook 'movetile'
+[02:03:29] U.S.G.N.: Ping/State 'playing'
+[02:03:29] U.S.G.N.: Serverlist entry updated
+[02:03:31] Sagos juntou-se a Countra-Terrorista Forças
+[02:03:34] [Info] Você equipou Colete 1
+[02:03:37] [Info] Você equipou Colete 2
+[02:03:40] [Info] Você já possui um colete igual ou melhor
+[02:03:42] "  (1x)
+[02:03:44] [Info] Você equipou Colete 3
+[02:03:47] [Info] Você já possui um colete igual ou melhor
+[02:03:51] "  (1x)
+[02:04:08] ----- Mapchange -----
+[02:04:08] Starting server...
+[02:04:08] load map 'Battle Royale'
+[02:04:08] ----- Server started -----
+[02:04:08] Lua: Adding function 'falar' to hook 'say'
+[02:04:08] Lua: Adding function 'segundos' to hook 'second'
+[02:04:08] Lua: Adding function 'coletar' to hook 'walkover'
+[02:04:08] Lua: Adding function 'atacar' to hook 'attack'
+[02:04:08] Lua: Adding function 'atacar2' to hook 'attack2'
+[02:04:08] Lua: Adding function 'teclas' to hook 'serveraction'
+[02:04:08] Lua: Adding function 'mymenu' to hook 'menu'
+[02:04:08] Lua: Adding function 'ataque' to hook 'hit'
+[02:04:08] Lua: Adding function 'dropar' to hook 'drop'
+[02:04:08] Lua: Adding function 'mover' to hook 'movetile'
+[02:04:08] U.S.G.N.: Serverlist entry updated
+[02:04:08] U.S.G.N.: Ping/State 'playing'
+[02:04:10] Sagos juntou-se a Countra-Terrorista Forças
+[02:04:16] [Info] Você equipou Colete 2
+[02:04:20] [Info] Você equipou Colete 3
+[02:04:47] [Info] Você já possui um colete igual ou melhor
+[02:04:52] ----- Mapchange -----
+[02:04:52] Starting server...
+[02:04:52] load map 'Battle Royale'
+[02:04:52] ----- Server started -----
+[02:04:52] Lua: Adding function 'falar' to hook 'say'
+[02:04:52] Lua: Adding function 'segundos' to hook 'second'
+[02:04:52] Lua: Adding function 'coletar' to hook 'walkover'
+[02:04:52] Lua: Adding function 'atacar' to hook 'attack'
+[02:04:52] Lua: Adding function 'atacar2' to hook 'attack2'
+[02:04:52] Lua: Adding function 'teclas' to hook 'serveraction'
+[02:04:52] Lua: Adding function 'mymenu' to hook 'menu'
+[02:04:52] Lua: Adding function 'ataque' to hook 'hit'
+[02:04:52] Lua: Adding function 'dropar' to hook 'drop'
+[02:04:52] Lua: Adding function 'mover' to hook 'movetile'
+[02:04:53] U.S.G.N.: Serverlist entry updated
+[02:04:53] U.S.G.N.: Ping/State 'playing'
+[02:04:55] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[02:04:56] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[02:04:56] Smøker conectou-se
+[02:04:56] Smøker is using IP 200.97.162.169:10000 and U.S.G.N. ID #161967
+[02:04:56] Starting transfer to Smøker (files: 2) ...
+[02:04:56] Smøker needs 2 files. Starting to send files...
+[02:04:56] Sending 'gfx/tiles/besto2.bmp' to Smøker...
+[02:04:57] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[02:04:57] Sagos juntou-se a Countra-Terrorista Forças
+[02:04:58] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[02:04:58] rM.awp | null! conectou-se
+[02:04:58] rM.awp | null! is using IP 177.185.53.199:49409 and U.S.G.N. ID #14465
+[02:04:58] JOIN FAILURE: rM.awp | null! (177.185.53.199:49409) can't join (map differs)
+[02:04:59] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[02:05:00] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[02:05:00] rM.awp | null! conectou-se
+[02:05:00] rM.awp | null! is using IP 177.185.53.199:49409 and U.S.G.N. ID #14465
+[02:05:02] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[02:05:07] [Info] Você equipou Colete 1
+[02:05:07] rM.awp | null!: ai ele ai
+[02:05:10] rM.awp | null!: ta entrando
+[02:05:12] [Info] Você equipou Colete 2
+[02:05:14] Sending 'maps/Battle Royale.map' to Smøker...
+[02:05:19] Smøker juntou-se a Terrorista Forças
+[02:05:31] Sagos: eae smoker
+[02:05:34] Smøker: iai
+[02:05:38] U.S.G.N.: Serverlist entry updated
+[02:05:53] U.S.G.N.: Ping/State 'playing'
+[02:06:13] Smøker: oi
+[02:06:19] Sagos: quer ajudar no script?
+[02:06:20] Smøker: arma ta meio bugada
+[02:06:23] U.S.G.N.: Serverlist entry updated
+[02:06:24] Sagos: qual?
+[02:06:27] rM.awp | null!: ?
+[02:06:29] Smøker: n apareçe slot
+[02:06:35] Smøker: dropar items
+[02:06:38] Smøker: armas
+[02:06:41] rM.awp | null!: VEY acho q esse mn vai ajudar ksadkas
+[02:06:48] Smøker: ta fala
+[02:06:51] rM.awp | null!: Viado
+[02:06:54] U.S.G.N.: Ping/State 'playing'
+[02:06:57] rM.awp | null!: Tamo precisando de capa 3 2 1
+[02:07:01] Sagos: se vc estiver com a arma equipada n vai aparecer m
+[02:07:02] rM.awp | null!: Bolsa 3 2 1
+[02:07:05] rM.awp | null!: e balas
+[02:07:09] U.S.G.N.: Serverlist entry updated
+[02:07:14] rM.awp | null!: Pq o sistema do sagos fica com um bug
+[02:07:17] rM.awp | null!: e ele n sabe ainda
+[02:07:20] rM.awp | null!: fazer outro
+[02:07:21] rM.awp | null!: geito
+[02:07:25] rM.awp | null!: de dropar as bala
+[02:07:32] rM.awp | null!: tipo se eu uso 1 tiro
+[02:07:36] rM.awp | null!: e tendo dropar n da
+[02:07:38] rM.awp | null!: pq usei 1
+[02:07:49] rM.awp | null!: os sistema de balas q ta hard
+[02:07:50] Sagos: acho q ele n vai entender nd kk
+[02:07:53] rM.awp | null!: cap 1 2 3
+[02:07:54] U.S.G.N.: Ping/State 'playing'
+[02:07:54] U.S.G.N.: Serverlist entry updated
+[02:08:04] generating stats...
+[02:08:04] stats generated in 2 ms!
+[02:08:08] rM.awp | null!: tendeu ?
+[02:08:10] rM.awp | null!: kkkk
+[02:08:12] Smøker: kkkk
+[02:08:17] Smøker: viado vai ser professor?
+[02:08:20] rM.awp | null!: KKKKKKK
+[02:08:21] Smøker: porque pqp
+[02:08:27] Smøker: tendi nada
+[02:08:32] Sagos: sabia
+[02:08:33] rM.awp | null!: Pega bala la
+[02:08:33] Smøker: ta com problema no script
+[02:08:38] Sagos: nop
+[02:08:40] U.S.G.N.: Serverlist entry updated
+[02:08:43] rM.awp | null!: PEGA BALA
+[02:08:52] rM.awp | null!: de rifle
+[02:08:53] rM.awp | null!: fi
+[02:08:55] U.S.G.N.: Ping/State 'playing'
+[02:09:07] rM.awp | null!: aqui
+[02:09:11] rM.awp | null!: usa
+[02:09:13] rM.awp | null!: com a famas
+[02:09:18] rM.awp | null!: e tenta dropar
+[02:09:19] rM.awp | null!: '-'
+[02:09:23] rM.awp | null!: n as bala
+[02:09:24] rM.awp | null!: kkkk
+[02:09:25] U.S.G.N.: Serverlist entry updated
+[02:09:34] Sagos: dropa as bala agr
+[02:09:34] rM.awp | null!: N pode pq usou '-'
+[02:09:43] rM.awp | null!: kkkkkkkkkkkkk
+[02:09:43] Smøker: pronto
+[02:09:47] Smøker: dropei
+[02:09:51] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkkk
+[02:09:53] Sagos: viu n ta bugado 
+[02:09:55] U.S.G.N.: Ping/State 'playing'
+[02:09:56] rM.awp | null!: IMG
+[02:10:00] rM.awp | null!: aquilo
+[02:10:08] rM.awp | null!: tem q dropar o tanto de bala q vc tem
+[02:10:10] U.S.G.N.: Serverlist entry updated
+[02:10:13] rM.awp | null!: '.'
+[02:10:13] Smøker: tinha 50
+[02:10:16] Smøker: dropou 30
+[02:10:17] JOIN FAILURE: Sgt'~ (200.7.11.253:61467) can't join (wrong password)
+[02:10:19] "  (1x)
+[02:10:21] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[02:10:22] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[02:10:22] Sgt'~ conectou-se
+[02:10:22] Sgt'~ is using IP 200.7.11.253:61467 and U.S.G.N. ID #150221
+[02:10:22] JOIN FAILURE: Sgt'~ (200.7.11.253:61467) can't join (map differs)
+[02:10:24] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[02:10:25] Sagos: isso
+[02:10:25] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[02:10:25] Sgt'~ conectou-se
+[02:10:25] Sgt'~ is using IP 200.7.11.253:61467 and U.S.G.N. ID #150221
+[02:10:25] Starting transfer to Sgt'~ (files: 2) ...
+[02:10:26] Sgt'~ needs 1 file. Starting to send file...
+[02:10:26] Sending 'maps/Battle Royale.map' to Sgt'~...
+[02:10:28] Sgt'~ juntou-se a Terrorista Forças
+[02:10:28] Sagos: ta perdendo bala
+[02:10:34] Sagos: qm é esse? kk
+[02:10:41] Sgt'~: N conhece a voz fddp
+[02:10:41] rM.awp | null!: Sgt
+[02:10:42] Sgt'~: carlos crl
+[02:10:46] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[02:10:46] Sgt'~: Battle Dari
+[02:10:49] Smøker: carlao da empada
+[02:10:53] Sagos: ata
+[02:10:55] [Info] Você pegou 15 Balas de Pistola
+[02:10:55] rM.awp | null!: KKKK
+[02:10:56] U.S.G.N.: Ping/State 'playing'
+[02:10:56] U.S.G.N.: Serverlist entry updated
+[02:11:01] Smøker killed rM.awp | null! with Famas
+[02:11:04] Smøker: xD
+[02:11:14] Sagos killed Sgt'~ with Knife
+[02:11:40] rM.awp | null!: usei meu kit
+[02:11:41] U.S.G.N.: Serverlist entry updated
+[02:11:41] rM.awp | null!: kasdkasdkaskd
+[02:11:45] rM.awp | null! killed Sgt'~ with Knife
+[02:11:45] ERROR: setpos - position is out of map bounds!
+[02:11:56] U.S.G.N.: Ping/State 'playing'
+[02:12:05] rM.awp | null! killed Sgt'~ with Knife
+[02:12:26] U.S.G.N.: Serverlist entry updated
+[02:12:46] Sagos: no
+[02:12:51] Sgt'~ killed rM.awp | null! with Knife
+[02:12:57] U.S.G.N.: Ping/State 'playing'
+[02:13:04] generating stats...
+[02:13:04] stats generated in 1 ms!
+[02:13:08] Smøker killed rM.awp | null! with Knife
+[02:13:09] Smøker killed Sgt'~ with Knife
+[02:13:12] U.S.G.N.: Serverlist entry updated
+[02:13:15] Smøker: humilhation
+[02:13:23] Smøker killed Sgt'~ with Knife
+[02:13:25] rM.awp | null! killed Smøker with Knife
+[02:13:29] "  (1x)
+[02:13:32] Sgt'~ killed rM.awp | null! with Knife
+[02:13:33] Smøker killed Sgt'~ with Knife
+[02:13:48] Smøker killed rM.awp | null! with Knife
+[02:13:57] U.S.G.N.: Ping/State 'playing'
+[02:13:57] U.S.G.N.: Serverlist entry updated
+[02:14:02] rM.awp | null! killed Smøker with Knife
+[02:14:04] Sgt'~ killed rM.awp | null! with Knife
+[02:14:07] Smøker killed Sgt'~ with Knife
+[02:14:24] Sgt'~ killed rM.awp | null! with Knife
+[02:14:24] Smøker killed Sgt'~ with Knife
+[02:14:29] rM.awp | null! killed Smøker with Knife
+[02:14:29] rM.awp | null! killed Sgt'~ with Knife
+[02:14:30] rM.awp | null!: kasdkasdk
+[02:14:42] U.S.G.N.: Serverlist entry updated
+[02:14:50] Smøker killed rM.awp | null! with Knife
+[02:14:52] rM.awp | null!: a
+[02:14:54] rM.awp | null!: viado
+[02:14:57] Smøker killed rM.awp | null! with Knife
+[02:14:58] U.S.G.N.: Ping/State 'playing'
+[02:15:00] Sgt'~ killed Smøker with Knife
+[02:15:02] rM.awp | null! *Morto*: tava usando meu kit
+[02:15:08] Smøker killed Sgt'~ with Knife
+[02:15:09] rM.awp | null!: para de matansa
+[02:15:11] rM.awp | null!: F2
+[02:15:21] rM.awp | null!: Vamo falar serio
+[02:15:23] rM.awp | null!: Smoker
+[02:15:26] Smøker: ok
+[02:15:28] U.S.G.N.: Serverlist entry updated
+[02:15:30] rM.awp | null!: ai sabe fazer sistema de img e pick
+[02:15:47] Smøker: porra mt tempo
+[02:15:50] Smøker: q fazia isso
+[02:15:54] Smøker votos para kickar Sgt'~
+[02:15:58] U.S.G.N.: Ping/State 'playing'
+[02:16:01] rM.awp | null!: intaum
+[02:16:05] rM.awp | null!: tamo precisando
+[02:16:09] rM.awp | null!: de img e pick
+[02:16:10] Smøker killed Sgt'~ with Knife
+[02:16:13] rM.awp | null!: de Mochila
+[02:16:13] U.S.G.N.: Serverlist entry updated
+[02:16:16] rM.awp | null!: nv1 2 3
+[02:16:18] Sgt'~ killed Smøker with Knife
+[02:16:24] "  (1x)
+[02:16:25] rM.awp | null!: e Cap nv 1 2 3
+[02:16:31] rM.awp | null! killed Sgt'~ with Knife
+[02:16:41] Smøker killed Sgt'~ with Knife
+[02:16:44] Sgt'~ killed Smøker with Knife
+[02:16:49] Sgt'~ killed rM.awp | null! with Knife
+[02:16:56] Smøker killed Sgt'~ with Knife
+[02:16:58] U.S.G.N.: Ping/State 'playing'
+[02:16:58] U.S.G.N.: Serverlist entry updated
+[02:16:59] rM.awp | null!: Consegue smoker?
+[02:17:11] Sgt'~ killed Smøker with M3
+[02:17:15] Sgt'~ killed rM.awp | null! with M3
+[02:17:18] Sgt'~ killed Smøker with M3
+[02:17:21] rM.awp | null! killed Sgt'~ with M4A1
+[02:17:31] "  (1x)
+[02:17:38] "  (1x)
+[02:17:42] "  (1x)
+[02:17:44] U.S.G.N.: Serverlist entry updated
+[02:17:50] Smøker: n sei man
+[02:17:53] Smøker: vo ver
+[02:17:57] Smøker: se eu consigo fzr
+[02:17:59] U.S.G.N.: Ping/State 'playing'
+[02:18:01] Smøker killed Sgt'~ with Knife
+[02:18:02] WARNING: Failed RCon attempt from 200.7.11.253:61467, wrong PW (cmd: )
+[02:18:04] generating stats...
+[02:18:04] stats generated in 1 ms!
+[02:18:09] rM.awp | null!: so pra aumentar a capacidade ali
+[02:18:10] rM.awp | null!: do inv
+[02:18:19] rM.awp | null!: e cap 1 2 3
+[02:18:19] Smøker killed Sgt'~ with Knife
+[02:18:20] rM.awp | null!: saca
+[02:18:20] Sagos: q?
+[02:18:26] rM.awp | null!: aumentar a armadura
+[02:18:27] Smøker: tlgd
+[02:18:29] U.S.G.N.: Serverlist entry updated
+[02:18:31] rM.awp | null!: so
+[02:18:33] Sgt'~ killed Smøker with M3
+[02:18:34] Sgt'~ killed rM.awp | null! with M3
+[02:18:35] rM.awp | null! *Morto*: e 
+[02:18:37] Smøker *Morto*: tipo o proprio battle grounds
+[02:18:38] Sagos: sla
+[02:18:39] Sgt'~ killed Smøker with M3
+[02:18:41] rM.awp | null! *Morto*: SS
+[02:18:43] rM.awp | null! *Morto*: :)
+[02:18:44] Sgt'~ killed Smøker with M3
+[02:18:54] rM.awp | null!: o sistema de balas n sei se vai ficar assim
+[02:18:54] Sgt'~ killed rM.awp | null! with M3
+[02:18:59] U.S.G.N.: Ping/State 'playing'
+[02:19:00] rM.awp | null! killed Sgt'~ with M4A1
+[02:19:05] "  (1x)
+[02:19:09] Smøker killed rM.awp | null! with M4A1
+[02:19:11] Smøker killed Sgt'~ with M4A1
+[02:19:15] Sgt'~ killed Smøker with M4A1
+[02:19:16] rM.awp | null! killed Sgt'~ with Knife
+[02:19:19] rM.awp | null! killed Sgt'~ with M4A1
+[02:19:24] Smøker killed Sgt'~ with M4A1
+[02:19:31] Smøker killed rM.awp | null! with Knife
+[02:19:33] Sgt'~ killed Smøker with Famas
+[02:19:41] Sgt'~ killed rM.awp | null! with Knife
+[02:19:41] Smøker killed Sgt'~ with TMP
+[02:19:47] Smøker killed Sgt'~ with M4A1
+[02:19:50] Smøker killed rM.awp | null! with M4A1
+[02:19:53] rM.awp | null! killed Sgt'~ with Knife
+[02:20:00] U.S.G.N.: Serverlist entry updated
+[02:20:00] U.S.G.N.: Ping/State 'playing'
+[02:20:01] rM.awp | null! killed Smøker with Knife
+[02:20:05] "  (1x)
+[02:20:07] Smøker killed rM.awp | null! with Knife
+[02:20:11] rM.awp | null!: Smoker
+[02:20:12] rM.awp | null!: fus
+[02:20:16] rM.awp | null!: ja vai fazer o mapa
+[02:20:21] Smøker: ok
+[02:20:22] rM.awp | null!: ai so vc fazer a bolsa
+[02:20:25] rM.awp | null!: e cap
+[02:20:26] Smøker: ok
+[02:20:29] Smøker: cap 1
+[02:20:30] Smøker: cap 2
+[02:20:32] Smøker: e cap 3
+[02:20:33] rM.awp | null!: s
+[02:20:33] Smøker: tipo
+[02:20:38] Smøker: 30%
+[02:20:42] rM.awp | null!: Isso
+[02:20:45] U.S.G.N.: Serverlist entry updated
+[02:20:46] Smøker: cap 2 = 65 %
+[02:20:48] Sgt'~ killed rM.awp | null! with M4A1
+[02:20:49] rM.awp | null! *Morto*: ss
+[02:20:50] Sgt'~ killed Smøker with M4A1
+[02:20:51] Sagos: acho que é mt
+[02:20:52] Smøker *Morto*: cap 3 100%
+[02:21:00] U.S.G.N.: Ping/State 'playing'
+[02:21:02] Sgt'~ killed Smøker with M4A1
+[02:21:05] rM.awp | null!: Qnt fica intao ?
+[02:21:06] Sgt'~ killed rM.awp | null! with M4A1
+[02:21:08] Smøker votos para kickar Sgt'~
+[02:21:12] Sagos: colete 3 ja protege 75%
+[02:21:13] rM.awp | null! votos para kickar Sgt'~
+[02:21:15] rM.awp | null!: alsdsa
+[02:21:18] Smøker: ahsuhau
+[02:21:31] U.S.G.N.: Serverlist entry updated
+[02:21:33] Sgt'~ killed Smøker with M4A1
+[02:21:34] rM.awp | null! killed Sgt'~ with Knife
+[02:21:41] Sgt'~ killed rM.awp | null! with M4A1
+[02:21:44] Smøker killed Sgt'~ with Knife
+[02:21:49] Sgt'~ killed Smøker with Glock
+[02:22:01] U.S.G.N.: Ping/State 'playing'
+[02:22:02] Smøker killed Sgt'~ with Knife
+[02:22:12] rM.awp | null! killed Sgt'~ with Knife
+[02:22:15] rM.awp | null!: OK
+[02:22:16] U.S.G.N.: Serverlist entry updated
+[02:22:19] rM.awp | null! killed Sgt'~ with Knife
+[02:22:22] rM.awp | null!: Ops
+[02:22:23] rM.awp | null!: kkkkkkkkkkkk
+[02:22:25] Smøker: kkk
+[02:22:25] rM.awp | null!: sem quere
+[02:22:29] Sgt'~ killed rM.awp | null! with Knife
+[02:22:29] Sgt'~ killed Smøker with Knife
+[02:22:32] Sagos: '-'
+[02:22:42] Sagos: oi
+[02:22:48] rM.awp | null! killed Sgt'~ with USP
+[02:22:57] rM.awp | null! killed Sgt'~ with Knife
+[02:22:58] Smøker killed rM.awp | null! with Knife
+[02:23:00] Smøker: ops
+[02:23:01] U.S.G.N.: Serverlist entry updated
+[02:23:01] U.S.G.N.: Ping/State 'playing'
+[02:23:04] generating stats...
+[02:23:04] stats generated in 1 ms!
+[02:23:05] Smøker killed Sgt'~ with Glock
+[02:23:08] Sagos: slk a voz de vcs
+[02:23:11] Sagos: igualzinho
+[02:23:21] Smøker: sgt mendigo
+[02:23:30] Sagos: smoker fala ai
+[02:23:32] Sagos: no audio
+[02:23:38] Sgt'~ killed rM.awp | null! with Knife
+[02:23:40] Smøker: sem mic
+[02:23:41] Smøker killed Sgt'~ with Knife
+[02:23:44] Smøker: n to em casa
+[02:23:47] U.S.G.N.: Serverlist entry updated
+[02:23:52] Smøker: falei la no awp_grey
+[02:23:55] Smøker killed Sgt'~ with Glock
+[02:23:57] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[02:24:02] U.S.G.N.: Ping/State 'playing'
+[02:24:02] [Info] Você equipou: USP
+[02:24:18] Smøker died
+[02:24:18] Smøker juntou-se aos espectadores
+[02:24:25] Smøker juntou-se a Countra-Terrorista Forças
+[02:24:31] rM.awp | null!: Smoker
+[02:24:32] U.S.G.N.: Serverlist entry updated
+[02:24:34] Sgt'~ killed Smøker with M4A1
+[02:24:35] Sgt'~ killed rM.awp | null! with M4A1
+[02:24:36] Smøker: entao tu precisa de img[
+[02:24:45] Sgt'~ killed Smøker with M4A1
+[02:24:51] rM.awp | null! *Morto*: O script fica pronto eu acho antes de dezembro
+[02:25:02] U.S.G.N.: Ping/State 'playing'
+[02:25:07] rM.awp | null! killed Sgt'~ with USP
+[02:25:07] rM.awp | null! killed Smøker with USP
+[02:25:17] rM.awp | null! killed Sgt'~ with USP
+[02:25:17] U.S.G.N.: Serverlist entry updated
+[02:25:21] Sgt'~ killed Smøker with Glock
+[02:25:25] Smøker *Morto*: vai fica mt foda
+[02:25:29] Sgt'~ killed rM.awp | null! with Knife
+[02:25:33] Sagos: falta só arrumar umas coisas
+[02:25:33] Smøker: null
+[02:25:35] Sagos: colocar o gas
+[02:25:37] Sagos: e o avião
+[02:25:38] Smøker: null
+[02:25:40] rM.awp | null!: ?
+[02:25:46] Smøker: fala oque eu tenho q programar
+[02:25:53] rM.awp | null!: Capa 1 2 3
+[02:25:56] rM.awp | null!: e as bolsas
+[02:25:58] Sgt'~ killed rM.awp | null! with Knife
+[02:26:01] Smøker killed Sgt'~ with Knife
+[02:26:02] rM.awp | null! *Morto*: com sistema de img e pick 
+[02:26:03] U.S.G.N.: Serverlist entry updated
+[02:26:03] U.S.G.N.: Ping/State 'playing'
+[02:26:20] Smøker killed rM.awp | null! with Knife
+[02:26:22] ERROR: spawnitem - position is out of map bounds!
+[02:26:23] "  (1x)
+[02:26:24] "  (2x)
+[02:26:25] "  (1x)
+[02:26:26] "  (1x)
+[02:26:28] Sagos: eu preciso de img de mochila
+[02:26:35] Smøker killed Sgt'~ with M3
+[02:26:41] rM.awp | null! killed Sgt'~ with Famas
+[02:26:42] Smøker killed rM.awp | null! with M3
+[02:26:45] Smøker killed Sgt'~ with M3
+[02:26:48] U.S.G.N.: Serverlist entry updated
+[02:26:49] rM.awp | null! killed Smøker with Famas
+[02:26:54] rM.awp | null! killed Sgt'~ with Knife
+[02:26:57] Sgt'~ deixou o jogo
+[02:27:03] U.S.G.N.: Ping/State 'playing'
+[02:27:20] Smøker: se sabe a parte do script q eu posso mecher?
+[02:27:32] rM.awp | null!: '.'
+[02:27:34] U.S.G.N.: Serverlist entry updated
+[02:27:35] rM.awp | null!: Sagos sabe
+[02:27:36] Sagos: qual?
+[02:27:36] rM.awp | null!: '-'
+[02:27:53] rM.awp | null!: uai
+[02:27:56] rM.awp | null!: ele sumiu
+[02:27:57] rM.awp | null!: kkkkkkkkk
+[02:28:00] Sagos: kk
+[02:28:03] rM.awp | null!: dele q deu o bug
+[02:28:04] generating stats...
+[02:28:04] stats generated in 1 ms!
+[02:28:04] U.S.G.N.: Ping/State 'playing'
+[02:28:11] rM.awp | null!: Q qnd minimiza
+[02:28:15] rM.awp | null!: o cs buga e sai
+[02:28:19] U.S.G.N.: Serverlist entry updated
+[02:29:04] "  (1x)
+[02:29:04] U.S.G.N.: Ping/State 'playing'
+[02:29:16] ERROR: equip - cannot equip 55 - Bomb (this would lead to problems)!
+[02:29:50] U.S.G.N.: Serverlist entry updated
+[02:29:57] Sagos: olha
+[02:30:05] U.S.G.N.: Ping/State 'playing'
+[02:30:05] Sagos: isso parece uma mochila né?
+[02:30:09] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[02:30:10] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[02:30:10] Smøker conectou-se
+[02:30:10] Smøker is using IP 200.97.162.169:11611 and U.S.G.N. ID #161967
+[02:30:14] Smøker juntou-se a Terrorista Forças
+[02:30:21] rM.awp | null!: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[02:30:23] rM.awp | null!: S
+[02:30:25] rM.awp | null!: kkkkkkkkkkkkk
+[02:30:27] rM.awp | null!: mds
+[02:30:28] rM.awp | null!: cara
+[02:30:31] Smøker: nuke '-'
+[02:30:35] U.S.G.N.: Serverlist entry updated
+[02:30:36] Sagos: só preciso de uma img
+[02:30:39] Smøker killed rM.awp | null! with Knife
+[02:30:40] Sagos: de mochila
+[02:30:43] Sagos: ai ja era
+[02:30:46] rM.awp | null!: so vai fazer 1 ?
+[02:30:52] Sagos: n
+[02:30:56] rM.awp | null!: Ue
+[02:31:01] rM.awp | null!: o smoker
+[02:31:04] Smøker: fala
+[02:31:05] U.S.G.N.: Ping/State 'playing'
+[02:31:05] rM.awp | null!: aceita eu la no face
+[02:31:08] rM.awp | null!: '-'
+[02:31:09] Smøker killed rM.awp | null! with Knife
+[02:31:12] Smøker: net ta lx
+[02:31:19] Smøker: tao nukanop
+[02:31:20] U.S.G.N.: Serverlist entry updated
+[02:31:23] Smøker: acabei de cair
+[02:31:24] Smøker: '-'
+[02:31:25] rM.awp | null!: Uai
+[02:31:28] rM.awp | null!: Tu e smoker
+[02:31:31] rM.awp | null!: ou smoke?
+[02:31:33] rM.awp | null!: kkkk
+[02:31:34] rM.awp | null!: ue
+[02:31:37] Smøker: kkkkk
+[02:31:45] rM.awp | null!: Steam: Smoke*
+[02:31:52] rM.awp | null!: Cs: Smoker
+[02:31:55] Smøker: pra disfarçar
+[02:31:55] Sgt'~ conectou-se
+[02:31:55] Sgt'~ is using IP 200.7.11.253:57873 and no U.S.G.N. ID
+[02:31:55] JOIN FAILURE: Sgt'~ (200.7.11.253:57873) can't join (map differs)
+[02:31:56] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[02:31:57] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[02:31:57] Sgt'~ conectou-se
+[02:31:57] Sgt'~ is using IP 200.7.11.253:57873 and U.S.G.N. ID #150221
+[02:31:58] Sgt'~ juntou-se a Terrorista Forças
+[02:32:02] rM.awp | null!: Smoke e loiro
+[02:32:06] U.S.G.N.: Serverlist entry updated
+[02:32:06] U.S.G.N.: Ping/State 'playing'
+[02:32:06] Sagos: vou jogar o smoker 
+[02:32:10] rM.awp | null!: vc e moreno e usa oculos
+[02:32:14] Smøker: kkk
+[02:32:14] Sgt'~: Eu tinha o Smoker no Whats
+[02:32:15] rM.awp | null!: kkkkkkkkkkk
+[02:32:16] rM.awp | null!: mDS
+[02:32:20] rM.awp | null!: q demença
+[02:32:20] Smøker: kkkkkkkkkkk
+[02:32:22] rM.awp | null!: sdkskd
+[02:32:23] Sagos: kkkkk
+[02:32:33] Sgt'~ killed rM.awp | null! with Knife
+[02:32:34] Smøker: sgt
+[02:32:37] Smøker: toma
+[02:32:45] Smøker: fica aki
+[02:32:49] rM.awp | null! killed Sgt'~ with Knife
+[02:32:51] Smøker: olha o secreto
+[02:32:52] U.S.G.N.: Serverlist entry updated
+[02:32:59] Smøker killed Sgt'~ with M3
+[02:33:04] generating stats...
+[02:33:04] stats generated in 2 ms!
+[02:33:04] Smøker killed rM.awp | null! with M3
+[02:33:06] U.S.G.N.: Ping/State 'playing'
+[02:33:06] Smøker killed Sgt'~ with M3
+[02:33:16] Smøker killed rM.awp | null! with M3
+[02:33:19] rM.awp | null!: sai
+[02:33:27] rM.awp | null! killed Smøker with Knife
+[02:33:36] U.S.G.N.: Serverlist entry updated
+[02:33:37] Smøker killed rM.awp | null! with M3
+[02:33:39] Smøker killed Sgt'~ with M3
+[02:33:39] ERROR: spawnitem - position is out of map bounds!
+[02:33:40] "  (1x)
+[02:33:51] rM.awp | null! killed Smøker with M3
+[02:33:57] Sgt'~ killed rM.awp | null! with M3
+[02:34:03] rM.awp | null! killed Sgt'~ with M3
+[02:34:07] U.S.G.N.: Ping/State 'playing'
+[02:34:10] Sgt'~ killed rM.awp | null! with M3
+[02:34:16] Sgt'~ killed Smøker with M3
+[02:34:22] U.S.G.N.: Serverlist entry updated
+[02:34:24] rM.awp | null!: Oq vc ta fazendo sagos ?
+[02:34:25] Smøker killed Sgt'~ with Glock
+[02:34:32] Sagos: comendo chocolate
+[02:34:32] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:34:33] Smøker killed Sgt'~ with M3
+[02:34:34] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:34:35] "  (1x)
+[02:34:37] Smøker killed Sgt'~ with M3
+[02:34:37] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:34:38] rM.awp | null!: KKKKKKKK
+[02:34:39] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:34:40] "  (1x)
+[02:34:41] Sgt'~ killed Smøker with Knife
+[02:34:42] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:34:44] Sgt'~ killed Smøker with M3
+[02:34:44] rM.awp | null! killed Sgt'~ with M3
+[02:34:45] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:34:46] "  (1x)
+[02:34:47] rM.awp | null! killed Smøker with M3
+[02:34:48] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:34:49] rM.awp | null! killed Sgt'~ with M3
+[02:34:52] "  (1x)
+[02:34:53] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:34:53] "  (1x)
+[02:34:53] Smøker killed rM.awp | null! with Glock
+[02:34:55] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:34:56] "  (1x)
+[02:34:57] Sgt'~ killed rM.awp | null! with M3
+[02:34:57] JOIN FAILURE: CPOR POWERRRRRRRRRRRR (187.121.177.153:27617) can't join (wrong password)
+[02:35:04] Sgt'~ killed rM.awp | null! with M3
+[02:35:06] "  (1x)
+[02:35:06] Sagos: to com mt preguiça 
+[02:35:07] U.S.G.N.: Ping/State 'playing'
+[02:35:07] U.S.G.N.: Serverlist entry updated
+[02:35:09] Smøker killed rM.awp | null! with M3
+[02:35:10] Sagos: amanhã eu continuo
+[02:35:12] rM.awp | null! killed Smøker with Knife
+[02:35:12] Sgt'~ killed rM.awp | null! with M3
+[02:35:14] rM.awp | null! killed Smøker with M3
+[02:35:15] Smøker *Morto*: sgt?
+[02:35:17] Sgt'~ killed rM.awp | null! with M3
+[02:35:19] Sgt'~ killed Smøker with M3
+[02:35:20] Sgt'~ killed rM.awp | null! with M3
+[02:35:22] Smøker: para ai
+[02:35:23] Smøker: nmrl
+[02:35:25] Sgt'~ killed rM.awp | null! with M3
+[02:35:28] Sgt'~ killed Smøker with M3
+[02:35:28] Sgt'~ killed rM.awp | null! with M3
+[02:35:30] rM.awp | null! killed Sgt'~ with M3
+[02:35:30] rM.awp | null! killed Smøker with M3
+[02:35:34] Smøker: pqp
+[02:35:34] Sgt'~ killed rM.awp | null! with Knife
+[02:35:36] Sgt'~ killed Smøker with M3
+[02:35:38] Sgt'~ killed rM.awp | null! with M3
+[02:35:40] Smøker killed Sgt'~ with Glock
+[02:35:49] ----- Mapchange -----
+[02:35:49] Starting server...
+[02:35:49] load map 'awp_grey SagosWins'
+[02:35:49] ----- Server started -----
+[02:35:49] Lua: Adding function 'movendo_piso' to hook 'movetile'
+[02:35:49] Lua: Adding function 'usar' to hook 'use'
+[02:35:49] Lua: Adding function 'usarBotaoooo' to hook 'usebutton'
+[02:35:49] Lua: Adding function 'segundoss' to hook 'second'
+[02:35:49] Lua: Adding function 'iniciar_rodada' to hook 'startround'
+[02:35:49] Lua: Adding function 'tapa' to hook 'hit'
+[02:35:49] Lua: Adding function 'mover' to hook 'always'
+[02:35:50] U.S.G.N.: Ping/State 'playing'
+[02:35:50] U.S.G.N.: Serverlist entry updated
+[02:35:51] Sagos juntou-se a Countra-Terrorista Forças
+[02:35:59] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[02:35:59] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[02:35:59] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[02:36:00] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[02:36:00] rM.awp | null! conectou-se
+[02:36:00] rM.awp | null! is using IP 177.185.53.199:49409 and U.S.G.N. ID #14465
+[02:36:00] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[02:36:00] Smøker conectou-se
+[02:36:00] Smøker is using IP 200.97.162.169:11611 and U.S.G.N. ID #161967
+[02:36:00] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[02:36:00] Sgt'~ conectou-se
+[02:36:00] Sgt'~ is using IP 200.7.11.253:57873 and U.S.G.N. ID #150221
+[02:36:00] Starting transfer to rM.awp | null! (files: 4) ...
+[02:36:00] Starting transfer to Smøker (files: 4) ...
+[02:36:00] Starting transfer to Sgt'~ (files: 4) ...
+[02:36:00] Sgt'~ needs 1 file. Starting to send file...
+[02:36:00] Sending 'maps/awp_grey SagosWins.map' to Sgt'~...
+[02:36:00] Smøker needs 2 files. Starting to send files...
+[02:36:00] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Smøker...
+[02:36:00] Sending 'maps/awp_grey SagosWins.map' to Smøker...
+[02:36:00] rM.awp | null! needs 1 file. Starting to send file...
+[02:36:00] Sending 'maps/awp_grey SagosWins.map' to rM.awp | null!...
+[02:36:04] Smøker juntou-se a Terrorista Forças
+[02:36:04] rM.awp | null! juntou-se a Terrorista Forças
+[02:36:06] Smøker: kk
+[02:36:08] Sgt'~ juntou-se a Countra-Terrorista Forças
+[02:36:09] Smøker: cabei de ver algo
+[02:36:10] rM.awp | null!: uaid
+[02:36:17] Sgt'~ killed rM.awp | null! with AWP
+[02:36:20] Smøker killed Sgt'~ with AWP
+[02:36:28] Sagos killed Smøker with AWP
+[02:36:34] Smøker: voa sagos
+[02:36:35] U.S.G.N.: Serverlist entry updated
+[02:36:37] Sagos killed rM.awp | null! with AWP
+[02:36:39] Sagos killed Smøker with Knife
+[02:36:43] Sagos: '-'
+[02:36:45] rM.awp | null!: Noix q ta vuando
+[02:36:46] Smøker: maluko sangra '-'
+[02:36:48] rM.awp | null! killed Sgt'~ with AWP
+[02:36:50] U.S.G.N.: Ping/State 'playing'
+[02:36:56] rM.awp | null! killed Sagos with AWP
+[02:36:59] rM.awp | null!: Coloca n
+[02:37:02] rM.awp | null!: KKKKKKKKKK
+[02:37:03] Sagos: q script da bomba?
+[02:37:06] Smøker: kkkkk
+[02:37:10] Sagos: ata kkkk
+[02:37:12] Sgt'~ killed rM.awp | null! with AWP
+[02:37:12] Smøker: os cara viaja
+[02:37:13] Sagos: blz pera ae
+[02:37:16] Smøker killed Sagos with Knife
+[02:37:20] U.S.G.N.: Serverlist entry updated
+[02:37:22] Smøker killed Sgt'~ with AWP
+[02:37:28] rM.awp | null!: Smoker aceita logo ai fdp
+[02:37:33] rM.awp | null!: ¬¢¬
+[02:37:34] Sgt'~ killed rM.awp | null! with AWP
+[02:37:40] Smøker killed Sgt'~ with Knife
+[02:37:50] Smøker killed Sagos with AWP
+[02:37:51] U.S.G.N.: Ping/State 'playing'
+[02:37:51] ----- Mapchange -----
+[02:37:51] Starting server...
+[02:37:51] load map 'awp_grey SagosWins'
+[02:37:51] ----- Server started -----
+[02:37:51] Lua: Adding function 'acertar' to hook 'hit'
+[02:37:51] Lua: Adding function 'nascer' to hook 'join'
+[02:37:51] Lua: Adding function 'deixar' to hook 'leave'
+[02:37:51] Lua: Adding function 'inicioRodada' to hook 'startround'
+[02:37:51] Lua: Adding function 'segundos' to hook 'second'
+[02:37:51] Todos os jogadores ganhou: Secondary Ammo
+[02:37:52] U.S.G.N.: Serverlist entry updated
+[02:37:52] U.S.G.N.: Ping/State 'playing'
+[02:37:52] Sagos juntou-se a Countra-Terrorista Forças
+[02:37:57] Todos os jogadores ganhou: Five-Seven
+[02:38:00] Todos os jogadores ganhou: USP
+[02:38:01] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[02:38:01] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[02:38:01] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[02:38:02] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[02:38:02] Smøker conectou-se
+[02:38:02] Smøker is using IP 200.97.162.169:11611 and U.S.G.N. ID #161967
+[02:38:02] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[02:38:02] rM.awp | null! conectou-se
+[02:38:02] rM.awp | null! is using IP 177.185.53.199:49409 and U.S.G.N. ID #14465
+[02:38:02] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[02:38:02] Sgt'~ conectou-se
+[02:38:02] Sgt'~ is using IP 200.7.11.253:57873 and U.S.G.N. ID #150221
+[02:38:02] Starting transfer to rM.awp | null! (files: 5) ...
+[02:38:02] Starting transfer to Sgt'~ (files: 5) ...
+[02:38:02] Starting transfer to Smøker (files: 5) ...
+[02:38:02] rM.awp | null! needs or accepts no files.
+[02:38:02] Sgt'~ needs or accepts no files.
+[02:38:02] Smøker needs 2 files. Starting to send files...
+[02:38:02] Sending 'gfx/sagoswins/bomba.png' to Smøker...
+[02:38:02] Sending 'gfx/SagosWins/bomba.png' to Smøker...
+[02:38:04] generating stats...
+[02:38:04] stats generated in 2 ms!
+[02:38:04] Sgt'~ juntou-se a Terrorista Forças
+[02:38:04] rM.awp | null! juntou-se a Terrorista Forças
+[02:38:06] Smøker juntou-se a Countra-Terrorista Forças
+[02:38:07] ERROR: equip - cannot equip 55 - Bomb (this would lead to problems)!
+[02:38:07] "  (3x)
+[02:38:07] Todos os jogadores ganhou: Bomb
+[02:38:09] Smøker: steam
+[02:38:16] Smøker: kkkkkkkkkkkk
+[02:38:20] Smøker: sai 
+[02:38:37] U.S.G.N.: Serverlist entry updated
+[02:38:38] Smøker killed by Explosão
+[02:38:38] rM.awp | null! killed by Explosão
+[02:38:41] Sagos: kkkkkk
+[02:38:43] Todos os jogadores ganhou: Medikit
+[02:38:52] U.S.G.N.: Ping/State 'playing'
+[02:39:13] Smøker killed by Explosão
+[02:39:15] rM.awp | null!: askdaskd
+[02:39:18] Todos os jogadores ganhou: Portal Gun
+[02:39:19] Smøker: ;´;
+[02:39:23] U.S.G.N.: Serverlist entry updated
+[02:39:29] Lgs' ~ conectou-se
+[02:39:29] Lgs' ~ is using IP 179.212.91.39:19123 and no U.S.G.N. ID
+[02:39:29] Starting transfer to Lgs' ~ (files: 6) ...
+[02:39:29] Lgs' ~ needs 5 files. Starting to send files...
+[02:39:29] Sending 'gfx/tiles/fruitpapje1.bmp' to Lgs' ~...
+[02:39:48] Smøker killed by Explosão
+[02:39:49] Sagos: kkkkkk
+[02:39:52] rM.awp | null!: asdkaskdas
+[02:39:53] U.S.G.N.: Ping/State 'playing'
+[02:39:53] Todos os jogadores ganhou: Scout
+[02:39:54] Smøker: fdptaaaaaaaaaaaa
+[02:40:08] U.S.G.N.: Serverlist entry updated
+[02:40:23] Sagos: kkkkkkk
+[02:40:24] Sgt'~ killed by Explosão
+[02:40:27] dooysr2045 conectou-se
+[02:40:27] dooysr2045 is using IP 177.2.8.6:63347 and no U.S.G.N. ID
+[02:40:27] Starting transfer to dooysr2045 (files: 6) ...
+[02:40:27] dooysr2045 needs 5 files. Starting to send files...
+[02:40:27] Sending 'gfx/tiles/fruitpapje1.bmp' to dooysr2045...
+[02:40:27] rM.awp | null!: saldsla
+[02:40:29] Todos os jogadores ganhou: Rocket Launcher
+[02:40:29] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to dooysr2045...
+[02:40:30] Sending 'gfx/sagoswins/bomba.png' to dooysr2045...
+[02:40:30] Sending 'gfx/SagosWins/bomba.png' to dooysr2045...
+[02:40:30] Sending 'maps/awp_grey SagosWins.map' to dooysr2045...
+[02:40:35] Sagos: nem morri ainda
+[02:40:45] dooysr2045 juntou-se a Terrorista Forças
+[02:40:53] U.S.G.N.: Serverlist entry updated
+[02:40:53] U.S.G.N.: Ping/State 'playing'
+[02:40:59] dooysr2045 killed by Explosão
+[02:41:01] rM.awp | null!: aksdaksdksa
+[02:41:02] Smøker: hasuahusha
+[02:41:04] Todos os jogadores ganhou: Laser Mine
+[02:41:34] rM.awp | null! killed by Explosão
+[02:41:38] Sagos: izi
+[02:41:38] Smøker: hasuhuaha
+[02:41:39] U.S.G.N.: Serverlist entry updated
+[02:41:39] Todos os jogadores ganhou: FN F2000
+[02:41:40] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[02:41:54] U.S.G.N.: Ping/State 'playing'
+[02:42:10] dooysr2045 killed by Explosão
+[02:42:11] Sagos: sorte
+[02:42:12] CPOR POWERRRRRRRRRRRR conectou-se
+[02:42:12] CPOR POWERRRRRRRRRRRR is using IP 187.121.177.153:27617 and no U.S.G.N. ID
+[02:42:12] Starting transfer to CPOR POWERRRRRRRRRRRR (files: 6) ...
+[02:42:12] CPOR POWERRRRRRRRRRRR needs 4 files. Starting to send files...
+[02:42:12] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to CPOR POWERRRRRRRRRRRR...
+[02:42:12] Sending 'gfx/sagoswins/bomba.png' to CPOR POWERRRRRRRRRRRR...
+[02:42:13] Sending 'gfx/SagosWins/bomba.png' to CPOR POWERRRRRRRRRRRR...
+[02:42:13] Sending 'maps/awp_grey SagosWins.map' to CPOR POWERRRRRRRRRRRR...
+[02:42:13] Smøker: tadin
+[02:42:15] Todos os jogadores ganhou: Grenade Launcher
+[02:42:19] CPOR POWERRRRRRRRRRRR juntou-se a Countra-Terrorista Forças
+[02:42:24] U.S.G.N.: Serverlist entry updated
+[02:42:28] CPOR POWERRRRRRRRRRRR: sagos
+[02:42:31] Sagos: ?
+[02:42:38] luc2s_br conectou-se
+[02:42:38] luc2s_br is using IP 187.5.246.124:57352 and no U.S.G.N. ID
+[02:42:38] Starting transfer to luc2s_br (files: 6) ...
+[02:42:38] luc2s_br needs 5 files. Starting to send files...
+[02:42:38] Sending 'gfx/tiles/fruitpapje1.bmp' to luc2s_br...
+[02:42:39] CPOR POWERRRRRRRRRRRR: quantos anos
+[02:42:40] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to luc2s_br...
+[02:42:40] Sending 'gfx/sagoswins/bomba.png' to luc2s_br...
+[02:42:40] Sending 'gfx/SagosWins/bomba.png' to luc2s_br...
+[02:42:41] Sending 'maps/awp_grey SagosWins.map' to luc2s_br...
+[02:42:43] Sagos: 21
+[02:42:45] Sgt'~ killed by Explosão
+[02:42:48] luc2s_br deixou o jogo
+[02:42:50] Todos os jogadores ganhou: XM1014
+[02:42:54] U.S.G.N.: Ping/State 'playing'
+[02:42:59] CPOR POWERRRRRRRRRRRR: que blz
+[02:43:04] generating stats...
+[02:43:04] stats generated in 1 ms!
+[02:43:09] U.S.G.N.: Serverlist entry updated
+[02:43:17] Sgt'~: zzzz
+[02:43:20] CPOR POWERRRRRRRRRRRR killed by Explosão
+[02:43:23] U.S.G.N.: Neko (201.66.101.81) joining with U.S.G.N. ID #166803 - verifying...
+[02:43:24] Smøker: haushauha
+[02:43:24] U.S.G.N.: 201.66.101.81 is using U.S.G.N. ID #166803
+[02:43:24] Neko conectou-se
+[02:43:24] Neko is using IP 201.66.101.81:57998 and U.S.G.N. ID #166803
+[02:43:25] Starting transfer to Neko (files: 6) ...
+[02:43:25] Neko needs 4 files. Starting to send files...
+[02:43:25] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Neko...
+[02:43:25] Sending 'gfx/sagoswins/bomba.png' to Neko...
+[02:43:25] Todos os jogadores ganhou: Money
+[02:43:25] Sending 'gfx/SagosWins/bomba.png' to Neko...
+[02:43:25] Sending 'maps/awp_grey SagosWins.map' to Neko...
+[02:43:30] Smøker: money
+[02:43:32] Smøker: to rico
+[02:43:38] Neko juntou-se a Terrorista Forças
+[02:43:52] dooysr2045 deixou o jogo
+[02:43:54] Sagos: mt gente fica chato '-'
+[02:43:55] U.S.G.N.: Ping/State 'playing'
+[02:43:55] U.S.G.N.: Serverlist entry updated
+[02:43:55] Neko killed by Explosão
+[02:43:58] rM.awp | null!: KKKKKKK
+[02:44:00] Sgt'~: lkk
+[02:44:00] Todos os jogadores ganhou: Five-Seven
+[02:44:01] Smøker: wkkkkkkkkkkk
+[02:44:02] rM.awp | null!: coloca o do jumper
+[02:44:08] Sagos: ok
+[02:44:12] Vinicius conectou-se
+[02:44:12] Vinicius is using IP 177.19.49.205:65506 and no U.S.G.N. ID
+[02:44:12] Starting transfer to Vinicius (files: 6) ...
+[02:44:12] Vinicius needs 4 files. Starting to send files...
+[02:44:12] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Vinicius...
+[02:44:12] Sending 'gfx/sagoswins/bomba.png' to Vinicius...
+[02:44:13] Sending 'gfx/SagosWins/bomba.png' to Vinicius...
+[02:44:13] Sending 'maps/awp_grey SagosWins.map' to Vinicius...
+[02:44:18] Sagos died
+[02:44:18] Sagos juntou-se aos espectadores
+[02:44:26] Vinicius juntou-se a Countra-Terrorista Forças
+[02:44:31] Smøker killed by Explosão
+[02:44:32] CPOR POWERRRRRRRRRRRR: n gostei do 2d
+[02:44:33] rM.awp | null!: aslodaskdkasd
+[02:44:36] Todos os jogadores ganhou: XM1014
+[02:44:36] Smøker: aaaaaaaaaaaaaaaaaaaaaaaa
+[02:44:40] U.S.G.N.: Serverlist entry updated
+[02:44:42] CPOR POWERRRRRRRRRRRR: pensei que tinha ficado melhor
+[02:44:53] CPOR POWERRRRRRRRRRRR: servos
+[02:45:00] U.S.G.N.: Ping/State 'playing'
+[02:45:01] Smøker: bum
+[02:45:06] Smøker killed by Explosão
+[02:45:07] rM.awp | null!: asdaskdkasdkaskdsa
+[02:45:10] rM.awp | null!: BUMK
+[02:45:11] Todos os jogadores ganhou: XM1014
+[02:45:11] Error: player Vinicius (#5) tries to select weapon which he does not own (wpn id 35)
+[02:45:15] "  (1x)
+[02:45:16] Todos os jogadores ganhou: M249
+[02:45:17] Error: player Vinicius (#5) tries to select weapon which he does not own (wpn id 35)
+[02:45:18] Smøker: so eu me fodo
+[02:45:25] U.S.G.N.: Serverlist entry updated
+[02:45:46] Smøker killed by Explosão
+[02:45:46] Sgt'~ killed by Explosão
+[02:45:46] Vinicius killed by Explosão
+[02:45:48] rM.awp | null!: asdkaskdsakdkaskdsakd
+[02:45:49] Neko: sfgjhsalkjghjalkwegj
+[02:45:50] Vinicius deixou o jogo
+[02:45:50] Smøker *Morto*: hasuahuhg
+[02:45:51] Todos os jogadores ganhou: Medikit
+[02:45:55] ----- Mapchange -----
+[02:45:55] Starting server...
+[02:45:55] load map 'awp_grey SagosWins'
+[02:45:55] ----- Server started -----
+[02:45:55] Lua: Adding function 'paladino' to hook 'walkover'
+[02:45:55] Lua: Adding function 'teleport' to hook 'use'
+[02:45:55] Lua: Adding function 'telepoort' to hook 'clientdata'
+[02:45:55] Lua: Adding function 'temmpo' to hook 'second'
+[02:45:55] Lua: Adding function 'tempozero' to hook 'startround'
+[02:45:55] Lua: Adding function 'choque' to hook 'hit'
+[02:45:55] Lua: Adding function 'contas' to hook 'always'
+[02:45:56] U.S.G.N.: Ping/State 'playing'
+[02:45:56] U.S.G.N.: Serverlist entry updated
+[02:45:56] Sagos juntou-se a Countra-Terrorista Forças
+[02:46:04] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[02:46:05] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[02:46:05] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[02:46:05] Sgt'~ conectou-se
+[02:46:05] Sgt'~ is using IP 200.7.11.253:57873 and U.S.G.N. ID #150221
+[02:46:05] U.S.G.N.: Neko (201.66.101.81) joining with U.S.G.N. ID #166803 - verifying...
+[02:46:05] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[02:46:06] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[02:46:06] rM.awp | null! conectou-se
+[02:46:06] rM.awp | null! is using IP 177.185.53.199:49409 and U.S.G.N. ID #14465
+[02:46:06] U.S.G.N.: 201.66.101.81 is using U.S.G.N. ID #166803
+[02:46:06] Neko conectou-se
+[02:46:06] Neko is using IP 201.66.101.81:57998 and U.S.G.N. ID #166803
+[02:46:06] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[02:46:06] Smøker conectou-se
+[02:46:06] Smøker is using IP 200.97.162.169:11611 and U.S.G.N. ID #161967
+[02:46:07] Sgt'~ juntou-se a Terrorista Forças
+[02:46:08] rM.awp | null! juntou-se a Terrorista Forças
+[02:46:10] rM.awp | null!: gg ksadkas
+[02:46:11] Smøker juntou-se a Countra-Terrorista Forças
+[02:46:16] rM.awp | null!: a cade
+[02:46:17] Neko juntou-se a Terrorista Forças
+[02:46:20] Sgt'~ killed Smøker with AWP
+[02:46:31] rM.awp | null!: a
+[02:46:31] Sagos: mata errado
+[02:46:34] Sagos: mapa*
+[02:46:38] ----- Mapchange -----
+[02:46:38] Starting server...
+[02:46:38] load map 'awp_grey Jumper'
+[02:46:38] ----- Server started -----
+[02:46:38] Lua: Adding function 'paladino' to hook 'walkover'
+[02:46:38] Lua: Adding function 'teleport' to hook 'use'
+[02:46:38] Lua: Adding function 'telepoort' to hook 'clientdata'
+[02:46:38] Lua: Adding function 'temmpo' to hook 'second'
+[02:46:38] Lua: Adding function 'tempozero' to hook 'startround'
+[02:46:38] Lua: Adding function 'choque' to hook 'hit'
+[02:46:38] Lua: Adding function 'contas' to hook 'always'
+[02:46:39] U.S.G.N.: Ping/State 'playing'
+[02:46:39] U.S.G.N.: Serverlist entry updated
+[02:46:42] Sagos juntou-se a Countra-Terrorista Forças
+[02:46:49] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[02:46:49] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[02:46:49] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[02:46:49] U.S.G.N.: Neko (201.66.101.81) joining with U.S.G.N. ID #166803 - verifying...
+[02:46:49] U.S.G.N.: 201.66.101.81 is using U.S.G.N. ID #166803
+[02:46:49] Neko conectou-se
+[02:46:49] Neko is using IP 201.66.101.81:57998 and U.S.G.N. ID #166803
+[02:46:49] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[02:46:49] Smøker conectou-se
+[02:46:49] Smøker is using IP 200.97.162.169:11611 and U.S.G.N. ID #161967
+[02:46:49] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[02:46:49] rM.awp | null! conectou-se
+[02:46:49] rM.awp | null! is using IP 177.185.53.199:49409 and U.S.G.N. ID #14465
+[02:46:49] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[02:46:49] Sgt'~ conectou-se
+[02:46:49] Sgt'~ is using IP 200.7.11.253:57873 and U.S.G.N. ID #150221
+[02:46:49] Starting transfer to rM.awp | null! (files: 2) ...
+[02:46:49] Starting transfer to Smøker (files: 2) ...
+[02:46:49] rM.awp | null! needs 1 file. Starting to send file...
+[02:46:49] Sending 'maps/awp_grey Jumper.map' to rM.awp | null!...
+[02:46:49] Smøker needs 1 file. Starting to send file...
+[02:46:50] Starting transfer to Neko (files: 2) ...
+[02:46:50] Sending 'maps/awp_grey Jumper.map' to Smøker...
+[02:46:50] Neko needs 1 file. Starting to send file...
+[02:46:50] Starting transfer to Sgt'~ (files: 2) ...
+[02:46:50] Sending 'maps/awp_grey Jumper.map' to Neko...
+[02:46:50] Sgt'~ needs 1 file. Starting to send file...
+[02:46:50] Sending 'maps/awp_grey Jumper.map' to Sgt'~...
+[02:46:52] rM.awp | null! juntou-se a Terrorista Forças
+[02:46:52] Sgt'~ juntou-se a Terrorista Forças
+[02:46:53] Smøker juntou-se a Terrorista Forças
+[02:46:55] Smøker: sagos
+[02:46:57] Neko juntou-se a Countra-Terrorista Forças
+[02:47:03] Sagos: ?
+[02:47:05] Smøker: tenho algo pra te dizer
+[02:47:10] rM.awp | null! killed Sagos with AWP
+[02:47:14] Smøker killed Neko with AWP
+[02:47:16] o q?
+[02:47:19] Smøker: Galo de briga acaba na panela!!!
+[02:47:21] "  (1x)
+[02:47:25] U.S.G.N.: Serverlist entry updated
+[02:47:32] Sgt'~ killed Neko with AWP
+[02:47:40] U.S.G.N.: Ping/State 'playing'
+[02:47:50] rM.awp | null! killed Sagos with AWP
+[02:47:51] Smøker: fdpta
+[02:47:53] Sgt'~ died
+[02:47:53] Sgt'~ juntou-se a Countra-Terrorista Forças
+[02:47:54] rM.awp | null!: dkasdk
+[02:47:56] Sagos: quase
+[02:48:00] Sagos: ainda vou mata vcs
+[02:48:04] generating stats...
+[02:48:04] stats generated in 1 ms!
+[02:48:04] Smøker killed Sagos with Machete
+[02:48:05] rM.awp | null! killed Sgt'~ with AWP
+[02:48:10] rM.awp | null! killed Neko with AWP
+[02:48:10] U.S.G.N.: Serverlist entry updated
+[02:48:13] Sagos *Morto*: kkkk é mt dificil
+[02:48:15] Smøker: na machetada
+[02:48:26] Smøker killed Neko with AWP
+[02:48:38] rM.awp | null! killed Sgt'~ with AWP
+[02:48:40] U.S.G.N.: Ping/State 'playing'
+[02:48:47] Sagos killed rM.awp | null! with P228
+[02:48:55] U.S.G.N.: Serverlist entry updated
+[02:49:02] Smøker killed Sagos with AWP
+[02:49:08] Sagos: q mentira
+[02:49:16] Sgt'~ killed rM.awp | null! with Knife
+[02:49:21] Sgt'~ killed Smøker with P228
+[02:49:31] Smøker: como usa sa fumaça ai?
+[02:49:36] Smøker killed Neko with AWP
+[02:49:38] Sagos: só CT pode teleporta
+[02:49:41] U.S.G.N.: Serverlist entry updated
+[02:49:41] U.S.G.N.: Ping/State 'playing'
+[02:49:42] Sagos: só TR pode usa awp
+[02:49:55] Sagos: e a deagle impede os CT de teleporta
+[02:49:55] Smøker: fdp
+[02:49:57] Sgt'~ killed rM.awp | null! with P228
+[02:50:11] Smøker killed Sagos with AWP
+[02:50:12] Sgt'~ killed Smøker with P228
+[02:50:13] rM.awp | null! *Morto*: Clicka no locar
+[02:50:15] rM.awp | null! *Morto*: local
+[02:50:17] rM.awp | null! *Morto*: q vc quer
+[02:50:17] Smøker died
+[02:50:17] Smøker juntou-se a Countra-Terrorista Forças
+[02:50:18] rM.awp | null!: com a faca
+[02:50:26] rM.awp | null! killed Sgt'~ with AWP
+[02:50:26] U.S.G.N.: Serverlist entry updated
+[02:50:28] Sagos: n é com a faca '-'
+[02:50:28] Sgt'~ juntou-se a Terrorista Forças
+[02:50:36] rM.awp | null! killed Neko with AWP
+[02:50:40] rM.awp | null!: f2 neh
+[02:50:41] rM.awp | null!: kkkkkkkkkk
+[02:50:43] Sagos: E
+[02:50:46] rM.awp | null!: Vc mira e aperta f2
+[02:50:46] U.S.G.N.: Ping/State 'playing'
+[02:50:53] Sagos killed rM.awp | null! with P228
+[02:50:59] Smøker: errow
+[02:50:59] Sagos: mira e aperta E
+[02:51:07] Sgt'~ killed Smøker with AWP
+[02:51:11] U.S.G.N.: Serverlist entry updated
+[02:51:21] rM.awp | null!: Neko aperta E
+[02:51:25] Sagos killed Sgt'~ with P228
+[02:51:36] Neko: tava em cooldown
+[02:51:38] rM.awp | null! killed Sagos with AWP
+[02:51:46] Neko killed rM.awp | null! with Knife
+[02:51:47] U.S.G.N.: Ping/State 'playing'
+[02:51:48] rM.awp | null! *Morto*: q
+[02:51:48] Smøker *Morto*: kkkkkkkkkkkkk
+[02:51:49] rM.awp | null! *Morto*: kkkkkkkkk
+[02:51:51] Sagos: boa kk
+[02:52:04] rM.awp | null! killed Neko with AWP
+[02:52:07] Sgt'~ killed Sagos with AWP
+[02:52:10] rM.awp | null! killed Smøker with AWP
+[02:52:12] Smøker *Morto*: fdpta
+[02:52:17] rM.awp | null!: respeita noix
+[02:52:22] rM.awp | null!: noix e da grey
+[02:52:23] Sgt'~ killed Neko with AWP
+[02:52:42] U.S.G.N.: Serverlist entry updated
+[02:52:42] rM.awp | null! killed Smøker with AWP
+[02:52:47] Sagos killed Sgt'~ with Knife
+[02:52:47] U.S.G.N.: Ping/State 'playing'
+[02:52:55] Sagos killed rM.awp | null! with Knife
+[02:52:59] Sagos: aushuashuahs
+[02:53:00] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[02:53:01] Smøker: ajsjaisjja
+[02:53:02] rM.awp | null!: agr e eu
+[02:53:04] generating stats...
+[02:53:04] stats generated in 1 ms!
+[02:53:11] Sgt'~ killed Neko with AWP
+[02:53:17] Sgt'~ killed Smøker with Machete
+[02:53:18] Sgt'~ killed rM.awp | null! with AWP
+[02:53:24] Sagos: vai morrer pra mim
+[02:53:28] U.S.G.N.: Serverlist entry updated
+[02:53:32] Sagos killed Sgt'~ with P228
+[02:53:38] Smøker: deixei 11 hp ne '-'
+[02:53:45] Sagos killed Sgt'~ with P228
+[02:53:47] Smøker died
+[02:53:47] Smøker juntou-se a Terrorista Forças
+[02:53:48] U.S.G.N.: Ping/State 'playing'
+[02:53:49] Sagos died
+[02:53:49] Sagos juntou-se a Terrorista Forças
+[02:53:54] Sagos killed rM.awp | null! with AWP
+[02:54:01] Sagos killed Neko with AWP
+[02:54:02] Sgt'~ died
+[02:54:02] Sgt'~ juntou-se a Countra-Terrorista Forças
+[02:54:13] U.S.G.N.: Serverlist entry updated
+[02:54:13] Sagos killed rM.awp | null! with AWP
+[02:54:21] Sagos killed Sgt'~ with AWP
+[02:54:22] Smøker killed Neko with AWP
+[02:54:24] Sagos: aushuahsuhas
+[02:54:27] Smøker: xD
+[02:54:27] rM.awp | null!: Smoker
+[02:54:32] rM.awp | null!: me manda o script do dayz
+[02:54:33] Smøker killed Neko with AWP
+[02:54:40] Smøker: perdi
+[02:54:40] rM.awp | null!: Aquele e zika
+[02:54:42] rM.awp | null!: kasdkas
+[02:54:44] rM.awp | null!: Vtmnc
+[02:54:44] Sagos killed Sgt'~ with AWP
+[02:54:48] U.S.G.N.: Ping/State 'playing'
+[02:54:58] U.S.G.N.: Serverlist entry updated
+[02:54:59] Sagos killed rM.awp | null! with AWP
+[02:55:01] Smøker: haushauha[
+[02:55:05] rM.awp | null!: Bleach tem ele ainda
+[02:55:07] Smøker: eu peguei trojan
+[02:55:15] Smøker: formatei e sumiu
+[02:55:19] Sagos killed Sgt'~ with AWP
+[02:55:25] rM.awp | null! killed Sagos with P228
+[02:55:32] rM.awp | null! killed Smøker with Knife
+[02:55:35] rM.awp | null!: asdkaskdaskd
+[02:55:36] Smøker *Morto*: fdp
+[02:55:41] Smøker: corte rapido
+[02:55:43] Smøker: faca
+[02:55:44] Sagos killed rM.awp | null! with Machete
+[02:55:44] U.S.G.N.: Serverlist entry updated
+[02:55:46] Smøker: e tramontina
+[02:55:46] Neko killed Smøker with Knife
+[02:55:49] U.S.G.N.: Ping/State 'playing'
+[02:55:51] Neko: sufhkjahfnjeas[
+[02:55:53] Neko: dsclp
+[02:55:55] Neko: <#
+[02:56:04] Sagos killed Neko with Machete
+[02:56:29] U.S.G.N.: Serverlist entry updated
+[02:56:30] Sgt'~ killed Sagos with P228
+[02:56:32] Smøker *Morto*: Galo de briga acaba na panela!!!
+[02:56:36] Smøker: Galo de briga acaba na panela!!!
+[02:56:41] Sagos killed rM.awp | null! with AWP
+[02:56:49] U.S.G.N.: Ping/State 'playing'
+[02:56:54] Smøker killed Neko with AWP
+[02:56:57] Smøker killed Sgt'~ with AWP
+[02:57:00] Smøker: Xd
+[02:57:02] Sagos: dx 1 smoker
+[02:57:06] Sagos killed Sgt'~ with AWP
+[02:57:07] Smøker (Time): PL
+[02:57:09] Sagos killed rM.awp | null! with Machete
+[02:57:10] Sagos killed Neko with AWP
+[02:57:12] Sagos: vlw
+[02:57:13] Sagos: kk
+[02:57:14] U.S.G.N.: Serverlist entry updated
+[02:57:15] rM.awp | null!: Fdp
+[02:57:17] rM.awp | null!: e viciado
+[02:57:25] Sagos killed Sgt'~ with AWP
+[02:57:28] Sagos killed rM.awp | null! with AWP
+[02:57:32] Sagos killed Neko with AWP
+[02:57:35] Smøker: <3
+[02:57:36] Smøker: ui
+[02:57:42] Smøker killed Sgt'~ with AWP
+[02:57:42] Smøker killed rM.awp | null! with AWP
+[02:57:45] Smøker killed Neko with AWP
+[02:57:48] Smøker: kk
+[02:57:50] U.S.G.N.: Ping/State 'playing'
+[02:57:50] Smøker died
+[02:57:50] Smøker juntou-se a Countra-Terrorista Forças
+[02:58:00] U.S.G.N.: Serverlist entry updated
+[02:58:01] Sagos killed Smøker with AWP
+[02:58:01] Sagos killed rM.awp | null! with AWP
+[02:58:04] generating stats...
+[02:58:04] stats generated in 1 ms!
+[02:58:04] Sagos killed Neko with AWP
+[02:58:45] U.S.G.N.: Serverlist entry updated
+[02:58:50] U.S.G.N.: Ping/State 'playing'
+[02:58:50] Sgt'~ died
+[02:58:56] Sgt'~: pnc kkkkkkk
+[02:58:57] rM.awp | null!: KKKKKKKKKKKKKKKK
+[02:59:06] Smøker killed Sagos with P228
+[02:59:09] Neko: sfastfiuasyhfaowe
+[02:59:11] Sagos: meee kkkkkkkkk
+[02:59:16] Sagos killed rM.awp | null! with Machete
+[02:59:17] Sagos killed Smøker with AWP
+[02:59:17] Sagos killed Sgt'~ with AWP
+[02:59:27] Sagos killed Neko with AWP
+[02:59:30] U.S.G.N.: Serverlist entry updated
+[02:59:37] Sagos killed Neko with Machete
+[02:59:39] Sagos killed Smøker with AWP
+[02:59:40] rM.awp | null! killed Sagos with Knife
+[02:59:41] Smøker *Morto*: pqp
+[02:59:45] U.S.G.N.: EnergiNub (189.93.176.92) joining with U.S.G.N. ID #166477 - verifying...
+[02:59:46] U.S.G.N.: 189.93.176.92 is using U.S.G.N. ID #166477
+[02:59:46] EnergiNub conectou-se
+[02:59:46] EnergiNub is using IP 189.93.176.92:58781 and U.S.G.N. ID #166477
+[02:59:46] Starting transfer to EnergiNub (files: 2) ...
+[02:59:46] EnergiNub needs 2 files. Starting to send files...
+[02:59:46] Sending 'gfx/tiles/fruitpapje1.bmp' to EnergiNub...
+[02:59:48] Sending 'maps/awp_grey Jumper.map' to EnergiNub...
+[02:59:48] Sagos killed rM.awp | null! with Machete
+[02:59:49] Sagos killed Neko with Machete
+[02:59:51] U.S.G.N.: Ping/State 'playing'
+[02:59:53] EnergiNub juntou-se a Terrorista Forças
+[02:59:59] Sagos killed Sgt'~ with AWP
+[03:00:06] Sagos killed Smøker with AWP
+[03:00:16] U.S.G.N.: Serverlist entry updated
+[03:00:17] Sgt'~: Da vaco
+[03:00:30] Sagos killed Neko with Machete
+[03:00:33] Sagos killed rM.awp | null! with AWP
+[03:00:51] U.S.G.N.: Ping/State 'playing'
+[03:01:01] U.S.G.N.: Serverlist entry updated
+[03:01:37] Sgt'~ killed EnergiNub with P228
+[03:01:47] U.S.G.N.: Serverlist entry updated
+[03:01:52] U.S.G.N.: Ping/State 'playing'
+[03:01:59] Sagos killed Sgt'~ with AWP
+[03:02:02] Sagos: kkkkkkkkkk
+[03:02:09] Smøker conectou-se
+[03:02:09] Smøker is using IP 200.97.162.169:12032 and no U.S.G.N. ID
+[03:02:12] Smøker juntou-se a Countra-Terrorista Forças
+[03:02:19] Sagos killed Sgt'~ with Machete
+[03:02:23] EnergiNub killed rM.awp | null! with AWP
+[03:02:25] Sagos killed Neko with Machete
+[03:02:27] Sagos killed Smøker with AWP
+[03:02:32] U.S.G.N.: Serverlist entry updated
+[03:02:33] Smøker: lag
+[03:02:34] Sagos: slk
+[03:02:52] U.S.G.N.: Ping/State 'playing'
+[03:02:53] Sagos killed Neko with Machete
+[03:02:54] Sagos killed Smøker with AWP
+[03:02:57] Sagos killed Sgt'~ with Machete
+[03:03:02] Sagos killed rM.awp | null! with AWP
+[03:03:04] EnergiNub: nice pingzao kkk
+[03:03:04] generating stats...
+[03:03:04] stats generated in 1 ms!
+[03:03:14] Sagos killed rM.awp | null! with Machete
+[03:03:15] Sagos killed Neko with Machete
+[03:03:16] Smøker: mlk 13 k de ping
+[03:03:17] U.S.G.N.: Serverlist entry updated
+[03:03:18] EnergiNub killed Smøker with AWP
+[03:03:53] U.S.G.N.: Ping/State 'playing'
+[03:03:55] Sgt'~ killed EnergiNub with P228
+[03:03:57] Sagos killed Sgt'~ with AWP
+[03:04:03] U.S.G.N.: Serverlist entry updated
+[03:04:03] Smøker: run
+[03:04:04] Sgt'~: NEKOOOOOOOO
+[03:04:08] Sgt'~: Gata do krl
+[03:04:08] Sagos killed Sgt'~ with Machete
+[03:04:15] Neko: :3
+[03:04:22] Sagos killed Neko with Machete
+[03:04:24] Smøker killed EnergiNub with P228
+[03:04:29] Sagos killed Smøker with AWP
+[03:04:30] rM.awp | null! killed Sagos with Knife
+[03:04:32] rM.awp | null!: askdaskdkasdksad
+[03:04:33] Neko *Morto*: Respondi xim
+[03:04:33] Smøker *Morto*: ahsuahuhsauh
+[03:04:39] Sgt'~: devo q eu tava morto ;;
+[03:04:48] U.S.G.N.: Serverlist entry updated
+[03:04:51] Sagos killed Smøker with AWP
+[03:04:58] U.S.G.N.: Ping/State 'playing'
+[03:05:04] Neko killed EnergiNub with Knife
+[03:05:08] rM.awp | null!: asdasmdas
+[03:05:11] Sagos killed Sgt'~ with AWP
+[03:05:14] Sagos killed rM.awp | null! with AWP
+[03:05:33] U.S.G.N.: Serverlist entry updated
+[03:05:43] Sagos killed Neko with Knife
+[03:05:51] Neko: nao dava pra dar tp
+[03:05:59] U.S.G.N.: Ping/State 'playing'
+[03:06:10] Sgt'~: Tem skype otome?
+[03:06:11] Sagos killed Sgt'~ with Machete
+[03:06:12] Smøker killed Sagos with P228
+[03:06:17] rM.awp | null! killed EnergiNub with P228
+[03:06:19] U.S.G.N.: Serverlist entry updated
+[03:06:21] Neko: Nop
+[03:06:21] rM.awp | null!: ?
+[03:06:25] Smøker: iala  null
+[03:06:25] rM.awp | null!: Ele e homi
+[03:06:26] rM.awp | null!: kkkkkkkkkkkkkk
+[03:06:28] rM.awp | null!: KKKKKKKKKKKKKKKKKKKK
+[03:06:32] Sagos killed Sgt'~ with Machete
+[03:06:33] Sagos killed rM.awp | null! with AWP
+[03:06:33] Smøker: me mandaram pm dizendo q tu da hs de bunda
+[03:06:44] EnergiNub killed Smøker with AWP
+[03:06:50] Sagos killed Neko with AWP
+[03:07:01] Smøker: null da hs de bunda 
+[03:07:06] Sagos killed rM.awp | null! with AWP
+[03:07:09] U.S.G.N.: Ping/State 'playing'
+[03:07:10] Sagos killed Sgt'~ with Machete
+[03:07:16] EnergiNub killed Neko with AWP
+[03:07:33] Sagos killed Smøker with Machete
+[03:07:38] Smøker: KRL LAG
+[03:07:47] Sagos killed Sgt'~ with Machete
+[03:07:49] U.S.G.N.: Serverlist entry updated
+[03:07:52] rM.awp | null! killed EnergiNub with P228
+[03:07:54] Sagos killed Neko with AWP
+[03:08:04] generating stats...
+[03:08:04] stats generated in 2 ms!
+[03:08:10] U.S.G.N.: Ping/State 'playing'
+[03:08:31] Sagos killed rM.awp | null! with AWP
+[03:08:35] U.S.G.N.: Serverlist entry updated
+[03:08:52] Sagos killed Smøker with AWP
+[03:08:58] Smøker: morri de lag '-'
+[03:09:04] Sagos killed Sgt'~ with AWP
+[03:09:06] Sagos killed rM.awp | null! with Machete
+[03:09:10] U.S.G.N.: Ping/State 'playing'
+[03:09:15] Sagos killed Smøker with AWP
+[03:09:19] Sagos: minha net é um lixo
+[03:09:22] Smøker deixou o jogo
+[03:09:35] Sagos killed Neko with AWP
+[03:09:54] EnergiNub killed rM.awp | null! with AWP
+[03:10:06] U.S.G.N.: Serverlist entry updated
+[03:10:11] U.S.G.N.: Ping/State 'playing'
+[03:10:25] Sagos killed Neko with Knife
+[03:10:51] U.S.G.N.: Serverlist entry updated
+[03:11:11] U.S.G.N.: Ping/State 'playing'
+[03:11:36] U.S.G.N.: Serverlist entry updated
+[03:11:53] Sagos killed Sgt'~ with AWP
+[03:12:02] Sgt'~: ;-;
+[03:12:04] Sagos died
+[03:12:04] Sagos juntou-se aos espectadores
+[03:12:05] Sgt'~: Nem falo mais.
+[03:12:11] EnergiNub killed Neko with Machete
+[03:12:12] U.S.G.N.: Ping/State 'playing'
+[03:12:19] rM.awp | null! killed EnergiNub with Knife
+[03:12:22] U.S.G.N.: Serverlist entry updated
+[03:12:23] EnergiNub *Morto*: ' 0'
+[03:12:25] Neko: kk
+[03:12:26] Sgt'~: to com vergonha kk
+[03:12:33] EnergiNub killed rM.awp | null! with Knife
+[03:13:04] generating stats...
+[03:13:04] stats generated in 1 ms!
+[03:13:07] U.S.G.N.: Serverlist entry updated
+[03:13:31] EnergiNub killed Neko with AWP
+[03:13:32] Sgt'~: de gordo só tem meu pau clbc
+[03:13:47] U.S.G.N.: Ping/State 'playing'
+[03:13:49] Neko *Morto*: kk
+[03:13:54] rM.awp | null! *Morto*: a mn
+[03:13:55] rM.awp | null! *Morto*: SLK
+[03:14:00] rM.awp | null! *Morto*: QUERO ir embora
+[03:14:03] rM.awp | null! *Morto*: '-.-
+[03:14:10] EnergiNub: q saco
+[03:14:12] Neko *Morto*: kkk
+[03:14:18] EnergiNub killed Sgt'~ with AWP
+[03:14:20] rM.awp | null! *Morto*: TOMA
+[03:14:22] rM.awp | null! *Morto*: kkkkkkkkkkk
+[03:14:25] rM.awp | null!: Sgt
+[03:14:27] Sgt'~: Fala
+[03:14:48] U.S.G.N.: Ping/State 'playing'
+[03:15:48] "  (1x)
+[03:16:01] EnergiNub: ' -' mds meu ping plmds
+[03:16:09] U.S.G.N.: Serverlist entry updated
+[03:16:23] Sgt'~ killed EnergiNub with P228
+[03:16:28] Error: player EnergiNub (#6) tries to select weapon which he does not own (wpn id 35)
+[03:16:38] Sgt'~ died
+[03:16:38] Sgt'~ juntou-se a Terrorista Forças
+[03:16:49] U.S.G.N.: Ping/State 'playing'
+[03:16:53] voice chat DISABLED
+[03:16:54] U.S.G.N.: Serverlist entry updated
+[03:17:04] Error: player EnergiNub (#6) tries to select weapon which he does not own (wpn id 35)
+[03:17:05] Error: player EnergiNub (#6) tries to select weapon which he does not own (wpn id 69)
+[03:17:06] Neko deixou o jogo
+[03:17:06] Error: player EnergiNub (#6) tries to select weapon which he does not own (wpn id 3)
+[03:17:11] Error: player EnergiNub (#6) tries to select weapon which he does not own (wpn id 69)
+[03:17:12] rM.awp | null!: IAEEEEEEEEE SAGOOOOOOSSSSSSSSSSSSS
+[03:17:12] Error: player EnergiNub (#6) tries to select weapon which he does not own (wpn id 35)
+[03:17:13] Error: player EnergiNub (#6) tries to select weapon which he does not own (wpn id 69)
+[03:17:14] rM.awp | null!: CADE 
+[03:17:16] rM.awp | null!: O VOICE
+[03:17:18] rM.awp | null!: CARAI
+[03:17:18] Error: player EnergiNub (#6) tries to select weapon which he does not own (wpn id 35)
+[03:17:20] Sgt'~ *Morto*: CADE O VOICE
+[03:17:21] voice chat For All
+[03:17:21] Error: player EnergiNub (#6) tries to select weapon which he does not own (wpn id 69)
+[03:17:22] Sgt'~ *Morto*: PAU NO CU
+[03:17:24] U.S.G.N.: Neko (201.66.101.81) joining with U.S.G.N. ID #166803 - verifying...
+[03:17:32] EnergiNub deixou o jogo
+[03:17:38] U.S.G.N.: Can't validate player 'Neko' (timeout)
+[03:17:44] Sgt'~ killed rM.awp | null! with AWP
+[03:17:57] Sagos: to quase indo dormir
+[03:17:58] U.S.G.N.: Neko (201.66.101.81) joining with U.S.G.N. ID #166803 - verifying...
+[03:17:58] U.S.G.N.: 201.66.101.81 is using U.S.G.N. ID #166803
+[03:17:58] Neko conectou-se
+[03:17:58] Neko is using IP 201.66.101.81:57998 and U.S.G.N. ID #166803
+[03:17:59] U.S.G.N.: Ping/State 'playing'
+[03:18:02] Sgt'~ killed rM.awp | null! with AWP
+[03:18:04] generating stats...
+[03:18:04] stats generated in 1 ms!
+[03:18:05] Neko juntou-se a Terrorista Forças
+[03:18:14] Neko: oi
+[03:18:20] U.S.G.N.: EnergiNub (189.93.176.92) joining with U.S.G.N. ID #166477 - verifying...
+[03:18:21] U.S.G.N.: 189.93.176.92 is using U.S.G.N. ID #166477
+[03:18:21] EnergiNub conectou-se
+[03:18:21] EnergiNub is using IP 189.93.176.92:58781 and U.S.G.N. ID #166477
+[03:18:25] U.S.G.N.: Serverlist entry updated
+[03:18:29] EnergiNub juntou-se a Countra-Terrorista Forças
+[03:18:40] rM.awp | null! killed Sgt'~ with P228
+[03:18:58] U.S.G.N.: L.R:: Br[A]y[A]n (200.84.51.213) joining with U.S.G.N. ID #162355 - verifying...
+[03:18:59] U.S.G.N.: 200.84.51.213 is using U.S.G.N. ID #162355
+[03:18:59] L.R:: Br[A]y[A]n conectou-se
+[03:18:59] L.R:: Br[A]y[A]n is using IP 200.84.51.213:63866 and U.S.G.N. ID #162355
+[03:18:59] Starting transfer to L.R:: Br[A]y[A]n (files: 2) ...
+[03:18:59] L.R:: Br[A]y[A]n needs 1 file. Starting to send file...
+[03:18:59] Sending 'maps/awp_grey Jumper.map' to L.R:: Br[A]y[A]n...
+[03:19:00] U.S.G.N.: Ping/State 'playing'
+[03:19:03] rM.awp | null! killed Neko with Knife
+[03:19:03] L.R:: Br[A]y[A]n juntou-se a Countra-Terrorista Forças
+[03:19:08] Neko: ;-;
+[03:19:10] U.S.G.N.: Serverlist entry updated
+[03:19:22] Sgt'~ killed rM.awp | null! with AWP
+[03:19:22] Sgt'~ killed EnergiNub with AWP
+[03:19:31] Sgt'~ killed L.R:: Br[A]y[A]n with AWP
+[03:19:41] Sagos: vai fica da hr
+[03:19:41] L.R:: Br[A]y[A]n: x q no puedo agarar la awp
+[03:19:52] Sgt'~ killed L.R:: Br[A]y[A]n with AWP
+[03:19:55] U.S.G.N.: Serverlist entry updated
+[03:20:01] U.S.G.N.: Ping/State 'playing'
+[03:20:01] Sgt'~ killed EnergiNub with Machete
+[03:20:03] Sagos *Morto*: CT não pega awp
+[03:20:03] L.R:: Br[A]y[A]n *Morto*: qlol
+[03:20:10] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[03:20:10] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[03:20:10] Smøker conectou-se
+[03:20:10] Smøker is using IP 200.97.162.169:12032 and U.S.G.N. ID #161967
+[03:20:13] Sgt'~ killed rM.awp | null! with AWP
+[03:20:29] rM.awp | null! killed Sgt'~ with P228
+[03:20:29] L.R:: Br[A]y[A]n killed Neko with P228
+[03:20:33] Smøker juntou-se a Terrorista Forças
+[03:20:37] rM.awp | null!: Smoker
+[03:20:41] U.S.G.N.: Serverlist entry updated
+[03:20:42] Smøker: ?
+[03:20:43] rM.awp | null!: VTMNCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+[03:20:45] Sgt'~ killed L.R:: Br[A]y[A]n with AWP
+[03:20:52] Sgt'~ killed rM.awp | null! with Machete
+[03:20:54] EnergiNub killed Smøker with P228
+[03:20:56] Sgt'~ killed EnergiNub with AWP
+[03:20:59] rM.awp | null! *Morto*: NEKO
+[03:21:00] Smøker *Morto*: lag dms
+[03:21:01] U.S.G.N.: Ping/State 'playing'
+[03:21:07] Sgt'~ killed EnergiNub with AWP
+[03:21:11] Sgt'~ killed L.R:: Br[A]y[A]n with AWP
+[03:21:14] EnergiNub *Morto*: pra q agredir
+[03:21:21] Smøker killed rM.awp | null! with AWP
+[03:21:23] Smøker: xD
+[03:21:27] Error: player Smøker (#7) tries to select weapon which he does not own (wpn id 35)
+[03:21:27] Error: player Smøker (#7) tries to select weapon which he does not own (wpn id 69)
+[03:21:27] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[03:21:30] ERROR: setpos - position is out of map bounds!
+[03:21:39] Smøker killed L.R:: Br[A]y[A]n with AWP
+[03:21:39] Smøker killed EnergiNub with AWP
+[03:21:41] L.R:: Br[A]y[A]n deixou o jogo
+[03:21:47] Sgt'~ killed rM.awp | null! with AWP
+[03:21:49] Smøker: lul
+[03:21:51] Smøker died
+[03:21:51] Smøker juntou-se a Countra-Terrorista Forças
+[03:22:01] U.S.G.N.: Ping/State 'playing'
+[03:22:03] Sgt'~ killed rM.awp | null! with AWP
+[03:22:03] Sgt'~ killed EnergiNub with AWP
+[03:22:05] Sgt'~ killed Smøker with AWP
+[03:22:08] Smøker *Morto*: kkk
+[03:22:08] Sgt'~: Nada
+[03:22:13] rM.awp | null!: MN
+[03:22:13] Sgt'~: eu sei jogar seus fionw
+[03:22:20] Sgt'~ killed EnergiNub with AWP
+[03:22:20] rM.awp | null!: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[03:22:27] Sgt'~ killed rM.awp | null! with AWP
+[03:22:57] Sgt'~ killed Smøker with AWP
+[03:23:04] Smøker: lag
+[03:23:04] generating stats...
+[03:23:04] stats generated in 2 ms!
+[03:23:07] U.S.G.N.: Ping/State 'playing'
+[03:23:10] U.S.G.N.: L.R:: Br[A]y[A]n (200.84.51.213) joining with U.S.G.N. ID #162355 - verifying...
+[03:23:11] EnergiNub killed Sgt'~ with P228
+[03:23:11] U.S.G.N.: 200.84.51.213 is using U.S.G.N. ID #162355
+[03:23:11] L.R:: Br[A]y[A]n conectou-se
+[03:23:11] L.R:: Br[A]y[A]n is using IP 200.84.51.213:63866 and U.S.G.N. ID #162355
+[03:23:15] EnergiNub killed Neko with P228
+[03:23:18] rM.awp | null! died
+[03:23:18] rM.awp | null! juntou-se a Terrorista Forças
+[03:23:19] Smøker: xD
+[03:23:20] L.R:: Br[A]y[A]n juntou-se a Terrorista Forças
+[03:23:22] Sgt'~: Sabe pq o poste tem luz em cima
+[03:23:24] L.R:: Br[A]y[A]n killed EnergiNub with AWP
+[03:23:26] Sgt'~: e a mulher da a luz em baixo?
+[03:23:29] Smøker killed L.R:: Br[A]y[A]n with P228
+[03:23:30] 2753666679 conectou-se
+[03:23:30] 2753666679 is using IP 106.2.230.58:46047 and no U.S.G.N. ID
+[03:23:30] Starting transfer to 2753666679 (files: 2) ...
+[03:23:31] 2753666679 needs 2 files. Starting to send files...
+[03:23:31] Sending 'gfx/tiles/fruitpapje1.bmp' to 2753666679...
+[03:23:33] Sending 'maps/awp_grey Jumper.map' to 2753666679...
+[03:23:35] EnergiNub *Morto*: pq?
+[03:23:42] 2753666679 juntou-se a Countra-Terrorista Forças
+[03:23:42] U.S.G.N.: Serverlist entry updated
+[03:23:45] Sgt'~ killed Smøker with AWP
+[03:23:49] rM.awp | null!: kkkkkkkkkkkkkkk
+[03:23:53] rM.awp | null!: q lag
+[03:23:53] Smøker: 3x1 :/
+[03:24:12] U.S.G.N.: Ping/State 'playing'
+[03:24:19] Sgt'~ deixou o jogo
+[03:24:21] Smøker killed rM.awp | null! with P228
+[03:24:21] Neko has been kicked. Ping too high (3017).
+[03:24:21] Neko deixou o jogo (auta latência)
+[03:24:22] Smøker killed L.R:: Br[A]y[A]n with P228
+[03:24:23] EnergiNub: #MeuPingMtLouco
+[03:24:25] Smøker: llu
+[03:24:27] L.R:: Br[A]y[A]n *Morto*: maldito lag
+[03:24:28] U.S.G.N.: Serverlist entry updated
+[03:24:29] U.S.G.N.: Neko (201.66.101.81) joining with U.S.G.N. ID #166803 - verifying...
+[03:24:30] U.S.G.N.: 201.66.101.81 is using U.S.G.N. ID #166803
+[03:24:30] Neko conectou-se
+[03:24:30] Neko is using IP 201.66.101.81:57998 and U.S.G.N. ID #166803
+[03:24:33] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[03:24:34] 2753666679 has been kicked. Ping too high (22318).
+[03:24:34] 2753666679 deixou o jogo (auta latência)
+[03:24:35] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[03:24:35] Sgt'~ conectou-se
+[03:24:35] Sgt'~ is using IP 200.7.11.253:57873 and U.S.G.N. ID #150221
+[03:24:35] Starting transfer to Sgt'~ (files: 2) ...
+[03:24:35] Sgt'~ needs 1 file. Starting to send file...
+[03:24:35] Sending 'maps/awp_grey Jumper.map' to Sgt'~...
+[03:24:36] Sgt'~ juntou-se a Terrorista Forças
+[03:24:37] L.R:: Br[A]y[A]n killed Smøker with AWP
+[03:24:37] EnergiNub killed L.R:: Br[A]y[A]n with P228
+[03:24:43] Neko juntou-se a Countra-Terrorista Forças
+[03:24:43] rM.awp | null! killed EnergiNub with AWP
+[03:24:48] Smøker *Morto*: !rs
+[03:24:49] rM.awp | null!: Iu
+[03:24:52] rM.awp | null!: kkkkkkkk
+[03:24:54] rM.awp | null!: oi
+[03:24:55] "  (1x)
+[03:24:57] "  (1x)
+[03:24:58] "  (1x)
+[03:25:01] EnergiNub killed L.R:: Br[A]y[A]n with P228
+[03:25:01] Sgt'~ killed Neko with AWP
+[03:25:03] L.R:: Br[A]y[A]n deixou o jogo
+[03:25:04] Sgt'~ killed Smøker with AWP
+[03:25:13] U.S.G.N.: Serverlist entry updated
+[03:25:13] U.S.G.N.: Ping/State 'playing'
+[03:25:16] Sgt'~ killed EnergiNub with AWP
+[03:25:18] rM.awp | null!: JOMA
+[03:25:20] rM.awp | null!: '-'
+[03:25:21] Error: player Sgt'~ (#5) tries to select weapon which he does not own (wpn id 35)
+[03:25:22] EnergiNub: travei
+[03:25:22] Smøker: cd o host dessa bagaça?
+[03:25:29] Sgt'~: Sagos é pobre
+[03:25:30] Sgt'~ killed EnergiNub with AWP
+[03:25:36] Smøker killed rM.awp | null! with P228
+[03:25:37] Sgt'~ killed Smøker with AWP
+[03:25:58] U.S.G.N.: Serverlist entry updated
+[03:26:02] Sgt'~ killed Neko with AWP
+[03:26:11] Error: player Sgt'~ (#5) tries to select weapon which he does not own (wpn id 35)
+[03:26:18] U.S.G.N.: Ping/State 'playing'
+[03:26:19] EnergiNub: glr to mt feliz comprei um jogo de 99 reais por 22
+[03:26:23] Sgt'~: Ai zim.
+[03:26:24] EnergiNub: ;^;
+[03:26:28] Sgt'~: Enquanto eu aqui to comprando marshmallow
+[03:26:28] rM.awp | null!: KKKKKKKKKKKKKKKKKKKK
+[03:26:30] Sgt'~: nas custas
+[03:26:30] rM.awp | null!: Lega
+[03:26:31] Smøker killed rM.awp | null! with P228
+[03:26:36] Sagos: qual jogo?
+[03:26:44] U.S.G.N.: Serverlist entry updated
+[03:26:49] Smøker: sagos
+[03:26:50] EnergiNub: borderlands 2 game of the year
+[03:26:53] Sgt'~ killed Neko with AWP
+[03:26:57] Sgt'~ killed EnergiNub with AWP
+[03:26:59] Sagos: fala
+[03:27:05] Sgt'~ killed Smøker with AWP
+[03:27:06] EnergiNub *Morto*: mano eu amo esse jogo
+[03:27:19] U.S.G.N.: Ping/State 'playing'
+[03:27:25] Smøker: Galo de briga acaba na panela!!!
+[03:27:29] U.S.G.N.: Serverlist entry updated
+[03:27:48] EnergiNub: dps vou comprar o pack left for dead
+[03:27:48] Sgt'~ killed Neko with AWP
+[03:27:56] rM.awp | null! killed EnergiNub with AWP
+[03:28:04] generating stats...
+[03:28:04] stats generated in 1 ms!
+[03:28:07] Neko *Morto*: Eu tava pensando em comprar o left 2
+[03:28:10] EnergiNub *Morto*: 7 conto 
+[03:28:11] rM.awp | null! killed Smøker with AWP
+[03:28:13] rM.awp | null! died
+[03:28:13] rM.awp | null! juntou-se aos espectadores
+[03:28:13] Smøker *Morto*: rl
+[03:28:13] Neko *Morto*: ss
+[03:28:15] U.S.G.N.: Serverlist entry updated
+[03:28:17] Error: player Sgt'~ (#5) tries to select weapon which he does not own (wpn id 35)
+[03:28:30] U.S.G.N.: Ping/State 'playing'
+[03:28:37] Sgt'~ killed EnergiNub with Machete
+[03:28:41] Sgt'~ killed Smøker with AWP
+[03:28:50] Smøker deixou o jogo
+[03:28:51] Fallen @SKG conectou-se
+[03:28:51] Fallen @SKG is using IP 181.223.91.204:60269 and no U.S.G.N. ID
+[03:28:51] Starting transfer to Fallen @SKG (files: 2) ...
+[03:28:51] Fallen @SKG needs 1 file. Starting to send file...
+[03:28:51] Sending 'maps/awp_grey Jumper.map' to Fallen @SKG...
+[03:28:56] EnergiNub *Morto*: joga d+
+[03:29:00] U.S.G.N.: Serverlist entry updated
+[03:29:07] Fallen @SKG juntou-se a Terrorista Forças
+[03:29:30] U.S.G.N.: Ping/State 'playing'
+[03:29:37] EnergiNub *Morto*: fallen chegou em 
+[03:29:45] U.S.G.N.: Serverlist entry updated
+[03:29:50] EnergiNub *Morto*: n da awp para ele n em se n fudeu ;-;
+[03:30:00] EnergiNub *Morto*: to sim :D
+[03:30:18] EnergiNub *Morto*: so n uso o micro pq ta tarde ;-;
+[03:30:30] U.S.G.N.: Serverlist entry updated
+[03:30:30] U.S.G.N.: Ping/State 'playing'
+[03:30:49] Neko killed Sgt'~ with Knife
+[03:30:54] Sgt'~: ;-; ._.
+[03:30:58] Neko: :v
+[03:31:02] EnergiNub: mlq ninja
+[03:31:07] Fallen @SKG killed EnergiNub with AWP
+[03:31:28] Sgt'~ killed Neko with AWP
+[03:31:30] Neko *Morto*: 12
+[03:31:31] U.S.G.N.: Ping/State 'playing'
+[03:31:33] Sgt'~: :v
+[03:31:33] Neko *Morto*: de gp
+[03:31:36] Neko: hp*
+[03:31:43] Sgt'~ killed EnergiNub with AWP
+[03:31:44] Fallen @SKG killed Neko with AWP
+[03:32:04] rM.awp | null! juntou-se a Terrorista Forças
+[03:32:10] EnergiNub killed Fallen @SKG with P228
+[03:32:12] Fallen @SKG deixou o jogo
+[03:32:19] EnergiNub killed Sgt'~ with P228
+[03:32:29] EnergiNub: n salvo mais em 
+[03:32:31] U.S.G.N.: Ping/State 'playing'
+[03:32:34] Sgt'~ killed Neko with AWP
+[03:32:35] EnergiNub killed Sgt'~ with P228
+[03:32:37] rM.awp | null! killed EnergiNub with AWP
+[03:32:37] Sgt'~ *Morto*: opa :3
+[03:32:40] rM.awp | null!: asdk
+[03:32:42] Neko *Morto*: :v
+[03:32:45] rM.awp | null!: Vou jogar igual jogo awp
+[03:32:46] Sgt'~ killed EnergiNub with AWP
+[03:32:47] U.S.G.N.: Serverlist entry updated
+[03:32:47] rM.awp | null!: '.'
+[03:32:50] EnergiNub *Morto*: '0'
+[03:32:53] Sgt'~: fica aq null
+[03:32:56] EnergiNub *Morto*: mito
+[03:33:04] generating stats...
+[03:33:04] stats generated in 1 ms!
+[03:33:04] Sgt'~ killed Neko with AWP
+[03:33:06] Sgt'~: opa 
+[03:33:07] Neko *Morto*: aaa
+[03:33:08] rM.awp | null!: Nice
+[03:33:09] Neko *Morto*: ç-ç
+[03:33:15] Sgt'~ killed EnergiNub with AWP
+[03:33:17] rM.awp | null! killed Neko with AWP
+[03:33:20] Sgt'~: kkkjj
+[03:33:23] Neko: ;-;
+[03:33:26] Sgt'~ killed Neko with AWP
+[03:33:30] Sgt'~ killed EnergiNub with AWP
+[03:33:32] U.S.G.N.: Ping/State 'playing'
+[03:33:32] U.S.G.N.: Serverlist entry updated
+[03:33:32] rM.awp | null!: '-'
+[03:33:34] rM.awp | null!: era meu
+[03:33:34] EnergiNub *Morto*: sorte de vcs q eu n tenho uma awp
+[03:33:35] rM.awp | null!: puta
+[03:33:36] Sgt'~: era
+[03:33:42] Sgt'~: seu Obito
+[03:33:43] Sgt'~: é ruela
+[03:33:45] rM.awp | null! killed EnergiNub with AWP
+[03:33:49] EnergiNub *Morto*: '-'
+[03:34:00] Sgt'~ killed Neko with AWP
+[03:34:02] Sgt'~: :3
+[03:34:17] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[03:34:17] U.S.G.N.: Serverlist entry updated
+[03:34:17] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[03:34:17] Smøker conectou-se
+[03:34:17] Smøker is using IP 200.97.162.169:12032 and U.S.G.N. ID #161967
+[03:34:21] Sgt'~ killed EnergiNub with AWP
+[03:34:22] Smøker juntou-se a Countra-Terrorista Forças
+[03:34:32] U.S.G.N.: Ping/State 'playing'
+[03:34:48] Sgt'~ killed Neko with AWP
+[03:34:50] EnergiNub *Morto*: vou fazer um spray para mim no print 
+[03:34:53] Error: player Sgt'~ (#5) tries to select weapon which he does not own (wpn id 35)
+[03:34:54] Neko: lagou ;-;
+[03:34:57] Sgt'~: ;-;
+[03:34:57] EnergiNub: paint
+[03:35:01] rM.awp | null! killed EnergiNub with AWP
+[03:35:03] U.S.G.N.: Serverlist entry updated
+[03:35:12] rM.awp | null! killed Neko with AWP
+[03:35:16] Sgt'~ killed Smøker with AWP
+[03:35:18] Sgt'~: ke
+[03:35:19] Smøker *Morto*: mds lag
+[03:35:21] Smøker: pqp
+[03:35:37] EnergiNub killed rM.awp | null! with P228
+[03:35:38] U.S.G.N.: Ping/State 'playing'
+[03:35:42] Sgt'~ killed Neko with AWP
+[03:35:44] EnergiNub killed Sgt'~ with P228
+[03:35:46] Smøker: gg
+[03:35:47] Sgt'~ *Morto*: kkjj
+[03:35:48] U.S.G.N.: Serverlist entry updated
+[03:35:55] Sgt'~: Me add na steam ai vocês.
+[03:35:57] Sgt'~ killed EnergiNub with AWP
+[03:36:08] rM.awp | null! killed Neko with AWP
+[03:36:10] Smøker killed rM.awp | null! with P228
+[03:36:15] Sgt'~ killed Smøker with AWP
+[03:36:25] rM.awp | null! killed Neko with AWP
+[03:36:33] U.S.G.N.: Serverlist entry updated
+[03:36:34] EnergiNub killed Sgt'~ with P228
+[03:36:38] U.S.G.N.: Ping/State 'playing'
+[03:36:40] rM.awp | null! killed EnergiNub with AWP
+[03:36:43] rM.awp | null! killed Smøker with AWP
+[03:36:56] EnergiNub killed Sgt'~ with P228
+[03:37:01] rM.awp | null! killed EnergiNub with AWP
+[03:37:19] U.S.G.N.: Serverlist entry updated
+[03:37:20] rM.awp | null! killed Neko with AWP
+[03:37:26] rM.awp | null! killed Smøker with AWP
+[03:37:30] rM.awp | null!: Respeita eu
+[03:37:31] rM.awp | null!: kkkk
+[03:37:34] Smøker: so eu to matando
+[03:37:37] Neko: tava logando na steam ;-;
+[03:37:40] Smøker killed Sgt'~ with P228
+[03:37:44] U.S.G.N.: Ping/State 'playing'
+[03:37:52] rM.awp | null! killed Smøker with AWP
+[03:37:56] rM.awp | null! killed EnergiNub with AWP
+[03:38:01] EnergiNub *Morto*: 12 de hp
+[03:38:04] U.S.G.N.: Serverlist entry updated
+[03:38:04] generating stats...
+[03:38:04] stats generated in 0 ms!
+[03:38:05] Smøker *Morto*: ele n ve oque tu fala
+[03:38:09] rM.awp | null!: a
+[03:38:10] rM.awp | null!: '-'
+[03:38:11] Smøker *Morto*: tu ta morto
+[03:38:17] rM.awp | null!: Smoker
+[03:38:18] EnergiNub *Morto*: ' -'
+[03:38:20] rM.awp | null!: adc eu ai
+[03:38:20] Smøker *Morto*: ?
+[03:38:21] rM.awp | null!: na steam
+[03:38:24] Smøker *Morto*: add ai
+[03:38:28] Smøker *Morto*: preguissa mata
+[03:38:31] rM.awp | null!: dps noix continuar o projeto
+[03:38:37] rM.awp | null!: viado c ta sem headset ?
+[03:38:42] Smøker *Morto*: tenho pow
+[03:38:44] U.S.G.N.: Ping/State 'playing'
+[03:38:45] Smøker *Morto*: ta em casa
+[03:38:49] U.S.G.N.: Serverlist entry updated
+[03:38:53] rM.awp | null!: aquele dia se falou cmg
+[03:39:05] rM.awp | null!: a para
+[03:39:07] rM.awp | null! killed Neko with AWP
+[03:39:10] rM.awp | null!: Corre n
+[03:39:13] Smøker: kkkk
+[03:39:24] rM.awp | null! killed Smøker with AWP
+[03:39:24] Sgt'~ killed Neko with AWP
+[03:39:35] U.S.G.N.: Serverlist entry updated
+[03:39:43] rM.awp | null! killed EnergiNub with AWP
+[03:39:45] U.S.G.N.: Ping/State 'playing'
+[03:40:17] EnergiNub: era um gatinho q ficava na minha cbç
+[03:40:19] Sgt'~ killed Smøker with AWP
+[03:40:20] U.S.G.N.: Serverlist entry updated
+[03:40:24] Sgt'~: é o seu sub conciente
+[03:40:24] rM.awp | null! killed EnergiNub with AWP
+[03:40:33] Sgt'~: Já viste Hana lo
+[03:40:34] EnergiNub *Morto*: neko e gato se n me engano em japones ' -'
+[03:40:41] Sgt'~ killed Neko with AWP
+[03:40:45] Neko *Morto*: 1 seg
+[03:40:45] U.S.G.N.: Ping/State 'playing'
+[03:40:47] Neko: ;-;
+[03:40:47] rM.awp | null!: sgrt
+[03:40:49] rM.awp | null!: sgt
+[03:40:49] Sgt'~: fala
+[03:40:51] rM.awp | null!: bora
+[03:40:52] rM.awp | null!: mta ?
+[03:40:54] Sgt'~: mta?
+[03:40:56] Sgt'~: ke
+[03:40:58] Sgt'~ killed EnergiNub with AWP
+[03:41:03] Sgt'~: jogo jogo de homem
+[03:41:05] U.S.G.N.: Serverlist entry updated
+[03:41:08] EnergiNub *Morto*: kkkkkkkkkkkkk
+[03:41:09] rM.awp | null!: ?
+[03:41:15] EnergiNub *Morto*: mta e legal <3
+[03:41:24] EnergiNub *Morto*: so q n jogo mt n
+[03:41:25] rM.awp | null! killed Neko with AWP
+[03:41:29] Sgt'~: ;-;
+[03:41:31] Sgt'~: add eu na steam Null
+[03:41:36] rM.awp | null!: Dps
+[03:41:37] Sgt'~: se não faço questão de comprar 1 jogo de 2 reais
+[03:41:37] Smøker killed Sgt'~ with Knife
+[03:41:46] U.S.G.N.: Ping/State 'playing'
+[03:41:47] rM.awp | null!: kkkkkkk
+[03:41:51] U.S.G.N.: Serverlist entry updated
+[03:41:53] Smøker: kkkkkkkkkkkk
+[03:41:55] rM.awp | null!: Cara eu vendi minha steam dps q perdi meu pc
+[03:42:08] ERROR: setpos - position is out of map bounds!
+[03:42:08] Player conectou-se
+[03:42:08] Player is using IP 181.208.26.77:36963 and no U.S.G.N. ID
+[03:42:09] Starting transfer to Player (files: 2) ...
+[03:42:09] Player needs 2 files. Starting to send files...
+[03:42:09] Sending 'gfx/tiles/fruitpapje1.bmp' to Player...
+[03:42:11] Sending 'maps/awp_grey Jumper.map' to Player...
+[03:42:18] Player juntou-se a Countra-Terrorista Forças
+[03:42:19] Smøker killed rM.awp | null! with Knife
+[03:42:21] Smøker: xD
+[03:42:26] EnergiNub: vou stalkear o perfil da steam do neko :)
+[03:42:32] Sgt'~: Ai xim
+[03:42:34] EnergiNub: mentira
+[03:42:36] U.S.G.N.: Serverlist entry updated
+[03:42:38] EnergiNub killed rM.awp | null! with P228
+[03:42:46] Sgt'~ killed Player with AWP
+[03:42:46] U.S.G.N.: Ping/State 'playing'
+[03:43:00] EnergiNub: ou sera q n 0_o
+[03:43:00] Smøker killed Sgt'~ with P228
+[03:43:04] generating stats...
+[03:43:04] stats generated in 1 ms!
+[03:43:06] Smøker: kkk
+[03:43:33] rM.awp | null! killed Neko with AWP
+[03:43:37] Sgt'~ killed Smøker with AWP
+[03:43:40] rM.awp | null! killed Player with AWP
+[03:43:44] rM.awp | null! killed EnergiNub with AWP
+[03:43:47] U.S.G.N.: Ping/State 'playing'
+[03:43:48] Smøker *Morto*: pqp lag
+[03:43:51] Error: player Sgt'~ (#5) tries to select weapon which he does not own (wpn id 35)
+[03:43:53] Player deixou o jogo
+[03:44:00] Smøker killed Sgt'~ with P228
+[03:44:02] JOIN FAILURE: Sgt'~ (200.7.11.253:57873) can't join (already connected)
+[03:44:03] JOIN FAILURE: Neko (201.66.101.81:57998) can't join (already connected)
+[03:44:06] rM.awp | null! killed EnergiNub with AWP
+[03:44:07] U.S.G.N.: Serverlist entry updated
+[03:44:08] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[03:44:08] Smøker killed rM.awp | null! with Knife
+[03:44:08] EnergiNub *Morto*: 10
+[03:44:09] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[03:44:09] Sgt'~ conectou-se
+[03:44:09] Sgt'~ is using IP 200.7.11.253:57873 and U.S.G.N. ID #150221
+[03:44:11] Smøker: kkkkkkkkkkkk
+[03:44:11] Sgt'~ juntou-se a Terrorista Forças
+[03:44:13] EnergiNub *Morto*: -0
+[03:44:24] rM.awp | null! killed Smøker with AWP
+[03:44:25] U.S.G.N.: Neko (201.66.101.81) joining with U.S.G.N. ID #166803 - verifying...
+[03:44:26] U.S.G.N.: 201.66.101.81 is using U.S.G.N. ID #166803
+[03:44:26] Neko conectou-se
+[03:44:26] Neko is using IP 201.66.101.81:57998 and U.S.G.N. ID #166803
+[03:44:34] Sgt'~ killed EnergiNub with AWP
+[03:44:37] Smøker *Morto*: tadin
+[03:44:40] EnergiNub: estuprooooooooooooo
+[03:44:47] EnergiNub killed rM.awp | null! with P228
+[03:44:47] U.S.G.N.: Ping/State 'playing'
+[03:44:52] U.S.G.N.: Serverlist entry updated
+[03:44:53] Sgt'~ killed Smøker with AWP
+[03:44:59] Sgt'~ killed EnergiNub with AWP
+[03:45:02] Smøker *Morto*: mds
+[03:45:02] Neko juntou-se a Countra-Terrorista Forças
+[03:45:12] EnergiNub: tenho q melhorar minha pontaria
+[03:45:23] Sgt'~ killed Smøker with AWP
+[03:45:25] Sgt'~: Da um tf po
+[03:45:27] Smøker deixou o jogo
+[03:45:31] Sgt'~: dnv n
+[03:45:34] Sgt'~: cansa n ;-;
+[03:45:34] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[03:45:36] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[03:45:36] Smøker conectou-se
+[03:45:36] Smøker is using IP 200.97.162.169:12032 and U.S.G.N. ID #161967
+[03:45:38] U.S.G.N.: Serverlist entry updated
+[03:45:38] EnergiNub killed rM.awp | null! with P228
+[03:45:45] Sgt'~ killed EnergiNub with AWP
+[03:45:48] U.S.G.N.: Ping/State 'playing'
+[03:45:52] Sgt'~: eu num vo ai
+[03:45:56] Sgt'~: vai me faze de troxa
+[03:45:59] EnergiNub *Morto*: kkk
+[03:46:03] Neko: eu tbm n vou ai :3
+[03:46:20] EnergiNub *Morto*: troll
+[03:46:22] Sgt'~ killed Neko with AWP
+[03:46:23] U.S.G.N.: Serverlist entry updated
+[03:46:25] Sgt'~: ke se falu
+[03:46:30] Sgt'~: ai shiteru
+[03:46:33] Neko: eu dei miss
+[03:46:34] rM.awp | null! killed EnergiNub with AWP
+[03:46:42] Sgt'~ killed Neko with Knife
+[03:46:48] U.S.G.N.: Ping/State 'playing'
+[03:46:50] rM.awp | null!: wnat
+[03:46:51] rM.awp | null!: amsd
+[03:46:58] EnergiNub killed Sgt'~ with P228
+[03:47:04] EnergiNub: oi meu chapa
+[03:47:04] rM.awp | null! killed Neko with AWP
+[03:47:08] U.S.G.N.: Serverlist entry updated
+[03:47:11] rM.awp | null! killed EnergiNub with AWP
+[03:47:23] "  (1x)
+[03:47:31] slayerx conectou-se
+[03:47:31] slayerx is using IP 190.177.142.178:36963 and no U.S.G.N. ID
+[03:47:32] Starting transfer to slayerx (files: 2) ...
+[03:47:32] slayerx needs 2 files. Starting to send files...
+[03:47:32] Sending 'gfx/tiles/fruitpapje1.bmp' to slayerx...
+[03:47:34] Sending 'maps/awp_grey Jumper.map' to slayerx...
+[03:47:38] rM.awp | null!: a
+[03:47:39] EnergiNub *Morto*: voltei
+[03:47:39] rM.awp | null!: '-'
+[03:47:49] U.S.G.N.: Ping/State 'playing'
+[03:47:49] slayerx juntou-se a Terrorista Forças
+[03:47:54] U.S.G.N.: Serverlist entry updated
+[03:47:56] Sgt'~ died
+[03:47:56] Sgt'~ juntou-se a Countra-Terrorista Forças
+[03:48:03] rM.awp | null!: a
+[03:48:04] generating stats...
+[03:48:04] stats generated in 1 ms!
+[03:48:05] rM.awp | null!: '='
+[03:48:07] Neko killed rM.awp | null! with Knife
+[03:48:08] EnergiNub *Morto*: voltei dnv
+[03:48:18] Sgt'~: vai tr energ
+[03:48:19] rM.awp | null! killed EnergiNub with AWP
+[03:48:27] EnergiNub *Morto*: ok
+[03:48:29] Neko killed slayerx with P228
+[03:48:30] rM.awp | null! killed Neko with AWP
+[03:48:31] EnergiNub juntou-se a Terrorista Forças
+[03:48:35] rM.awp | null!: a 
+[03:48:37] rM.awp | null!: n vo
+[03:48:39] U.S.G.N.: Serverlist entry updated
+[03:48:39] rM.awp | null!: ´pqp
+[03:48:47] slayerx *Morto*: hola
+[03:48:49] U.S.G.N.: Ping/State 'playing'
+[03:48:55] rM.awp | null! killed Sgt'~ with AWP
+[03:48:59] EnergiNub *Morto*: hola
+[03:49:12] EnergiNub killed Neko with Machete
+[03:49:13] rM.awp | null! killed Sgt'~ with AWP
+[03:49:24] U.S.G.N.: Serverlist entry updated
+[03:49:26] EnergiNub: vem n em peixeira na mao em
+[03:49:44] Neko killed slayerx with Knife
+[03:49:50] U.S.G.N.: Ping/State 'playing'
+[03:49:58] Sgt'~ killed rM.awp | null! with P228
+[03:50:00] EnergiNub killed Sgt'~ with AWP
+[03:50:03] rM.awp | null! *Morto*: k
+[03:50:09] Typical one hero dog conectou-se
+[03:50:09] Typical one hero dog is using IP 93.170.127.85:18671 and no U.S.G.N. ID
+[03:50:09] Starting transfer to Typical one hero dog (files: 2) ...
+[03:50:09] Typical one hero dog needs 2 files. Starting to send files...
+[03:50:09] Sending 'gfx/tiles/fruitpapje1.bmp' to Typical one hero dog...
+[03:50:10] U.S.G.N.: Serverlist entry updated
+[03:50:12] Sending 'maps/awp_grey Jumper.map' to Typical one hero dog...
+[03:50:14] JOIN FAILURE: Smøker (200.97.162.169:12032) can't join (already connected)
+[03:50:17] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[03:50:18] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[03:50:18] Smøker conectou-se
+[03:50:18] Smøker is using IP 200.97.162.169:12032 and U.S.G.N. ID #161967
+[03:50:20] Typical one hero dog juntou-se a Countra-Terrorista Forças
+[03:50:21] Smøker juntou-se a Countra-Terrorista Forças
+[03:50:33] rM.awp | null! *Morto*: fdp
+[03:50:34] EnergiNub killed Neko with AWP
+[03:50:37] rM.awp | null! *Morto*: vai spec dnv
+[03:50:42] Smøker: ei
+[03:50:45] rM.awp | null!: q
+[03:50:48] Sgt'~ killed EnergiNub with P228
+[03:50:49] Smøker: vamo fuja do jason
+[03:50:50] U.S.G.N.: Ping/State 'playing'
+[03:50:51] EnergiNub *Morto*: ' -'
+[03:50:52] rM.awp | null!: a
+[03:50:53] rM.awp | null!: eu n
+[03:50:55] U.S.G.N.: Serverlist entry updated
+[03:50:55] Sgt'~ killed slayerx with P228
+[03:50:55] rM.awp | null! killed Smøker with AWP
+[03:50:56] EnergiNub *Morto*: oq e isso?
+[03:50:58] rM.awp | null! killed Sgt'~ with AWP
+[03:51:00] Smøker *Morto*: e um mapa
+[03:51:02] rM.awp | null!: a
+[03:51:03] EnergiNub *Morto*: ' -'
+[03:51:04] rM.awp | null!: kk
+[03:51:10] Smøker *Morto*: o nome e fuja do jason remake
+[03:51:11] Neko killed rM.awp | null! with Knife
+[03:51:13] Smøker *Morto*: bora la
+[03:51:16] rM.awp | null!: N
+[03:51:18] rM.awp | null!: '-.-
+[03:51:22] EnergiNub: ja entrei num server de battlegroud
+[03:51:25] rM.awp | null! killed Typical one hero dog with AWP
+[03:51:26] EnergiNub: lago td aq
+[03:51:27] rM.awp | null! killed Smøker with AWP
+[03:51:32] EnergiNub: pc merda e foda
+[03:51:35] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkkk
+[03:51:35] Neko killed EnergiNub with P228
+[03:51:40] Smøker deixou o jogo
+[03:51:41] U.S.G.N.: Serverlist entry updated
+[03:51:45] Sgt'~ killed slayerx with P228
+[03:51:47] rM.awp | null!: I eu q perdi meu gamer
+[03:51:50] rM.awp | null! killed Neko with AWP
+[03:51:51] U.S.G.N.: Ping/State 'playing'
+[03:52:07] EnergiNub *Morto*: pq vc acho q comprei borderlands inves de um raibo
+[03:52:11] EnergiNub *Morto*: raibow six
+[03:52:13] Sgt'~ killed rM.awp | null! with P228
+[03:52:26] U.S.G.N.: Serverlist entry updated
+[03:52:28] Sgt'~ killed EnergiNub with P228
+[03:52:40] Sgt'~ killed rM.awp | null! with P228
+[03:52:43] slayerx killed Sgt'~ with AWP
+[03:52:51] U.S.G.N.: Ping/State 'playing'
+[03:53:04] EnergiNub *Morto*: ' -' 
+[03:53:04] generating stats...
+[03:53:04] stats generated in 1 ms!
+[03:53:11] U.S.G.N.: Serverlist entry updated
+[03:53:12] EnergiNub *Morto*: o outro tentando matar aliado
+[03:53:19] Neko killed slayerx with Knife
+[03:53:25] rM.awp | null!: Energ eu ja perdi um pc gamer :(
+[03:53:32] rM.awp | null!: Mn
+[03:53:34] Sgt'~: E eu que nunca tive um pc gamer
+[03:53:35] EnergiNub: carambo
+[03:53:36] EnergiNub killed Typical one hero dog with AWP
+[03:53:37] Sgt'~: kkkj
+[03:53:40] EnergiNub: caramba
+[03:53:41] rM.awp | null!: '.'
+[03:53:43] rM.awp | null!: normal
+[03:53:45] slayerx killed Sgt'~ with AWP
+[03:53:48] EnergiNub: lamento mano ;-;
+[03:53:50] U.S.G.N.: Smøker (200.97.162.169) joining with U.S.G.N. ID #161967 - verifying...
+[03:53:51] U.S.G.N.: 200.97.162.169 is using U.S.G.N. ID #161967
+[03:53:51] Smøker conectou-se
+[03:53:51] Smøker is using IP 200.97.162.169:12032 and U.S.G.N. ID #161967
+[03:53:52] U.S.G.N.: Ping/State 'playing'
+[03:53:57] U.S.G.N.: Serverlist entry updated
+[03:53:57] rM.awp | null!: O cara vendeu fonte fake
+[03:54:02] EnergiNub killed Neko with AWP
+[03:54:03] rM.awp | null!: v c a config era boa
+[03:54:04] Smøker juntou-se a Countra-Terrorista Forças
+[03:54:08] Typical one hero dog died
+[03:54:08] Typical one hero dog juntou-se a Terrorista Forças
+[03:54:09] rM.awp | null!: 16 gb ram
+[03:54:12] Typical one hero dog deixou o jogo
+[03:54:14] rM.awp | null!: GTX 750 ti
+[03:54:17] Sgt'~ killed EnergiNub with P228
+[03:54:17] Smøker killed slayerx with Knife
+[03:54:17] EnergiNub *Morto*: 16 ' 0'
+[03:54:20] EnergiNub *Morto*: y
+[03:54:21] Smøker killed rM.awp | null! with Knife
+[03:54:22] slayerx deixou o jogo
+[03:54:22] rM.awp | null! *Morto*: ssd 250 gb
+[03:54:28] Sgt'~: Conquista e.e
+[03:54:30] rM.awp | null!: mn
+[03:54:33] rM.awp | null!: namoral
+[03:54:34] EnergiNub killed Smøker with AWP
+[03:54:35] Sgt'~ killed EnergiNub with P228
+[03:54:40] Sgt'~ killed rM.awp | null! with P228
+[03:54:42] U.S.G.N.: Serverlist entry updated
+[03:54:42] Smøker *Morto*: kkkkkkkkkk
+[03:54:51] rM.awp | null!: um i7 
+[03:54:52] U.S.G.N.: Ping/State 'playing'
+[03:54:53] Smøker killed EnergiNub with Knife
+[03:54:55] rM.awp | null!: quinta
+[03:55:03] Smøker killed rM.awp | null! with Knife
+[03:55:04] EnergiNub *Morto*: meu pc tem uma placa de video nem sei qual e ;-; 
+[03:55:06] Smøker: double
+[03:55:10] rM.awp | null!: kkkkkkkkkkkkkkkkkkkkkkkkk
+[03:55:12] rM.awp | null!: como tu n sabe
+[03:55:12] Sgt'~: Double é na msm hora fi
+[03:55:14] rM.awp | null!: kasdkaskdaskdsak
+[03:55:15] Smøker killed EnergiNub with P228
+[03:55:17] EnergiNub *Morto*: de 1gb de video
+[03:55:23] EnergiNub *Morto*: 250 gb hd
+[03:55:24] rM.awp | null! killed Smøker with Knife
+[03:55:24] Sgt'~ killed rM.awp | null! with P228
+[03:55:27] U.S.G.N.: Serverlist entry updated
+[03:55:35] rM.awp | null! killed Sgt'~ with AWP
+[03:55:36] Smøker killed EnergiNub with Knife
+[03:55:43] EnergiNub *Morto*: processador lixao 1,5 ghz 
+[03:55:52] Neko killed rM.awp | null! with Knife
+[03:55:53] U.S.G.N.: Ping/State 'playing'
+[03:55:55] Smøker: kkkkkkkkkkkk
+[03:55:57] EnergiNub: 2 gb ram
+[03:55:58] rM.awp | null!: Energ
+[03:56:02] Smøker killed rM.awp | null! with Knife
+[03:56:05] Smøker killed EnergiNub with Knife
+[03:56:10] rM.awp | null!: manda convite de amizade ai k
+[03:56:10] EnergiNub: so chorando msm
+[03:56:13] U.S.G.N.: Serverlist entry updated
+[03:56:20] EnergiNub killed Smøker with AWP
+[03:56:25] EnergiNub: n posso ksksk
+[03:56:28] Smøker deixou o jogo
+[03:56:28] rM.awp | null!: Pq n
+[03:56:29] rM.awp | null!: ?
+[03:56:31] rM.awp | null!: kkkkkk
+[03:56:36] EnergiNub: so dps q eu pagar o borderlands sksksk
+[03:56:37] Neko: meu tem 4 gb de ram ;-;
+[03:56:37] EnergiNub killed Sgt'~ with AWP
+[03:56:41] rM.awp | null!: FURUDE RIKA
+[03:56:46] rM.awp | null!: KKKKK
+[03:56:47] rM.awp | null!: ta
+[03:56:53] U.S.G.N.: Ping/State 'playing'
+[03:56:55] EnergiNub: malz ;-;
+[03:56:56] rM.awp | null!: Meu era 16gb 
+[03:56:58] Sgt'~ deixou o jogo
+[03:56:58] U.S.G.N.: Serverlist entry updated
+[03:56:59] rM.awp | null!: ram
+[03:57:01] rM.awp | null!: corsair
+[03:57:03] rM.awp | null!: kkk
+[03:57:09] Neko: ;-;
+[03:57:10] rM.awp | null!: GTX 750 ti
+[03:57:12] EnergiNub: quero adc ;-; meu senho na steam
+[03:57:14] rM.awp | null!: i7
+[03:57:19] rM.awp | null!: quinta geração
+[03:57:27] rM.awp | null!: ssd 250 gb
+[03:57:32] EnergiNub: mano nem sei direito meu pc kksksks
+[03:57:33] rM.awp | null!: Water cooler lite
+[03:57:41] Neko: meu eh placa em processador
+[03:57:43] U.S.G.N.: Serverlist entry updated
+[03:57:46] EnergiNub: e olha q ja abri ele varias vzes
+[03:57:51] Neko: tudo ferrado ;-;
+[03:57:53] rM.awp | null!: NEKO
+[03:57:54] U.S.G.N.: Ping/State 'playing'
+[03:58:02] rM.awp | null!: SUCK MY BALLS
+[03:58:04] Neko killed EnergiNub with Knife
+[03:58:04] rM.awp | null!: KKKKKK
+[03:58:04] generating stats...
+[03:58:04] stats generated in 1 ms!
+[03:58:09] EnergiNub *Morto*: mano q pc hj em dia tem 1,5 ghz manoo
+[03:58:12] EnergiNub *Morto*: mds
+[03:58:13] rM.awp | null! killed Neko with AWP
+[03:58:25] "  (1x)
+[03:58:28] Neko *Morto*: ai
+[03:58:29] U.S.G.N.: Serverlist entry updated
+[03:58:31] Neko: ;-;
+[03:58:34] EnergiNub: neko adc nos
+[03:58:36] rM.awp | null!: Neko tem qnts anos ?
+[03:58:40] Neko: 14
+[03:58:41] EnergiNub: ele e rico na steam
+[03:58:42] rM.awp | null!: asdjsajd
+[03:58:47] rM.awp | null!: idade do sgt
+[03:58:49] Neko: nem sou
+[03:58:54] U.S.G.N.: Ping/State 'playing'
+[03:58:56] EnergiNub: tenho 16 ksksk
+[03:58:58] rM.awp | null!: tbm
+[03:59:00] rM.awp | null!: kdkfka
+[03:59:04] rM.awp | null!: Fez qnd :?
+[03:59:04] Neko: steam minha eh tudo giveaway
+[03:59:12] Neko: 1/06
+[03:59:14] rM.awp | null!: fiz em outrubro agr 
+[03:59:14] EnergiNub: 19 de janeiro
+[03:59:14] U.S.G.N.: Serverlist entry updated
+[03:59:20] rM.awp | null!: eu fiz dia 2 de out
+[03:59:26] rM.awp | null!: 16
+[03:59:27] Neko: parabens :v
+[03:59:30] rM.awp | null!: Vlw
+[03:59:32] rM.awp | null!: :V
+[03:59:43] EnergiNub: kkkk minha steam e cheio de jogo de kens
+[03:59:45] EnergiNub: jjj
+[03:59:48] EnergiNub: kkk*
+[03:59:48] rM.awp | null!: eneg
+[03:59:50] rM.awp | null!: qual seu nome
+[03:59:53] EnergiNub: oi
+[03:59:54] U.S.G.N.: Ping/State 'playing'
+[03:59:59] rM.awp | null!: QUAL SEU NOME ?
+[04:00:00] U.S.G.N.: Serverlist entry updated
+[04:00:03] EnergiNub: Lorran
+[04:00:06] rM.awp | null!: Oh
+[04:00:08] rM.awp | null!: foda
+[04:00:12] rM.awp | null!: Neko
+[04:00:15] Neko: ?
+[04:00:19] rM.awp | null!: Qual seu nome
+[04:00:24] rM.awp | null!: ?
+[04:00:39] rM.awp | null!: em?
+[04:00:44] rM.awp | null!: pistonildo?
+[04:00:45] U.S.G.N.: Serverlist entry updated
+[04:00:48] Neko: Kauan
+[04:00:49] Neko: :v
+[04:00:54] EnergiNub: sthelf aq na veia
+[04:00:55] rM.awp | null!: meu e Victor
+[04:00:55] U.S.G.N.: Ping/State 'playing'
+[04:01:10] rM.awp | null! killed Neko with AWP
+[04:01:30] U.S.G.N.: Serverlist entry updated
+[04:01:55] U.S.G.N.: Ping/State 'playing'
+[04:02:01] EnergiNub: ja ia falar uns bglh aq ingles so q n quero passar
+[04:02:06] EnergiNub: vergonha ksksk
+[04:02:15] EnergiNub killed Neko with AWP
+[04:02:16] U.S.G.N.: Serverlist entry updated
+[04:02:21] rM.awp | null!: Seis joga mta ?
+[04:02:25] U.S.G.N.: L.R Spag (170.51.116.254) joining with U.S.G.N. ID #150264 - verifying...
+[04:02:26] U.S.G.N.: 170.51.116.254 is using U.S.G.N. ID #150264
+[04:02:26] L.R Spag conectou-se
+[04:02:26] L.R Spag is using IP 170.51.116.254:27934 and U.S.G.N. ID #150264
+[04:02:26] Starting transfer to L.R Spag (files: 2) ...
+[04:02:26] EnergiNub: jogava
+[04:02:26] L.R Spag needs 1 file. Starting to send file...
+[04:02:26] Sending 'maps/awp_grey Jumper.map' to L.R Spag...
+[04:02:28] Neko: Nop
+[04:02:29] L.R Spag juntou-se a Countra-Terrorista Forças
+[04:02:38] EnergiNub: meu amigo tinha um server
+[04:02:41] L.R Spag: asd
+[04:02:50] L.R Spag killed EnergiNub with Knife
+[04:02:55] rM.awp | null! killed Neko with AWP
+[04:03:01] U.S.G.N.: Ping/State 'playing'
+[04:03:01] U.S.G.N.: Serverlist entry updated
+[04:03:04] generating stats...
+[04:03:04] stats generated in 1 ms!
+[04:03:19] rM.awp | null!: lagado
+[04:03:22] rM.awp | null! killed L.R Spag with AWP
+[04:03:46] U.S.G.N.: Serverlist entry updated
+[04:03:47] EnergiNub killed Neko with AWP
+[04:03:50] EnergiNub: ha
+[04:03:51] L.R Spag: asd
+[04:04:01] U.S.G.N.: Ping/State 'playing'
+[04:04:10] L.R Spag killed EnergiNub with P228
+[04:04:19] L.R Spag killed rM.awp | null! with P228
+[04:04:27] EnergiNub: neko adc nos <3 kkskks pq eu n posso ;-;
+[04:04:32] U.S.G.N.: Serverlist entry updated
+[04:04:36] Neko: peri
+[04:04:37] L.R Spag killed rM.awp | null! with P228
+[04:05:02] U.S.G.N.: Ping/State 'playing'
+[04:05:05] EnergiNub killed L.R Spag with AWP
+[04:05:06] L.R Spag *Morto*: x
+[04:05:17] U.S.G.N.: Serverlist entry updated
+[04:05:18] rM.awp | null! deixou o jogo
+[04:05:23] EnergiNub killed Neko with AWP
+[04:05:42] L.R Spag: wtf
+[04:05:52] L.R Spag killed EnergiNub with P228
+[04:05:54] L.R Spag: d
+[04:05:57] EnergiNub *Morto*: ' -'
+[04:06:02] U.S.G.N.: Serverlist entry updated
+[04:06:02] U.S.G.N.: Ping/State 'playing'
+[04:06:10] EnergiNub killed Neko with AWP
+[04:06:20] EnergiNub killed L.R Spag with Machete
+[04:06:22] L.R Spag *Morto*: ddd
+[04:06:28] EnergiNub: peixeira
+[04:06:47] L.R Spag killed EnergiNub with P228
+[04:06:48] U.S.G.N.: Serverlist entry updated
+[04:07:03] U.S.G.N.: Ping/State 'playing'
+[04:07:04] EnergiNub killed Neko with AWP
+[04:07:06] EnergiNub killed L.R Spag with AWP
+[04:07:16] EnergiNub killed Neko with AWP
+[04:07:22] EnergiNub killed L.R Spag with AWP
+[04:07:33] U.S.G.N.: Serverlist entry updated
+[04:07:35] EnergiNub: aprendendo jogar de awp aq ksksk
+[04:07:47] Neko killed EnergiNub with Knife
+[04:07:49] L.R Spag: xdd
+[04:08:01] Neko killed EnergiNub with P228
+[04:08:04] generating stats...
+[04:08:04] stats generated in 1 ms!
+[04:08:08] U.S.G.N.: Ping/State 'playing'
+[04:08:10] U.S.G.N.: .jgp (200.122.65.58) joining with U.S.G.N. ID #161697 - verifying...
+[04:08:10] U.S.G.N.: 200.122.65.58 is using U.S.G.N. ID #161697
+[04:08:10] .jgp conectou-se
+[04:08:10] .jgp is using IP 200.122.65.58:61755 and U.S.G.N. ID #161697
+[04:08:11] Starting transfer to .jgp (files: 2) ...
+[04:08:11] .jgp needs 1 file. Starting to send file...
+[04:08:11] Sending 'maps/awp_grey Jumper.map' to .jgp...
+[04:08:13] .jgp juntou-se a Terrorista Forças
+[04:08:17] EnergiNub killed L.R Spag with AWP
+[04:08:18] L.R Spag deixou o jogo
+[04:08:18] U.S.G.N.: Serverlist entry updated
+[04:08:34] EnergiNub died
+[04:08:34] EnergiNub juntou-se a Countra-Terrorista Forças
+[04:08:57] .jgp: :V?
+[04:09:04] U.S.G.N.: Serverlist entry updated
+[04:09:07] EnergiNub *Morto*: cara ai baixei um jogo escrotao ' -'
+[04:09:09] U.S.G.N.: Ping/State 'playing'
+[04:09:17] EnergiNub *Morto*: nome do jogo xxz
+[04:09:22] EnergiNub *Morto*: ' -' 
+[04:09:49] U.S.G.N.: Serverlist entry updated
+[04:10:00] .jgp: ...
+[04:10:04] Neko: sufhiweusfjakw
+[04:10:05] .jgp: st3 nigga
+[04:10:09] U.S.G.N.: Ping/State 'playing'
+[04:10:12] EnergiNub *Morto*: kkkkkkkkk
+[04:10:16] Neko killed .jgp with Knife
+[04:10:29] .jgp killed Neko with AWP
+[04:10:29] .jgp killed EnergiNub with AWP
+[04:10:33] EnergiNub *Morto*: ksksk
+[04:10:35] U.S.G.N.: Serverlist entry updated
+[04:10:43] EnergiNub killed .jgp with P228
+[04:11:00] .jgp killed EnergiNub with AWP
+[04:11:07] EnergiNub *Morto*: mds um bug na fase
+[04:11:10] U.S.G.N.: Ping/State 'playing'
+[04:11:13] .jgp killed Neko with AWP
+[04:11:16] Neko *Morto*: 12
+[04:11:20] U.S.G.N.: Serverlist entry updated
+[04:11:23] EnergiNub: ksksksks teleporta quando acabar o round
+[04:11:34] EnergiNub killed .jgp with P228
+[04:11:37] .jgp *Morto*: stos brasucas :V
+[04:11:48] .jgp killed EnergiNub with AWP
+[04:12:05] U.S.G.N.: Serverlist entry updated
+[04:12:10] U.S.G.N.: Ping/State 'playing'
+[04:12:35] .jgp killed Neko with AWP
+[04:12:38] Neko *Morto*: 12
+[04:12:41] Neko: dnv
+[04:12:45] EnergiNub: ksksk
+[04:12:51] U.S.G.N.: Serverlist entry updated
+[04:12:53] Neko killed .jgp with P228
+[04:13:04] generating stats...
+[04:13:04] stats generated in 1 ms!
+[04:13:11] U.S.G.N.: Ping/State 'playing'
+[04:13:13] .jgp killed EnergiNub with Machete
+[04:13:14] Neko killed .jgp with Knife
+[04:13:19] EnergiNub *Morto*: 12 kksk
+[04:13:30] EnergiNub killed .jgp with P228
+[04:13:36] U.S.G.N.: Serverlist entry updated
+[04:13:47] .jgp killed Neko with AWP
+[04:13:51] Neko *Morto*: fail
+[04:13:55] .jgp killed EnergiNub with AWP
+[04:13:57] Denikosta conectou-se
+[04:13:57] Denikosta is using IP 2.93.116.167:36963 and no U.S.G.N. ID
+[04:13:57] Starting transfer to Denikosta (files: 2) ...
+[04:13:58] Denikosta needs 2 files. Starting to send files...
+[04:13:58] Sending 'gfx/tiles/fruitpapje1.bmp' to Denikosta...
+[04:14:00] Sending 'maps/awp_grey Jumper.map' to Denikosta...
+[04:14:11] U.S.G.N.: Ping/State 'playing'
+[04:14:11] .jgp killed Neko with AWP
+[04:14:21] U.S.G.N.: Serverlist entry updated
+[04:14:53] .jgp killed EnergiNub with AWP
+[04:14:57] EnergiNub *Morto*: ksksksksksk
+[04:15:07] U.S.G.N.: Serverlist entry updated
+[04:15:12] EnergiNub killed .jgp with P228
+[04:15:12] U.S.G.N.: Ping/State 'playing'
+[04:15:18] EnergiNub: papa n em
+[04:15:29] Neko has been kicked. Ping too high (2314).
+[04:15:29] Neko deixou o jogo (auta latência)
+[04:15:31] .jgp killed EnergiNub with Machete
+[04:15:48] "  (1x)
+[04:15:52] U.S.G.N.: Serverlist entry updated
+[04:15:54] EnergiNub: aceitei
+[04:16:02] .jgp killed EnergiNub with Machete
+[04:16:12] U.S.G.N.: Ping/State 'playing'
+[04:16:32] .jgp killed EnergiNub with AWP
+[04:16:37] U.S.G.N.: Serverlist entry updated
+[04:16:40] EnergiNub deixou o jogo
+[04:16:43] .jgp deixou o jogo
+[04:17:13] U.S.G.N.: Ping/State 'playing'
+[04:17:23] U.S.G.N.: Serverlist entry updated
+[04:18:04] generating stats...
+[04:18:04] stats generated in 1 ms!
+[04:18:08] U.S.G.N.: Serverlist entry updated
+[04:18:13] U.S.G.N.: Ping/State 'playing'
+[04:18:54] U.S.G.N.: Serverlist entry updated
+[04:19:14] U.S.G.N.: Ping/State 'playing'
+[04:19:39] U.S.G.N.: Serverlist entry updated
+[04:20:14] U.S.G.N.: Ping/State 'playing'
+[04:20:24] U.S.G.N.: Serverlist entry updated
+[04:21:10] "  (1x)
+[04:21:15] U.S.G.N.: Ping/State 'playing'
+[04:21:55] U.S.G.N.: Serverlist entry updated
+[04:22:15] U.S.G.N.: Ping/State 'playing'
+[04:22:40] U.S.G.N.: Serverlist entry updated
+[04:23:04] generating stats...
+[04:23:04] stats generated in 1 ms!
+[04:23:16] U.S.G.N.: Ping/State 'playing'
+[04:23:26] U.S.G.N.: Serverlist entry updated
+[04:24:11] "  (1x)
+[04:24:16] U.S.G.N.: Ping/State 'playing'
+[04:24:36] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[04:24:36] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[04:24:36] Sgt'~ conectou-se
+[04:24:36] Sgt'~ is using IP 200.7.11.253:51015 and U.S.G.N. ID #150221
+[04:24:48] U.S.G.N.: Sgt'~ (200.7.11.253) joining with U.S.G.N. ID #150221 - verifying...
+[04:24:49] U.S.G.N.: 200.7.11.253 is using U.S.G.N. ID #150221
+[04:24:49] Sgt'~ conectou-se
+[04:24:49] Sgt'~ is using IP 200.7.11.253:51015 and U.S.G.N. ID #150221
+[04:24:56] U.S.G.N.: Serverlist entry updated
+[04:25:17] U.S.G.N.: Ping/State 'playing'
+[04:25:42] U.S.G.N.: Serverlist entry updated
+[04:26:17] U.S.G.N.: Ping/State 'playing'
+[04:26:27] U.S.G.N.: Serverlist entry updated
+[04:27:13] "  (1x)
+[04:27:18] U.S.G.N.: Ping/State 'playing'
+[04:27:58] U.S.G.N.: Serverlist entry updated
+[04:28:04] generating stats...
+[04:28:04] stats generated in 1 ms!
+[04:28:18] U.S.G.N.: Ping/State 'playing'
+[04:28:43] U.S.G.N.: Serverlist entry updated
+[04:29:19] U.S.G.N.: Ping/State 'playing'
+[04:29:29] U.S.G.N.: Serverlist entry updated
+[04:30:14] "  (1x)
+[04:30:19] U.S.G.N.: Ping/State 'playing'
+[04:30:59] U.S.G.N.: Serverlist entry updated
+[04:31:19] U.S.G.N.: Ping/State 'playing'
+[04:31:45] U.S.G.N.: Serverlist entry updated
+[04:32:20] U.S.G.N.: Ping/State 'playing'
+[04:32:30] U.S.G.N.: Serverlist entry updated
+[04:33:04] generating stats...
+[04:33:04] stats generated in 1 ms!
+[04:33:15] U.S.G.N.: Serverlist entry updated
+[04:33:20] U.S.G.N.: Ping/State 'playing'
+[04:34:01] U.S.G.N.: Serverlist entry updated
+[04:34:21] U.S.G.N.: Ping/State 'playing'
+[04:34:46] U.S.G.N.: Serverlist entry updated
+[04:35:21] U.S.G.N.: Ping/State 'playing'
+[04:35:31] U.S.G.N.: Serverlist entry updated
+[04:36:17] "  (1x)
+[04:36:22] U.S.G.N.: Ping/State 'playing'
+[04:37:02] U.S.G.N.: Serverlist entry updated
+[04:37:22] U.S.G.N.: Ping/State 'playing'
+[04:37:48] U.S.G.N.: Serverlist entry updated
+[04:38:04] generating stats...
+[04:38:04] stats generated in 1 ms!
+[04:38:23] U.S.G.N.: Ping/State 'playing'
+[04:38:33] U.S.G.N.: Serverlist entry updated
+[04:39:18] "  (1x)
+[04:39:23] U.S.G.N.: Ping/State 'playing'
+[04:40:04] U.S.G.N.: Serverlist entry updated
+[04:40:24] U.S.G.N.: Ping/State 'playing'
+[04:40:49] U.S.G.N.: Serverlist entry updated
+[04:41:24] U.S.G.N.: Ping/State 'playing'
+[04:41:34] U.S.G.N.: Serverlist entry updated
+[04:42:20] "  (1x)
+[04:42:25] U.S.G.N.: Ping/State 'playing'
+[04:43:04] generating stats...
+[04:43:04] stats generated in 1 ms!
+[04:43:05] U.S.G.N.: Serverlist entry updated
+[04:43:25] U.S.G.N.: Ping/State 'playing'
+[04:43:50] U.S.G.N.: Serverlist entry updated
+[04:44:26] U.S.G.N.: Ping/State 'playing'
+[04:44:36] U.S.G.N.: Serverlist entry updated
+[04:45:21] "  (1x)
+[04:45:26] U.S.G.N.: Ping/State 'playing'
+[04:46:07] U.S.G.N.: Serverlist entry updated
+[04:46:27] U.S.G.N.: Ping/State 'playing'
+[04:46:52] U.S.G.N.: Serverlist entry updated
+[04:47:27] U.S.G.N.: Ping/State 'playing'
+[04:47:37] U.S.G.N.: Serverlist entry updated
+[04:48:04] generating stats...
+[04:48:04] stats generated in 1 ms!
+[04:48:23] U.S.G.N.: Serverlist entry updated
+[04:48:28] U.S.G.N.: Ping/State 'playing'
+[04:49:08] U.S.G.N.: Serverlist entry updated
+[04:49:28] U.S.G.N.: Ping/State 'playing'
+[04:49:53] U.S.G.N.: Serverlist entry updated
+[04:50:29] U.S.G.N.: Ping/State 'playing'
+[04:50:39] U.S.G.N.: Serverlist entry updated
+[04:51:24] "  (1x)
+[04:51:29] U.S.G.N.: Ping/State 'playing'
+[04:52:09] U.S.G.N.: Serverlist entry updated
+[04:52:30] U.S.G.N.: Ping/State 'playing'
+[04:52:55] U.S.G.N.: Serverlist entry updated
+[04:53:04] generating stats...
+[04:53:04] stats generated in 1 ms!
+[04:53:30] U.S.G.N.: Ping/State 'playing'
+[04:53:40] U.S.G.N.: Serverlist entry updated
+[04:54:26] "  (1x)
+[04:54:31] U.S.G.N.: Ping/State 'playing'
+[04:55:11] U.S.G.N.: Serverlist entry updated
+[04:55:31] U.S.G.N.: Ping/State 'playing'
+[04:55:56] U.S.G.N.: Serverlist entry updated
+[04:56:32] U.S.G.N.: Ping/State 'playing'
+[04:56:42] U.S.G.N.: Serverlist entry updated
+[04:57:27] "  (1x)
+[04:57:32] U.S.G.N.: Ping/State 'playing'
+[04:58:04] generating stats...
+[04:58:04] stats generated in 1 ms!
+[04:58:12] U.S.G.N.: Serverlist entry updated
+[04:58:32] U.S.G.N.: Ping/State 'playing'
+[04:58:58] U.S.G.N.: Serverlist entry updated
+[04:59:33] U.S.G.N.: Ping/State 'playing'
+[04:59:43] U.S.G.N.: Serverlist entry updated
+[05:00:28] "  (1x)
+[05:00:33] U.S.G.N.: Ping/State 'playing'
+[05:01:14] U.S.G.N.: Serverlist entry updated
+[05:01:34] U.S.G.N.: Ping/State 'playing'
+[05:01:59] U.S.G.N.: Serverlist entry updated
+[05:02:34] U.S.G.N.: Ping/State 'playing'
+[05:02:44] U.S.G.N.: Serverlist entry updated
+[05:03:01] Servidor Desligado

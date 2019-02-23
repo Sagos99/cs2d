@@ -1,0 +1,7 @@
+CS2D 1.0.0.5 Logfile - 15 Nov 2017, 19:30:26
+
+[19:30:26] UDP socket initialized using port 59765
+[19:30:26] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[19:30:26] U.S.G.N.: Ping/State 'playing'
+[19:30:29] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[19:30:34] U.S.G.N.: Received serverlist (servers: 121)

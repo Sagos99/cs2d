@@ -1,0 +1,176 @@
+CS2D 1.0.0.5 Logfile - 16 Nov 2017, 18:37:29
+
+[18:37:29] UDP socket initialized using port 36963
+[18:37:29] U.S.G.N.: Your game version is up to date!
+[18:37:30] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[18:37:30] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[18:37:37] U.S.G.N.: Received serverlist (servers: 37)
+[18:37:37] U.S.G.N.: Received serverlist (servers: 150)
+[18:38:29] U.S.G.N.: Received serverlist (servers: 40)
+[18:38:29] U.S.G.N.: Received serverlist (servers: 150)
+[18:38:30] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:39:27] U.S.G.N.: Received serverlist (servers: 45)
+[18:39:27] U.S.G.N.: Received serverlist (servers: 150)
+[18:39:31] U.S.G.N.: Ping/State 'idle' (352 ms)
+[18:40:31] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:40:40] U.S.G.N.: Received serverlist (servers: 49)
+[18:40:40] U.S.G.N.: Received serverlist (servers: 150)
+[18:40:47] Connecting to 177.97.233.134:36963 (using U.S.G.N. ID #15431) ...
+[18:40:47] U.S.G.N.: Ping/State 'idle' (354 ms)
+[18:40:47] "  (1x)
+[18:40:49] Connecting to 177.97.233.134:36963 (using U.S.G.N. ID #15431) ...
+[18:40:49] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:40:49] "  (1x)
+[18:40:50] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[18:40:50] Checking 'gfx/battle royale/helmet.png': Does not exist. Request transfer!
+[18:40:50] Requesting 1 file from server...
+[18:40:50] Downloading 'gfx/battle royale/helmet.png' from server...
+[18:40:50] load map 'awp_gray'
+[18:40:50] ----- Server joined -----
+[18:40:50] Conta Conectada com Sucesso!
+[18:40:50] Bem vindo Sagos.
+[18:40:50] U.S.G.N.: Ping/State 'playing' (272 ms)
+[18:40:53] Paulo Henrique juntou-se a Terrorista Forças
+[18:40:53] Paulo Henrique Conectado no Lobby. 1/10
+[18:40:53] Paulo Henrique died
+[18:40:53] Paulo Henrique juntou-se aos espectadores
+[18:40:53] Paulo Henrique juntou-se a Terrorista Forças
+[18:41:03] Sagos juntou-se a Countra-Terrorista Forças
+[18:41:07] Sagos Conectado no Lobby. 2/10
+[18:41:07] Sagos died
+[18:41:07] Sagos juntou-se aos espectadores
+[18:41:07] Sagos juntou-se a Terrorista Forças
+[18:41:10] Partida Finalizada Iniciando uma nova...
+[18:41:10] Paulo Henrique died
+[18:41:10] Paulo Henrique juntou-se aos espectadores
+[18:41:10] Sagos died
+[18:41:10] Sagos juntou-se aos espectadores
+[18:41:14] Paulo Henrique juntou-se a Terrorista Forças
+[18:41:14] Paulo Henrique Conectado no Lobby. 1/10
+[18:41:14] Paulo Henrique died
+[18:41:14] Paulo Henrique juntou-se aos espectadores
+[18:41:14] Paulo Henrique juntou-se a Terrorista Forças
+[18:41:21] Paulo Henrique: vem
+[18:41:26] Sagos juntou-se a Terrorista Forças
+[18:41:27] Sagos Conectado no Lobby. 2/10
+[18:41:27] Sagos died
+[18:41:27] Sagos juntou-se aos espectadores
+[18:41:27] Sagos juntou-se a Terrorista Forças
+[18:41:30] Partida Finalizada Iniciando uma nova...
+[18:41:30] Paulo Henrique died
+[18:41:30] Paulo Henrique juntou-se aos espectadores
+[18:41:30] Sagos died
+[18:41:30] Sagos juntou-se aos espectadores
+[18:41:36] Sagos: '-'
+[18:41:37] Sagos juntou-se a Terrorista Forças
+[18:41:38] Paulo Henrique: eu deixei mt pouco segundo
+[18:41:38] Sagos Conectado no Lobby. 1/10
+[18:41:38] Sagos died
+[18:41:38] Sagos juntou-se aos espectadores
+[18:41:38] Sagos juntou-se a Terrorista Forças
+[18:41:39] Paulo Henrique: vai rapido
+[18:41:41] Paulo Henrique juntou-se a Terrorista Forças
+[18:41:41] Paulo Henrique Conectado no Lobby. 2/10
+[18:41:41] Paulo Henrique died
+[18:41:41] Paulo Henrique juntou-se aos espectadores
+[18:41:41] Paulo Henrique juntou-se a Terrorista Forças
+[18:41:44] Você coletou um AWP | Uma sniper de alta precisão
+[18:41:50] Partida Finalizada Iniciando uma nova...
+[18:41:50] Paulo Henrique died
+[18:41:50] Paulo Henrique juntou-se aos espectadores
+[18:41:50] Sagos died
+[18:41:50] Sagos juntou-se aos espectadores
+[18:41:51] U.S.G.N.: Ping/State 'playing'
+[18:41:53] Paulo Henrique: vou deixar 10k
+[18:41:54] Paulo Henrique: pera
+[18:42:13] U.S.G.N.: Ping/State 'idle' (368 ms)
+[18:42:13] "  (1x)
+[18:42:16] Connecting to 177.97.233.134:36963 (using U.S.G.N. ID #15431) ...
+[18:42:16] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:42:16] "  (1x)
+[18:42:17] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[18:42:17] Checking 'gfx/battle royale/helmet.png': Already exists.
+[18:42:17] Requesting 0 files from server...
+[18:42:17] load map 'awp_gray'
+[18:42:17] ----- Server joined -----
+[18:42:17] Conta Conectada com Sucesso!
+[18:42:17] Bem vindo Sagos.
+[18:42:17] U.S.G.N.: Ping/State 'playing'
+[18:42:19] Sagos juntou-se a Terrorista Forças
+[18:42:19] Sagos Conectado no Lobby. 2/10
+[18:42:19] Sagos died
+[18:42:19] Sagos juntou-se aos espectadores
+[18:42:19] Sagos juntou-se a Terrorista Forças
+[18:42:21] Paulo Henrique: ai
+[18:42:22] Paulo Henrique: olha
+[18:42:27] Paulo Henrique: eu deixei o lobby para o maximo de 2
+[18:42:30] Paulo Henrique: entao a partida ja iniciou
+[18:42:33] Paulo Henrique: ai se alguem tentar entra
+[18:42:34] [b]ZOMG conectou-se
+[18:42:34] [b]ZOMG juntou-se a Terrorista Forças
+[18:42:36] [b]ZOMG died
+[18:42:36] [b]ZOMG juntou-se aos espectadores
+[18:42:37] Paulo Henrique: vai pra spec
+[18:42:38] Paulo Henrique: viu
+[18:42:40] Paulo Henrique: ate acabar
+[18:42:47] Sagos: tendi
+[18:42:53] Sagos: mas n tem tempo '-'
+[18:43:02] Sagos: é até sobrar só 1
+[18:43:04] Você coletou um AWP | Uma sniper de alta precisão
+[18:43:11] Espere 3 segundos para usar AWP | Uma sniper de alta precisão, não se mecha.
+[18:43:11] Paulo Henrique: é
+[18:43:14] AWP | Uma sniper de alta precisão equipado com sucesso...
+[18:43:15] Paulo Henrique: mais e bom edixar tempo 
+[18:43:18] U.S.G.N.: Ping/State 'playing'
+[18:43:18] Paulo Henrique: um grande
+[18:43:22] Paulo Henrique: tempo de 20k sla
+[18:43:23] Paulo Henrique: pq 
+[18:43:26] Paulo Henrique: se o caara ficar afk
+[18:43:28] Paulo Henrique: etc
+[18:43:31] Sagos: se ficar afk morre pro gas
+[18:43:37] Paulo Henrique: '-'
+[18:43:45] Sagos: n precisa de tempo kk
+[18:43:55] Paulo Henrique killed Sagos with AWP
+[18:43:55] k¦Paulo Henrique¦100¦0
+[18:43:56] Sagos died
+[18:43:56] Sagos juntou-se aos espectadores
+[18:44:03] Paulo Henrique: kkkk
+[18:44:18] U.S.G.N.: Ping/State 'playing'
+[18:44:21] Sagos: ué pq a arma sumiu quando vc dropo?
+[18:44:29] Paulo Henrique: como assim
+[18:44:36] Sagos: vc dropo a arma e ela sumiu
+[18:44:41] Paulo Henrique: eu n dropei
+[18:44:46] Paulo Henrique: agr s
+[18:44:50] Sagos: ata
+[18:45:03] Sagos: e pq tem q espera 3 seg pra equipa a awp
+[18:45:05] Sagos: ?
+[18:45:09] Paulo Henrique: pq e so pra testa
+[18:45:19] U.S.G.N.: Ping/State 'playing'
+[18:45:25] Partida Finalizada Iniciando uma nova...
+[18:45:25] Paulo Henrique died
+[18:45:25] Paulo Henrique juntou-se aos espectadores
+[18:45:31] Paulo Henrique juntou-se a Terrorista Forças
+[18:45:31] Paulo Henrique Conectado no Lobby. 1/10
+[18:45:31] Paulo Henrique died
+[18:45:31] Paulo Henrique juntou-se aos espectadores
+[18:45:31] Paulo Henrique juntou-se a Terrorista Forças
+[18:45:38] Paulo Henrique: vem
+[18:45:43] Sagos: é pra partida acabar quando falta só 1
+[18:45:45] Sagos juntou-se a Terrorista Forças
+[18:45:47] Sagos Conectado no Lobby. 2/10
+[18:45:47] Sagos died
+[18:45:47] Sagos juntou-se aos espectadores
+[18:45:47] Sagos juntou-se a Terrorista Forças
+[18:46:19] U.S.G.N.: Ping/State 'playing'
+[18:46:54] ----- Disconnected -----
+[18:46:59] U.S.G.N.: Received serverlist (servers: 33)
+[18:46:59] U.S.G.N.: Received serverlist (servers: 150)
+[18:47:16] U.S.G.N.: Ping/State 'idle' (720 ms)
+[18:48:16] U.S.G.N.: Ping/State 'idle' (592 ms)
+[18:49:17] U.S.G.N.: Ping/State 'idle' (384 ms)
+[18:50:37] U.S.G.N.: Ping/State 'idle' (416 ms)
+[18:51:38] U.S.G.N.: Ping/State 'idle' (704 ms)
+[18:52:38] "  (1x)
+[18:53:39] U.S.G.N.: Ping/State 'idle' (720 ms)
+[18:54:40] U.S.G.N.: Ping/State 'idle' (784 ms)
+[18:55:40] U.S.G.N.: Ping/State 'idle' (720 ms)

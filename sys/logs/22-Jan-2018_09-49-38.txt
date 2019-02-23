@@ -1,0 +1,35 @@
+CS2D 1.0.0.6 Logfile - 22 Jan 2018, 09:49:39
+
+[09:49:38] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[09:49:39] UDP socket initialized using port 36963
+[09:49:39] U.S.G.N.: Your game version is up to date!
+[09:49:42] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[09:49:50] Cached servers added to list: 164
+[09:49:51] U.S.G.N.: Received serverlist (servers: 119)
+[09:50:11] Connecting to 54.232.207.81:46777...
+[09:50:11] load map 'de_dust2'
+[09:50:12] ----- Server joined -----
+[09:50:12] Welcome to [Q] ServerLove | Standart #3 <Sagos>!
+[09:50:14] Sagos juntou-se a Countra-Terrorista Forças
+[09:50:16] Thinking Atheist killed Player with Knife
+[09:51:19] "  (1x)
+[09:51:23] Thinking Atheist: ..
+[09:51:23] Sagos died
+[09:51:23] Sagos juntou-se a Terrorista Forças
+[09:51:57] Thinking Atheist killed Player with AWP
+[09:52:22] Sagos killed Thinking Atheist with M3
+[09:52:23] Sagos died
+[09:52:27] Thinking Atheist *Morto*: kk
+[09:52:45] Thinking Atheist killed Player with M4A1
+[09:52:53] rM | null! conectou-se
+[09:53:05] rM | null! juntou-se a Countra-Terrorista Forças
+[09:53:41] Sagos killed Thinking Atheist with M3
+[09:54:06] Thinking Atheist killed Player with M4A1
+[09:54:16] Thinking Atheist killed Sagos with M4A1
+[09:54:16] k¦Thinking Atheist¦100¦0
+[09:54:46] Thinking Atheist killed Player with M4A1
+[09:55:14] Sagos killed Thinking Atheist with M3
+[09:55:16] rM | null! killed Sagos with M4A1
+[09:55:16] k¦rM | null!¦40¦0
+[09:55:32] rM | null! killed Sagos with M4A1
+[09:55:32] k¦rM | null!¦66¦0

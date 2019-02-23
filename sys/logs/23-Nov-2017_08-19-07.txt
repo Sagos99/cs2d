@@ -1,0 +1,527 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 08:19:07
+
+[08:19:07] UDP socket initialized using port 36963
+[08:19:08] U.S.G.N.: Your game version is up to date!
+[08:19:08] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[08:19:08] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[08:19:09] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[08:20:09] U.S.G.N.: Ping/State 'idle' (300 ms)
+[08:21:09] U.S.G.N.: Ping/State 'idle' (299 ms)
+[08:22:10] U.S.G.N.: Ping/State 'idle' (300 ms)
+[08:22:14] Cached servers added to list: 146
+[08:22:15] U.S.G.N.: Received serverlist (servers: 48)
+[08:22:15] U.S.G.N.: Received serverlist (servers: 150)
+[08:22:28] Connecting to 177.45.57.30:27100 (using U.S.G.N. ID #15431) ...
+[08:22:28] U.S.G.N.: Ping/State 'idle' (282 ms)
+[08:22:28] "  (1x)
+[08:22:30] load map 'de_dust2'
+[08:22:30] ----- Server joined -----
+[08:22:31] Diiogo killed ¬ with M4A1
+[08:22:31] U.S.G.N.: Ping/State 'playing'
+[08:22:44] Diiogo died
+[08:22:45] Sagos juntou-se a Countra-Terrorista Forças
+[08:23:17] cuchitril14 conectou-se
+[08:23:19] _Phantom_ killed Diiogo with AK-47
+[08:23:21] Botzinho killed ¬ with M4A1
+[08:23:31] U.S.G.N.: Ping/State 'playing'
+[08:23:31] _Phantom_ killed Botzinho with AK-47
+[08:23:35] Astroboy conectou-se
+[08:23:38] cuchitril14 juntou-se a Countra-Terrorista Forças
+[08:23:41] MTF- conectou-se
+[08:23:42] Astroboy juntou-se a Terrorista Forças
+[08:23:43] ¬ deixou o jogo
+[08:23:48] Sagos killed _Phantom_ with M4A1
+[08:23:50] MTF- juntou-se a Terrorista Forças
+[08:24:03] Diiogo deixou o jogo
+[08:24:14] Sagos died
+[08:24:19] Sagos: fail huashuhas
+[08:24:20] Astroboy: ja que pete
+[08:24:31] U.S.G.N.: Ping/State 'playing'
+[08:25:08] _Phantom_ killed Botzinho with AK-47
+[08:25:09] Sagos killed Astroboy with M4A1
+[08:25:19] Sagos killed MTF- with M4A1
+[08:25:23] _Phantom_ killed Sagos with AK-47
+[08:25:23] k¦_Phantom_¦45¦25
+[08:25:24] _Phantom_ killed cuchitril14 with AK-47
+[08:25:28] Astroboy *Morto*: ez
+[08:25:32] U.S.G.N.: Ping/State 'playing'
+[08:25:57] Sagos killed MTF- with M4A1
+[08:26:01] _Phantom_ killed cuchitril14 with AK-47
+[08:26:02] MTF- deixou o jogo
+[08:26:12] _Phantom_ killed Sagos with AK-47
+[08:26:12] k¦_Phantom_¦100¦100
+[08:26:26] Sagos *Morto*: rank
+[08:26:26] r¦Sagos¦110 of 214¦4,4,3,1.33,3 m 39 s
+[08:26:32] U.S.G.N.: Ping/State 'playing'
+[08:26:56] Botzinho died
+[08:26:56] Astroboy died
+[08:27:18] Astroboy killed Botzinho with AK-47
+[08:27:33] U.S.G.N.: Ping/State 'playing'
+[08:27:55] vini08br conectou-se
+[08:28:04] vini08br juntou-se a Countra-Terrorista Forças
+[08:28:12] Astroboy killed cuchitril14 with AK-47
+[08:28:14] Astroboy killed Sagos with AK-47
+[08:28:14] k¦Astroboy¦16¦0
+[08:28:19] * Auto Teambalance *
+[08:28:19] vini08br juntou-se a Terrorista Forças
+[08:28:33] U.S.G.N.: Ping/State 'playing'
+[08:28:34] Mrs. Dollarbill conectou-se
+[08:28:41] _Phantom_ killed cuchitril14 with AK-47
+[08:28:44] Sagos killed _Phantom_ with M4A1
+[08:28:44] Astroboy killed Sagos with AK-47
+[08:28:44] k¦Astroboy¦100¦100
+[08:29:04] Mrs. Dollarbill juntou-se a Countra-Terrorista Forças
+[08:29:08] Botzinho killed vini08br with M4A1
+[08:29:34] U.S.G.N.: Ping/State 'playing'
+[08:29:40] cuchitril14 juntou-se a Terrorista Forças
+[08:29:58] Botzinho killed vini08br with M4A1
+[08:30:00] _Phantom_ killed Botzinho with AK-47
+[08:30:18] Mrs. Dollarbill killed _Phantom_ with Famas
+[08:30:31] cuchitril14 killed Mrs. Dollarbill with AK-47
+[08:30:33] Sagos killed cuchitril14 with M4A1
+[08:30:34] U.S.G.N.: Ping/State 'playing'
+[08:30:50] Sagos killed Astroboy with M4A1
+[08:31:22] Azteca conectou-se
+[08:31:23] Botzinho killed Astroboy with M4A1
+[08:31:30] Astroboy deixou o jogo
+[08:31:34] U.S.G.N.: Ping/State 'playing'
+[08:31:45] Azteca juntou-se a Countra-Terrorista Forças
+[08:31:47] brunovip4 conectou-se
+[08:31:50] brunovip4 juntou-se a Terrorista Forças
+[08:32:05] Mrs. Dollarbill killed cuchitril14 with M4A1
+[08:32:09] vini08br killed Botzinho with MP5
+[08:32:09] Mrs. Dollarbill killed _Phantom_ with M4A1
+[08:32:11] Mrs. Dollarbill killed vini08br with M4A1
+[08:32:15] cuchitril14 deixou o jogo
+[08:32:17] Mrs. Dollarbill: xibiu
+[08:32:23] cAN4YOu conectou-se
+[08:32:28] cAN4YOu juntou-se a Terrorista Forças
+[08:32:32] cuchitril14 conectou-se
+[08:32:35] U.S.G.N.: Ping/State 'playing'
+[08:32:40] cuchitril14 juntou-se a Terrorista Forças
+[08:32:42] _Phantom_ killed Mrs. Dollarbill with AK-47
+[08:32:44] _Phantom_ killed Botzinho with AK-47
+[08:32:49] Mrs. Dollarbill deixou o jogo
+[08:32:57] Azteca killed cAN4YOu with M4A1
+[08:32:58] vini08br killed Azteca with MP5
+[08:33:05] Sagos killed _Phantom_ with M4A1
+[08:33:31] brunovip4 killed Sagos with AK-47
+[08:33:31] k¦brunovip4¦52¦34
+[08:33:35] U.S.G.N.: Ping/State 'playing'
+[08:33:36] * Auto Teambalance *
+[08:33:36] cuchitril14 juntou-se a Countra-Terrorista Forças
+[08:34:08] cAN4YOu killed Botzinho with AK-47
+[08:34:17] Sagos killed _Phantom_ with M4A1
+[08:34:35] U.S.G.N.: Ping/State 'playing'
+[08:34:45] cAN4YOu killed Azteca with AK-47
+[08:34:49] vini08br killed Sagos with AK-47
+[08:34:49] k¦vini08br¦52¦34
+[08:34:55] cAN4YOu killed cuchitril14 with AK-47
+[08:34:56] vini08br died
+[08:34:56] brunovip4 died
+[08:34:56] cAN4YOu died
+[08:35:19] Player conectou-se
+[08:35:22] Botzinho killed brunovip4 with M4A1
+[08:35:29] Player juntou-se a Countra-Terrorista Forças
+[08:35:34] _Phantom_ killed Azteca with AK-47
+[08:35:36] U.S.G.N.: Ping/State 'playing'
+[08:35:38] Sagos killed vini08br with USP
+[08:35:40] brunovip4 deixou o jogo
+[08:35:42] vini08br deixou o jogo
+[08:35:50] vini08br conectou-se
+[08:35:58] cuchitril14 killed cAN4YOu with Glock
+[08:36:03] _Phantom_ killed cuchitril14 with AK-47
+[08:36:04] vini08br juntou-se a Terrorista Forças
+[08:36:08] cAN4YOu deixou o jogo
+[08:36:08] vini08br deixou o jogo
+[08:36:08] Botzinho killed _Phantom_ with M4A1
+[08:36:13] * Auto Teambalance *
+[08:36:13] Player juntou-se a Terrorista Forças
+[08:36:13] cuchitril14 juntou-se a Terrorista Forças
+[08:36:36] U.S.G.N.: Ping/State 'playing'
+[08:36:46] Botzinho killed Player with HE
+[08:36:50] Player 2 conectou-se
+[08:37:02] Player 2 juntou-se a Countra-Terrorista Forças
+[08:37:05] Botzinho killed _Phantom_ with Famas
+[08:37:34] Sagos killed cuchitril14 with Knife
+[08:37:37] U.S.G.N.: Ping/State 'playing'
+[08:38:05] Sagos killed Player with AK-47
+[08:38:34] Botzinho killed cuchitril14 with M4A1
+[08:38:37] U.S.G.N.: Ping/State 'playing'
+[08:38:47] Player juntou-se a Countra-Terrorista Forças
+[08:38:51] * Auto Teambalance *
+[08:38:51] Player 2 juntou-se a Terrorista Forças
+[08:38:53] Sexycih conectou-se
+[08:39:00] Sexycih juntou-se a Terrorista Forças
+[08:39:11] _Phantom_ killed Player with AK-47
+[08:39:23] Sexycih killed Azteca with AK-47
+[08:39:34] Sagos killed Sexycih with AK-47
+[08:39:37] U.S.G.N.: Ping/State 'playing'
+[08:39:48] rM.awp | tnr! conectou-se
+[08:40:08] rM.awp | tnr! juntou-se a Countra-Terrorista Forças
+[08:40:10] _Phantom_ killed Botzinho with M4A1
+[08:40:16] Player juntou-se a Terrorista Forças
+[08:40:21] Sagos killed Player 2 with AK-47
+[08:40:29] Sagos killed cuchitril14 with AK-47
+[08:40:38] U.S.G.N.: Ping/State 'playing'
+[08:40:59] Botzinho killed _Phantom_ with M4A1
+[08:41:13] Player killed Azteca with AK-47
+[08:41:20] Botzinho killed Player 2 with M4A1
+[08:41:20] Botzinho killed cuchitril14 with M4A1
+[08:41:21] Botzinho killed Player with M4A1
+[08:41:22] rM.awp | tnr! killed Sexycih with M4A1
+[08:41:26] rM.awp | tnr! died
+[08:41:26] rM.awp | tnr! juntou-se a Terrorista Forças
+[08:41:26] Player 2 deixou o jogo
+[08:41:27] * Auto Teambalance *
+[08:41:27] rM.awp | tnr! juntou-se a Countra-Terrorista Forças
+[08:41:38] U.S.G.N.: Ping/State 'playing'
+[08:41:43] Botzinho killed Player with M249
+[08:41:47] rM.awp | tnr! killed _Phantom_ with AWP
+[08:41:53] Botzinho killed cuchitril14 with M249
+[08:42:03] _Phantom_ deixou o jogo
+[08:42:33] Sexycih killed rM.awp | tnr! with AK-47
+[08:42:39] U.S.G.N.: Ping/State 'playing'
+[08:42:43] Player juntou-se aos espectadores
+[08:42:53] Player juntou-se a Terrorista Forças
+[08:43:17] rM.awp | tnr! juntou-se a Terrorista Forças
+[08:43:24] Sagos killed Sexycih with Knife
+[08:43:35] Sexycih died
+[08:43:35] Sexycih juntou-se a Countra-Terrorista Forças
+[08:43:39] U.S.G.N.: Ping/State 'playing'
+[08:43:40] rM.awp | tnr! killed Botzinho with AWP
+[08:43:55] rM.awp | tnr! killed Azteca with AWP
+[08:44:10] Azteca deixou o jogo
+[08:44:15] Sagos killed cuchitril14 with AK-47
+[08:44:35] Sexycih deixou o jogo
+[08:44:39] U.S.G.N.: Ping/State 'playing'
+[08:45:12] Sagos killed rM.awp | tnr! with AK-47
+[08:45:14] rM.awp | tnr! deixou o jogo
+[08:45:25] Sagos killed Player with M4A1
+[08:45:40] U.S.G.N.: Ping/State 'playing'
+[08:45:54] Sagos killed cuchitril14 with M4A1
+[08:45:58] Player killed Botzinho with M249
+[08:46:07] Player killed Sagos with M249
+[08:46:07] k¦Player¦48¦28
+[08:46:25] Botzinho killed Player with M4A1
+[08:46:28] Player deixou o jogo
+[08:46:29] C4X_Thiago_BR conectou-se
+[08:46:40] U.S.G.N.: Ping/State 'playing'
+[08:46:52] C4X_Thiago_BR deixou o jogo
+[08:47:14] Sagos killed cuchitril14 with M4A1
+[08:47:40] U.S.G.N.: Ping/State 'playing'
+[08:47:42] cuchitril14 died
+[08:47:42] cuchitril14 juntou-se a Countra-Terrorista Forças
+[08:47:44] Sagos died
+[08:47:44] Sagos juntou-se a Terrorista Forças
+[08:47:47] Sagos: rank
+[08:47:47] r¦Sagos¦40 of 215¦30,21,9,2.33,24 m 49 s
+[08:48:29] Sagos killed Botzinho with AK-47
+[08:48:41] U.S.G.N.: Ping/State 'playing'
+[08:48:52] Sagos died
+[08:49:41] Botzinho killed Sagos with M4A1
+[08:49:41] k¦Botzinho¦78¦0
+[08:49:41] U.S.G.N.: Ping/State 'playing'
+[08:50:34] Sagos killed Botzinho with AK-47
+[08:50:41] U.S.G.N.: Ping/State 'playing'
+[08:50:48] Sagos killed cuchitril14 with AK-47
+[08:51:42] U.S.G.N.: Ping/State 'playing'
+[08:51:50] Sagos killed cuchitril14 with AK-47
+[08:52:05] cuchitril14 deixou o jogo
+[08:52:08] Sagos deixou o jogo
+[08:52:08] Disconnect Reason: Client request (Code 0)
+[08:52:08] ----- Disconnected -----
+[08:52:10] U.S.G.N.: Ping/State 'idle' (1600 ms)
+[08:52:11] Cached servers added to list: 146
+[08:52:12] U.S.G.N.: Received serverlist (servers: 150)
+[08:52:12] U.S.G.N.: Received serverlist (servers: 48)
+[08:52:23] Connecting to 177.45.57.30:27200 (using U.S.G.N. ID #15431) ...
+[08:52:24] U.S.G.N.: Ping/State 'idle' (565 ms)
+[08:52:24] "  (1x)
+[08:52:25] load map 'de_dust2'
+[08:52:25] ----- Server joined -----
+[08:52:26] U.S.G.N.: Ping/State 'playing'
+[08:52:36] Sagos juntou-se a Terrorista Forças
+[08:52:49] AA killed bialynet0 with M4A1
+[08:52:52] Botzinho killed GodlyReptile with M249
+[08:53:01] bialynet0 deixou o jogo
+[08:53:04] AA killed Botzinho with M4A1
+[08:53:27] U.S.G.N.: Ping/State 'playing'
+[08:53:42] Sagos killed AA with HE
+[08:53:49] Fonzeyâ¢ conectou-se
+[08:54:01] Fonzeyâ¢ juntou-se a Terrorista Forças
+[08:54:02] Botzinho killed AA with AK-47
+[08:54:05] AA deixou o jogo
+[08:54:08] GodlyReptile killed Botzinho with M4A1
+[08:54:11] Sagos killed GodlyReptile with AK-47
+[08:54:16] * Auto Teambalance *
+[08:54:16] Fonzeyâ¢ juntou-se a Countra-Terrorista Forças
+[08:54:19] mikaell520 conectou-se
+[08:54:27] U.S.G.N.: Ping/State 'playing'
+[08:54:34] Sagos killed Fonzeyâ¢ with AK-47
+[08:55:03] ENUZi conectou-se
+[08:55:11] Botzinho killed GodlyReptile with AK-47
+[08:55:11] ENUZi juntou-se a Terrorista Forças
+[08:55:17] ENUZi: holaa
+[08:55:20] Sagos: hi
+[08:55:28] U.S.G.N.: Ping/State 'playing'
+[08:55:33] Botzinho killed GodlyReptile with Galil
+[08:55:59] Sagos killed Fonzeyâ¢ with AK-47
+[08:56:28] U.S.G.N.: Ping/State 'playing'
+[08:57:03] Sagos killed GodlyReptile with AK-47
+[08:57:16] XBACON-DOLLY conectou-se
+[08:57:27] XBACON-DOLLY juntou-se a Terrorista Forças
+[08:57:27] XBACON-DOLLY juntou-se a Countra-Terrorista Forças
+[08:57:29] U.S.G.N.: Ping/State 'playing'
+[08:57:30] Botzinho killed XBACON-DOLLY with Galil
+[08:57:40] Botzinho killed Fonzeyâ¢ with Galil
+[08:57:44] Fonzeyâ¢ deixou o jogo
+[08:57:46] ENUZi killed GodlyReptile with AK-47
+[08:57:47] mikaell520 conectou-se
+[08:57:53] ENUZi: boa manito
+[08:58:00] Sagos: rank
+[08:58:00] r¦Sagos¦130 of 391¦5,5,0,5.00,5 m 21 s
+[08:58:15] XBACON-DOLLY killed Botzinho with M4A1
+[08:58:23] ENUZi killed XBACON-DOLLY with AK-47
+[08:58:29] U.S.G.N.: Ping/State 'playing'
+[08:58:47] Leuuh conectou-se
+[08:59:08] Leuuh juntou-se a Countra-Terrorista Forças
+[08:59:27] Botzinho killed Leuuh with AK-47
+[08:59:29] U.S.G.N.: Ping/State 'playing'
+[08:59:40] Botzinho killed GodlyReptile with AK-47
+[08:59:45] Botzinho killed XBACON-DOLLY with AK-47
+[08:59:51] GodlyReptile deixou o jogo
+[09:00:13] Botzinho killed XBACON-DOLLY with Galil
+[09:00:24] ENUZi killed Leuuh with M4A1
+[09:00:34] XBACON-DOLLY: SOMEONE GO CT
+[09:00:35] U.S.G.N.: Ping/State 'playing'
+[09:00:37] Sagos: ok
+[09:00:46] Sagos: next round I go
+[09:01:13] Leuuh killed Botzinho with M4A1
+[09:01:29] ENUZi killed XBACON-DOLLY with M4A1
+[09:01:33] ENUZi died
+[09:01:35] U.S.G.N.: Ping/State 'playing'
+[09:01:43] Sagos: ops
+[09:01:46] XBACON-DOLLY: SOMEONE GO CT MY TEAM IS NOOB
+[09:01:48] Sagos: I forget
+[09:01:50] Sagos: sorry
+[09:01:55] Leuuh killed ENUZi with AK-47
+[09:01:59] ENUZi juntou-se a Countra-Terrorista Forças
+[09:02:16] XBACON-DOLLY killed Botzinho with AK-47
+[09:02:31] Sagos killed XBACON-DOLLY with AK-47
+[09:02:35] U.S.G.N.: Ping/State 'playing'
+[09:03:05] REDBULL55 conectou-se
+[09:03:06] Botzinho killed ENUZi with AK-47
+[09:03:07] Botzinho killed XBACON-DOLLY with AK-47
+[09:03:07] Venus conectou-se
+[09:03:09] ENUZi deixou o jogo
+[09:03:12] Venus juntou-se a Terrorista Forças
+[09:03:13] Sagos killed Leuuh with AK-47
+[09:03:20] REDBULL55 juntou-se a Countra-Terrorista Forças
+[09:03:31] Leuuh: ?
+[09:03:36] Sagos: ?
+[09:03:36] U.S.G.N.: Ping/State 'playing'
+[09:03:56] Botzinho killed XBACON-DOLLY with Galil
+[09:03:59] Leuuh killed Botzinho with M4A1
+[09:04:03] REDBULL55 killed Venus with M4A1
+[09:04:10] Sagos killed Leuuh with AK-47
+[09:04:34] XBACON-DOLLY killed Botzinho with Famas
+[09:04:36] Storm conectou-se
+[09:04:41] Venus killed XBACON-DOLLY with Galil
+[09:04:41] U.S.G.N.: Ping/State 'playing'
+[09:04:43] REDBULL55 killed Sagos with M4A1
+[09:04:43] k¦REDBULL55¦100¦100
+[09:04:46] Storm juntou-se a Terrorista Forças
+[09:05:36] Leuuh killed Venus with AK-47
+[09:05:42] U.S.G.N.: Ping/State 'playing'
+[09:05:49] REDBULL55: good job
+[09:06:01] REDBULL55: what
+[09:06:16] dilaNNNN conectou-se
+[09:06:16] Botzinho killed Leuuh with AK-47
+[09:06:17] Botzinho killed REDBULL55 with AK-47
+[09:06:23] dilaNNNN juntou-se a Terrorista Forças
+[09:06:25] XBACON-DOLLY killed Storm with Deagle
+[09:06:29] Storm deixou o jogo
+[09:06:42] U.S.G.N.: Ping/State 'playing'
+[09:06:51] XBACON-DOLLY killed Venus with Deagle
+[09:06:58] Venus deixou o jogo
+[09:07:22] Sagos (Time): drop bomb
+[09:07:25] REDBULL55 killed Botzinho with AWP
+[09:07:40] Sagos killed XBACON-DOLLY with AK-47
+[09:07:43] U.S.G.N.: Ping/State 'playing'
+[09:08:01] Sagos (Time): plant
+[09:08:12] Leuuh killed dilaNNNN with P90
+[09:08:14] Sagos killed Leuuh with AK-47
+[09:08:23] Sagos killed REDBULL55 with AK-47
+[09:08:33] Leuuh: merda ainda matei 1
+[09:08:37] Sagos: kkkk
+[09:08:43] U.S.G.N.: Ping/State 'playing'
+[09:09:06] Leuuh killed Botzinho with M4A1
+[09:09:11] Leuuh killed dilaNNNN with M4A1
+[09:09:22] Sagos killed REDBULL55 with AK-47
+[09:09:26] Sagos killed XBACON-DOLLY with AK-47
+[09:09:43] U.S.G.N.: Ping/State 'playing'
+[09:09:47] Botzinho killed Leuuh with AK-47
+[09:10:02] REDBULL55 killed Botzinho with M4A1
+[09:10:40] Leuuh: 1-1
+[09:10:44] U.S.G.N.: Ping/State 'playing'
+[09:10:49] Sagos: rnak
+[09:10:50] Sagos: rank
+[09:10:50] r¦Sagos¦83 of 391¦19,13,1,13.00,18 m 5 s
+[09:10:51] XBACON-DOLLY killed Botzinho with AK-47
+[09:11:11] dilaNNNN killed XBACON-DOLLY with AK-47
+[09:11:12] REDBULL55 killed dilaNNNN with M4A1
+[09:11:20] dilaNNNN deixou o jogo
+[09:11:35] Sagos killed REDBULL55 with AK-47
+[09:11:36] Leuuh killed Sagos with AK-47
+[09:11:36] k¦Leuuh¦34¦0
+[09:11:38] REDBULL55 *Morto*: kkk
+[09:11:44] Leuuh: kk 
+[09:11:44] U.S.G.N.: Ping/State 'playing'
+[09:11:56] Sagos: jogaram bem
+[09:11:58] XBACON-DOLLY killed Botzinho with M4A1
+[09:12:12] Sagos killed Leuuh with AK-47
+[09:12:12] Sagos killed XBACON-DOLLY with AK-47
+[09:12:45] U.S.G.N.: Ping/State 'playing'
+[09:13:31] Sagos killed REDBULL55 with AK-47
+[09:13:45] U.S.G.N.: Ping/State 'playing'
+[09:14:17] Botzinho killed Leuuh with SG552
+[09:14:18] XBACON-DOLLY killed Botzinho with M4A1
+[09:14:26] REDBULL55 killed Sagos with USP
+[09:14:26] k¦REDBULL55¦17¦0
+[09:14:43] REDBULL55 killed Botzinho with M4A1
+[09:14:45] U.S.G.N.: Ping/State 'playing'
+[09:15:33] Sagos killed XBACON-DOLLY with HE
+[09:15:46] U.S.G.N.: Ping/State 'playing'
+[09:15:51] Leuuh killed Sagos with M4A1
+[09:15:51] k¦Leuuh¦40¦0
+[09:16:12] REDBULL55 killed Botzinho with Aug
+[09:16:46] U.S.G.N.: Ping/State 'playing'
+[09:17:02] Sagos killed Leuuh with Deagle
+[09:17:11] Sagos killed REDBULL55 with Deagle
+[09:17:20] XBACON-DOLLY died
+[09:17:27] Mika conectou-se
+[09:17:31] Mika juntou-se a Terrorista Forças
+[09:17:43] Leuuh killed Botzinho with M4A1
+[09:17:47] U.S.G.N.: Ping/State 'playing'
+[09:18:13] Sagos killed XBACON-DOLLY with M3
+[09:18:16] Sagos killed Leuuh with M3
+[09:18:17] REDBULL55 killed Sagos with Aug
+[09:18:17] k¦REDBULL55¦100¦0
+[09:18:22] Leuuh *Morto*: boa
+[09:18:28] Sagos *Morto*: =/
+[09:18:52] U.S.G.N.: Ping/State 'playing'
+[09:18:53] REDBULL55 killed Mika with Aug
+[09:18:57] REDBULL55: wwoiw
+[09:18:59] Leuuh: wow boaaa
+[09:19:20] Mika killed REDBULL55 with AK-47
+[09:19:26] Mika killed XBACON-DOLLY with AK-47
+[09:19:32] XBACON-DOLLY deixou o jogo
+[09:19:34] Mika killed Leuuh with AK-47
+[09:19:37] REDBULL55 deixou o jogo
+[09:19:39] * Auto Teambalance *
+[09:19:39] Mika juntou-se a Countra-Terrorista Forças
+[09:19:52] U.S.G.N.: Ping/State 'playing'
+[09:19:55] Leuuh killed Botzinho with M4A1
+[09:20:02] XBACON-DOLLY conectou-se
+[09:20:15] XBACON-DOLLY juntou-se a Terrorista Forças
+[09:20:37] Sagos killed Leuuh with M3
+[09:20:53] U.S.G.N.: Ping/State 'playing'
+[09:21:28] Mika killed Sagos with M4A1
+[09:21:28] k¦Mika¦100¦100
+[09:21:30] Mika died
+[09:21:47] Sagos: '-'
+[09:21:50] dilaNNNN conectou-se
+[09:21:53] Leuuh killed Botzinho with G3SG1
+[09:21:53] U.S.G.N.: Ping/State 'playing'
+[09:22:07] dilaNNNN juntou-se a Terrorista Forças
+[09:22:08] Mika killed XBACON-DOLLY with M4A1
+[09:22:11] XBACON-DOLLY deixou o jogo
+[09:22:17] Sagos killed Leuuh with M3
+[09:22:32] Mika killed Sagos with M4A1
+[09:22:32] k¦Mika¦52¦34
+[09:22:54] U.S.G.N.: Ping/State 'playing'
+[09:23:00] Botzinho killed Leuuh with Galil
+[09:23:08] Mika killed Botzinho with M4A1
+[09:23:47] SK l kNigtTV conectou-se
+[09:23:54] U.S.G.N.: Ping/State 'playing'
+[09:23:57] SK l kNigtTV juntou-se a Countra-Terrorista Forças
+[09:24:05] Mika killed dilaNNNN with M4A1
+[09:24:06] Mika killed Sagos with M4A1
+[09:24:06] k¦Mika¦40¦44
+[09:24:19] TSocket: 'cdn.akamai.steamstatic.com' Time Out (stage: 3)
+[09:24:29] SK l kNigtTV killed Botzinho with M4A1
+[09:24:30] Botzinho killed Leuuh with HE
+[09:24:44] Sagos killed SK l kNigtTV with AK-47
+[09:24:55] U.S.G.N.: Ping/State 'playing'
+[09:25:04] Mika killed dilaNNNN with M4A1
+[09:25:21] Mika killed Sagos with M4A1
+[09:25:21] k¦Mika¦52¦34
+[09:25:25] SK l kNigtTV *Morto*: gg
+[09:25:26] Leuuh: boaa
+[09:25:36] Mika: vlw
+[09:25:39] Sagos: ping 300 n dx eu joga
+[09:25:43] Leuuh killed Botzinho with M4A1
+[09:25:47] Mika: uashuh
+[09:25:51] Mika killed Sagos with M4A1
+[09:25:51] k¦Mika¦100¦100
+[09:25:55] U.S.G.N.: Ping/State 'playing'
+[09:25:57] Sagos deixou o jogo
+[09:25:57] Disconnect Reason: Client request (Code 0)
+[09:25:57] ----- Disconnected -----
+[09:25:58] U.S.G.N.: Ping/State 'idle' (317 ms)
+[09:26:00] Cached servers added to list: 146
+[09:26:01] U.S.G.N.: Received serverlist (servers: 150)
+[09:26:01] U.S.G.N.: Received serverlist (servers: 66)
+[09:26:09] Connecting to 177.45.57.30:27100 (using U.S.G.N. ID #15431) ...
+[09:26:09] U.S.G.N.: Ping/State 'idle' (549 ms)
+[09:26:09] "  (1x)
+[09:26:10] load map 'de_dust2'
+[09:26:11] ----- Server joined -----
+[09:26:12] U.S.G.N.: Ping/State 'playing'
+[09:26:20] Sagos juntou-se a Countra-Terrorista Forças
+[09:26:37] Sagos deixou o jogo
+[09:26:37] Disconnect Reason: Client request (Code 0)
+[09:26:37] ----- Disconnected -----
+[09:26:39] U.S.G.N.: Ping/State 'idle' (819 ms)
+[09:27:39] U.S.G.N.: Ping/State 'idle' (634 ms)
+[09:28:32] Starting server...
+[09:28:32] load map 'Battle Royale'
+[09:28:33] ----- Server started -----
+[09:28:33] Lua: Adding function 'falar' to hook 'say'
+[09:28:33] Lua: Adding function 'segundos' to hook 'second'
+[09:28:33] Lua: Adding function 'coletar' to hook 'walkover'
+[09:28:33] Lua: Adding function 'atacar' to hook 'attack'
+[09:28:33] Lua: Adding function 'atacar2' to hook 'attack2'
+[09:28:33] Lua: Adding function 'teclas' to hook 'serveraction'
+[09:28:33] Lua: Adding function 'mymenu' to hook 'menu'
+[09:28:33] Lua: Adding function 'ataque' to hook 'hit'
+[09:28:33] Lua: Adding function 'dropar' to hook 'drop'
+[09:28:33] Lua: Adding function 'mover' to hook 'movetile'
+[09:28:33] U.S.G.N.: Ping/State 'playing'
+[09:28:33] U.S.G.N.: Server added to serverlist
+[09:28:34] Sagos juntou-se a Countra-Terrorista Forças
+[09:28:53] Servidor Desligado
+[09:28:53] U.S.G.N.: Server removed from serverlist
+[09:28:53] ----- Disconnected -----
+[09:28:54] U.S.G.N.: Ping/State 'idle' (300 ms)
+[09:28:55] Starting server...
+[09:28:55] load map 'Battle Royale'
+[09:28:56] ----- Server started -----
+[09:28:56] Lua: Adding function 'falar' to hook 'say'
+[09:28:56] Lua: Adding function 'segundos' to hook 'second'
+[09:28:56] Lua: Adding function 'coletar' to hook 'walkover'
+[09:28:56] Lua: Adding function 'atacar' to hook 'attack'
+[09:28:56] Lua: Adding function 'atacar2' to hook 'attack2'
+[09:28:56] Lua: Adding function 'teclas' to hook 'serveraction'
+[09:28:56] Lua: Adding function 'mymenu' to hook 'menu'
+[09:28:56] Lua: Adding function 'ataque' to hook 'hit'
+[09:28:56] Lua: Adding function 'dropar' to hook 'drop'
+[09:28:56] Lua: Adding function 'mover' to hook 'movetile'
+[09:28:56] U.S.G.N.: Ping/State 'playing'
+[09:28:56] U.S.G.N.: Server added to serverlist
+[09:28:57] Sagos juntou-se a Countra-Terrorista Forças
+[09:29:02] Servidor Desligado
+[09:29:03] U.S.G.N.: Server removed from serverlist
+[09:29:03] ----- Disconnected -----
+[09:29:04] U.S.G.N.: Ping/State 'idle' (299 ms)

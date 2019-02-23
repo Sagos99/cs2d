@@ -1,0 +1,227 @@
+CS2D 1.0.0.5 Logfile - 21 Nov 2017, 15:46:21
+
+[15:46:21] UDP socket initialized using port 36963
+[15:46:21] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[15:46:23] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[15:46:24] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[15:46:24] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[15:46:28] Starting server...
+[15:46:28] load map 'Battle Royale'
+[15:46:28] ----- Server started -----
+[15:46:28] Lua: Adding function 'falar' to hook 'say'
+[15:46:28] Lua: Adding function 'segundos' to hook 'second'
+[15:46:28] Lua: Adding function 'coletar' to hook 'walkover'
+[15:46:28] Lua: Adding function 'atacar' to hook 'attack'
+[15:46:28] Lua: Adding function 'teclas' to hook 'serveraction'
+[15:46:28] Lua: Adding function 'mymenu' to hook 'menu'
+[15:46:28] Lua: Adding function 'ataque' to hook 'hit'
+[15:46:29] U.S.G.N.: Ping/State 'playing'
+[15:46:29] U.S.G.N.: Server added to serverlist
+[15:46:30] Sagos juntou-se a Countra-Terrorista Forças
+[15:46:51] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[15:47:14] U.S.G.N.: Serverlist entry updated
+[15:47:29] U.S.G.N.: Ping/State 'playing'
+[15:47:47] U.S.G.N.: null' (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[15:47:47] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[15:47:47] null' conectou-se
+[15:47:47] null' is using IP 177.185.53.199:55940 and U.S.G.N. ID #14465
+[15:47:48] JOIN FAILURE: null' (177.185.53.199:55940) can't join (map differs)
+[15:47:48] U.S.G.N.: null' (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[15:47:49] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[15:47:49] null' conectou-se
+[15:47:49] null' is using IP 177.185.53.199:55940 and U.S.G.N. ID #14465
+[15:47:49] Starting transfer to null' (files: 3) ...
+[15:47:50] null' needs 1 file. Starting to send file...
+[15:47:50] Sending 'maps/Battle Royale.map' to null'...
+[15:47:53] null' juntou-se a Terrorista Forças
+[15:47:58] JOIN FAILURE: OGoulart80 (189.107.32.53:22931) can't join (wrong password)
+[15:47:59] U.S.G.N.: Serverlist entry updated
+[15:48:01] Sagos: pq o nick agr é null? kk
+[15:48:02] JOIN FAILURE: OGoulart80 (189.107.32.53:22931) can't join (wrong password)
+[15:48:06] "  (1x)
+[15:48:10] null': KKKK sla
+[15:48:10] JOIN FAILURE: OGoulart80 (189.107.32.53:22931) can't join (wrong password)
+[15:48:11] [Info] Você equipou: USP
+[15:48:12] null': Nullo
+[15:48:12] JOIN FAILURE: OGoulart80 (189.107.32.53:22931) can't join (wrong password)
+[15:48:15] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[15:48:15] null': sabe
+[15:48:18] Sagos: levou dano?
+[15:48:19] [Info] Você equipou: USP
+[15:48:20] null': n
+[15:48:21] JOIN FAILURE: OGoulart80 (189.107.32.53:22931) can't join (wrong password)
+[15:48:22] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[15:48:25] JOIN FAILURE: OGoulart80 (189.107.32.53:22931) can't join (wrong password)
+[15:48:26] Sagos: é pq n tenho bala ^^
+[15:48:27] Sagos: ta funfando
+[15:48:30] [Info] Você equipou: USP
+[15:48:30] U.S.G.N.: Ping/State 'playing'
+[15:48:31] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[15:48:31] null' killed Sagos with Glock
+[15:48:40] Sagos: tipo
+[15:48:41] JOIN FAILURE: OGoulart80 (189.107.32.53:22931) can't join (wrong password)
+[15:48:44] Sagos: gasta as balas ai
+[15:48:45] U.S.G.N.: Serverlist entry updated
+[15:48:48] null': Mee
+[15:48:49] null': deu bug
+[15:48:51] null': kkkkkk
+[15:48:57] Sagos: ata ja sei pq pera ae
+[15:49:09] Sagos: to com ban de 3 minutos no lol
+[15:49:14] Sagos: tenho que arrumar antes disso
+[15:49:15] null': KKKKKKKKK
+[15:49:18] null': pq?
+[15:49:30] U.S.G.N.: Serverlist entry updated
+[15:49:31] Sagos: pq ai vou jogar kk
+[15:49:35] Sagos: eu kitei na seleção
+[15:49:35] U.S.G.N.: Ping/State 'playing'
+[15:49:39] Sagos: o cara pickou zoe 1° q eu
+[15:49:46] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[15:49:53] null': Vc n jogou com ela ksakdask
+[15:49:54] null': mds
+[15:50:03] null': nego ta com sede de jogar com o novo camp
+[15:50:09] Sagos: lógico
+[15:50:12] null': aksdasdk
+[15:50:16] U.S.G.N.: Serverlist entry updated
+[15:50:41] U.S.G.N.: Ping/State 'playing'
+[15:51:01] U.S.G.N.: Serverlist entry updated
+[15:51:15] Sagos: qual é o bug?
+[15:51:20] generating stats...
+[15:51:20] stats generated in 0 ms!
+[15:51:26] null': uai
+[15:51:27] null': kasdksa
+[15:51:30] Sagos: kkkkk
+[15:51:34] [Info] Você equipou: USP
+[15:51:36] [Info] Você pegou 15 Balas de Pistola
+[15:51:36] null': e aquele q tipo
+[15:51:40] [Info] Você pegou Kit
+[15:51:41] [Info] Você pegou Kit Full
+[15:51:41] U.S.G.N.: Ping/State 'playing'
+[15:51:42] null': n da pra pegar dnv
+[15:51:43] [Info] Você pegou 15 Balas de Pistola
+[15:51:45] [Info] Você pegou Kit
+[15:51:45] [Info] Espaço insuficiente para carregar mais itens
+[15:51:46] U.S.G.N.: Serverlist entry updated
+[15:51:47] null': a arma q dropo
+[15:52:00] Sagos: e como faz ele?
+[15:52:04] null': Sla
+[15:52:06] Sagos: .-.
+[15:52:07] null': KKKK
+[15:52:12] Sagos: n consigo arrumar se n saber como vc fez
+[15:52:14] [Info] Espaço insuficiente para carregar mais itens
+[15:52:14] "  (1x)
+[15:52:23] null': Deixa assim se surgir dnv
+[15:52:27] null': Eu vejo como foi
+[15:52:30] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[15:52:32] U.S.G.N.: Serverlist entry updated
+[15:52:32] [Info] Você equipou: USP
+[15:52:33] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[15:52:36] [Info] Você não tem arma primária no inventário
+[15:52:42] U.S.G.N.: Ping/State 'playing'
+[15:53:10] Sagos: ta ficando legal o script
+[15:53:13] null': SS
+[15:53:16] null': :)
+[15:53:17] U.S.G.N.: Serverlist entry updated
+[15:53:19] [Info] Você já tem pistola no inventário
+[15:53:20] "  (1x)
+[15:53:21] [Info] Você equipou: USP
+[15:53:36] null': ala
+[15:53:40] null': guarda auto
+[15:53:41] null': kkkkk
+[15:53:42] U.S.G.N.: Ping/State 'playing'
+[15:53:43] null': Foda
+[15:53:51] Sagos: e se pegar bala
+[15:53:54] Sagos: equipa auto tbm
+[15:53:55] null': ss
+[15:53:58] null': eu vi
+[15:54:02] null': MANEIRAO
+[15:54:09] [Info] Você pegou 15 Balas de Pistola
+[15:54:24] null': Esse n ta funfando ainda ne
+[15:54:28] Sagos: o rifle ainda n fiz
+[15:54:31] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[15:54:39] null': e esse gas
+[15:54:42] Sagos: aa dx eu fala kk
+[15:54:43] U.S.G.N.: Ping/State 'playing'
+[15:54:48] U.S.G.N.: Serverlist entry updated
+[15:54:48] Sagos: o gas vai ser bala de shotgun
+[15:54:54] null': ?????????
+[15:54:57] Sagos: e a bola de neve vai ser bala de SMG
+[15:55:02] null': Atah
+[15:55:03] null': tendi
+[15:55:05] null': asdk
+[15:55:09] Sagos: assim que passar em cima vai aparecer a msg
+[15:55:16] null': tem como fazer camuflagem
+[15:55:16] Sagos: "vc pegou balas de sla o q"
+[15:55:21] null': com imagens
+[15:55:25] null': Tipo os rpg
+[15:55:33] U.S.G.N.: Serverlist entry updated
+[15:55:41] Sagos: é isso que eu achei q vc n ia gostar
+[15:55:43] U.S.G.N.: Ping/State 'playing'
+[15:55:50] Sagos: pq sla os jogador vai ter que acostumar q
+[15:55:55] Sagos: isso é munição
+[15:56:07] null': N tem uma forma de colocar imagem por cima
+[15:56:11] null': o smoker deve saber
+[15:56:18] U.S.G.N.: Serverlist entry updated
+[15:56:20] generating stats...
+[15:56:20] stats generated in 1 ms!
+[15:56:23] Sagos: tem que pergunta pra ele mas
+[15:56:26] null': ou fazer aquelas q vc aperta E ou sla
+[15:56:27] Sagos: eu acho que colocar img da lag
+[15:56:29] null': pra pegar do chao
+[15:56:43] null': Ai vai depender da VPS
+[15:56:44] U.S.G.N.: Ping/State 'playing'
+[15:56:45] Sagos: ss essas de aperta E eu n sei fazer hausuhahs
+[15:56:45] null': do paulo
+[15:56:51] null': Ata
+[15:56:54] null': o smoker sabe
+[15:56:55] null': sjad
+[15:56:57] [Info] Você já tem pistola no inventário
+[15:56:58] "  (1x)
+[15:57:04] U.S.G.N.: Serverlist entry updated
+[15:57:04] [Info] Você equipou: Deagle
+[15:57:06] [Info] Sem balas de pistola, sua arma foi guardada no inventário
+[15:57:16] null': Imagina cs realista
+[15:57:23] null': com grafico ultra monster
+[15:57:26] null': fisica
+[15:57:27] Sagos: cs go .-.
+[15:57:29] null': qnd trombar
+[15:57:39] null': impacto no tiro
+[15:57:44] U.S.G.N.: Ping/State 'playing'
+[15:57:49] U.S.G.N.: Serverlist entry updated
+[15:58:04] Sagos: kk eu n levo dano
+[15:58:06] Sagos: n sei pq
+[15:58:07] null': Nem eu
+[15:58:17] null': Mais a primeira q eu joguei
+[15:58:19] null': me deu
+[15:58:34] U.S.G.N.: Serverlist entry updated
+[15:58:36] Sagos: ae
+[15:58:38] Sagos: pickei a zoe
+[15:58:45] U.S.G.N.: Ping/State 'playing'
+[15:58:47] JOIN FAILURE: OGoulart80 (189.107.32.53:22931) can't join (wrong password)
+[15:58:48] null': askdask
+[15:59:20] U.S.G.N.: Serverlist entry updated
+[15:59:24] Sagos: sensação
+[15:59:25] Sagos: ruim
+[15:59:29] null': :?
+[15:59:29] Sagos: acho q os cara vai kita
+[15:59:33] null': KKKKK
+[15:59:45] U.S.G.N.: Ping/State 'playing'
+[16:00:05] U.S.G.N.: Serverlist entry updated
+[16:00:10] Sagos: kito
+[16:00:10] null': paulo termino curso de PHP
+[16:00:12] Sagos: aa q raiva
+[16:00:28] Sagos: kk pickei dnv
+[16:00:34] Sagos: ter pc gamer é bom nessas hr
+[16:00:35] [Info] Você pegou Kit Full
+[16:00:46] U.S.G.N.: Ping/State 'playing'
+[16:00:51] U.S.G.N.: Serverlist entry updated
+[16:01:17] Sagos: vou desliga o sv
+[16:01:20] generating stats...
+[16:01:20] stats generated in 0 ms!
+[16:01:22] null': blz
+[16:01:36] U.S.G.N.: Serverlist entry updated
+[16:01:46] U.S.G.N.: Ping/State 'playing'
+[16:01:52] Sagos: aew
+[16:01:55] Sagos: foi eu to de zoe
+[16:02:46] U.S.G.N.: Ping/State 'playing'
+[16:03:07] U.S.G.N.: Serverlist entry updated
+[16:03:12] Servidor Desligado

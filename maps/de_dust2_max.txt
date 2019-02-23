@@ -1,0 +1,18 @@
+©255255255Dust 2 Max - Bomb/Defuse
+
+©255255000Map & gfx by DJw!       -Final Version
+
+©050150255Counter-Terrorists:
+©110130150Prevent Terrorists from bombing chemical weapon crates. Team members must defuse any bombs that threaten targeted areas.
+
+©255025000Terrorists:
+©150110100The Terrorist carrying the C4 must destroy one of the chemical weapon stashes. 
+
+Other Notes:
+There are 2 chemical weapon stashes in the mission.
+
+»www.cs2d.com.br«
+
+
+
+

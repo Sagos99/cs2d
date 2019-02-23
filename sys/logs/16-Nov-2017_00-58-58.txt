@@ -1,0 +1,18 @@
+CS2D 1.0.0.5 Logfile - 16 Nov 2017, 00:58:58
+
+[00:58:58] #######################################################
+[00:58:58] Unreal Software's CS2D Dedicated Server
+[00:58:58] > visit www.CS2D.com for info and updates <
+[00:58:58] Game Version: 1.0.0.5
+[00:58:58] Server Build for 1.0.0.5: 1.0
+[00:58:58] System Time: 16 Nov 2017 - 00:58:58
+[00:58:58] Operating System: Microsoft Windows
+[00:58:58] #######################################################
+[00:58:58] UDP socket initialized using port 0
+[00:58:58] U.S.G.N.: Your game version is up to date!
+[00:58:58] starting server...
+[00:58:58] load map 'Deathrun CT em perigo'
+[00:58:58] ----- Server started -----
+[00:58:58] Lua: Adding function 'regenerar' to hook 'ms100'
+[00:58:59] U.S.G.N.: Server added to serverlist
+[00:59:16] !!! Dedicated Server Shutdown !!!

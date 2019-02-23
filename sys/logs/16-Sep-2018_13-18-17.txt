@@ -1,0 +1,55 @@
+CS2D 1.0.0.7 Logfile - 16 Sep 2018, 13:18:17
+
+[13:18:17] Steam: Logged in as #76561198077078199
+[13:18:17] UDP socket initialized using port 56323
+[13:18:18] U.S.G.N.: Your game version is up to date!
+[13:18:49] Cached servers added to list: 129
+[13:18:50] U.S.G.N.: Received serverlist (servers: 111)
+[13:19:00] Connecting to 179.217.37.148:36963...
+[13:19:00] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[13:19:00] Checking 'maps/Awp_gray v1.1.map': Does not exist. Request transfer!
+[13:19:00] Requesting 1 file from server...
+[13:19:00] Downloading 'maps/Awp_gray v1.1.map' from server...
+[13:19:01] load map 'Awp_gray v1.1'
+[13:19:01] ----- Server joined -----
+[13:19:04] Player aliou-se a Equipe Contra-Terrorista
+[13:19:10] Player deixou o servidor
+[13:19:10] Disconnect Reason: Client request (Code 0)
+[13:19:10] ----- Disconnected -----
+[13:19:11] Cached servers added to list: 129
+[13:19:11] U.S.G.N.: Received serverlist (servers: 111)
+[13:19:34] Connecting to 187.36.176.72:8518...
+[13:19:38] "  (1x)
+[13:19:38] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[13:19:38] Checking 'maps/awp_grey .lua': Already exists.
+[13:19:38] Checking 'gfx/2x2.bmp': Does not exist. Request transfer!
+[13:19:38] Checking 'sfx/yank/message.ogg': Does not exist. Request transfer!
+[13:19:38] Checking 'maps/awp_grey .map': Already exists. Request transfer (overwrite)!
+[13:19:38] Requesting 3 files from server...
+[13:19:38] Downloading 'gfx/2x2.bmp' from server...
+[13:19:38] Downloading 'sfx/yank/message.ogg' from server...
+[13:19:39] Downloading 'maps/awp_grey .map' from server...
+[13:19:39] load map 'awp_grey '
+[13:19:39] LOAD RES.: failed to load image 'gfx/monster[1].jpg'
+[13:19:39] ----- Server joined -----
+[13:19:39] [Server] Bem vindo, Player!
+[13:19:39] [Server] Sua USGN está autenticada como Visitante!
+[13:19:42] Player aliou-se a Equipe Terrorista
+[13:19:43] r n g. Itallo: nao
+[13:19:44] [Admin] King: kkkk
+[13:19:46] KingRagnar killed r n g. Itallo with AWP
+[13:19:50] KingRagnar killed Player with AWP
+[13:19:50] k¦KingRagnar¦100¦100
+[13:19:56] Player mudou de nome para Sagos
+[13:20:00] [Admin] King: vc joga des quanto lanço o jogo
+[13:20:10] r n g. Itallo: ou é usgn comprada?
+[13:20:11] r n g. Itallo killed King with AWP
+[13:20:11] KingRagnar killed r n g. Itallo with AWP
+[13:20:18] KingRagnar killed Sagos with Knife
+[13:20:18] k¦KingRagnar¦100¦100
+[13:20:22] [Admin] King: como compra usgn
+[13:20:30] r n g. Itallo: sei la kkk
+[13:20:32] Sagos deixou o servidor
+[13:20:32] Disconnect Reason: Client request (Code 0)
+[13:20:32] ----- Disconnected -----
+[13:20:38] ERROR: cannot access win command in console!

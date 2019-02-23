@@ -1,0 +1,177 @@
+CS2D 1.0.0.7 Logfile - 12 Jan 2019, 16:16:11
+
+[16:16:11] Steam: Logged in as #76561198077078199
+[16:16:11] UDP socket initialized using port 50937
+[16:16:11] U.S.G.N.: Your game version is up to date!
+[16:16:13] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[16:16:15] Cached servers added to list: 178
+[16:16:16] U.S.G.N.: Received serverlist (servers: 102)
+[16:16:26] Connecting to 18.228.226.88:39960 (using U.S.G.N. ID #15431) ...
+[16:16:27] U.S.G.N.: Ping/State 'idle' (412 ms)
+[16:16:27] "  (1x)
+[16:16:27] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[16:16:27] Checking 'weed.png': Does not exist. Request transfer!
+[16:16:27] Checking 'gfx/hats/weed.png': Already exists.
+[16:16:27] Requesting 1 file from server...
+[16:16:27] Downloading 'weed.png' from server...
+[16:16:28] ERROR: Failed to create directory '' for received files
+[16:16:28] load map 'awp_grey'
+[16:16:28] ----- Server joined -----
+[16:16:28] Bem vindo ao nosso servidor, Sagos!
+[16:16:28] Seu score total em nossa rede é 51/26 e sua patente é Bronze
+[16:16:30] U.S.G.N.: Ping/State 'playing'
+[16:16:32] Sagos aliou-se a Equipe Contra-Terrorista
+[16:16:33] legend'S Server
+[16:16:33] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[16:16:33] Novidade: Use !block <id> para bloquear um usuário.
+[16:16:33] Novidade: Use !unblock <id> para debloquear um usuário.
+[16:16:36] Mouselaser killed nF| Yoda with AWP
+[16:16:37] nF| Yoda deixou o servidor
+[16:16:38] dream killed lasigma with AWP
+[16:16:38] Mouselaser killed mW. Osego with AWP
+[16:16:41] BI.G | Smok3 killed ................... with AWP
+[16:16:52] mW. Osego killed Mouselaser with AWP
+[16:16:55] nF| Yoda conectou-se ao servidor
+[16:16:56] dream killed mW. Osego with AWP
+[16:16:59] nF| Yoda aliou-se a Equipe Terrorista
+[16:16:59] ................... killed dream with AWP
+[16:17:01] Sagos killed lasigma with AWP
+[16:17:04] ................... killed Sagos with AWP
+[16:17:04] k¦...................¦100¦100
+[16:17:19] BI.G | Smok3 killed ................... with AWP
+[16:17:30] U.S.G.N.: Ping/State 'playing'
+[16:17:31] Mouselaser killed ................... with AWP
+[16:17:33] legend'S Server
+[16:17:33] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[16:17:33] Novidade: Use !block <id> para bloquear um usuário.
+[16:17:33] Novidade: Use !unblock <id> para debloquear um usuário.
+[16:17:36] BI.G | Smok3 killed mW. Osego with AWP
+[16:17:37] Mouselaser killed lasigma with AWP
+[16:17:43] dream killed nF| Yoda with AWP
+[16:17:47] nF| Yoda [Bronze]: matriquis
+[16:17:52] Sagos killed lasigma with AWP
+[16:18:03] ................... killed Mouselaser with AWP
+[16:18:13] Sagos killed nF| Yoda with Knife
+[16:18:17] Sagos killed ................... with AWP
+[16:18:19] Sagos killed mW. Osego with AWP
+[16:18:20] nF| Yoda aliou-se a Equipe Contra-Terrorista
+[16:18:24] * Auto Teambalance *
+[16:18:24] nF| Yoda aliou-se a Equipe Terrorista
+[16:18:31] U.S.G.N.: Ping/State 'playing'
+[16:18:33] legend'S Server
+[16:18:33] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[16:18:33] Novidade: Use !block <id> para bloquear um usuário.
+[16:18:33] Novidade: Use !unblock <id> para debloquear um usuário.
+[16:18:42] lasigma killed BI.G | Smok3 with Knife
+[16:18:43] Sagos killed lasigma with AWP
+[16:18:48] Sagos killed nF| Yoda with AWP
+[16:18:48] Mouselaser killed ................... with AWP
+[16:18:49] nF| Yoda deixou o servidor
+[16:18:50] mW. Osego killed dream with AWP
+[16:18:53] mW. Osego killed Sagos with AWP
+[16:18:53] k¦mW. Osego¦100¦100
+[16:18:55] Mouselaser killed mW. Osego with Knife
+[16:19:14] mW. Osego killed Sagos with AWP
+[16:19:14] k¦mW. Osego¦100¦0
+[16:19:15] dream killed ................... with AWP
+[16:19:15] Mouselaser killed lasigma with AWP
+[16:19:25] Mouselaser killed mW. Osego with AWP
+[16:19:31] U.S.G.N.: Ping/State 'playing'
+[16:19:33] legend'S Server
+[16:19:33] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[16:19:33] Novidade: Use !block <id> para bloquear um usuário.
+[16:19:33] Novidade: Use !unblock <id> para debloquear um usuário.
+[16:19:41] Mouselaser killed ................... with AWP
+[16:19:45] dream killed lasigma with AWP
+[16:19:48] Sagos killed mW. Osego with AWP
+[16:20:04] ................... killed Mouselaser with AWP
+[16:20:05] mW. Osego killed Sagos with AWP
+[16:20:05] k¦mW. Osego¦100¦100
+[16:20:07] lasigma killed dream with AWP
+[16:20:23] BI.G | Smok3 killed mW. Osego with AWP
+[16:20:32] U.S.G.N.: Ping/State 'playing'
+[16:20:33] legend'S Server
+[16:20:33] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[16:20:33] Novidade: Use !block <id> para bloquear um usuário.
+[16:20:33] Novidade: Use !unblock <id> para debloquear um usuário.
+[16:20:36] BI.G | Smok3 killed lasigma with Knife
+[16:20:37] SKG. Kawasakii conectou-se ao servidor
+[16:20:37] dream [Prata]: kkkkk
+[16:20:40] SKG. Kawasakii conectou-se ao servidor
+[16:20:42] SKG. Kawasakii aliou-se a Equipe Terrorista
+[16:20:53] BI.G | Smok3 killed ................... with AWP
+[16:21:05] mW. Osego killed Sagos with AWP
+[16:21:05] k¦mW. Osego¦100¦100
+[16:21:12] dream killed ................... with AWP
+[16:21:14] ................... deixou o servidor
+[16:21:19] ................... conectou-se ao servidor
+[16:21:22] SKG. Kawasakii killed dream with AWP
+[16:21:22] SKG. Kawasakii killed BI.G | Smok3 with AWP
+[16:21:25] SKG. Kawasakii killed Mouselaser with AWP
+[16:21:25] ................... aliou-se a Equipe Terrorista
+[16:21:32] U.S.G.N.: Ping/State 'playing'
+[16:21:33] legend'S Server
+[16:21:33] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[16:21:33] Novidade: Use !block <id> para bloquear um usuário.
+[16:21:33] Novidade: Use !unblock <id> para debloquear um usuário.
+[16:21:34] Sagos killed mW. Osego with AWP
+[16:21:37] Sagos killed lasigma with AWP
+[16:21:43] SKG. Kawasakii killed dream with AWP
+[16:21:49] ................... killed Sagos with AWP
+[16:21:49] k¦...................¦100¦100
+[16:21:53] Mouselaser killed ................... with AWP
+[16:21:55] SKG. Kawasakii killed Mouselaser with AWP
+[16:22:16] SKG. Kawasakii killed BI.G | Smok3 with AWP
+[16:22:31] SKG. Kawasakii killed Mouselaser with AWP
+[16:22:31] Sagos killed mW. Osego with AWP
+[16:22:33] legend'S Server
+[16:22:33] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[16:22:33] Novidade: Use !block <id> para bloquear um usuário.
+[16:22:33] Novidade: Use !unblock <id> para debloquear um usuário.
+[16:22:33] U.S.G.N.: Ping/State 'playing'
+[16:22:33] dream killed SKG. Kawasakii with AWP
+[16:22:35] Sagos killed ................... with AWP
+[16:22:40] Sagos killed lasigma with AWP
+[16:22:47] dream killed ................... with AWP
+[16:22:51] lasigma killed dream with AWP
+[16:22:52] Sagos killed mW. Osego with AWP
+[16:22:56] Mouselaser killed SKG. Kawasakii with AWP
+[16:22:57] Sagos killed lasigma with AWP
+[16:23:06] SKG. Kawasakii killed Sagos with AWP
+[16:23:06] k¦SKG. Kawasakii¦100¦100
+[16:23:09] Mouselaser killed SKG. Kawasakii with AWP
+[16:23:16] BI.G | Smok3 killed ................... with AWP
+[16:23:16] lasigma killed BI.G | Smok3 with AWP
+[16:23:22] mW. Osego killed dream with AWP
+[16:23:22] mW. Osego killed Mouselaser with AWP
+[16:23:33] legend'S Server
+[16:23:33] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[16:23:33] Novidade: Use !block <id> para bloquear um usuário.
+[16:23:33] Novidade: Use !unblock <id> para debloquear um usuário.
+[16:23:33] U.S.G.N.: Ping/State 'playing'
+[16:23:37] dream killed SKG. Kawasakii with AWP
+[16:23:38] SKG. Kawasakii deixou o servidor
+[16:23:44] ................... killed dream with AWP
+[16:23:46] BI.G | Smok3 killed ................... with AWP
+[16:23:46] Sagos killed mW. Osego with AWP
+[16:23:49] Sagos killed lasigma with AWP
+[16:24:02] Mouselaser killed ................... with AWP
+[16:24:07] dream killed mW. Osego with AWP
+[16:24:10] lasigma killed Sagos with AWP
+[16:24:10] k¦lasigma¦100¦100
+[16:24:13] BI.G | Smok3 killed lasigma with AWP
+[16:24:22] Mouselaser killed lasigma with AWP
+[16:24:29] Sagos killed ................... with AWP
+[16:24:31] Mouselaser killed mW. Osego with AWP
+[16:24:33] legend'S Server
+[16:24:33] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[16:24:33] Novidade: Use !block <id> para bloquear um usuário.
+[16:24:33] Novidade: Use !unblock <id> para debloquear um usuário.
+[16:24:34] U.S.G.N.: Ping/State 'playing'
+[16:24:43] ................... killed Sagos with AWP
+[16:24:43] k¦...................¦100¦100
+[16:24:49] mW. Osego killed BI.G | Smok3 with AWP
+[16:24:50] Mouselaser killed lasigma with AWP
+[16:25:05] dream killed mW. Osego with AWP
+[16:25:10] ................... killed Mouselaser with AWP
+[16:25:11] dream killed ................... with AWP

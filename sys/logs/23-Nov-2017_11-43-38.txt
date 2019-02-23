@@ -1,0 +1,29 @@
+CS2D 1.0.0.5 Logfile - 23 Nov 2017, 11:43:38
+
+[11:43:38] #######################################################
+[11:43:38] Unreal Software's CS2D Dedicated Server
+[11:43:38] > visit www.CS2D.com for info and updates <
+[11:43:38] Game Version: 1.0.0.5
+[11:43:38] Server Build for 1.0.0.5: 1.0
+[11:43:38] System Time: 23 Nov 2017 - 11:43:38
+[11:43:38] Operating System: Microsoft Windows
+[11:43:38] #######################################################
+[11:43:38] UDP socket initialized using port 0
+[11:43:38] U.S.G.N.: Your game version is up to date!
+[11:43:38] starting server...
+[11:43:38] Stats: wrong userstats file format
+[11:43:38] load map 'Battle Royale'
+[11:43:38] ----- Server started -----
+[11:43:38] Lua: Adding function 'falar' to hook 'say'
+[11:43:38] Lua: Adding function 'segundos' to hook 'second'
+[11:43:38] Lua: Adding function 'coletar' to hook 'walkover'
+[11:43:38] Lua: Adding function 'atacar' to hook 'attack'
+[11:43:38] Lua: Adding function 'atacar2' to hook 'attack2'
+[11:43:38] Lua: Adding function 'teclas' to hook 'serveraction'
+[11:43:38] Lua: Adding function 'mymenu' to hook 'menu'
+[11:43:38] Lua: Adding function 'ataque' to hook 'hit'
+[11:43:38] Lua: Adding function 'dropar' to hook 'drop'
+[11:43:38] Lua: Adding function 'mover' to hook 'movetile'
+[11:43:39] U.S.G.N.: Server added to serverlist
+[11:44:25] U.S.G.N.: Serverlist entry updated
+[11:44:38] !!! Dedicated Server Shutdown !!!

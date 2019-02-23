@@ -1,0 +1,582 @@
+CS2D 1.0.0.7 Logfile - 01 Jan 2019, 12:34:12
+
+[12:34:12] Steam: Logged in as #76561198077078199
+[12:34:12] UDP socket initialized using port 52820
+[12:34:13] U.S.G.N.: Your game version is up to date!
+[12:34:13] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[12:34:15] Cached servers added to list: 178
+[12:34:15] U.S.G.N.: Received serverlist (servers: 89)
+[12:34:17] Connecting to 54.207.124.102:30259 (using U.S.G.N. ID #15431) ...
+[12:34:17] U.S.G.N.: Ping/State 'idle' (288 ms)
+[12:34:17] U.S.G.N.: Ping/State 'idle' (304 ms)
+[12:34:18] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[12:34:18] Checking 'weed.png': Does not exist. Request transfer!
+[12:34:18] Checking 'gfx/hats/weed.png': Already exists.
+[12:34:18] Requesting 1 file from server...
+[12:34:18] Downloading 'weed.png' from server...
+[12:34:18] ERROR: Failed to create directory '' for received files
+[12:34:18] load map 'awp_grey'
+[12:34:18] ----- Server joined -----
+[12:34:18] Bem vindo ao nosso servidor, Sagos!
+[12:34:18] Seu score total em nossa rede é 29/11 e sua patente é Recruta
+[12:34:19] U.S.G.N.: Ping/State 'playing'
+[12:34:20] skG. porvA' [Diamante II]: q vou ser lenda
+[12:34:21] Não e o loli [Diamante]: TUA NADA
+[12:34:21] Solstício [Ouro II]: SOU EU K7
+[12:34:21] skG. porvA' [Diamante II]: x1 eu e tu
+[12:34:22] Sagos aliou-se a Equipe Contra-Terrorista
+[12:34:22] skG. porvA' [Diamante II]: agora
+[12:34:23] legend'S Server
+[12:34:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:34:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:34:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:34:24] Solstício [Ouro II]: MINHA LOLI
+[12:34:24] skG. porvA' [Diamante II]: valendo lenda
+[12:34:25] legendS. sys [Lenda]: aí abrimos clã
+[12:34:25] skG. porvA' [Diamante II]: bora
+[12:34:26] Solstício [Ouro II]: DO KRL
+[12:34:26] skG. porvA' [Diamante II]: ?
+[12:34:28] Não e o loli [Diamante]: K GAI
+[12:34:29] Solstício [Ouro II]: mentira
+[12:34:32] Solstício [Ouro II]: tu n é loli
+[12:34:33] bloodWhite.+kpw [Ouro]: go knf?
+[12:34:34] Solstício [Ouro II]: nem mulher
+[12:34:35] Current FPS: 63, Buffer (unused cpu time per frame): 13 ms
+[12:34:38] Solstício [Ouro II]: é traveco sa porra aew
+[12:34:39] Não e o loli [Diamante]: tu nao tem provas
+[12:34:40] skG. porvA' [Diamante II]: bora sys?
+[12:34:42] Não e o loli [Diamante]: eu posso ser uma trap
+[12:34:43] skG. porvA' [Diamante II]: x1 valendo lenda?
+[12:34:43] Solstício [Ouro II]: claro q tem
+[12:34:48] Solstício [Ouro II]: TU É K-POPER
+[12:34:49] bloodWhite.+kpw killed legendS. sys with Knife
+[12:34:49] tcN/Boa!!! conectou-se ao servidor
+[12:34:50] Não e o loli [Diamante]: NAO
+[12:34:51] Solstício [Ouro II]: do krl
+[12:34:53] Solstício [Ouro II]: sua vgbd
+[12:34:54] Não e o loli [Diamante]: K POP E UMA MERDA
+[12:34:57] legendS. sys killed jogando no pc da padaria with AWP
+[12:34:58] Solstício [Ouro II]: ISSO MEU FI
+[12:35:03] Solstício [Ouro II]: K-POP É UM LIXO
+[12:35:05] Não e o loli [Diamante]: quem escuta k pop e gai
+[12:35:07] Solstício [Ouro II]: pior q minha vida
+[12:35:12] a.C. D a n i L o killed bloodWhite.+kpw with AWP
+[12:35:12] legendS. sys killed Solstício with Knife
+[12:35:14] intsv ! conectou-se ao servidor
+[12:35:16] bloodWhite.+kpw [Ouro]: ping ocilando
+[12:35:17] bloodWhite.+kpw [Ouro]: vtnc
+[12:35:19] Sagos killed skG. porvA' with AWP
+[12:35:20] U.S.G.N.: Ping/State 'playing'
+[12:35:21] skG. porvA' [Diamante II]: lag do krl
+[12:35:22] Solstício [Ouro II]: olha
+[12:35:23] legend'S Server
+[12:35:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:35:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:35:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:35:23] Solstício [Ouro II]: aqui
+[12:35:26] Solstício [Ouro II]: as construção
+[12:35:26] Não e o loli [Diamante]: porva ouve k pop pra krl ne nao seu viadao?
+[12:35:27] Solstício [Ouro II]: É PESADA
+[12:35:29] a.C. D a n i L o killed jogando no pc da padaria with AWP
+[12:35:29] skG. porvA' [Diamante II]: nao
+[12:35:31] Sagos killed Solstício with AWP
+[12:35:34] Não e o loli [Diamante]: a
+[12:35:35] skG. porvA' [Diamante II]: ta achando q sou o sgt?
+[12:35:36] skG. porvA' [Diamante II]: ta loco
+[12:35:36] legendS. sys killed skG. porvA' with AWP
+[12:35:37] tcN/Boa!!! aliou-se a Equipe Terrorista
+[12:35:37] Não e o loli [Diamante]: aoeiaeoi
+[12:35:39] Solstício [Ouro II]: KKKK
+[12:35:40] bloodWhite.+kpw killed a.C. D a n i L o with AWP
+[12:35:41] Solstício [Ouro II]: sgt
+[12:35:41] Sagos killed bloodWhite.+kpw with Knife
+[12:35:43] Solstício [Ouro II]: esculta kpop
+[12:35:45] bloodWhite.+kpw [Ouro]: porva ou
+[12:35:47] Solstício [Ouro II]: com vontade ocilando
+[12:35:50] Sagos killed tcN/Boa!!! with AWP
+[12:35:52] Solstício [Ouro II]: VONTADE DELE É MAIS D 8K
+[12:35:56] skG. porvA' killed a.C. D a n i L o with AWP
+[12:35:56] bloodWhite.+kpw [Ouro]: porva gosta de ver nude
+[12:36:01] bloodWhite.+kpw [Ouro]: dos negao da jamaica
+[12:36:02] skG. porvA' killed Sagos with Knife
+[12:36:02] k¦skG. porvA'¦100¦100
+[12:36:03] Não e o loli [Diamante]: quem nao gosta?
+[12:36:04] legendS. sys killed Solstício with Knife
+[12:36:07] skG. porvA' [Diamante II]: olha esse lag krkk
+[12:36:07] a.C. D a n i L o deixou o servidor
+[12:36:09] Solstício [Ouro II]: kkkkkk
+[12:36:09] skG. porvA' [Diamante II]: ainda matei os 2
+[12:36:09] Não e o loli [Diamante]: a nao pera e de negao
+[12:36:10] Solstício [Ouro II]: pora sys
+[12:36:11] Não e o loli [Diamante]: de negao nao
+[12:36:12] Solstício [Ouro II]: ai sim em
+[12:36:14] Solstício [Ouro II]: net 3g mode
+[12:36:15] Não e o loli [Diamante]: de trap sim
+[12:36:15] skG. porvA' killed Miaunye with AWP
+[12:36:20] U.S.G.N.: Ping/State 'playing'
+[12:36:23] legend'S Server
+[12:36:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:36:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:36:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:36:24] Solstício [Ouro II]: Loli
+[12:36:27] Não e o loli [Diamante]: nani?
+[12:36:27] Solstício [Ouro II]: cuidado com o negao
+[12:36:28] skG. porvA' [Diamante II]: sys
+[12:36:29] skG. porvA' [Diamante II]: mata eles
+[12:36:29] Solstício [Ouro II]: fiquei sabendo
+[12:36:32] skG. porvA' [Diamante II]: eu n vou t matar
+[12:36:33] Solstício [Ouro II]: que ele circula
+[12:36:35] skG. porvA' [Diamante II]: mata eles primeiro
+[12:36:36] Solstício [Ouro II]: as loli
+[12:36:40] Não e o loli [Diamante]: circula nada
+[12:36:43] legendS. sys killed jogando no pc da padaria with AWP
+[12:36:45] Solstício [Ouro II]: CIRCULA SIM PORRA
+[12:36:46] legendS. sys killed bloodWhite.+kpw with AWP
+[12:36:48] skG. porvA' [Diamante II]: bosa
+[12:36:50] a.C. Cøld'z conectou-se ao servidor
+[12:36:51] skG. porvA' [Diamante II]: boqa
+[12:36:53] skG. porvA' [Diamante II]: boa
+[12:36:53] Não e o loli [Diamante]: CIRCULA NADA
+[12:36:54] Solstício [Ouro II]: QUE CONTRARIAR O JORNAL NACIONAL?
+[12:36:56] skG. porvA' [Diamante II]: agora vem para morte bb
+[12:36:58] a.C. Cøld'z aliou-se a Equipe Contra-Terrorista
+[12:36:59] Não e o loli [Diamante]: O NEGAO SO COME A BUNDA DO ALMA
+[12:37:00] Solstício [Ouro II]: EM CUZAO
+[12:37:02] Solstício [Ouro II]: ah
+[12:37:05] Solstício [Ouro II]: tu tem razão
+[12:37:06] legendS. sys killed skG. porvA' with Knife
+[12:37:07] [DM] jogando no pc da padaria: vou te pegar
+[12:37:08] Solstício [Ouro II]: esther ficou sabendo
+[12:37:10] Solstício [Ouro II]: por isso
+[12:37:10] [DM] jogando no pc da padaria: sei onde tu mora
+[12:37:11] skG. porvA' [Diamante II]: atira fidaputa
+[12:37:11] bloodWhite.+kpw [Ouro]: mano,tem um mlk da Jamaica
+[12:37:12] Solstício [Ouro II]: que largou o alma
+[12:37:14] legendS. sys [Lenda]: KKKKKK
+[12:37:16] Solstício [Ouro II]: idai krl
+[12:37:18] skG. porvA' [Diamante II]: ué
+[12:37:19] intsv ! aliou-se a Equipe Contra-Terrorista
+[12:37:19] Não e o loli [Diamante]: aeoiaoai
+[12:37:20] Solstício [Ouro II]: deixa o jamaicano
+[12:37:21] U.S.G.N.: Ping/State 'playing'
+[12:37:21] bloodWhite.+kpw [Ouro]: q ele come o cu de quem ta lendo
+[12:37:22] skG. porvA' [Diamante II]: mas foi o alma q terminou '-'
+[12:37:23] legend'S Server
+[12:37:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:37:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:37:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:37:28] skG. porvA' killed Sagos with AWP
+[12:37:28] k¦skG. porvA'¦100¦100
+[12:37:29] [DM] jogando no pc da padaria: ta morto
+[12:37:30] Não e o loli [Diamante]: porra os cara zuando os jamaicanos
+[12:37:31] legendS. sys killed Solstício with AWP
+[12:37:33] skG. porvA' killed intsv ! with AWP
+[12:37:34] Solstício [Ouro II]: KKKKKK
+[12:37:34] a.C. Cøld'z killed bloodWhite.+kpw with AWP
+[12:37:34] a.C. Cøld'z killed jogando no pc da padaria with AWP
+[12:37:35] [DM] jogando no pc da padaria: se n abrir  sv
+[12:37:37] Solstício [Ouro II]: vou até sair
+[12:37:38] bloodWhite.+kpw [Ouro]: k
+[12:37:38] Solstício [Ouro II]: dps dessa
+[12:37:41] skG. porvA' killed Miaunye with AWP
+[12:37:42] Não e o loli [Diamante]: so pq eles tem uma pica do tamanho da minha cabeça
+[12:37:43] Solstício [Ouro II]: jogar
+[12:37:45] Solstício [Ouro II]: dead space
+[12:37:46] [DM] jogando no pc da padaria: entendeu sagos
+[12:37:47] bloodWhite.+kpw [Ouro]: KKKKKKKKKKKKKKKKKKKKKKKK
+[12:37:48] Solstício [Ouro II]: que eu ganho mais
+[12:37:49] a.C. Cøld'z killed skG. porvA' with AWP
+[12:37:50] Solstício [Ouro II]: KKKKKKKK
+[12:37:53] bloodWhite.+kpw [Ouro]: LOLI CEARENSE
+[12:37:54] skG. porvA' [Diamante II]: sknnnnnn
+[12:37:56] a.C. Cøld'z killed tcN/Boa!!! with AWP
+[12:37:57] skG. porvA' [Diamante II]: essi ka eni
+[12:37:58] a.C. Cøld'z: aooi
+[12:38:00] Solstício [Ouro II]: loli é nordestina
+[12:38:02] Solstício [Ouro II]: ela tlgd
+[12:38:02] Miaunye has been kicked for being idle
+[12:38:02] Miaunye deixou o servidor (expulsão por ausência)
+[12:38:03] Não e o loli [Diamante]: que nada
+[12:38:03] Solstício [Ouro II]: em pika
+[12:38:09] skG. porvA' [Diamante II]: 4ace e mais massa
+[12:38:15] a.C. Cøld'z: 4ace joga mt
+[12:38:18] Sagos killed skG. porvA' with AWP
+[12:38:18] Não e o loli [Diamante]: sou portugues de portugal
+[12:38:19] legendS. sys killed bloodWhite.+kpw with AWP
+[12:38:19] legendS. sys killed Solstício with AWP
+[12:38:21] Solstício [Ouro II]: ASLDIUDWAS
+[12:38:21] U.S.G.N.: Ping/State 'playing'
+[12:38:21] Solstício deixou o servidor
+[12:38:22] skG. porvA' [Diamante II]: verdade
+[12:38:23] legend'S Server
+[12:38:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:38:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:38:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:38:24] legendS. sys killed jogando no pc da padaria with AWP
+[12:38:24] skG. porvA' deixou o servidor
+[12:38:26] intsv ! killed tcN/Boa!!! with AWP
+[12:38:26] Não e o loli [Diamante]: voce nao percebe o meu sutaki?
+[12:38:29] Não e o loli [Diamante]: zutaque
+[12:38:30] skG. porvA' conectou-se ao servidor
+[12:38:30] bloodWhite.+kpw [Ouro]: loli mamador de pau
+[12:38:34] skG. porvA' aliou-se a Equipe Terrorista
+[12:38:34] Não e o loli [Diamante]: e o alma
+[12:38:41] legendS. sys killed skG. porvA' with AWP
+[12:38:43] skG. porvA' [Diamante II]: porra
+[12:38:43] legendS. sys killed jogando no pc da padaria with AWP
+[12:38:44] iL. tQv is graphicS conectou-se ao servidor
+[12:38:45] skG. porvA' [Diamante II]: sys
+[12:38:45] Sagos killed tcN/Boa!!! with AWP
+[12:38:48] Sagos killed bloodWhite.+kpw with AWP
+[12:38:50] legendS. sys [Lenda]: q
+[12:38:51] legendS. sys [Lenda]: kkkk
+[12:38:52] iL. tQv is graphicS aliou-se a Equipe Terrorista
+[12:38:52] bloodWhite.+kpw [Ouro]: pqp
+[12:38:54] skG. porvA' [Diamante II]: m matou
+[12:38:56] bloodWhite.+kpw [Ouro]: ta ocilando
+[12:38:58] bloodWhite.+kpw [Ouro]: o ping
+[12:39:04] skG. porvA' killed Sagos with AWP
+[12:39:04] k¦skG. porvA'¦100¦100
+[12:39:05] a.C. Cøld'z killed jogando no pc da padaria with AWP
+[12:39:05] a.C. Cøld'z killed skG. porvA' with AWP
+[12:39:05] a.C. Cøld'z killed iL. tQv is graphicS with AWP
+[12:39:07] skG. porvA' [Diamante II]: q
+[12:39:07] legendS. sys killed bloodWhite.+kpw with AWP
+[12:39:09] intsv ! killed tcN/Boa!!! with AWP
+[12:39:10] bloodWhite.+kpw deixou o servidor
+[12:39:12] iL. tQv is graphicS [Ouro II]: kwp ruim
+[12:39:14] skG. porvA' [Diamante II]: ta cagando bem em skn
+[12:39:15] iL. tQv is graphicS [Ouro II]: correu de cima
+[12:39:19] bloodWhite.+kpw conectou-se ao servidor
+[12:39:20] Não e o loli [Diamante]: que nome e esse ai nova?
+[12:39:22] U.S.G.N.: Ping/State 'playing'
+[12:39:22] a.C. Cøld'z killed tcN/Boa!!! with AWP
+[12:39:23] legend'S Server
+[12:39:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:39:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:39:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:39:25] jogando no pc da padaria killed legendS. sys with AWP
+[12:39:25] intsv ! killed skG. porvA' with AWP
+[12:39:25] bloodWhite.+kpw aliou-se a Equipe Contra-Terrorista
+[12:39:27] legendS. sys [Lenda]: ?qp
+[12:39:27] a.C. Cøld'z [Bronze]: comprei fone novo
+[12:39:27] jogando no pc da padaria killed Sagos with AWP
+[12:39:27] k¦jogando no pc da padaria¦100¦100
+[12:39:28] legendS. sys [Lenda]: pqp
+[12:39:28] bloodWhite.+kpw [Ouro]: mano
+[12:39:30] Sagos deixou o servidor
+[12:39:30] Disconnect Reason: Client request (Code 0)
+[12:39:30] ----- Disconnected -----
+[12:39:31] U.S.G.N.: Ping/State 'idle' (288 ms)
+[12:40:31] "  (1x)
+[12:41:10] Cached servers added to list: 178
+[12:41:10] U.S.G.N.: Received serverlist (servers: 88)
+[12:41:11] Connecting to 54.207.124.102:30259 (using U.S.G.N. ID #15431) ...
+[12:41:12] U.S.G.N.: Ping/State 'idle' (288 ms)
+[12:41:12] "  (1x)
+[12:41:12] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[12:41:12] Checking 'weed.png': Does not exist. Request transfer!
+[12:41:12] Checking 'gfx/hats/weed.png': Already exists.
+[12:41:12] Requesting 1 file from server...
+[12:41:12] Downloading 'weed.png' from server...
+[12:41:13] ERROR: Failed to create directory '' for received files
+[12:41:13] load map 'awp_grey'
+[12:41:13] ----- Server joined -----
+[12:41:13] Bem vindo ao nosso servidor, Sagos!
+[12:41:13] Seu score total em nossa rede é 36/15 e sua patente é Recruta
+[12:41:14] U.S.G.N.: Ping/State 'playing'
+[12:41:14] Não e o loli [Diamante]: nao
+[12:41:15] legendS. sys [Lenda]: testa
+[12:41:16] Sagos aliou-se a Equipe Terrorista
+[12:41:16] legendS. sys [Lenda]: ai
+[12:41:16] jogando no pc da padaria *MORTO*: n aguento mais ler isso
+[12:41:18] jogando no pc da padaria *MORTO*: mt cringe
+[12:41:22] bloodWhite.+kpw killed iL. tQv is graphicS with AWP
+[12:41:23] legend'S Server
+[12:41:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:41:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:41:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:41:23] legendS. sys [Lenda]: .!block id
+[12:41:36] Não e o loli [Diamante]: aproveita e da !rs Y
+[12:41:39] intsv ! killed Sagos with AWP
+[12:41:39] k¦intsv !¦100¦0
+[12:41:41] Não e o loli [Diamante]: que e pra resetar o frag
+[12:41:46] bloodWhite.+kpw [Ouro]: ./block 7
+[12:41:47] Não e o loli [Diamante]: automaticamente quando ficar nega
+[12:41:49] bloodWhite.+kpw [Ouro]: KKKKKKK
+[12:41:57] jogando no pc da padaria: n funciona
+[12:41:58] a.C. Cøld'z killed jogando no pc da padaria with AWP
+[12:41:58] iL. tQv is graphicS killed intsv ! with AWP
+[12:42:09] legendS. sys killed iL. tQv is graphicS with AWP
+[12:42:09] bloodWhite.+kpw killed tcN/Boa!!! with AWP
+[12:42:14] U.S.G.N.: Ping/State 'playing'
+[12:42:17] bloodWhite.+kpw [Ouro]: só funciona
+[12:42:23] legend'S Server
+[12:42:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:42:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:42:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:42:23] legendS. sys killed tcN/Boa!!! with Knife
+[12:42:24] Sagos killed intsv ! with AWP
+[12:42:26] bloodWhite.+kpw [Ouro]: quando eu como o cu de quem ta lendo
+[12:42:37] Sagos killed bloodWhite.+kpw with Knife
+[12:42:40] a.C. Cøld'z killed jogando no pc da padaria with AWP
+[12:42:40] iL. tQv is graphicS killed a.C. Cøld'z with AWP
+[12:42:50] Sagos killed legendS. sys with Knife
+[12:42:50] Não e o loli [Diamante]: me da seu cu
+[12:42:53] legendS. sys [Lenda]: perdi double
+[12:42:54] legendS. sys [Lenda]: tnc
+[12:42:56] bloodWhite.+kpw [Ouro]: ate o cu?
+[12:43:01] jogando no pc da padaria: ate minha familia
+[12:43:02] a.C. Cøld'z killed jogando no pc da padaria with AWP
+[12:43:04] Sagos killed intsv ! with AWP
+[12:43:05] iL. tQv is graphicS killed a.C. Cøld'z with AWP
+[12:43:05] bloodWhite.+kpw [Ouro]: pqp
+[12:43:08] Não e o loli [Diamante]: entao quero o cu da sua mae
+[12:43:08] legendS. sys killed Sagos with AWP
+[12:43:08] k¦legendS. sys¦100¦100
+[12:43:10] iL. tQv is graphicS killed legendS. sys with AWP
+[12:43:13] bloodWhite.+kpw [Ouro]: me da o cu da tua prima
+[12:43:14] U.S.G.N.: Ping/State 'playing'
+[12:43:18] a.C. Cøld'z [Bronze]: caralho
+[12:43:21] a.C. Cøld'z [Bronze]: que saudade sagos
+[12:43:23] legend'S Server
+[12:43:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:43:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:43:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:43:23] bloodWhite.+kpw killed iL. tQv is graphicS with AWP
+[12:43:23] bloodWhite.+kpw killed tcN/Boa!!! with AWP
+[12:43:26] bloodWhite.+kpw [Ouro]: caralho
+[12:43:26] a.C. Cøld'z [Bronze]: atualiza o control core
+[12:43:28] a.C. Cøld'z [Bronze]: ta precisano
+[12:43:28] jogando no pc da padaria: humor sou adotado k.k.k.j
+[12:43:29] Sagos: eae mano \o
+[12:43:34] jogando no pc da padaria killed intsv ! with AWP
+[12:43:35] bloodWhite.+kpw killed iL. tQv is graphicS with AWP
+[12:43:37] iL. tQv is graphicS [Ouro II]: PQP
+[12:43:37] intsv ! deixou o servidor
+[12:43:38] a.C. Cøld'z killed jogando no pc da padaria with AWP
+[12:43:38] iL. tQv is graphicS [Ouro II]: kwp
+[12:43:41] iL. tQv is graphicS [Ouro II]: arruma essa net
+[12:43:42] bloodWhite.+kpw [Ouro]: ola
+[12:43:42] intsv ! conectou-se ao servidor
+[12:43:42] a.C. Cøld'z [Bronze]: largou pq bro ?
+[12:43:43] iL. tQv is graphicS [Ouro II]: de merda
+[12:43:44] bloodWhite.+kpw [Ouro]: vtnc
+[12:43:45] intsv ! aliou-se a Equipe Contra-Terrorista
+[12:43:46] Sagos killed legendS. sys with AWP
+[12:43:49] bloodWhite.+kpw [Ouro]: aceita q morreu
+[12:43:51] bloodWhite.+kpw killed tcN/Boa!!! with AWP
+[12:43:51] Sagos: eu to no cs go
+[12:43:51] iL. tQv is graphicS [Ouro II]: pqp
+[12:43:52] tcN/Boa!!! [Prata II]: ?
+[12:43:53] iL. tQv is graphicS [Ouro II]: lagado
+[12:43:54] a.C. Cøld'z killed Sagos with AWP
+[12:43:54] k¦a.C. Cøld'z¦100¦100
+[12:43:54] iL. tQv is graphicS [Ouro II]: da porra
+[12:43:56] a.C. Cøld'z [Bronze]: saquei
+[12:43:57] tcN/Boa!!! [Prata II]: dasawd
+[12:44:04] bloodWhite.+kpw killed tcN/Boa!!! with AWP
+[12:44:05] iL. tQv is graphicS [Ouro II]: ala
+[12:44:08] iL. tQv is graphicS [Ouro II]: slow
+[12:44:09] Sagos killed intsv ! with AWP
+[12:44:12] a.C. Cøld'z [Bronze]: 2d ta uma porra memo
+[12:44:14] bloodWhite.+kpw [Ouro]: mata mas nn quer morrer
+[12:44:15] U.S.G.N.: Ping/State 'playing'
+[12:44:17] iL. tQv is graphicS [Ouro II]: mds cara
+[12:44:17] bloodWhite.+kpw [Ouro]: tome no cu
+[12:44:19] iL. tQv is graphicS [Ouro II]: lagado
+[12:44:21] tcN/Boa!!! votou pela expulsão de jogando no pc da padaria
+[12:44:23] legend'S Server
+[12:44:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:44:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:44:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:44:25] iL. tQv is graphicS killed bloodWhite.+kpw with AWP
+[12:44:25] a.C. Cøld'z killed Sagos with AWP
+[12:44:25] k¦a.C. Cøld'z¦100¦100
+[12:44:28] bloodWhite.+kpw [Ouro]: hauaahnauahahau
+[12:44:28] Sk. iKinze conectou-se ao servidor
+[12:44:29] iL. tQv is graphicS killed a.C. Cøld'z with AWP
+[12:44:30] Sk. iKinze conectou-se ao servidor
+[12:44:30] bloodWhite.+kpw [Ouro]: pronto
+[12:44:31] iL. tQv is graphicS killed legendS. sys with AWP
+[12:44:34] a.C. Cøld'z [Bronze]: ta
+[12:44:35] bloodWhite.+kpw [Ouro]: me mato
+[12:44:35] Sk. iKinze aliou-se a Equipe Terrorista
+[12:44:36] a.C. Cøld'z [Bronze]: nunca mais
+[12:44:38] bloodWhite.+kpw [Ouro]: matou
+[12:44:38] jogando no pc da padaria: se conseguir arrumar system
+[12:44:40] bloodWhite.+kpw [Ouro]: pnc
+[12:44:40] jogando no pc da padaria: deus
+[12:44:41] iL. tQv is graphicS died
+[12:44:41] iL. tQv is graphicS tornou-se um espectador
+[12:44:54] Sagos killed legendS. sys with AWP
+[12:44:56] a.C. Cøld'z killed tcN/Boa!!! with AWP
+[12:44:57] Sagos killed intsv ! with Knife
+[12:45:04] bloodWhite.+kpw killed Sagos with AWP
+[12:45:04] k¦bloodWhite.+kpw¦100¦100
+[12:45:06] a.C. Cøld'z killed jogando no pc da padaria with AWP
+[12:45:08] tcN/Boa!!! [Prata II]: ''''''''''''''''''''''''''''''''''''''''''''''''_'
+[12:45:09] legendS. sys [Lenda]: kpw sangrou mt
+[12:45:13] bloodWhite.+kpw [Ouro]: seu anus
+[12:45:15] U.S.G.N.: Ping/State 'playing'
+[12:45:16] Sk. iKinze killed bloodWhite.+kpw with AWP
+[12:45:19] legendS. sys [Lenda]: pra um crl
+[12:45:22] bloodWhite.+kpw [Ouro]: se ai apareceu
+[12:45:23] legend'S Server
+[12:45:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:45:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:45:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:45:23] tcN/Boa!!! (Equipe) *MORTO*: ''''''''''''''_''''''''''''''''''
+[12:45:25] Não e o loli [Diamante]: CULPA DO ADM
+[12:45:27] Current FPS: 63, Buffer (unused cpu time per frame): 12 ms
+[12:45:27] bloodWhite.+kpw [Ouro]: aqui nn apareceu
+[12:45:32] Não e o loli [Diamante]: ADM SAFADO
+[12:45:36] Sk. iKinze killed a.C. Cøld'z with AWP
+[12:45:37] tcN/Boa!!! [Prata II]: ?
+[12:45:37] Mark(Zombie) conectou-se ao servidor
+[12:45:43] Mark(Zombie) aliou-se a Equipe Terrorista
+[12:45:43] iL. tQv is graphicS aliou-se a Equipe Terrorista
+[12:45:53] Sagos killed intsv ! with Knife
+[12:45:54] jogando no pc da padaria: SOCORRO
+[12:45:55] Não e o loli [Diamante]: A NAO
+[12:45:55] a.C. Cøld'z killed Mark(Zombie) with AWP
+[12:45:56] jogando no pc da padaria killed bloodWhite.+kpw with AWP
+[12:45:57] Não e o loli [Diamante]: OS 2 ERRARAM
+[12:46:00] Sagos killed legendS. sys with Knife
+[12:46:01] bloodWhite.+kpw [Ouro]: ala fingindo afk
+[12:46:02] legendS. sys [Lenda]: mds
+[12:46:05] jogando no pc da padaria: afk se mexendo
+[12:46:08] a.C. Cøld'z killed Sagos with AWP
+[12:46:08] k¦a.C. Cøld'z¦100¦100
+[12:46:08] bloodWhite.+kpw [Ouro]: ue
+[12:46:08] jogando no pc da padaria: boa
+[12:46:08] intsv ! deixou o servidor
+[12:46:10] intsv ! conectou-se ao servidor
+[12:46:10] a.C. Cøld'z killed tcN/Boa!!! with AWP
+[12:46:12] jogando no pc da padaria killed a.C. Cøld'z with AWP
+[12:46:12] tcN/Boa!!! [Prata II]: ¡
+[12:46:12] bloodWhite.+kpw [Ouro]: vc só se mexeu
+[12:46:13] intsv ! aliou-se a Equipe Contra-Terrorista
+[12:46:14] jogando no pc da padaria: ent
+[12:46:16] jogando no pc da padaria: n to afk
+[12:46:16] U.S.G.N.: Ping/State 'playing'
+[12:46:17] * Auto Teambalance *
+[12:46:17] Mark(Zombie) aliou-se a Equipe Contra-Terrorista
+[12:46:18] bloodWhite.+kpw [Ouro]: quando cheguei perto
+[12:46:23] legend'S Server
+[12:46:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:46:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:46:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:46:23] Não e o loli [Diamante]: como um afk se move?
+[12:46:25] intsv ! killed Sk. iKinze with AWP
+[12:46:25] jogando no pc da padaria: eu tava movendo meu mouse
+[12:46:26] Mark(Zombie): YT
+[12:46:27] Sk. iKinze deixou o servidor
+[12:46:28] Não e o loli [Diamante]: sendo que ele nao fica mais afk
+[12:46:29] jogando no pc da padaria: n tava afk
+[12:46:30] Não e o loli [Diamante]: quando ele se move
+[12:46:31] Sagos killed Mark(Zombie) with Knife
+[12:46:34] Sagos killed intsv ! with AWP
+[12:46:34] jogando no pc da padaria killed a.C. Cøld'z with AWP
+[12:46:36] tcN/Boa!!! killed bloodWhite.+kpw with AWP
+[12:46:37] Sagos killed legendS. sys with AWP
+[12:46:38] bloodWhite.+kpw [Ouro]: a
+[12:46:38] Mark(Zombie) has been kicked. Ping too high (305).
+[12:46:38] Mark(Zombie) deixou o servidor (ping muito alto)
+[12:46:54] legendS. sys killed Sagos with AWP
+[12:46:54] k¦legendS. sys¦100¦100
+[12:47:03] legendS. sys [Lenda]: eae nova
+[12:47:03] iL. tQv is graphicS killed intsv ! with Knife
+[12:47:08] iL. tQv is graphicS killed legendS. sys with AWP
+[12:47:10] bloodWhite.+kpw killed iL. tQv is graphicS with AWP
+[12:47:11] Não e o loli [Diamante]: nova jogando muita
+[12:47:13] legendS. sys [Lenda]: kpw idiota
+[12:47:13] Não e o loli [Diamante]: muito
+[12:47:15] Não e o loli [Diamante]: muto
+[12:47:15] legendS. sys [Lenda]: atirou baixo
+[12:47:16] bloodWhite.+kpw [Ouro]: oq?
+[12:47:16] U.S.G.N.: Ping/State 'playing'
+[12:47:18] legendS. sys [Lenda]: achei q era tr
+[12:47:23] bloodWhite.+kpw [Ouro]: VTNC
+[12:47:23] legend'S Server
+[12:47:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:47:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:47:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:47:24] legendS. sys [Lenda]: fui rush
+[12:47:25] legendS. sys [Lenda]: no nova
+[12:47:26] legendS. sys [Lenda]: morri
+[12:47:27] iL. tQv is graphicS [Ouro II]: kct afk
+[12:47:28] bloodWhite.+kpw [Ouro]: SE CALA SYSTEM
+[12:47:29] a.C. Cøld'z killed jogando no pc da padaria with AWP
+[12:47:29] Não e o loli [Diamante]: nova tu e uma menina nao e?
+[12:47:31] legendS. sys [Lenda]: imbecil
+[12:47:41] Não e o loli [Diamante]: quer webnamorar comigo nova?
+[12:47:52] tcN/Boa!!! killed bloodWhite.+kpw with AWP
+[12:47:54] legendS. sys [Lenda]: olha esse kpw
+[12:47:54] tcN/Boa!!! killed a.C. Cøld'z with AWP
+[12:47:56] bloodWhite.+kpw [Ouro]: HAUAAHAHAUAAHAH
+[12:47:57] bloodWhite.+kpw [Ouro]: MANO
+[12:47:57] Não e o loli [Diamante]: fdp me deixando no vacuo
+[12:48:00] bloodWhite.+kpw [Ouro]: CALA A BOCA
+[12:48:04] bloodWhite.+kpw [Ouro]: E CHUPE MEU PAU
+[12:48:05] tcN/Boa!!! died
+[12:48:05] tcN/Boa!!! tornou-se um espectador
+[12:48:09] Sagos killed intsv ! with Knife
+[12:48:10] legendS. sys killed Sagos with Knife
+[12:48:10] k¦legendS. sys¦100¦100
+[12:48:10] iL. tQv is graphicS killed a.C. Cøld'z with AWP
+[12:48:11] intsv ! [Prata II]: q
+[12:48:11] Não e o loli [Diamante]: pau e o krl
+[12:48:13] iL. tQv is graphicS killed legendS. sys with AWP
+[12:48:13] intsv ! [Prata II]: kkkkkkkkkk
+[12:48:14] legendS. sys [Lenda]: mds
+[12:48:16] Não e o loli [Diamante]: bagulho e genitalha masculina
+[12:48:17] U.S.G.N.: Ping/State 'playing'
+[12:48:18] iL. tQv is graphicS killed bloodWhite.+kpw with AWP
+[12:48:20] Não e o loli [Diamante]: reprodutora
+[12:48:21] legendS. sys [Lenda]: nova fdp
+[12:48:23] legend'S Server
+[12:48:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:48:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:48:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:48:24] bloodWhite.+kpw [Ouro]: KKKKKKKKKK
+[12:48:30] intsv ! killed Sagos with AWP
+[12:48:30] k¦intsv !¦100¦100
+[12:48:32] Não e o loli [Diamante]: seja um homem de classe
+[12:48:32] intsv ! killed iL. tQv is graphicS with AWP
+[12:48:34] iL. tQv is graphicS [Ouro II]: errei
+[12:48:34] iL. tQv is graphicS deixou o servidor
+[12:48:35] Não e o loli [Diamante]: seu homoafeminado
+[12:48:38] intsv ! killed jogando no pc da padaria with AWP
+[12:48:42] tcN/Boa!!! aliou-se a Equipe Terrorista
+[12:48:52] legendS. sys killed Sagos with AWP
+[12:48:52] k¦legendS. sys¦100¦100
+[12:48:53] jogando no pc da padaria killed a.C. Cøld'z with AWP
+[12:48:54] intsv ! killed tcN/Boa!!! with AWP
+[12:48:55] legendS. sys killed jogando no pc da padaria with AWP
+[12:48:55] tcN/Boa!!! [Prata II]: ?
+[12:48:58] Não e o loli [Diamante]: ?
+[12:49:05] Sk. iKinze conectou-se ao servidor
+[12:49:06] "  (1x)
+[12:49:07] jogando no pc da padaria killed a.C. Cøld'z with AWP
+[12:49:07] jogando no pc da padaria killed legendS. sys with AWP
+[12:49:08] Sk. iKinze aliou-se a Equipe Terrorista
+[12:49:08] legendS. sys [Lenda]: q
+[12:49:12] Sagos killed intsv ! with Knife
+[12:49:13] a.C. Cøld'z [Bronze]: n para o rush
+[12:49:16] a.C. Cøld'z [Bronze]: pq apareceu um nego
+[12:49:16] jogando no pc da padaria killed bloodWhite.+kpw with AWP
+[12:49:17] U.S.G.N.: Ping/State 'playing'
+[12:49:17] a.C. Cøld'z [Bronze]: é regra
+[12:49:19] intsv ! [Prata II]: sangro q vi
+[12:49:20] intsv ! [Prata II]: jkkkkkkkk
+[12:49:21] bloodWhite.+kpw [Ouro]: FELA DA PUTS
+[12:49:21] legendS. sys [Lenda]: tiro varou
+[12:49:23] legend'S Server
+[12:49:23] Novidade: Use !ID <msg> para enviar mensagens diretas.
+[12:49:23] Novidade: Use !block <id> para bloquear um usuário.
+[12:49:23] Novidade: Use !unblock <id> para debloquear um usuário.
+[12:49:27] a.C. Cøld'z killed Sagos with AWP
+[12:49:27] k¦a.C. Cøld'z¦100¦100
+[12:49:29] jogando no pc da padaria killed intsv ! with AWP
+[12:49:30] Sk. iKinze killed legendS. sys with AWP

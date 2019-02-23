@@ -1,0 +1,657 @@
+CS2D 1.0.0.5 Logfile - 16 Nov 2017, 01:20:57
+
+[01:20:57] UDP socket initialized using port 36963
+[01:20:57] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[01:20:57] U.S.G.N.: Ping/State 'playing'
+[01:20:58] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[01:21:00] U.S.G.N.: Received serverlist (servers: 145)
+[01:21:01] Connecting to 181.41.197.41:36963...
+[01:21:01] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[01:21:03] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:21:03] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:21:03] "  (1x)
+[01:21:03] load map 'de_cs2d'
+[01:21:04] ----- Server joined -----
+[01:21:04] Conta Conectada com Sucesso!
+[01:21:04] Bem vindo Sagos.
+[01:21:05] U.S.G.N.: Ping/State 'playing'
+[01:21:06] Sagos juntou-se a Terrorista Forças
+[01:21:10] Paulo Henrique: OLHA
+[01:21:13] Paulo Henrique: dx eu digitar primeiro
+[01:21:16] Paulo Henrique: test
+[01:21:18] Paulo Henrique: pronto
+[01:21:19] Paulo Henrique: aperta f2
+[01:21:24] Sagos: vazio
+[01:21:25] Paulo Henrique: blz
+[01:21:27] Paulo Henrique: digita test ae
+[01:21:31] Sagos: test
+[01:21:31] items equipados no seu inventario
+[01:21:34] Paulo Henrique: funfo?
+[01:21:35] pL. null' Cloud9 conectou-se
+[01:21:39] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[01:21:43] Sagos: s
+[01:21:46] Paulo Henrique: aee
+[01:21:50] Paulo Henrique: inv
+[01:21:50] pL. null' Cloud9: agr s
+[01:21:54] Paulo Henrique: digita test
+[01:21:56] Paulo Henrique: cloud9
+[01:22:01] pL. null' Cloud9: test
+[01:22:03] Paulo Henrique: vou chamar o smoker
+[01:22:04] Paulo Henrique: aq
+[01:22:04] Paulo Henrique: pera
+[01:22:05] U.S.G.N.: Ping/State 'playing'
+[01:22:10] pL. null' Cloud9: apareceu
+[01:22:24] pL. null' Cloud9: Kit Medico 100% HP
+[01:22:34] pL. null' Cloud9: Kit Medico 70%
+[01:22:42] pL. null' Cloud9: Ainda n tem uso
+[01:22:45] Paulo Henrique: nao
+[01:22:45] pL. null' Cloud9: ?
+[01:22:47] pL. null' Cloud9: ok
+[01:22:52] pL. null' Cloud9: adas
+[01:23:02] Paulo Henrique: vou fazer agr
+[01:23:05] pL. null' Cloud9: Perai
+[01:23:06] U.S.G.N.: Ping/State 'playing'
+[01:23:07] Paulo Henrique: oq vc acha melhor
+[01:23:10] Paulo Henrique: o kit medico
+[01:23:11] Paulo Henrique: qd clicar
+[01:23:12] Paulo Henrique: ele dropa
+[01:23:13] Paulo Henrique: ou
+[01:23:15] Paulo Henrique: ele equipa ja
+[01:23:20] pL. null' Cloud9: Vai colocar o tempo na tela ?
+[01:23:21] Sagos: quando achar
+[01:23:23] Paulo Henrique: vo
+[01:23:24] Sagos: ele vai pro inventario
+[01:23:25] pL. null' Cloud9: Tipo qnd ta curando
+[01:23:26] pL. null' Cloud9: ?
+[01:23:26] Sagos: tendeu?
+[01:23:31] Paulo Henrique: mais tem q encostar ne
+[01:23:34] Sagos: ss
+[01:23:38] Paulo Henrique: mais ai pra usar
+[01:23:39] Sagos: ai vai pro seu inventario
+[01:23:39] Paulo Henrique: e so clicar ne
+[01:23:44] Paulo Henrique died
+[01:23:44] Sagos died
+[01:23:44] pL. null' Cloud9 died
+[01:23:46] pL. null' Cloud9: ksdask
+[01:23:52] Sagos: mas só vai pro inventario se vc tiver
+[01:23:55] Sagos: espaço na mochila
+[01:23:59] Paulo Henrique: s
+[01:23:59] pL. null' Cloud9: Else
+[01:24:00] pL. null' Cloud9: kasd
+[01:24:06] U.S.G.N.: Ping/State 'playing'
+[01:24:14] Sagos: se n continua no chao
+[01:24:18] pL. null' Cloud9: S
+[01:24:20] Sagos: dps pra usar só clicar ali no menu
+[01:24:20] pL. null' Cloud9: BOA
+[01:24:33] Paulo Henrique: if len(inventory) ~= 5 then
+[01:24:33] pL. null' Cloud9: TA sagos agr me fala
+[01:24:34] Paulo Henrique: kk
+[01:24:38] Sagos: ai leva 8 segundo pra se curar
+[01:24:41] pL. null' Cloud9: VAI TER MENU?
+[01:24:44] Sagos: e se vc andar durante os 8 seg
+[01:24:45] Sagos: cancela
+[01:24:46] pL. null' Cloud9: VISUALUA
+[01:24:49] pL. null' Cloud9: ?
+[01:24:58] pL. null' Cloud9: Ou Vai entrar no server e começa?
+[01:25:07] U.S.G.N.: Ping/State 'playing'
+[01:25:09] Sagos: vai entrar no sv e ir direto pro lobby
+[01:25:14] pL. null' Cloud9: Hm
+[01:25:16] Sagos: se tiver player em jogo vai ter q espera
+[01:25:23] Sagos: la no lobby ou em spec
+[01:25:28] pL. null' Cloud9: E o sistema de maximo de jogador?
+[01:25:30] pL. null' Cloud9: vai ter
+[01:25:35] Sagos: o maximo é 32
+[01:25:39] Sagos: cs2d n dx mais q isso
+[01:25:39] pL. null' Cloud9: tipo 20/20 começa
+[01:25:42] pL. null' Cloud9: se tiver menos
+[01:25:43] pL. null' Cloud9: n começa
+[01:25:47] Sagos: acho q se tiver 10 ja começa
+[01:25:54] pL. null' Cloud9: Hm
+[01:25:55] Sagos: melhor né?
+[01:25:59] pL. null' Cloud9: Automatico
+[01:26:04] Sagos: ss sempre automatico
+[01:26:06] Paulo Henrique: mano essa vps e foda
+[01:26:07] Paulo Henrique: olha oping
+[01:26:07] U.S.G.N.: Ping/State 'playing'
+[01:26:07] pL. null' Cloud9: Deu 10 player
+[01:26:09] pL. null' Cloud9: ja foi
+[01:26:16] Sagos: tipo tem 10 player
+[01:26:22] pL. null' Cloud9 has been kicked for being idle
+[01:26:22] pL. null' Cloud9 deixou o jogo (idle kikou)
+[01:26:24] Sagos: começa uma contagem de 1 minuto
+[01:26:25] Paulo Henrique: kkk
+[01:26:31] pL. null' Cloud9 conectou-se
+[01:26:32] Sagos: pra da tempo de entra mais player
+[01:26:34] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[01:26:42] Sagos has been kicked for being idle
+[01:26:42] Sagos deixou o jogo (idle kikou)
+[01:26:42] Disconnect Reason: Kikado - Idle (Code 18)
+[01:26:42] ----- Disconnected -----
+[01:26:42] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:26:45] U.S.G.N.: Received serverlist (servers: 139)
+[01:26:45] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:26:46] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:26:46] "  (1x)
+[01:26:48] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:26:48] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:26:48] "  (1x)
+[01:26:48] load map 'de_cs2d'
+[01:26:48] ----- Server joined -----
+[01:26:48] Conta Conectada com Sucesso!
+[01:26:48] Bem vindo Sagos.
+[01:26:49] U.S.G.N.: Ping/State 'playing'
+[01:26:49] Sagos juntou-se a Terrorista Forças
+[01:26:50] pL. null' Cloud9: idle
+[01:26:52] Sagos: continuando kk
+[01:27:02] Sagos: quando o tempo zera e tiver +10 player
+[01:27:04] Sagos: vai começar
+[01:27:09] Sagos: c n o contador pausa
+[01:27:12] Sagos: reseta*
+[01:27:18] pL. null' Cloud9: Outra ideia pq n fazer um outro server
+[01:27:19] pL. null' Cloud9: com
+[01:27:24] pL. null' Cloud9: modo SQUAD
+[01:27:26] pL. null' Cloud9: '.'
+[01:27:37] Sagos: eu tava pensando em os players do lobby
+[01:27:44] Sagos: escolher entre squad solo e duo
+[01:27:49] Sagos: fazer votação
+[01:27:49] U.S.G.N.: Ping/State 'playing'
+[01:27:53] Paulo Henrique: pq nao fazer
+[01:27:56] Paulo Henrique: um servetr
+[01:27:57] pL. null' Cloud9: Faz
+[01:27:58] Paulo Henrique: so pra lobby
+[01:27:58] pL. null' Cloud9: Tipo
+[01:28:03] Paulo Henrique: ai ele conecta aq qd tiver vaga kk
+[01:28:05] pL. null' Cloud9: Abre um BETA TEST
+[01:28:08] pL. null' Cloud9: sem squad
+[01:28:11] pL. null' Cloud9: enquanto isso
+[01:28:16] pL. null' Cloud9: vai produzindo o squad
+[01:28:22] pL. null' Cloud9: Dps é só att
+[01:28:25] Paulo Henrique: em
+[01:28:28] Paulo Henrique: da pra faze um server
+[01:28:29] Paulo Henrique: so pra lobby
+[01:28:32] pL. null' Cloud9: Ss
+[01:28:36] pL. null' Cloud9: e transferir
+[01:28:38] pL. null' Cloud9: :D
+[01:28:42] pL. null' Cloud9: Boa ideia
+[01:28:42] Paulo Henrique: mais ai
+[01:28:43] Paulo Henrique: envolve
+[01:28:46] Paulo Henrique: python tbm
+[01:28:47] Paulo Henrique: ou c
+[01:28:48] Paulo Henrique: c#
+[01:28:49] U.S.G.N.: Ping/State 'playing'
+[01:28:52] pL. null' Cloud9: KKKK
+[01:28:55] Paulo Henrique: mais e fa cil
+[01:28:59] Paulo Henrique: e so cria uma rquivo no pc
+[01:29:00] Paulo Henrique: chamado
+[01:29:04] Paulo Henrique: contador.txt
+[01:29:06] Sagos: e vai fica tudo na sua vps?
+[01:29:09] Paulo Henrique: é
+[01:29:13] Sagos: da certo tbm
+[01:29:14] Paulo Henrique: tipo
+[01:29:16] Sagos: e fica melhor
+[01:29:18] Paulo Henrique: ai eu faço um script em python
+[01:29:19] Sagos: só que vai leva mais tempo kk
+[01:29:21] Paulo Henrique: se o contador
+[01:29:24] Paulo Henrique: o contador 
+[01:29:26] Paulo Henrique: vai ter no script
+[01:29:28] Paulo Henrique: do lua
+[01:29:32] Paulo Henrique: sempre os usaurios
+[01:29:35] Paulo Henrique: se tive 5 usuarios no sv
+[01:29:38] Paulo Henrique: o contador.txt é 5
+[01:29:41] Paulo Henrique: ai eu pego com python esse texto
+[01:29:50] U.S.G.N.: Ping/State 'playing'
+[01:29:52] Paulo Henrique: e se for maior q 5 
+[01:29:58] Paulo Henrique: ele executa um script
+[01:30:00] Paulo Henrique: a e complicado
+[01:30:01] Paulo Henrique: mais da
+[01:30:01] Paulo Henrique: kk
+[01:30:09] Sagos: ss vai leva mais tempo
+[01:30:10] pL. null' Cloud9 killed Paulo Henrique with Glock
+[01:30:12] Sagos: vcs q sabe
+[01:30:13] pL. null' Cloud9: asd
+[01:30:16] Paulo Henrique: mais
+[01:30:16] Paulo Henrique: ai tem
+[01:30:18] Paulo Henrique: q gerar um hash
+[01:30:20] Sagos: mas tbm depende se sua vps vai lota
+[01:30:22] Paulo Henrique: pra cada partida
+[01:30:26] Paulo Henrique: e
+[01:30:28] Paulo Henrique: uma senha
+[01:30:32] Paulo Henrique: pq o sv etm q ser fechado ne
+[01:30:35] Paulo Henrique: do jogo
+[01:30:44] Paulo Henrique: ai ele gera uma senha aleatoria e pronto
+[01:30:50] U.S.G.N.: Ping/State 'playing'
+[01:30:52] pL. null' Cloud9: rumm
+[01:30:57] pL. null' Cloud9: oo
+[01:31:24] Paulo Henrique: ai eu posso compra
+[01:31:26] Paulo Henrique: um site
+[01:31:29] Paulo Henrique: battle2d.com
+[01:31:30] Paulo Henrique: kkkkkkkk
+[01:31:32] Paulo Henrique: e vc acompanha
+[01:31:33] Sagos: kkkkkk
+[01:31:39] Paulo Henrique: la
+[01:31:40] Paulo Henrique: ao vivo
+[01:31:40] pL. null' Cloud9: n é ruim
+[01:31:41] pL. null' Cloud9: '-'
+[01:31:50] Paulo Henrique: mais isso ai demora pra krl em 
+[01:31:50] Sagos: da até pra fazer rank com o site
+[01:31:50] Paulo Henrique died
+[01:31:51] U.S.G.N.: Ping/State 'playing'
+[01:32:11] Paulo Henrique: mais isso vai ser so dps
+[01:32:11] Paulo Henrique: q lançar
+[01:32:13] Paulo Henrique: o beta disso
+[01:32:28] pL. null' Cloud9: kaskd
+[01:32:32] Sagos: fui seco
+[01:32:34] pL. null' Cloud9: sakdkas
+[01:32:37] pL. null' Cloud9: Eu tbm
+[01:32:50] pL. null' Cloud9: Dps do battle
+[01:32:51] U.S.G.N.: Ping/State 'playing'
+[01:32:55] pL. null' Cloud9: SCRIPT
+[01:32:57] pL. null' Cloud9: SUVIVAL
+[01:32:58] pL. null' Cloud9: jads
+[01:33:01] Paulo Henrique: a ja tem
+[01:33:06] pL. null' Cloud9: A
+[01:33:07] pL. null' Cloud9: '-'
+[01:33:10] Paulo Henrique: o smoker fez um
+[01:33:12] pL. null' Cloud9: KK
+[01:33:17] pL. null' Cloud9: DayZ?
+[01:33:21] Paulo Henrique: é
+[01:33:23] pL. null' Cloud9: '-'
+[01:33:24] Paulo Henrique: é um survival ue
+[01:33:27] Paulo Henrique: so tira os zombie
+[01:33:28] Paulo Henrique: kk
+[01:33:29] pL. null' Cloud9: Tinha q ser um pique crafitar
+[01:33:33] pL. null' Cloud9: Matar mostro
+[01:33:35] pL. null' Cloud9: comer
+[01:33:35] Paulo Henrique: a
+[01:33:37] pL. null' Cloud9: e tal
+[01:33:46] pL. null' Cloud9: sede fome
+[01:33:49] pL. null' Cloud9: stamina
+[01:33:52] U.S.G.N.: Ping/State 'playing'
+[01:33:52] pL. null' Cloud9: Animais
+[01:33:54] pL. null' Cloud9: pra matar
+[01:33:57] pL. null' Cloud9: e talz
+[01:34:02] Paulo Henrique: mano
+[01:34:05] Paulo Henrique: o lua scrip
+[01:34:07] Paulo Henrique: deveria dar suporte
+[01:34:08] Paulo Henrique: a sqlite
+[01:34:09] Paulo Henrique: namoral
+[01:34:26] Sagos: lua é mt pequeno
+[01:34:36] Sagos: tbm acho que dava pra melhorar
+[01:34:43] Paulo Henrique: um sqlite nao da pra reclama ne
+[01:34:44] Sagos: eu gosto pq foi criado por brs
+[01:34:46] Paulo Henrique: vc salva tudo em um db
+[01:34:52] U.S.G.N.: Ping/State 'playing'
+[01:35:02] Paulo Henrique: aaa
+[01:35:05] Paulo Henrique: tem sqlite porra
+[01:35:07] Paulo Henrique: so q
+[01:35:12] Paulo Henrique: eu nao testei ainda
+[01:35:31] pL. null' Cloud9: Dity Bomb é bom ?
+[01:35:53] U.S.G.N.: Ping/State 'playing'
+[01:35:54] Sagos: vou sair
+[01:35:56] Sagos killed Paulo Henrique with Knife
+[01:36:00] pL. null' Cloud9: '.'
+[01:36:04] pL. null' Cloud9: Já?
+[01:36:17] Paulo Henrique deixou o jogo
+[01:36:17] Sagos: minha irmã me chamando pra joga lol '-'
+[01:36:20] * Auto Teambalance *
+[01:36:20] Sagos juntou-se a Countra-Terrorista Forças
+[01:36:22] pL. null' Cloud9: KKKKKK
+[01:36:25] pL. null' Cloud9: Mds
+[01:36:53] U.S.G.N.: Ping/State 'playing'
+[01:37:06] Sagos: ow
+[01:37:07] Sagos: o mapa
+[01:37:11] Sagos: é pra ser igual do PUBG?
+[01:37:23] pL. null' Cloud9: Ai eu já n sei
+[01:37:31] pL. null' Cloud9: E meio grande ne
+[01:37:34] pL. null' Cloud9: Ai fode
+[01:37:37] Sagos: s é mt grande
+[01:37:41] Sagos: acho que vou fazer só metade dele
+[01:37:46] pL. null' Cloud9: S
+[01:37:49] pL. null' Cloud9: Mn
+[01:37:54] U.S.G.N.: Ping/State 'playing'
+[01:37:55] pL. null' Cloud9: coloca sistema de folego
+[01:38:01] pL. null' Cloud9: igual o do last men do mozilla
+[01:38:11] pL. null' Cloud9: Qnd tá na agua
+[01:38:16] Sagos: ss
+[01:38:19] Sagos: a gente vai fazer
+[01:38:33] pL. null' Cloud9: Paulo falou q ta terminando aqui
+[01:38:41] pL. null' Cloud9: q a vps entrou em manutenção
+[01:38:42] pL. null' Cloud9: oO
+[01:38:53] Sagos: s
+[01:38:54] U.S.G.N.: Ping/State 'playing'
+[01:39:05] pL. null' Cloud9: Ah mn minha internet tem 3mb
+[01:39:10] pL. null' Cloud9: qnd é 23h
+[01:39:14] pL. null' Cloud9: ela fica mais de 60
+[01:39:14] Sagos: a minha tem 1
+[01:39:28] pL. null' Cloud9: Aqui fica mais de 60mb de noite
+[01:39:38] pL. null' Cloud9: Mais o pc é horrível
+[01:39:45] pL. null' Cloud9: Ai n posso aproveitar a internet
+[01:39:49] pL. null' Cloud9: Meu pc gamer queimo
+[01:39:53] pL. null' Cloud9: :,(
+[01:39:55] U.S.G.N.: Ping/State 'playing'
+[01:40:02] Sagos: vixe
+[01:40:08] pL. null' Cloud9: O cara me trollo mn
+[01:40:12] pL. null' Cloud9: Fonte era fake
+[01:40:16] pL. null' Cloud9: '-.-
+[01:40:18] Sagos: kkkkkkkkk
+[01:40:22] pL. null' Cloud9: Deu raio aqui perto
+[01:40:29] pL. null' Cloud9: queimo tds os periferico
+[01:40:31] Sagos: vou abrir meu sv pro paulo ver 1 script
+[01:40:36] pL. null' Cloud9: Ok
+[01:40:38] Sagos deixou o jogo
+[01:40:38] Disconnect Reason: Client request (Code 0)
+[01:40:38] ----- Disconnected -----
+[01:40:39] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:41:40] "  (1x)
+[01:42:36] starting server...
+[01:42:36] load map 'awp_grey SagosWins'
+[01:42:36] ----- Server started -----
+[01:42:36] Warning: 'Offline / LAN'-mode is ENABLED. Server will NOT be added to serverlist. Other players on the internet will NOT see this server on their serverlist. They will still be able to connect when they know your IP though. Enter 'sv_lan 0' in your console or disable the 'Offline / LAN'-checkbox to change this setting.
+[01:42:36] Lua: Adding function 'minimapa' to hook 'say'
+[01:42:36] Lua: Adding function 'movimento' to hook 'always'
+[01:42:36] Lua: Adding function 'valornormal' to hook 'startround'
+[01:42:37] U.S.G.N.: Ping/State 'not playing'
+[01:42:39] Sagos juntou-se a Countra-Terrorista Forças
+[01:43:33] Sagos: a
+[01:43:38] U.S.G.N.: Ping/State 'not playing'
+[01:43:44] Servidor Desligado
+[01:43:44] ----- Disconnected -----
+[01:43:44] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:44:01] starting server...
+[01:44:01] load map 'awp_grey SagosWins'
+[01:44:01] ----- Server started -----
+[01:44:01] Lua: Adding function 'minimapa' to hook 'say'
+[01:44:01] Lua: Adding function 'movimento' to hook 'always'
+[01:44:01] Lua: Adding function 'valornormal' to hook 'startround'
+[01:44:02] U.S.G.N.: Server added to serverlist
+[01:44:02] U.S.G.N.: Ping/State 'not playing'
+[01:44:02] Sagos juntou-se a Countra-Terrorista Forças
+[01:44:39] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[01:44:40] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[01:44:40] pL. null' Cloud9 conectou-se
+[01:44:40] pL. null' Cloud9 is using IP 177.185.53.199:58102 and U.S.G.N. ID #14465
+[01:44:40] Starting transfer to pL. null' Cloud9 (files: 9) ...
+[01:44:40] pL. null' Cloud9 needs 7 files. Starting to send files...
+[01:44:40] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to pL. null' Cloud9...
+[01:44:40] Sending 'gfx/sagoswins/pixeltr.bmp' to pL. null' Cloud9...
+[01:44:40] Sending 'gfx/sagoswins/pixelct.bmp' to pL. null' Cloud9...
+[01:44:40] Sending 'gfx/sagoswins/pixel.bmp' to pL. null' Cloud9...
+[01:44:40] Sending 'gfx/SagosWins/pixelCT.bmp' to pL. null' Cloud9...
+[01:44:40] Sending 'gfx/SagosWins/pixelTR.bmp' to pL. null' Cloud9...
+[01:44:40] Sending 'maps/awp_grey SagosWins.map' to pL. null' Cloud9...
+[01:44:42] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[01:44:48] U.S.G.N.: Serverlist entry updated
+[01:44:55] Sagos: só falta o paulo kk
+[01:45:03] U.S.G.N.: Ping/State 'not playing'
+[01:45:08] pL. null' Cloud9 killed Sagos with AWP
+[01:45:12] pL. null' Cloud9: Eita
+[01:45:15] pL. null' Cloud9: kdks
+[01:45:24] Sagos: quero mostrar como seria o minimapa
+[01:45:33] U.S.G.N.: Serverlist entry updated
+[01:45:36] pL. null' Cloud9: ATAH
+[01:45:39] voice chat DISABLED
+[01:45:40] pL. null' Cloud9: eu tava conversando com ele
+[01:45:41] pL. null' Cloud9: sobre isso
+[01:45:45] pL. null' Cloud9: mais cedo
+[01:45:46] U.S.G.N.: Paulo Henrique (177.99.148.28) joining with U.S.G.N. ID #81347 - verifying...
+[01:45:47] pL. null' Cloud9: kk
+[01:45:47] U.S.G.N.: 177.99.148.28 is using U.S.G.N. ID #81347
+[01:45:47] Paulo Henrique conectou-se
+[01:45:47] Paulo Henrique is using IP 177.99.148.28:1024 and U.S.G.N. ID #81347
+[01:45:47] Starting transfer to Paulo Henrique (files: 8) ...
+[01:45:47] Paulo Henrique needs 5 files. Starting to send files...
+[01:45:47] Sending 'gfx/sagoswins/pixeltr.bmp' to Paulo Henrique...
+[01:45:47] Sending 'gfx/sagoswins/pixelct.bmp' to Paulo Henrique...
+[01:45:48] Sending 'gfx/sagoswins/pixel.bmp' to Paulo Henrique...
+[01:45:48] Sending 'gfx/SagosWins/pixelCT.bmp' to Paulo Henrique...
+[01:45:48] Sending 'gfx/SagosWins/pixelTR.bmp' to Paulo Henrique...
+[01:45:49] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[01:45:52] pL. null' Cloud9: e o sistema de aviao tbm
+[01:45:53] Paulo Henrique: cade o mapa
+[01:45:55] pL. null' Cloud9 killed Paulo Henrique with AWP
+[01:45:57] Sagos: olha esse script desenha o mapa
+[01:45:59] Sagos: chega ae
+[01:46:04] U.S.G.N.: Ping/State 'not playing'
+[01:46:05] pL. null' Cloud9: ala
+[01:46:07] pL. null' Cloud9: kkkkkkkkk
+[01:46:09] Paulo Henrique: q
+[01:46:11] pL. null' Cloud9: q bizarro
+[01:46:14] Sagos: vem aki kk
+[01:46:16] Paulo Henrique: a
+[01:46:17] Paulo Henrique deixou o jogo
+[01:46:18] U.S.G.N.: Serverlist entry updated
+[01:46:22] U.S.G.N.: Paulo Henrique (177.99.148.28) joining with U.S.G.N. ID #81347 - verifying...
+[01:46:22] U.S.G.N.: 177.99.148.28 is using U.S.G.N. ID #81347
+[01:46:22] Paulo Henrique conectou-se
+[01:46:22] Paulo Henrique is using IP 177.99.148.28:1024 and U.S.G.N. ID #81347
+[01:46:23] Starting transfer to Paulo Henrique (files: 9) ...
+[01:46:23] Paulo Henrique needs or accepts no files.
+[01:46:25] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[01:46:27] pL. null' Cloud9: O script projeta o mapa ?
+[01:46:29] Paulo Henrique: mt pesado mano
+[01:46:31] Paulo Henrique: derrubo eu
+[01:46:31] Sagos: s
+[01:46:32] Paulo Henrique: kkkkkkkkkkkkkkkkkkkkkkkk
+[01:46:34] Sagos: kkkkk
+[01:46:41] pL. null' Cloud9 deixou o jogo
+[01:46:49] Paulo Henrique: da pra usa
+[01:46:52] Paulo Henrique: mais otmizando
+[01:46:53] Sagos: só arrumar
+[01:46:55] Sagos: ss
+[01:46:56] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[01:46:57] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[01:46:57] pL. null' Cloud9 conectou-se
+[01:46:57] pL. null' Cloud9 is using IP 177.185.53.199:58102 and U.S.G.N. ID #14465
+[01:46:57] Starting transfer to pL. null' Cloud9 (files: 9) ...
+[01:46:57] pL. null' Cloud9 needs or accepts no files.
+[01:46:59] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[01:47:04] U.S.G.N.: Ping/State 'not playing'
+[01:47:04] U.S.G.N.: Serverlist entry updated
+[01:47:05] pL. null' Cloud9: Eita
+[01:47:08] Sagos died
+[01:47:08] Sagos juntou-se a Terrorista Forças
+[01:47:09] pL. null' Cloud9: mais aparece os inimigo
+[01:47:12] pL. null' Cloud9: :(
+[01:47:14] pL. null' Cloud9: a
+[01:47:18] Paulo Henrique: so remover
+[01:47:19] Sagos: da pra tirar isso
+[01:47:34] pL. null' Cloud9: Oq tem q fazer pra ativar ?
+[01:47:39] Sagos: escrever #ativar
+[01:47:42] Sagos: mas só funfa cmg
+[01:47:49] U.S.G.N.: Serverlist entry updated
+[01:47:49] Paulo Henrique: ae
+[01:47:56] pL. null' Cloud9 deixou o jogo
+[01:47:56] generating stats...
+[01:47:56] stats generated in 1 ms!
+[01:47:58] Paulo Henrique deixou o jogo
+[01:48:03] U.S.G.N.: Paulo Henrique (177.99.148.28) joining with U.S.G.N. ID #81347 - verifying...
+[01:48:04] U.S.G.N.: Ping/State 'not playing'
+[01:48:04] U.S.G.N.: 177.99.148.28 is using U.S.G.N. ID #81347
+[01:48:04] Paulo Henrique conectou-se
+[01:48:04] Paulo Henrique is using IP 177.99.148.28:1024 and U.S.G.N. ID #81347
+[01:48:04] Starting transfer to Paulo Henrique (files: 9) ...
+[01:48:04] Paulo Henrique needs or accepts no files.
+[01:48:09] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[01:48:09] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[01:48:09] pL. null' Cloud9 conectou-se
+[01:48:09] pL. null' Cloud9 is using IP 177.185.53.199:58102 and U.S.G.N. ID #14465
+[01:48:10] Starting transfer to pL. null' Cloud9 (files: 9) ...
+[01:48:10] pL. null' Cloud9 needs or accepts no files.
+[01:48:12] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[01:48:27] Paulo Henrique deixou o jogo
+[01:48:32] pL. null' Cloud9: Tipo 
+[01:48:35] U.S.G.N.: Serverlist entry updated
+[01:48:37] pL. null' Cloud9: Carai
+[01:48:46] Megumin conectou-se
+[01:48:46] Megumin is using IP 179.35.53.50:32882 and no U.S.G.N. ID
+[01:48:47] Starting transfer to Megumin (files: 10) ...
+[01:48:47] Megumin needs 9 files. Starting to send files...
+[01:48:47] Sending 'gfx/tiles/fruitpapje1.bmp' to Megumin...
+[01:48:49] Sending 'gfx/SagosWins/Jogo da Velha.bmp' to Megumin...
+[01:48:49] Sending 'gfx/sagoswins/pixeltr.bmp' to Megumin...
+[01:48:49] Sending 'gfx/sagoswins/pixelct.bmp' to Megumin...
+[01:48:49] Sending 'gfx/sagoswins/pixel.bmp' to Megumin...
+[01:48:49] Sending 'gfx/SagosWins/pixelCT.bmp' to Megumin...
+[01:48:49] Sending 'gfx/SagosWins/pixelTR.bmp' to Megumin...
+[01:48:50] Sending 'gfx/SagosWins/pixel.bmp' to Megumin...
+[01:48:50] Sending 'maps/awp_grey SagosWins.map' to Megumin...
+[01:48:50] Sagos: quando o mapa é gigante derruba até eu
+[01:48:51] Paulo Henrique conectou-se
+[01:48:51] Paulo Henrique is using IP 177.99.148.28:1025 and no U.S.G.N. ID
+[01:48:51] Starting transfer to Paulo Henrique (files: 9) ...
+[01:48:51] Paulo Henrique needs or accepts no files.
+[01:48:51] pL. null' Cloud9: NUNCA Imaginei q alguem iia fazer isso
+[01:48:53] Sagos: ja testei huashuahs
+[01:48:53] Megumin juntou-se a Countra-Terrorista Forças
+[01:48:54] Paulo Henrique juntou-se a Countra-Terrorista Forças
+[01:48:58] Megumin killed pL. null' Cloud9 with Knife
+[01:49:01] Megumin killed Sagos with Knife
+[01:49:03] Paulo Henrique deixou o jogo
+[01:49:05] Megumin: koe
+[01:49:07] Sagos: isso o q?
+[01:49:10] U.S.G.N.: Ping/State 'not playing'
+[01:49:19] pL. null' Cloud9 deixou o jogo
+[01:49:20] U.S.G.N.: Serverlist entry updated
+[01:49:33] U.S.G.N.: pL. null' Cloud9 (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[01:49:34] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[01:49:34] pL. null' Cloud9 conectou-se
+[01:49:34] pL. null' Cloud9 is using IP 177.185.53.199:58102 and U.S.G.N. ID #14465
+[01:49:34] Starting transfer to pL. null' Cloud9 (files: 9) ...
+[01:49:34] pL. null' Cloud9 needs or accepts no files.
+[01:49:34] Megumin: abre caria
+[01:49:36] Megumin deixou o jogo
+[01:49:36] pL. null' Cloud9 juntou-se a Countra-Terrorista Forças
+[01:49:51] pL. null' Cloud9: Como faz pra abri ele
+[01:49:52] pL. null' Cloud9: ?
+[01:49:57] U.S.G.N.: Paulo Henrique (177.99.148.28) joining with U.S.G.N. ID #81347 - verifying...
+[01:49:57] U.S.G.N.: 177.99.148.28 is using U.S.G.N. ID #81347
+[01:49:57] Paulo Henrique conectou-se
+[01:49:57] Paulo Henrique is using IP 177.99.148.28:1024 and U.S.G.N. ID #81347
+[01:49:57] Starting transfer to Paulo Henrique (files: 9) ...
+[01:49:57] Paulo Henrique needs or accepts no files.
+[01:49:59] Paulo Henrique juntou-se a Terrorista Forças
+[01:50:00] Paulo Henrique: ei
+[01:50:02] Paulo Henrique: vamo meu sv la
+[01:50:03] Paulo Henrique: pra vcs ve
+[01:50:04] Paulo Henrique deixou o jogo
+[01:50:05] U.S.G.N.: Serverlist entry updated
+[01:50:07] Sagos: ok
+[01:50:07] pL. null' Cloud9: Ou ja vai vim qnd vc entra
+[01:50:10] U.S.G.N.: Ping/State 'not playing'
+[01:50:12] pL. null' Cloud9: tipo vc entra
+[01:50:16] pL. null' Cloud9: ja da o mapinha
+[01:50:24] Sagos: assim que começar ja mostra o mapa
+[01:50:27] pL. null' Cloud9: Hm
+[01:50:29] pL. null' Cloud9: bom
+[01:50:29] Sagos: mas n vai ser assim lagado n
+[01:50:34] pL. null' Cloud9: Pdpa
+[01:50:37] pL. null' Cloud9: TEST
+[01:50:38] Sagos: vms la
+[01:50:38] pL. null' Cloud9: gg la
+[01:50:40] Servidor Desligado
+[01:50:41] U.S.G.N.: Server removed from serverlist
+[01:50:41] ----- Disconnected -----
+[01:50:42] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:50:43] U.S.G.N.: Received serverlist (servers: 136)
+[01:50:44] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:50:44] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:50:44] "  (1x)
+[01:50:46] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:50:47] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:50:47] "  (1x)
+[01:51:06] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:51:07] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:51:07] "  (1x)
+[01:51:08] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[01:51:09] U.S.G.N.: Ping/State 'idle' (256 ms)
+[01:51:09] "  (1x)
+[01:51:16] U.S.G.N.: Received serverlist (servers: 136)
+[01:51:22] U.S.G.N.: Received serverlist (servers: 134)
+[01:51:22] Connecting to 181.41.197.41:36963...
+[01:51:24] "  (1x)
+[01:51:24] load map 'de_cs2d'
+[01:51:24] ----- Server joined -----
+[01:51:24] Você não está conectado em uma conta!
+[01:51:24] Bem vindo Sagos.
+[01:51:25] Paulo Henrique: ata
+[01:51:25] Megumin: liga o voice chat
+[01:51:26] Paulo Henrique: tu nao tem usgn
+[01:51:27] Sagos juntou-se a Terrorista Forças
+[01:51:28] Megumin killed Paulo Henrique with M4A1
+[01:51:31] pL. null' Cloud9: a
+[01:51:35] Paulo Henrique: mano
+[01:51:37] Paulo Henrique: como lgia pelo rcon
+[01:51:37] Megumin: esqueci minha usgn puto
+[01:51:39] Megumin: 37209
+[01:51:47] Paulo Henrique: eu sei
+[01:51:48] Paulo Henrique: mais como tu vai testa
+[01:51:49] Sagos: tive que deslogar da minha USGN
+[01:51:50] Paulo Henrique: a porra sem usgn
+[01:51:51] Paulo Henrique: carai
+[01:51:53] Sagos: n queria conectar
+[01:52:00] Paulo Henrique: aa
+[01:52:02] Megumin: nn quer conectar mano
+[01:52:03] Paulo Henrique: entao so eu e o cold
+[01:52:07] Paulo Henrique: cloud
+[01:52:08] Megumin: pra eu entrar com a outra
+[01:52:10] Paulo Henrique: digita test ae
+[01:52:13] Paulo Henrique: test
+[01:52:14] Megumin: test
+[01:52:15] pL. null' Cloud9: q cloud ksadkas
+[01:52:16] Sagos: test
+[01:52:17] Paulo Henrique: ai da f2
+[01:52:18] pL. null' Cloud9: SOU O NULL
+[01:52:19] Paulo Henrique: agora da pra usar 
+[01:52:19] Sagos: n funfa
+[01:52:21] pL. null' Cloud9: test
+[01:52:23] Paulo Henrique: claro q n funfa
+[01:52:29] Paulo Henrique: usgn 0 n da ne
+[01:52:32] Megumin: LIGA O VOICE CHAT CARALHO
+[01:52:34] Paulo Henrique: como liga
+[01:52:34] pL. null' Cloud9: fez barulho
+[01:52:35] Megumin killed Paulo Henrique with USP
+[01:52:36] Paulo Henrique: no rcon
+[01:52:36] Sagos: mas pq n?
+[01:52:41] Sagos: mt gente n tem usgn
+[01:52:41] pL. null' Cloud9: FUNFO
+[01:52:43] "  (1x)
+[01:52:45] Sagos: eles n vai conseguir joga?
+[01:52:48] pL. null' Cloud9: mais n saio do inv
+[01:52:50] Paulo Henrique: vai ue
+[01:52:50] pL. null' Cloud9: tlgd
+[01:52:57] Sagos: hm
+[01:53:01] pL. null' Cloud9: paulo
+[01:53:03] Paulo Henrique: q
+[01:53:05] pL. null' Cloud9: pegou só q n sai
+[01:53:05] Megumin: LIGA AE
+[01:53:06] pL. null' Cloud9: do inv
+[01:53:08] Paulo Henrique: eu sei
+[01:53:10] Paulo Henrique: como liga
+[01:53:10] pL. null' Cloud9: '-'
+[01:53:11] Paulo Henrique: pelo rcon
+[01:53:18] Megumin Alterou seu nome para Smoker
+[01:53:21] Paulo Henrique: omo liga
+[01:53:22] Paulo Henrique: voice ip
+[01:53:23] Paulo Henrique: pelo rcon
+[01:53:23] pL. null' Cloud9: da dano ai em mi
+[01:53:26] pL. null' Cloud9: mim*
+[01:53:37] Paulo Henrique: pera
+[01:53:44] pL. null' Cloud9: O de 75 n ta 75
+[01:53:45] pL. null' Cloud9: kaskda
+[01:53:48] pL. null' Cloud9: da dano dnv
+[01:53:51] Paulo Henrique: ta s
+[01:53:58] pL. null' Cloud9: mais 2
+[01:53:59] Paulo Henrique killed pL. null' Cloud9 with Glock
+[01:54:02] Paulo Henrique: kkkkkk
+[01:54:04] Sagos: tem q curar até 75 e n pode curar mais q
+[01:54:07] Sagos: isso se ele usar dnv
+[01:54:08] Paulo Henrique killed Smoker with Glock
+[01:54:13] Sagos: tendeu?
+[01:54:16] pL. null' Cloud9: g
+[01:54:19] pL. null' Cloud9: s
+[01:54:36] Sagos: test
+[01:54:37] voice chat For All
+[01:54:38] Sagos deixou o jogo
+[01:54:38] Disconnect Reason: Client request (Code 0)
+[01:54:38] ----- Disconnected -----
+[01:54:40] U.S.G.N.: Received serverlist (servers: 145)

@@ -1,0 +1,46 @@
+CS2D 1.0.0.5 Logfile - 28 Nov 2017, 20:12:35
+
+[20:12:35] UDP socket initialized using port 36963
+[20:12:35] U.S.G.N.: Your game version is up to date!
+[20:12:36] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[20:12:37] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[20:12:38] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[20:12:53] Cached servers added to list: 153
+[20:12:54] U.S.G.N.: Received serverlist (servers: 50)
+[20:12:54] U.S.G.N.: Received serverlist (servers: 150)
+[20:13:11] Connecting to 152.254.175.143:36963 (using U.S.G.N. ID #15431) ...
+[20:13:11] U.S.G.N.: Ping/State 'idle' (272 ms)
+[20:13:11] "  (1x)
+[20:13:12] load map 'awp_grey'
+[20:13:12] ----- Server joined -----
+[20:13:13] U.S.G.N.: Ping/State 'playing'
+[20:13:22] Player killed Botzinho with Knife
+[20:13:26] Sagos juntou-se a Terrorista Forças
+[20:13:45] Sagos killed Player with AWP
+[20:14:06] Player killed Sagos with AWP
+[20:14:06] k¦Player¦100¦0
+[20:14:12] Player killed Botzinho with AWP
+[20:14:13] U.S.G.N.: Ping/State 'playing'
+[20:14:33] Player killed Botzinho with AWP
+[20:14:38] Player killed Sagos with AWP
+[20:14:38] k¦Player¦100¦100
+[20:14:56] Sagos killed Player with AWP
+[20:15:14] U.S.G.N.: Ping/State 'playing'
+[20:15:19] Player killed Botzinho with AWP
+[20:15:28] L.R.::«Srfazitø* conectou-se
+[20:15:31] L.R.::«Srfazitø* juntou-se a Countra-Terrorista Forças
+[20:15:36] Sagos killed Player with AWP
+[20:15:56] L.R.::«Srfazitø* killed Botzinho with Knife
+[20:16:00] Player killed Sagos with Knife
+[20:16:00] k¦Player¦100¦0
+[20:16:14] U.S.G.N.: Ping/State 'playing'
+[20:16:19] L.R.::«Srfazitø* killed Botzinho with AWP
+[20:16:34] Sagos killed Player with AWP
+[20:16:34] :Wk: Craizu conectou-se
+[20:16:34] L.R.::«Srfazitø* killed Sagos with AWP
+[20:16:34] k¦L.R.::«Srfazitø*¦100¦100
+[20:16:40] :Wk: Craizu juntou-se a Terrorista Forças
+[20:16:44] :Wk:Fireshot conectou-se
+[20:16:49] L.R.::«Srfazitø* killed Botzinho with AWP
+[20:16:52] L.R.::«Srfazitø* killed Sagos with AWP
+[20:16:52] k¦L.R.::«Srfazitø*¦100¦100

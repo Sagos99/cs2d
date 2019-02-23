@@ -1,0 +1,306 @@
+CS2D 1.0.0.5 Logfile - 15 Nov 2017, 18:32:06
+
+[18:32:06] UDP socket initialized using port 54100
+[18:32:06] U.S.G.N.: Transmission cancelled by user. Unable to check version/news
+[18:32:06] U.S.G.N.: Ping/State 'playing'
+[18:32:07] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[18:32:11] U.S.G.N.: Received serverlist (servers: 143)
+[18:32:21] Connecting to 192.168.1.31:36963...
+[18:32:21] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[18:32:21] Checking 'maps/awp_grey SagosWins.lua': Already exists.
+[18:32:21] Checking 'gfx/SagosWins/Jogo da Velha.bmp': Already exists.
+[18:32:21] Checking 'gfx/sagoswins/x.bmp': Already exists.
+[18:32:21] Checking 'gfx/sagoswins/bola.bmp': Already exists.
+[18:32:21] Checking 'gfx/sagoswins/jogo da velha.bmp': Already exists.
+[18:32:21] Checking 'gfx/sagoswins/bomba.png': Already exists.
+[18:32:21] Requesting 0 files from server...
+[18:32:21] load map 'awp_grey SagosWins'
+[18:32:21] ----- Server joined -----
+[18:32:22] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[18:32:23] Sagos juntou-se a Countra-Terrorista Forças
+[18:32:35] Kawan G.O.K.U conectou-se
+[18:32:38] Kawan G.O.K.U juntou-se a Terrorista Forças
+[18:32:46] Kawan G.O.K.U: e esse jogo da veia como entra
+[18:32:46] dark conectou-se
+[18:32:51] NSKILL. krakN conectou-se
+[18:32:52] NSKILL. krakN juntou-se a Terrorista Forças
+[18:32:54] rcon password set! use 'rcon' to execute commands!
+[18:32:57] dark juntou-se a Terrorista Forças
+[18:32:57] dark juntou-se a Countra-Terrorista Forças
+[18:33:02] naski conectou-se
+[18:33:02] Sagos: vem
+[18:33:02] NSKILL. krakN killed dark with AWP
+[18:33:03] Valentina  Moon conectou-se
+[18:33:07] naski juntou-se a Terrorista Forças
+[18:33:09] Valentina  Moon juntou-se a Countra-Terrorista Forças
+[18:33:18] Sagos: kkkkkk
+[18:33:19] NSKILL. krakN killed by RPG Launcher
+[18:33:20] Kawan G.O.K.U: fudeu
+[18:33:22] U.S.G.N.: Ping/State 'playing'
+[18:33:24] Vencedor do Jogo-da-Velha: Sagos
+[18:33:24] Kawan G.O.K.U killed by Jogo-da-velha
+[18:33:28] Player conectou-se
+[18:33:30] NSKILL. krakN: KKKKKKKKKKKKKK '-'
+[18:33:30] naski: krl kk
+[18:33:31] Kawan G.O.K.U: ja e massa
+[18:33:31] naski: sagos
+[18:33:33] NSKILL. krakN killed Valentina  Moon with AWP
+[18:33:38] dark killed Kawan G.O.K.U with AWP
+[18:33:43] naski killed Sagos with AWP
+[18:33:43] k¦naski¦100¦100
+[18:33:45] dark killed NSKILL. krakN with AWP
+[18:33:47] naski killed dark with AWP
+[18:33:48] [b]Scrap conectou-se
+[18:33:48] [b]Scrap juntou-se a Terrorista Forças
+[18:33:49] [b]Scrap Alterou seu nome para Cerbex
+[18:33:50] NSKILL. krakN juntou-se a Terrorista Forças
+[18:33:54] Sagos: eae bot
+[18:33:54] Cerbex: Eae Sagos
+[18:33:56] Sagos: quanto tempo
+[18:33:59] Kawan G.O.K.U killed dark with AWP
+[18:33:59] Sagos: ;-;
+[18:34:02] Cerbex killed Sagos with AWP
+[18:34:02] k¦Cerbex¦100¦100
+[18:34:05] NSKILL. krakN killed Valentina  Moon with AWP
+[18:34:07] dark juntou-se a Countra-Terrorista Forças
+[18:34:08] Player conectou-se
+[18:34:16] Sagos: lol em spec da pra ver onde vcs ta miran
+[18:34:17] dark killed naski with AWP
+[18:34:17] Kawan G.O.K.U killed Valentina  Moon with AWP
+[18:34:18] Sagos: q da hr
+[18:34:18] Cerbex: Agora é 06:34 PM
+[18:34:19] Player juntou-se a Countra-Terrorista Forças
+[18:34:20] Kawan G.O.K.U killed Sagos with AWP
+[18:34:20] k¦Kawan G.O.K.U¦100¦100
+[18:34:22] U.S.G.N.: Ping/State 'playing'
+[18:34:22] Kawan G.O.K.U killed dark with AWP
+[18:34:29] Sagos: bot
+[18:34:29] Cerbex: que?
+[18:34:31] Kawan G.O.K.U: e agr criar 1 clan e ggd
+[18:34:31] Sagos: q dia é hj?
+[18:34:38] Sagos: que dia é hoje?
+[18:34:38] Cerbex: é Quarta Feira, 15 de Nov
+[18:34:38] dark killed Kawan G.O.K.U with AWP
+[18:34:40] Cerbex killed Player with AWP
+[18:34:40] naski killed Valentina  Moon with AWP
+[18:34:42] NSKILL. krakN killed dark with AWP
+[18:34:44] Sagos killed NSKILL. krakN with AWP
+[18:34:48] NSKILL. krakN juntou-se a Terrorista Forças
+[18:34:53] Sagos killed naski with AWP
+[18:34:58] Sagos: cerbex
+[18:34:59] Cerbex: que?
+[18:35:00] Player 2 conectou-se
+[18:35:02] Sagos: se mata
+[18:35:10] Sagos: da restart
+[18:35:10] Ridley973 conectou-se
+[18:35:10] Cerbex: Só Recebo Ordens Do ADM
+[18:35:13] Sagos: wtf '-'
+[18:35:13] Player 2 juntou-se a Terrorista Forças
+[18:35:23] U.S.G.N.: Ping/State 'playing'
+[18:35:29] NSKILL. krakN deixou o jogo (kickado)
+[18:35:34] Krusbar conectou-se
+[18:35:34] Cerbex killed Sagos with AWP
+[18:35:34] k¦Cerbex¦100¦100
+[18:35:36] Sagos *Morto*: mds
+[18:35:37] LA. XITA conectou-se
+[18:35:37] naski *Morto*: KKKKKKKKKK
+[18:35:38] LA. XITA juntou-se a Terrorista Forças
+[18:35:39] Player Alterou seu nome para Whiteout
+[18:35:40] Valentina  Moon: kkkk
+[18:35:41] LA. XITA deixou o jogo (kickado)
+[18:35:43] Krusbar juntou-se a Countra-Terrorista Forças
+[18:35:45] Sagos killed Cerbex with Knife
+[18:35:47] LA. XITA conectou-se
+[18:35:49] LA. XITA juntou-se a Terrorista Forças
+[18:35:49] Sagos killed Kawan G.O.K.U with AWP
+[18:35:52] naski killed by RPG Launcher
+[18:35:56] Sagos killed Player 2 with Knife
+[18:35:58] Krusbar deixou o jogo
+[18:36:02] LA. XITA: para de me kika sagos viado
+[18:36:05] Sagos: n sou eu
+[18:36:06] Valentina  Moon killed Cerbex with AWP
+[18:36:09] Sagos: se vc xinga o bot kika
+[18:36:10] LA. XITA: quem e entao '-'
+[18:36:11] LA. XITA: ata
+[18:36:12] LA. XITA killed dark with AWP
+[18:36:14] Sagos killed Kawan G.O.K.U with AWP
+[18:36:15] Whiteout killed naski with AWP
+[18:36:15] Valentina  Moon killed LA. XITA with Knife
+[18:36:23] U.S.G.N.: Ping/State 'playing'
+[18:36:29] Sagos killed Player 2 with Knife
+[18:36:35] LA. XITA: suave?
+[18:36:38] Sagos killed Cerbex with AWP
+[18:36:42] LA. XITA killed Sagos with AWP
+[18:36:42] k¦LA. XITA¦100¦100
+[18:36:45] naski: q cover
+[18:36:46] LA. XITA: KK
+[18:36:46] Player 2 died
+[18:36:46] Player 2 juntou-se a Terrorista Forças
+[18:36:51] LA. XITA killed Valentina  Moon with AWP
+[18:36:53] dark killed Kawan G.O.K.U with Knife
+[18:36:53] LA. XITA killed dark with AWP
+[18:36:56] naski: KKKKKKKKKKKKKKKKKKK
+[18:36:57] LA. XITA killed Whiteout with AWP
+[18:36:58] Sagos *Morto*: !rank
+[18:36:59] Sagos *Morto*: rank
+[18:36:59] Sagos is unranked (no U.S.G.N. login)
+[18:37:03] naski: rank
+[18:37:03] r¦naski¦14 of 16¦3,3,4,0.75,3 m 55 s
+[18:37:04] Kawan G.O.K.U: vei n sei joga direito ainda kkkkkkkkkkk
+[18:37:08] Cerbex killed Valentina  Moon with AWP
+[18:37:09] Sagos: n to logado
+[18:37:10] naski killed dark with AWP
+[18:37:11] Whiteout killed Cerbex with AWP
+[18:37:12] Sagos: ja volto
+[18:37:12] Sagos deixou o jogo
+[18:37:12] Disconnect Reason: Client request (Code 0)
+[18:37:12] ----- Disconnected -----
+[18:37:13] U.S.G.N.: Ping/State 'idle' (256 ms)
+[18:37:15] U.S.G.N.: Received serverlist (servers: 140)
+[18:37:15] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:37:16] U.S.G.N.: Ping/State 'idle' (256 ms)
+[18:37:16] "  (1x)
+[18:37:17] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[18:37:17] Checking 'maps/awp_grey SagosWins.lua': Already exists.
+[18:37:17] Checking 'gfx/SagosWins/Jogo da Velha.bmp': Already exists.
+[18:37:17] Checking 'gfx/sagoswins/x.bmp': Already exists.
+[18:37:17] Checking 'gfx/sagoswins/bola.bmp': Already exists.
+[18:37:17] Checking 'gfx/sagoswins/jogo da velha.bmp': Already exists.
+[18:37:17] Checking 'gfx/sagoswins/bomba.png': Already exists.
+[18:37:17] Checking 'gfx/SagosWins/x.bmp': Already exists.
+[18:37:17] Checking 'gfx/SagosWins/bola.bmp': Already exists.
+[18:37:17] Requesting 0 files from server...
+[18:37:17] load map 'awp_grey SagosWins'
+[18:37:17] ----- Server joined -----
+[18:37:18] LA. XITA killed Whiteout with AWP
+[18:37:18] U.S.G.N.: Ping/State 'playing'
+[18:37:18] Sagos juntou-se a Countra-Terrorista Forças
+[18:37:23] naski: MEU DEUS KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[18:37:23] Sagos: bot
+[18:37:23] Cerbex: que?
+[18:37:25] LA. XITA: KPOASOKE
+[18:37:26] Sagos: da restart
+[18:37:26] Cerbex: Pronto
+[18:37:28] Sagos: ae agr sou adm
+[18:37:30] LA. XITA killed Valentina  Moon with AWP
+[18:37:32] Paulo Henrique conectou-se
+[18:37:33] Paulo Henrique juntou-se a Terrorista Forças
+[18:37:34] Kawan G.O.K.U killed Whiteout with AWP
+[18:37:37] dark killed Kawan G.O.K.U with AWP
+[18:37:39] yev conectou-se
+[18:37:39] Sagos: vem
+[18:37:39] Cerbex: não
+[18:37:41] LA. XITA killed dark with AWP
+[18:37:46] LA. XITA: krl
+[18:37:49] LA. XITA: q lag e esse
+[18:37:50] naski: como q poe essa poha
+[18:37:50] LA. XITA: Oo?
+[18:37:53] yev juntou-se a Countra-Terrorista Forças
+[18:37:54] Sagos: aperta E
+[18:37:59] Player conectou-se
+[18:38:05] r¦Whiteout¦11 of 16¦3,3,4,0.75,3 m 45 s
+[18:38:09] LA. XITA: cerbex
+[18:38:09] Cerbex: que?
+[18:38:12] LA. XITA: vem ca
+[18:38:13] naski: full lag
+[18:38:16] Vencedor do Jogo-da-Velha: Empate
+[18:38:16] Sagos killed naski with Knife
+[18:38:18] Player 2 killed Sagos with AWP
+[18:38:18] k¦Player 2¦100¦100
+[18:38:18] Player juntou-se a Countra-Terrorista Forças
+[18:38:18] U.S.G.N.: Ping/State 'playing'
+[18:38:24] naski deixou o jogo (kickado)
+[18:38:25] Paulo Henrique: sagos pora vem ve o sv o  ping
+[18:38:27] Paulo Henrique deixou o jogo
+[18:38:28] LA. XITA: pqp q lag e esse sagos/
+[18:38:30] Sagos: to indo la
+[18:38:31] Sagos deixou o jogo
+[18:38:31] Disconnect Reason: Client request (Code 0)
+[18:38:31] ----- Disconnected -----
+[18:38:33] U.S.G.N.: Received serverlist (servers: 128)
+[18:38:34] Connecting to 181.41.197.41:3696 (using U.S.G.N. ID #15431) ...
+[18:38:34] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:38:34] "  (1x)
+[18:38:53] U.S.G.N.: Received serverlist (servers: 130)
+[18:39:15] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:39:15] U.S.G.N.: Ping/State 'idle' (304 ms)
+[18:39:15] "  (1x)
+[18:39:20] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:39:20] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:39:24] U.S.G.N.: Received serverlist (servers: 126)
+[18:40:07] U.S.G.N.: Received serverlist (servers: 130)
+[18:40:08] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:40:08] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:40:08] "  (1x)
+[18:40:08] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[18:40:08] Checking 'maps/awp_grey SagosWins.lua': Already exists.
+[18:40:08] Checking 'gfx/SagosWins/Jogo da Velha.bmp': Already exists.
+[18:40:08] Checking 'gfx/sagoswins/x.bmp': Already exists.
+[18:40:08] Checking 'gfx/sagoswins/bola.bmp': Already exists.
+[18:40:08] Checking 'gfx/sagoswins/jogo da velha.bmp': Already exists.
+[18:40:08] Checking 'gfx/sagoswins/bomba.png': Already exists.
+[18:40:08] Checking 'gfx/SagosWins/x.bmp': Already exists.
+[18:40:08] Checking 'gfx/SagosWins/bola.bmp': Already exists.
+[18:40:08] Requesting 0 files from server...
+[18:40:08] load map 'awp_grey SagosWins'
+[18:40:08] ----- Server joined -----
+[18:40:09] U.S.G.N.: Ping/State 'playing'
+[18:40:10] Sagos juntou-se a Countra-Terrorista Forças
+[18:40:12] Kawan G.O.K.U killed Player 3 with AWP
+[18:40:25] Vencedor do Jogo-da-Velha: dark
+[18:40:25] Whiteout killed by Jogo-da-velha
+[18:40:26] dark killed Lub34 with AWP
+[18:40:27] Kawan G.O.K.U killed dark with AWP
+[18:40:32] LA. XITA: cerbex
+[18:40:32] Cerbex: que?
+[18:40:35] LA. XITA: me acompanha
+[18:40:40] LA. XITA: vem,
+[18:40:41] Player 3 killed Kawan G.O.K.U with AWP
+[18:40:43] Sagos deixou o jogo
+[18:40:43] Disconnect Reason: Client request (Code 0)
+[18:40:43] ----- Disconnected -----
+[18:40:44] U.S.G.N.: Ping/State 'idle' (464 ms)
+[18:41:44] U.S.G.N.: Ping/State 'idle' (256 ms)
+[18:42:45] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:43:45] "  (1x)
+[18:44:15] U.S.G.N.: Received serverlist (servers: 138)
+[18:44:23] Connecting to 181.41.197.41:36963 (using U.S.G.N. ID #15431) ...
+[18:44:23] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:44:23] U.S.G.N.: Ping/State 'idle' (288 ms)
+[18:44:24] load map 'ctf_cs2dfortress'
+[18:44:24] ----- Server joined -----
+[18:44:24] U.S.G.N.: Ping/State 'playing'
+[18:44:26] Sagos juntou-se a Countra-Terrorista Forças
+[18:44:28] Paulo Henrique: ae
+[18:44:30] Paulo Henrique: olha o ping
+[18:44:32] Sagos: mt bom
+[18:44:33] Sagos: 11
+[18:44:39] Paulo Henrique: netao
+[18:44:41] Paulo Henrique: o mozilla falo
+[18:44:50] Paulo Henrique: que nao e bom bota o nome do script
+[18:44:50] Sagos: fica 24 hrs?
+[18:44:51] Paulo Henrique: de pubg ne
+[18:44:55] Paulo Henrique: botar battle royale
+[18:44:58] Paulo Henrique: logico ne
+[18:44:59] Paulo Henrique: se é vps
+[18:45:09] Sagos: mozilla vai ajuda?
+[18:45:11] Paulo Henrique: nao
+[18:45:15] Paulo Henrique: ele vai refazer o control core
+[18:45:20] Sagos: ata
+[18:45:25] U.S.G.N.: Ping/State 'playing'
+[18:45:39] Warning: Restart Game To Apply Graphics Driver Changes!
+[18:45:42] Paulo Henrique: aperta esc
+[18:45:46] Paulo Henrique: ele mostra q sistema é o sv
+[18:45:49] Paulo Henrique: ala linux
+[18:45:56] Sagos: ss ^^
+[18:45:59] Sagos: mt loko
+[18:46:12] Paulo Henrique: entao blz
+[18:46:25] U.S.G.N.: Ping/State 'playing'
+[18:46:39] Paulo Henrique: pode ir la no seu sv eu vou
+[18:46:49] Paulo Henrique: ler a documentaçao
+[18:46:50] Sagos: ok
+[18:46:51] Paulo Henrique: do lua
+[18:46:55] Sagos deixou o jogo
+[18:46:55] Disconnect Reason: Client request (Code 0)
+[18:46:55] ----- Disconnected -----
+[18:46:57] U.S.G.N.: Ping/State 'idle' (272 ms)

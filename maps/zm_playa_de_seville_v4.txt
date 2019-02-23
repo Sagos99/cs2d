@@ -1,0 +1,15 @@
+©255255255Playa De Seville - Zombie
+
+©255255000Map by oxytamine @ »www.UnrealSoftware.de«
+
+
+©050150255Survivors:
+©110130150Try to survive!
+
+©255025000Zombies:
+©150110100Infest all survivors before the time elapses.
+
+Other Notes:
+- Play this map in Zombies!-mode.
+- Survivors can buy at the beginning of the round.
+- There are weapons, ammo and healthpacks on this map.

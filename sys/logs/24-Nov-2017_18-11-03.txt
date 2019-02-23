@@ -1,0 +1,2284 @@
+CS2D 1.0.0.5 Logfile - 24 Nov 2017, 18:11:03
+
+[18:11:03] UDP socket initialized using port 36963
+[18:11:03] U.S.G.N.: Your game version is up to date!
+[18:11:03] Steam: Verifying Steam login of 'Sagos' (#76561198077078199)...
+[18:11:05] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[18:11:06] Steam: Succesfully logged in as 'Sagos' (#76561198077078199)
+[18:11:12] Cached servers added to list: 35
+[18:11:13] U.S.G.N.: Received serverlist (servers: 101)
+[18:11:13] U.S.G.N.: Received serverlist (servers: 150)
+[18:11:17] Starting server...
+[18:11:17] load map 'Battle Royale'
+[18:11:17] ----- Server started -----
+[18:11:17] Lua: Adding function 'falar' to hook 'say'
+[18:11:17] Lua: Adding function 'segundos' to hook 'second'
+[18:11:17] Lua: Adding function 'coletar' to hook 'walkover'
+[18:11:17] Lua: Adding function 'atacar' to hook 'attack'
+[18:11:17] Lua: Adding function 'atacar2' to hook 'attack2'
+[18:11:17] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:11:17] Lua: Adding function 'mymenu' to hook 'menu'
+[18:11:17] Lua: Adding function 'ataque' to hook 'hit'
+[18:11:17] Lua: Adding function 'dropar' to hook 'drop'
+[18:11:17] Lua: Adding function 'mover' to hook 'movetile'
+[18:11:17] U.S.G.N.: Ping/State 'playing'
+[18:11:17] U.S.G.N.: Server added to serverlist
+[18:11:18] Sagos juntou-se a Countra-Terrorista Forças
+[18:11:36] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:11:38] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:11:38] rM.awp | null! conectou-se
+[18:11:38] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:11:38] JOIN FAILURE: rM.awp | null! (177.185.53.199:51791) can't join (map differs)
+[18:11:43] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:11:45] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:11:45] rM.awp | null! conectou-se
+[18:11:45] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:11:45] Starting transfer to rM.awp | null! (files: 2) ...
+[18:11:45] rM.awp | null! needs 1 file. Starting to send file...
+[18:11:45] Sending 'maps/Battle Royale.map' to rM.awp | null!...
+[18:11:47] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[18:12:03] U.S.G.N.: Serverlist entry updated
+[18:12:18] U.S.G.N.: Ping/State 'playing'
+[18:12:48] U.S.G.N.: Serverlist entry updated
+[18:12:55] rM.awp | null!: mN
+[18:12:58] rM.awp | null!: meu pai
+[18:13:01] rM.awp | null!: pagou a pensão
+[18:13:09] rM.awp | null!: eu falei q ia comprar minha placa
+[18:13:18] rM.awp | null!: Ela falou q eu n ia usar
+[18:13:18] U.S.G.N.: Ping/State 'playing'
+[18:13:30] rM.awp | null!: ela já comprou os bagulho no mercado
+[18:13:33] rM.awp | null!: sobrou dinheiro
+[18:13:33] U.S.G.N.: Serverlist entry updated
+[18:13:42] rM.awp | null!: ela n quer deixa eu usar pra comprar minha placa
+[18:13:45] rM.awp | null!: Namoral
+[18:13:52] rM.awp | null!: qnd ela pegar o decimo terceiro dela
+[18:13:57] rM.awp | null!: eu vou querer minha placa
+[18:14:10] Sagos: =/
+[18:14:17] rM.awp | null!: Alias
+[18:14:19] U.S.G.N.: Serverlist entry updated
+[18:14:19] U.S.G.N.: Ping/State 'playing'
+[18:14:21] rM.awp | null!: No meu aniversario
+[18:14:22] Sagos: zuado pq o dinheiro é pra vc
+[18:14:25] rM.awp | null!: ngm me deu nada
+[18:14:27] rM.awp | null!: so minha madrinha
+[18:15:04] U.S.G.N.: Serverlist entry updated
+[18:15:19] U.S.G.N.: Ping/State 'playing'
+[18:15:22] [Info] Você equipou Colete 3
+[18:15:25] rM.awp | null!: n funfa ainda
+[18:15:26] rM.awp | null!: o outro ai
+[18:15:29] Sagos: qual?
+[18:15:32] rM.awp | null!: Energetico
+[18:15:36] Sagos: ainda n fiz
+[18:15:38] rM.awp | null!: ata
+[18:15:43] [Info] Você já possui um colete igual ou melhor
+[18:15:50] U.S.G.N.: Serverlist entry updated
+[18:15:56] Sagos: fiz tds as balas
+[18:16:03] generating stats...
+[18:16:03] stats generated in 1 ms!
+[18:16:20] U.S.G.N.: Ping/State 'playing'
+[18:16:35] U.S.G.N.: Serverlist entry updated
+[18:16:49] [Info] Sem balas de shotgun, sua M3 foi guardada no inventário
+[18:16:51] [Info] Você pegou 10 Balas de Shotgun
+[18:17:03] [Info] Sem balas de shotgun, sua M3 foi guardada no inventário
+[18:17:11] rM.awp | null!: Tem bug n
+[18:17:20] U.S.G.N.: Ping/State 'playing'
+[18:17:20] U.S.G.N.: Serverlist entry updated
+[18:17:29] rM.awp | null!: ate tentei abrir fechar o inv dropar td
+[18:17:34] rM.awp | null!: usar andar usar
+[18:17:38] rM.awp | null!: deu em nada
+[18:17:40] rM.awp | null!: Ta suave
+[18:17:50] Sagos: vou fazer os analgésico e energético ent
+[18:17:54] rM.awp | null!: Ok
+[18:18:00] rM.awp | null!: Vou pegar água perai
+[18:18:06] U.S.G.N.: Serverlist entry updated
+[18:18:21] U.S.G.N.: Ping/State 'playing'
+[18:18:51] U.S.G.N.: Serverlist entry updated
+[18:19:21] U.S.G.N.: Ping/State 'playing'
+[18:19:36] U.S.G.N.: Serverlist entry updated
+[18:20:22] U.S.G.N.: Ping/State 'playing'
+[18:20:22] U.S.G.N.: Serverlist entry updated
+[18:21:03] generating stats...
+[18:21:03] stats generated in 1 ms!
+[18:21:07] U.S.G.N.: Serverlist entry updated
+[18:21:22] U.S.G.N.: Ping/State 'playing'
+[18:21:52] U.S.G.N.: Serverlist entry updated
+[18:22:23] U.S.G.N.: Ping/State 'playing'
+[18:22:38] U.S.G.N.: Serverlist entry updated
+[18:22:47] ERROR: Unknown command 'speemod' (speemod 1 5)
+[18:22:47] Use quotation marks for parameters with blanks. e.g.: mp_unbuyable "Tactical Shield"
+[18:22:47] Visit CS2D.com/help for a command reference
+[18:23:02] Sagos: vem aki
+[18:23:06] rM.awp | null!: Dps tem q fazer mais oq ?
+[18:23:12] Sagos: vou ver
+[18:23:16] rM.awp | null!: sistema de folego
+[18:23:23] rM.awp | null!: Os rifles ?
+[18:23:23] U.S.G.N.: Ping/State 'playing'
+[18:23:23] U.S.G.N.: Serverlist entry updated
+[18:23:29] Sagos: rifle ta feito ja
+[18:23:39] Sagos: encosta na parede
+[18:23:42] rM.awp | null!: Mds
+[18:23:46] Sagos: vms aposta corrida pra eu testa uma coisa
+[18:23:49] rM.awp | null!: uma hd 5870
+[18:23:51] Sagos: sai correndo
+[18:23:56] Sagos: até o outro lado
+[18:23:59] rM.awp | null!: ta 1,0070$
+[18:24:08] U.S.G.N.: Serverlist entry updated
+[18:24:11] Sagos: ta certo
+[18:24:12] rM.awp | null!: ?
+[18:24:20] Sagos: qm estiver com adrenalina full vai correr um pouco
+[18:24:20] rM.awp | null!: Pq tu veio mais rapido
+[18:24:22] Sagos: mais rapido
+[18:24:24] U.S.G.N.: Ping/State 'playing'
+[18:24:27] rM.awp | null!: ata
+[18:24:37] Sagos: ae ta certo
+[18:24:54] U.S.G.N.: Serverlist entry updated
+[18:25:24] U.S.G.N.: Ping/State 'playing'
+[18:25:39] U.S.G.N.: Serverlist entry updated
+[18:26:03] generating stats...
+[18:26:03] stats generated in 1 ms!
+[18:26:25] U.S.G.N.: Serverlist entry updated
+[18:26:25] U.S.G.N.: Ping/State 'playing'
+[18:26:27] rM.awp | null! killed Sagos with Knife
+[18:27:10] U.S.G.N.: Serverlist entry updated
+[18:27:25] U.S.G.N.: Ping/State 'playing'
+[18:27:55] U.S.G.N.: Serverlist entry updated
+[18:28:26] U.S.G.N.: Ping/State 'playing'
+[18:28:41] U.S.G.N.: Serverlist entry updated
+[18:29:26] "  (1x)
+[18:29:26] U.S.G.N.: Ping/State 'playing'
+[18:29:52] Sagos: ae
+[18:30:00] Sagos: se adrenalina for acima de 60
+[18:30:04] Sagos: vai ganhar velocidade
+[18:30:10] Sagos: abaixo de 60 fica velocidade normal
+[18:30:11] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[18:30:12] U.S.G.N.: Serverlist entry updated
+[18:30:21] Sagos: kkkk
+[18:30:25] Sagos: ta tentando buga
+[18:30:27] U.S.G.N.: Ping/State 'playing'
+[18:30:40] Sagos: acho que vms achar bastante bug quando lançar o
+[18:30:42] Sagos: script
+[18:30:56] Sagos: queria terminar hj
+[18:31:01] rM.awp | null!: '.'
+[18:31:03] generating stats...
+[18:31:03] stats generated in 2 ms!
+[18:31:07] Sagos: mas acho que esse script ainda chega em 3k de linh
+[18:31:09] Sagos: linha
+[18:31:09] rM.awp | null!: ala eu pedi
+[18:31:12] rM.awp | null!: ela ta reclamando
+[18:31:17] rM.awp | null!: so pq e na internet pqp
+[18:31:18] rM.awp | null!: vey
+[18:31:25] rM.awp | null!: MN
+[18:31:27] Sagos: ela nunca comprou nd na net?
+[18:31:27] U.S.G.N.: Ping/State 'playing'
+[18:31:27] rM.awp | null!: 11$
+[18:31:32] rM.awp | null!: Ja carai
+[18:31:34] rM.awp | null!: o minecraft
+[18:31:36] rM.awp | null!: no xbox
+[18:31:41] rM.awp | null!: 40$
+[18:31:42] U.S.G.N.: Serverlist entry updated
+[18:31:45] Sagos: mDs
+[18:31:49] Sagos: meu mine pra pc foi 80
+[18:31:49] rM.awp | null!: Mn
+[18:31:58] rM.awp | null!: Tó chapado
+[18:32:04] rM.awp | null!: ai eu falei
+[18:32:13] rM.awp | null!: q qnd eu ter meu cartao eu vou comprar na internet
+[18:32:16] rM.awp | null!: msm e ja era
+[18:32:26] rM.awp | null!: ela fala q eu sou ignorante
+[18:32:28] U.S.G.N.: Ping/State 'playing'
+[18:32:28] U.S.G.N.: Serverlist entry updated
+[18:32:28] rM.awp | null!: mn eu só pedi
+[18:32:34] rM.awp | null!: ela começou falar já
+[18:32:38] rM.awp | null!: por isso n tenho nada
+[18:32:41] rM.awp | null!: LIMITE é dms
+[18:33:13] U.S.G.N.: Serverlist entry updated
+[18:33:28] Sagos: terminei
+[18:33:28] U.S.G.N.: Ping/State 'playing'
+[18:33:30] Sagos: acho que ta funfando ja
+[18:33:40] ----- Mapchange -----
+[18:33:40] Starting server...
+[18:33:40] load map 'Battle Royale'
+[18:33:40] ----- Server started -----
+[18:33:40] Lua: Adding function 'falar' to hook 'say'
+[18:33:40] Lua: Adding function 'segundos' to hook 'second'
+[18:33:40] Lua: Adding function 'coletar' to hook 'walkover'
+[18:33:40] Lua: Adding function 'atacar' to hook 'attack'
+[18:33:40] Lua: Adding function 'atacar2' to hook 'attack2'
+[18:33:40] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:33:40] Lua: Adding function 'mymenu' to hook 'menu'
+[18:33:40] Lua: Adding function 'ataque' to hook 'hit'
+[18:33:40] Lua: Adding function 'dropar' to hook 'drop'
+[18:33:40] Lua: Adding function 'mover' to hook 'movetile'
+[18:33:41] Sagos juntou-se a Countra-Terrorista Forças
+[18:33:41] U.S.G.N.: Serverlist entry updated
+[18:33:41] U.S.G.N.: Ping/State 'playing'
+[18:33:45] [Info] Você equipou Colete 3
+[18:33:51] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:33:53] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:33:53] rM.awp | null! conectou-se
+[18:33:53] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:33:56] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[18:34:00] [Info] Você pegou 30 Balas de Rifle
+[18:34:04] rM.awp | null!: a mn
+[18:34:05] [Info] Você pegou 15 Balas de Pistola
+[18:34:10] rM.awp | null!: ela da muito LIMITE
+[18:34:12] rM.awp | null!: aqui em casa
+[18:34:15] rM.awp | null!: N tem como n
+[18:34:17] [Info] Você pegou Analgésico
+[18:34:18] [Info] Você pegou Energético
+[18:34:26] U.S.G.N.: Serverlist entry updated
+[18:34:27] Sagos: me da dano
+[18:34:30] Sagos: vc tem quantos anos?
+[18:34:35] rM.awp | null!: 16 
+[18:34:42] U.S.G.N.: Ping/State 'playing'
+[18:34:43] rM.awp | null!: ela me trata como se eu tivesse 10
+[18:34:49] Sagos: ja pode arrumar emprego
+[18:34:51] Sagos: ai ja era man
+[18:34:53] Sagos: tem tudo o que quer
+[18:35:00] [Info] Aguarde 4 segundos para usar Energético
+[18:35:03] rM.awp | null!: Ano q vem eu ja to tranquilo
+[18:35:03] [Info] Você usou Energético
+[18:35:03] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:03]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:04] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:04]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:05] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:05]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:06] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:06]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:07] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:07]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:08] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:08]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:09] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:09]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:10] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:10]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:11] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:11]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:12] U.S.G.N.: Serverlist entry updated
+[18:35:12] rM.awp | null!: Meu curso q quarta agr ja to me formando
+[18:35:12] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:12]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:13] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:13]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:14] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:14]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:15] rM.awp | null!: ele da emprego
+[18:35:16] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:16]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:17] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:17]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:18] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:18]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:19] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:19]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:19] rM.awp | null!: dps de terminar
+[18:35:20] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:20]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:21] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:21]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:22] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:22]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:23] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:23]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:24] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:24]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:25] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:25]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:26] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:26]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:27] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:27]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:27] rM.awp | null!: Ou eu posso ir atras eu msm
+[18:35:28] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:28]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:29] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:29]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:30] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:30]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:31] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:31]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:31] rM.awp | null!: Mn
+[18:35:32] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:32]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:33] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:33]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:34] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:34]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:35] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:35]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:35] rM.awp | null!: Só quero ver
+[18:35:36] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:36]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:37] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:37]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:38] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:38]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:39] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:39]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:40] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:40]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:41] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:41]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:42] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:42]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:42] U.S.G.N.: Ping/State 'playing'
+[18:35:43] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:43]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:43] rM.awp | null!: Eu vou comprar outro pc gamer
+[18:35:44] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:44]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:45] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:45]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:46] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:46]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:47] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:47]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:48] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1115: attempt to index global 'HP' (a nil value)
+[18:35:48]  -> sys/lua/SagosWins/Battle Royale.lua:1115: in function <sys/lua/SagosWins/Battle Royale.lua:1036>
+[18:35:48] rM.awp | null!: Só q dessa vez mais caro
+[18:35:56] ----- Mapchange -----
+[18:35:56] Starting server...
+[18:35:56] load map 'Battle Royale'
+[18:35:57] ----- Server started -----
+[18:35:57] Lua: Adding function 'falar' to hook 'say'
+[18:35:57] Lua: Adding function 'segundos' to hook 'second'
+[18:35:57] Lua: Adding function 'coletar' to hook 'walkover'
+[18:35:57] Lua: Adding function 'atacar' to hook 'attack'
+[18:35:57] Lua: Adding function 'atacar2' to hook 'attack2'
+[18:35:57] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:35:57] Lua: Adding function 'mymenu' to hook 'menu'
+[18:35:57] Lua: Adding function 'ataque' to hook 'hit'
+[18:35:57] Lua: Adding function 'dropar' to hook 'drop'
+[18:35:57] Lua: Adding function 'mover' to hook 'movetile'
+[18:35:57] U.S.G.N.: Ping/State 'playing'
+[18:35:57] U.S.G.N.: Serverlist entry updated
+[18:35:58] Sagos juntou-se a Countra-Terrorista Forças
+[18:36:00] [Info] Você equipou Colete 3
+[18:36:03] generating stats...
+[18:36:03] stats generated in 2 ms!
+[18:36:03] [Info] Você pegou Energético
+[18:36:03] [Info] Você pegou Analgésico
+[18:36:06] [Info] Você pegou Energético
+[18:36:07] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:36:07] [Info] Você pegou Analgésico
+[18:36:07] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:36:07] rM.awp | null! conectou-se
+[18:36:07] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:36:09] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[18:36:12] Sagos: da dano
+[18:36:23] [Info] Aguarde 4 segundos para usar Energético
+[18:36:27] rM.awp | null!: ja dei
+[18:36:27] [Info] Você usou Energético
+[18:36:27] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:27]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:28] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:28]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:29] rM.awp | null!: ou n deu 
+[18:36:29] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:29]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:30] rM.awp | null!: ?
+[18:36:30] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:30]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:31] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:31]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:31] Sagos: deu
+[18:36:32] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:32]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:33] rM.awp | null!: ata
+[18:36:33] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:33]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:34] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:34]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:35] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:35]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:36] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:36]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:37] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:37]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:38] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:38]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:39] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:39]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:40] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:40]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:41] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:41]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:42] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:42]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:42] U.S.G.N.: Serverlist entry updated
+[18:36:43] Sagos: mas esqueci de declarar a variavel
+[18:36:43] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:43]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:44] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:44]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:44] Sagos: sou mt burro
+[18:36:45] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:45]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:46] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:46]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:47] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:47]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:48] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:48]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:49] rM.awp | null!: e nada
+[18:36:49] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:49]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:50] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:50]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:51] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:51]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:52] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:52]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:53] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:53]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:54] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:54]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:55] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:55]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:56] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:56]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:57] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:57]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:58] U.S.G.N.: Ping/State 'playing'
+[18:36:58] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:58]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:36:59] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:36:59]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:37:00] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:37:00]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:37:01] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:37:01]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:37:02] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:37:02]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:37:03] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:37:03]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:37:04] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1117: attempt to concatenate global 'HP' (a table value)
+[18:37:04]  -> sys/lua/SagosWins/Battle Royale.lua:1117: in function <sys/lua/SagosWins/Battle Royale.lua:1037>
+[18:37:05] ----- Mapchange -----
+[18:37:05] Starting server...
+[18:37:05] load map 'Battle Royale'
+[18:37:05] ----- Server started -----
+[18:37:05] Lua: Adding function 'falar' to hook 'say'
+[18:37:05] Lua: Adding function 'segundos' to hook 'second'
+[18:37:05] Lua: Adding function 'coletar' to hook 'walkover'
+[18:37:05] Lua: Adding function 'atacar' to hook 'attack'
+[18:37:05] Lua: Adding function 'atacar2' to hook 'attack2'
+[18:37:05] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:37:05] Lua: Adding function 'mymenu' to hook 'menu'
+[18:37:05] Lua: Adding function 'ataque' to hook 'hit'
+[18:37:05] Lua: Adding function 'dropar' to hook 'drop'
+[18:37:05] Lua: Adding function 'mover' to hook 'movetile'
+[18:37:06] U.S.G.N.: Serverlist entry updated
+[18:37:07] Sagos juntou-se a Countra-Terrorista Forças
+[18:37:09] [Info] Você equipou Colete 3
+[18:37:10] [Info] Você pegou Energético
+[18:37:11] [Info] Você pegou Analgésico
+[18:37:11] U.S.G.N.: Ping/State 'playing'
+[18:37:13] [Info] Você pegou Energético
+[18:37:14] [Info] Você pegou Analgésico
+[18:37:16] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:37:17] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:37:17] rM.awp | null! conectou-se
+[18:37:17] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:37:19] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[18:37:28] rM.awp | null!: sipa vai ter q separar o script em partes
+[18:37:33] rM.awp | null!: pra ficar mais leve
+[18:37:35] Sagos: atk ae
+[18:37:42] [Info] Aguarde 4 segundos para usar Energético
+[18:37:46] [Info] Você usou Energético
+[18:37:48] Sagos: agr s
+[18:37:50] Sagos: funfo
+[18:37:51] U.S.G.N.: Serverlist entry updated
+[18:38:06] Sagos: ae to 100 de vida
+[18:38:11] U.S.G.N.: Ping/State 'playing'
+[18:38:17] Sagos killed rM.awp | null! with Knife
+[18:38:18] Sagos: eita
+[18:38:18] rM.awp | null!: askdas
+[18:38:31] [Info] Aguarde 6 segundos para usar Analgésico
+[18:38:37] U.S.G.N.: Serverlist entry updated
+[18:38:37] [Info] Você usou Analgésico
+[18:38:42] [Info] Aguarde 4 segundos para usar Energético
+[18:38:46] [Info] Você usou Energético
+[18:39:01] rM.awp | null!: tem tempo pra acabar ?
+[18:39:06] Sagos: s
+[18:39:12] U.S.G.N.: Ping/State 'playing'
+[18:39:16] rM.awp | null!: Deveria ter uma hud ?
+[18:39:19] rM.awp | null!: ou n
+[18:39:22] U.S.G.N.: Serverlist entry updated
+[18:39:23] Sagos: deveria kk
+[18:39:28] Sagos: mas to evitando usa
+[18:39:45] Sagos: o energético cura 1 de HP durante 45 seg
+[18:39:53] Sagos: e o analgésico 1 de HP durante 55 seg
+[18:40:07] rM.awp | null!: acho q a velocidade continua
+[18:40:07] U.S.G.N.: Serverlist entry updated
+[18:40:10] rM.awp | null!: qnd acaba
+[18:40:12] U.S.G.N.: Ping/State 'playing'
+[18:40:35] Sagos: s acabei de ver aki .-.
+[18:40:40] ----- Mapchange -----
+[18:40:40] Starting server...
+[18:40:40] load map 'Battle Royale'
+[18:40:40] ----- Server started -----
+[18:40:40] Lua: Adding function 'falar' to hook 'say'
+[18:40:40] Lua: Adding function 'segundos' to hook 'second'
+[18:40:40] Lua: Adding function 'coletar' to hook 'walkover'
+[18:40:40] Lua: Adding function 'atacar' to hook 'attack'
+[18:40:40] Lua: Adding function 'atacar2' to hook 'attack2'
+[18:40:40] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:40:40] Lua: Adding function 'mymenu' to hook 'menu'
+[18:40:40] Lua: Adding function 'ataque' to hook 'hit'
+[18:40:40] Lua: Adding function 'dropar' to hook 'drop'
+[18:40:40] Lua: Adding function 'mover' to hook 'movetile'
+[18:40:41] U.S.G.N.: Serverlist entry updated
+[18:40:41] U.S.G.N.: Ping/State 'playing'
+[18:40:41] Sagos juntou-se a Countra-Terrorista Forças
+[18:40:46] [Info] Você equipou Colete 3
+[18:40:47] [Info] Você pegou Energético
+[18:40:48] [Info] Você pegou Analgésico
+[18:40:50] [Info] Aguarde 4 segundos para usar Energético
+[18:40:50] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:40:51] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:40:51] rM.awp | null! conectou-se
+[18:40:51] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:40:53] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[18:40:54] [Info] Você usou Energético
+[18:40:55] [Info] Aguarde 6 segundos para usar Analgésico
+[18:40:57] rM.awp | null!: sera q noix termina hj
+[18:41:00] [Info] Você usou Analgésico
+[18:41:01] rM.awp | null!: os bug e o script ?
+[18:41:03] generating stats...
+[18:41:03] stats generated in 2 ms!
+[18:41:11] Sagos: tem que fazer o mapa ainda
+[18:41:12] rM.awp | null!: Hj eu to livre '-'
+[18:41:24] Sagos: vou ficar fazendo vms ver se termina
+[18:41:26] U.S.G.N.: Serverlist entry updated
+[18:41:28] rM.awp | null!: Ok
+[18:41:41] U.S.G.N.: Ping/State 'playing'
+[18:42:02] rM.awp | null!: Acho q minha velocidade n pego
+[18:42:08] rM.awp | null!: ou pego ?
+[18:42:10] rM.awp | null!: sla
+[18:42:11] U.S.G.N.: Serverlist entry updated
+[18:42:17] rM.awp | null!: n vi diferença
+[18:42:27] Sagos: ss
+[18:42:33] Sagos: ó pra testa vou colocar pra ficar mais rapido
+[18:42:39] Sagos: quando acabar vc vai ver voltando ao normal
+[18:42:41] U.S.G.N.: Ping/State 'playing'
+[18:42:46] ----- Mapchange -----
+[18:42:46] Starting server...
+[18:42:46] load map 'Battle Royale'
+[18:42:46] ----- Server started -----
+[18:42:46] Lua: Adding function 'falar' to hook 'say'
+[18:42:46] Lua: Adding function 'segundos' to hook 'second'
+[18:42:46] Lua: Adding function 'coletar' to hook 'walkover'
+[18:42:46] Lua: Adding function 'atacar' to hook 'attack'
+[18:42:46] Lua: Adding function 'atacar2' to hook 'attack2'
+[18:42:46] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:42:46] Lua: Adding function 'mymenu' to hook 'menu'
+[18:42:46] Lua: Adding function 'ataque' to hook 'hit'
+[18:42:46] Lua: Adding function 'dropar' to hook 'drop'
+[18:42:46] Lua: Adding function 'mover' to hook 'movetile'
+[18:42:47] Sagos juntou-se a Countra-Terrorista Forças
+[18:42:47] U.S.G.N.: Serverlist entry updated
+[18:42:47] U.S.G.N.: Ping/State 'playing'
+[18:42:50] [Info] Você equipou Colete 3
+[18:42:51] [Info] Você pegou Energético
+[18:42:51] [Info] Você pegou Analgésico
+[18:42:57] [Info] Aguarde 4 segundos para usar Energético
+[18:42:57] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:42:58] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:42:58] rM.awp | null! conectou-se
+[18:42:58] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:43:00] [Info] Você usou Energético
+[18:43:03] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[18:43:03] [Info] Aguarde 6 segundos para usar Analgésico
+[18:43:09] [Info] Você usou Analgésico
+[18:43:12] rM.awp | null!: me
+[18:43:13] rM.awp | null!: kjsakdaskdaksdkas
+[18:43:20] rM.awp | null!: meu n mudo nada
+[18:43:29] Sagos: é pq vc tem q usar 2
+[18:43:33] U.S.G.N.: Serverlist entry updated
+[18:43:35] rM.awp | null!: sla em
+[18:43:42] rM.awp | null!: acho q e pq to com 100 hp
+[18:43:47] Sagos: é só acima de 60 de adrenalina
+[18:43:48] U.S.G.N.: Ping/State 'playing'
+[18:43:51] Sagos: eu tbm to 100 .-.
+[18:43:55] Sagos: ae olha acabou kk
+[18:44:09] rM.awp | null!: asdkas
+[18:44:18] U.S.G.N.: Serverlist entry updated
+[18:44:45] Sagos: pronto
+[18:44:48] Sagos: itens de cura feitos
+[18:44:48] U.S.G.N.: Ping/State 'playing'
+[18:44:50] Sagos: armas tbm
+[18:44:55] Sagos: falta dropar as bala
+[18:44:56] rM.awp | null!: Rifles ?
+[18:44:57] Sagos: n fiz ainda
+[18:45:01] Sagos: rifle ta feito tbm
+[18:45:04] U.S.G.N.: Serverlist entry updated
+[18:45:05] rM.awp | null!: todos?
+[18:45:13] Sagos: s vou te dar 1 m4a1
+[18:45:15] rM.awp | null!: Ok :)
+[18:45:26] Sagos: testa ai
+[18:45:47] Sagos: tds os rifle funfando
+[18:45:49] U.S.G.N.: Serverlist entry updated
+[18:45:49] U.S.G.N.: Ping/State 'playing'
+[18:45:50] rM.awp | null!: me mata
+[18:45:53] rM.awp | null!: inv encheu
+[18:45:54] Sagos killed rM.awp | null! with Knife
+[18:46:01] Sagos: n vai resetar kk
+[18:46:03] generating stats...
+[18:46:03] stats generated in 1 ms!
+[18:46:07] Sagos: pega colete
+[18:46:14] Sagos: o colete aumenta capacidade em 50
+[18:46:33] [Info] Você pegou 30 Balas de Rifle
+[18:46:34] U.S.G.N.: Serverlist entry updated
+[18:46:42] rM.awp | null!: tem q fazer as bolsas
+[18:46:47] rM.awp | null!: Tem q pegar o contato do smoker
+[18:46:49] U.S.G.N.: Ping/State 'playing'
+[18:46:53] Sagos: tava pensando em fazer 1 só
+[18:46:56] rM.awp | null!: Pede pro paulo o contato do smoker
+[18:47:11] rM.awp | null!: ele sabe o sistema de pegar do chao 
+[18:47:12] Sagos: o que vc acha de fazer só 1 mochila?
+[18:47:20] rM.awp | null!: Hm?
+[18:47:22] rM.awp | null!: sei la
+[18:47:29] rM.awp | null!: Vc q sabe
+[18:47:34] Sagos: no PUBG tem mochilas lvl 1 2 e 3
+[18:47:43] rM.awp | null!: Intao
+[18:47:50] U.S.G.N.: Ping/State 'playing'
+[18:47:53] rM.awp | null!: o Smoker sabe fazer esse sistema
+[18:48:05] rM.awp | null!: ai ele faz o capa 3
+[18:48:07] rM.awp | null!: 2
+[18:48:09] rM.awp | null!: 1
+[18:48:14] rM.awp | null!: Bolsa 3 2 1
+[18:48:19] rM.awp | null!: e o sistema de pegar
+[18:48:26] rM.awp | null!: ai o sistema de capacidade fica facil
+[18:48:48] Sagos: eu n queria fazer os capacete pq
+[18:48:50] U.S.G.N.: Serverlist entry updated
+[18:48:50] U.S.G.N.: Ping/State 'playing'
+[18:48:55] Sagos: n sei fazer alguem dar headshot ou n
+[18:49:03] rM.awp | null!: Hmm
+[18:49:07] rM.awp | null!: pega o codigo
+[18:49:10] rM.awp | null!: de outro script
+[18:49:12] rM.awp | null!: ksdk
+[18:49:15] Sagos: então, n queria copiar nd kk
+[18:49:22] Sagos: mas se quiser eu pego código dos cara
+[18:49:23] rM.awp | null!: Vc aprende rapido
+[18:49:29] rM.awp | null!: E so vc olhar
+[18:49:31] rM.awp | null!: q vc aprende
+[18:49:36] rM.awp | null!: foi assim q aprendeu lua
+[18:49:49] rM.awp | null!: Pera vou abrir navegador e vou ver no forum
+[18:49:50] rM.awp | null!: se tem
+[18:49:51] U.S.G.N.: Ping/State 'playing'
+[18:50:21] U.S.G.N.: Serverlist entry updated
+[18:50:51] U.S.G.N.: Ping/State 'playing'
+[18:51:03] generating stats...
+[18:51:03] stats generated in 1 ms!
+[18:51:05] rM.awp | null!: ai
+[18:51:06] U.S.G.N.: Serverlist entry updated
+[18:51:06] rM.awp | null!: http://unrealsoftware.de/files_show.php?file=4767
+[18:51:08] "  (1x)
+[18:51:10] "  (1x)
+[18:51:15] "  (1x)
+[18:51:34] rM.awp | null! deixou o jogo
+[18:51:52] U.S.G.N.: Serverlist entry updated
+[18:51:52] U.S.G.N.: Ping/State 'playing'
+[18:52:18] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:52:18] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:52:18] rM.awp | null! conectou-se
+[18:52:18] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:52:18] JOIN FAILURE: rM.awp | null! (177.185.53.199:51791) can't join (map differs)
+[18:52:19] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:52:20] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:52:20] rM.awp | null! conectou-se
+[18:52:20] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:52:22] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[18:52:34] rM.awp | null!: da m4a1
+[18:52:37] U.S.G.N.: Serverlist entry updated
+[18:52:57] U.S.G.N.: Ping/State 'playing'
+[18:53:06] Sagos: pera ae
+[18:53:11] Sagos: to dando uma olhada no script q vc me mando
+[18:53:14] rM.awp | null!: ok
+[18:53:17] rM.awp | null!: mn ja to
+[18:53:20] rM.awp | null!: ta td salvo
+[18:53:22] U.S.G.N.: Serverlist entry updated
+[18:53:58] U.S.G.N.: Ping/State 'playing'
+[18:54:08] U.S.G.N.: Serverlist entry updated
+[18:54:43] Sagos: slk
+[18:54:50] Sagos: o cara criou uma function
+[18:54:52] Sagos: n sei fazer isso kk
+[18:54:53] U.S.G.N.: Serverlist entry updated
+[18:54:58] U.S.G.N.: Ping/State 'playing'
+[18:55:02] Sagos: mas entendi como funfa
+[18:55:03] Sagos: posso usar
+[18:55:39] U.S.G.N.: Serverlist entry updated
+[18:55:59] U.S.G.N.: Ping/State 'playing'
+[18:56:03] generating stats...
+[18:56:03] stats generated in 1 ms!
+[18:56:07] rM.awp | null! killed Sagos with Gas Grenade
+[18:56:20] rM.awp | null!: isso q bug ?
+[18:56:24] U.S.G.N.: Serverlist entry updated
+[18:56:37] Sagos: wtf
+[18:56:40] Sagos: como vc conseguiu pegar?
+[18:56:42] rM.awp | null!: E bug ?
+[18:56:43] rM.awp | null!: kkkkkkkkkkkk
+[18:56:43] Sagos: s
+[18:56:47] rM.awp | null!: eu enchi td o inv
+[18:56:50] rM.awp | null!: e tentei pega
+[18:56:50] [Info] Você pegou 10 Balas de Shotgun
+[18:56:52] rM.awp | null!: ai deu
+[18:56:55] [Info] Você pegou 10 Balas de Shotgun
+[18:56:56] [Info] Você pegou 30 Balas de Rifle
+[18:56:56] [Info] Você pegou 15 Balas de Pistola
+[18:56:57] [Info] Você pegou 30 Balas de SMG
+[18:56:59] U.S.G.N.: Ping/State 'playing'
+[18:56:59] [Info] Espaço insuficiente para carregar mais itens
+[18:57:00] "  (1x)
+[18:57:03] Sagos: ata
+[18:57:07] Sagos: ja vou arrumar pera ae
+[18:57:09] U.S.G.N.: Serverlist entry updated
+[18:57:50] rM.awp | null!: E n ta dando a msg
+[18:57:55] U.S.G.N.: Serverlist entry updated
+[18:57:56] [Info] Espaço insuficiente para carregar mais itens
+[18:57:57] "  (1x)
+[18:58:00] U.S.G.N.: Ping/State 'playing'
+[18:58:25] rM.awp | null!: qnd menos esperava achando q tava sem bug surje
+[18:58:28] rM.awp | null!: um feiao kasdkas
+[18:58:40] U.S.G.N.: Serverlist entry updated
+[18:58:45] ----- Mapchange -----
+[18:58:45] Starting server...
+[18:58:45] load map 'Battle Royale'
+[18:58:45] ----- Server started -----
+[18:58:45] Lua: Adding function 'falar' to hook 'say'
+[18:58:45] Lua: Adding function 'segundos' to hook 'second'
+[18:58:45] Lua: Adding function 'coletar' to hook 'walkover'
+[18:58:45] Lua: Adding function 'atacar' to hook 'attack'
+[18:58:45] Lua: Adding function 'atacar2' to hook 'attack2'
+[18:58:45] Lua: Adding function 'teclas' to hook 'serveraction'
+[18:58:45] Lua: Adding function 'mymenu' to hook 'menu'
+[18:58:45] Lua: Adding function 'ataque' to hook 'hit'
+[18:58:45] Lua: Adding function 'dropar' to hook 'drop'
+[18:58:45] Lua: Adding function 'mover' to hook 'movetile'
+[18:58:45] U.S.G.N.: Serverlist entry updated
+[18:58:45] U.S.G.N.: Ping/State 'playing'
+[18:58:46] Sagos juntou-se a Countra-Terrorista Forças
+[18:58:50] [Info] Você pegou Energético
+[18:58:50] [Info] Você pegou Kit Full
+[18:58:51] [Info] Você pegou Kit Médico
+[18:58:51] [Info] Você pegou Analgésico
+[18:58:54] [Info] Você pegou Kit Full
+[18:58:55] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[18:58:56] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[18:58:56] rM.awp | null! conectou-se
+[18:58:56] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[18:59:30] U.S.G.N.: Serverlist entry updated
+[18:59:51] U.S.G.N.: Ping/State 'playing'
+[19:00:16] U.S.G.N.: Serverlist entry updated
+[19:00:51] U.S.G.N.: Ping/State 'playing'
+[19:01:01] U.S.G.N.: Serverlist entry updated
+[19:01:03] generating stats...
+[19:01:03] stats generated in 1 ms!
+[19:01:44] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[19:01:46] U.S.G.N.: Serverlist entry updated
+[19:01:52] U.S.G.N.: Ping/State 'playing'
+[19:02:32] U.S.G.N.: Serverlist entry updated
+[19:02:50] ----- Mapchange -----
+[19:02:50] Starting server...
+[19:02:50] load map 'Battle Royale'
+[19:02:50] ----- Server started -----
+[19:02:50] Lua: Adding function 'falar' to hook 'say'
+[19:02:50] Lua: Adding function 'segundos' to hook 'second'
+[19:02:50] Lua: Adding function 'coletar' to hook 'walkover'
+[19:02:50] Lua: Adding function 'atacar' to hook 'attack'
+[19:02:50] Lua: Adding function 'atacar2' to hook 'attack2'
+[19:02:50] Lua: Adding function 'teclas' to hook 'serveraction'
+[19:02:50] Lua: Adding function 'mymenu' to hook 'menu'
+[19:02:50] Lua: Adding function 'ataque' to hook 'hit'
+[19:02:50] Lua: Adding function 'dropar' to hook 'drop'
+[19:02:50] Lua: Adding function 'mover' to hook 'movetile'
+[19:02:51] U.S.G.N.: Ping/State 'playing'
+[19:02:51] U.S.G.N.: Serverlist entry updated
+[19:02:52] Sagos juntou-se a Countra-Terrorista Forças
+[19:02:57] [Info] Você pegou Kit Full
+[19:03:00] "  (1x)
+[19:03:01] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[19:03:02] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[19:03:02] rM.awp | null! conectou-se
+[19:03:02] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[19:03:03] [Info] Você pegou Kit Full
+[19:03:04] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[19:03:05] [Info] Você pegou Kit Médico
+[19:03:06] [Info] Você pegou Analgésico
+[19:03:07] [Info] Espaço insuficiente para carregar mais itens
+[19:03:09] "  (1x)
+[19:03:10] "  (2x)
+[19:03:11] "  (1x)
+[19:03:11] "  (1x)
+[19:03:13] Sagos: pronto
+[19:03:23] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[19:03:26] rM.awp | null!: ala
+[19:03:28] rM.awp | null!: agr aumento
+[19:03:33] rM.awp | null!: com o coloete
+[19:03:35] rM.awp | null!: Colete
+[19:03:36] U.S.G.N.: Serverlist entry updated
+[19:03:39] [Info] Espaço insuficiente para carregar mais itens
+[19:03:48] Sagos: mas o colete sempre aumento
+[19:03:51] U.S.G.N.: Ping/State 'playing'
+[19:03:56] rM.awp | null!: pra mim n tava aumentando
+[19:04:04] Sagos: bugo dnv mDs
+[19:04:08] rM.awp | null!: oq deu ?
+[19:04:11] Sagos: agr pra mim n ta aumentando
+[19:04:22] U.S.G.N.: Serverlist entry updated
+[19:04:52] U.S.G.N.: Ping/State 'playing'
+[19:05:07] U.S.G.N.: Serverlist entry updated
+[19:05:51] ----- Mapchange -----
+[19:05:51] Starting server...
+[19:05:51] load map 'Battle Royale'
+[19:05:51] ----- Server started -----
+[19:05:51] Lua: Adding function 'falar' to hook 'say'
+[19:05:51] Lua: Adding function 'segundos' to hook 'second'
+[19:05:51] Lua: Adding function 'coletar' to hook 'walkover'
+[19:05:51] Lua: Adding function 'atacar' to hook 'attack'
+[19:05:51] Lua: Adding function 'atacar2' to hook 'attack2'
+[19:05:51] Lua: Adding function 'teclas' to hook 'serveraction'
+[19:05:51] Lua: Adding function 'mymenu' to hook 'menu'
+[19:05:51] Lua: Adding function 'ataque' to hook 'hit'
+[19:05:51] Lua: Adding function 'dropar' to hook 'drop'
+[19:05:51] Lua: Adding function 'mover' to hook 'movetile'
+[19:05:52] U.S.G.N.: Serverlist entry updated
+[19:05:52] U.S.G.N.: Ping/State 'playing'
+[19:05:53] Sagos juntou-se a Countra-Terrorista Forças
+[19:06:02] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[19:06:02] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[19:06:02] rM.awp | null! conectou-se
+[19:06:02] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[19:06:03] generating stats...
+[19:06:03] stats generated in 2 ms!
+[19:06:14] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[19:06:23] Sagos: pega o colete e ve se aumenta
+[19:06:30] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:930: bad argument #2 to 'msg2' (string expected, got table)
+[19:06:30]  -> [C]: in function 'msg2'
+[19:06:30]  -> sys/lua/SagosWins/Battle Royale.lua:930: in function <sys/lua/SagosWins/Battle Royale.lua:831>
+[19:06:30]  -> in Lua hook 'walkover', params: 2, 15, 80, 0, 0, 0
+[19:06:38] U.S.G.N.: Serverlist entry updated
+[19:06:52] rM.awp | null!: os pequeno n aumenta
+[19:06:53] U.S.G.N.: Ping/State 'playing'
+[19:06:53] rM.awp | null!: ?
+[19:06:54] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:949: bad argument #2 to 'msg2' (string expected, got table)
+[19:06:54]  -> [C]: in function 'msg2'
+[19:06:54]  -> sys/lua/SagosWins/Battle Royale.lua:949: in function <sys/lua/SagosWins/Battle Royale.lua:831>
+[19:06:54]  -> in Lua hook 'walkover', params: 2, 16, 81, 0, 0, 0
+[19:06:59] Sagos: ta bugado
+[19:07:04] rM.awp | null!: n aumento
+[19:07:23] U.S.G.N.: Serverlist entry updated
+[19:07:34] ----- Mapchange -----
+[19:07:34] Starting server...
+[19:07:34] load map 'Battle Royale'
+[19:07:34] ----- Server started -----
+[19:07:34] Lua: Adding function 'falar' to hook 'say'
+[19:07:34] Lua: Adding function 'segundos' to hook 'second'
+[19:07:34] Lua: Adding function 'coletar' to hook 'walkover'
+[19:07:34] Lua: Adding function 'atacar' to hook 'attack'
+[19:07:34] Lua: Adding function 'atacar2' to hook 'attack2'
+[19:07:34] Lua: Adding function 'teclas' to hook 'serveraction'
+[19:07:34] Lua: Adding function 'mymenu' to hook 'menu'
+[19:07:34] Lua: Adding function 'ataque' to hook 'hit'
+[19:07:34] Lua: Adding function 'dropar' to hook 'drop'
+[19:07:34] Lua: Adding function 'mover' to hook 'movetile'
+[19:07:35] U.S.G.N.: Serverlist entry updated
+[19:07:35] U.S.G.N.: Ping/State 'playing'
+[19:07:36] Sagos juntou-se a Countra-Terrorista Forças
+[19:07:45] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[19:07:45] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[19:07:45] rM.awp | null! conectou-se
+[19:07:45] rM.awp | null! is using IP 177.185.53.199:51791 and U.S.G.N. ID #14465
+[19:07:48] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[19:07:51] Sagos: ve agr
+[19:07:56] rM.awp | null!: 100
+[19:08:06] 0
+[19:08:06] [Info] Você equipou Colete 1
+[19:08:06] rM.awp | null!: Continua 100
+[19:08:18] Sagos: os 3 colete só da 50 de capacidade
+[19:08:21] U.S.G.N.: Serverlist entry updated
+[19:08:23] 1
+[19:08:23] [Info] Você equipou Colete 2
+[19:08:27] 2
+[19:08:27] [Info] Você equipou Colete 3
+[19:08:31] 3
+[19:08:31] [Info] Você já possui um colete igual ou melhor
+[19:08:33] 3
+[19:08:33] [Info] Você já possui um colete igual ou melhor
+[19:08:34] 3
+[19:08:34] [Info] Você já possui um colete igual ou melhor
+[19:08:34] 3
+[19:08:34] [Info] Você já possui um colete igual ou melhor
+[19:08:36] U.S.G.N.: Ping/State 'playing'
+[19:08:43] rM.awp | null!: Me
+[19:08:47] rM.awp | null!: eu n consigo pegar bala ainda
+[19:09:00] rM.awp | null!: meee
+[19:09:03] rM.awp | null!: pesa pra krlo skadkas
+[19:09:06] U.S.G.N.: Serverlist entry updated
+[19:09:07] Sagos: kkkk
+[19:09:09] [Info] Você pegou 30 Balas de SMG
+[19:09:13] "  (1x)
+[19:09:13] rM.awp | null!: 91/100
+[19:09:16] rM.awp | null!: so as bala
+[19:09:20] [Info] Você pegou 30 Balas de SMG
+[19:09:32] Sagos: por isso eu tava pensando em fazer só 1 mochila
+[19:09:34] JOIN FAILURE: Ð ä ñ ¡ X ~ (186.219.67.109:63881) can't join (wrong password)
+[19:09:35] "  (1x)
+[19:09:36] Sagos: com 300 de capacidade
+[19:09:36] U.S.G.N.: Ping/State 'playing'
+[19:09:36] JOIN FAILURE: Ð ä ñ ¡ X ~ (186.219.67.109:63881) can't join (wrong password)
+[19:09:37] "  (1x)
+[19:09:38] "  (1x)
+[19:09:41] "  (1x)
+[19:09:44] "  (1x)
+[19:09:45] "  (1x)
+[19:09:47] "  (1x)
+[19:09:49] "  (1x)
+[19:09:50] "  (1x)
+[19:09:51] "  (1x)
+[19:09:51] U.S.G.N.: Serverlist entry updated
+[19:09:51] rM.awp | null!: Vc vai tirar dos colete ?
+[19:09:52] JOIN FAILURE: Ð ä ñ ¡ X ~ (186.219.67.109:63881) can't join (wrong password)
+[19:09:53] "  (1x)
+[19:09:54] "  (2x)
+[19:09:54] "  (2x)
+[19:09:55] Sagos: n
+[19:09:56] JOIN FAILURE: Ð ä ñ ¡ X ~ (186.219.67.109:63881) can't join (wrong password)
+[19:09:56] "  (1x)
+[19:09:57] rM.awp | null!: uai
+[19:09:58] JOIN FAILURE: Ð ä ñ ¡ X ~ (186.219.67.109:63881) can't join (wrong password)
+[19:09:59] "  (2x)
+[19:10:00] "  (2x)
+[19:10:09] Sagos: colete da 50
+[19:10:13] Sagos: e mochila 300
+[19:10:20] Sagos: total vai ser 400
+[19:10:24] [Info] Você pegou Analgésico
+[19:10:24] [Info] Espaço insuficiente para carregar mais itens
+[19:10:24] "  (2x)
+[19:10:29] rM.awp | null!: Faz ele intaum
+[19:10:32] rM.awp | null!: e o drop de balas
+[19:10:35] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[19:10:37] U.S.G.N.: Serverlist entry updated
+[19:10:37] U.S.G.N.: Ping/State 'playing'
+[19:10:38] rM.awp | null!: ai noix tenta buga
+[19:10:43] rM.awp | null!: e faz o sistema de folego
+[19:10:47] Sagos: to pensando ainda no drop de bala
+[19:10:51] Sagos: em como fazer
+[19:10:57] Sagos: o que vc acha de tipo assim
+[19:11:02] Sagos: !pistola 20
+[19:11:03] generating stats...
+[19:11:03] stats generated in 1 ms!
+[19:11:05] Sagos: ai dropa 20 bala
+[19:11:09] rM.awp | null!: oO
+[19:11:18] rM.awp | null!: Tipo 
+[19:11:22] U.S.G.N.: Serverlist entry updated
+[19:11:27] rM.awp | null!: Acho q assim seria bom mais
+[19:11:31] rM.awp | null!: A sla
+[19:11:33] rM.awp | null!: deixa eu pensar
+[19:11:36] Sagos: ok
+[19:11:37] [Info] Espaço insuficiente para carregar mais itens
+[19:11:37] "  (1x)
+[19:11:42] U.S.G.N.: Ping/State 'playing'
+[19:12:07] U.S.G.N.: Serverlist entry updated
+[19:12:14] rM.awp | null!: tipo o sistema de DROPAR MONEY
+[19:12:17] rM.awp | null!: dos rpg
+[19:12:26] Sagos: como é?
+[19:12:29] Sagos: n joguei mt RPG
+[19:12:43] U.S.G.N.: Ping/State 'playing'
+[19:12:51] rM.awp | null!: Tipo
+[19:12:53] U.S.G.N.: Serverlist entry updated
+[19:12:58] rM.awp | null!: os de dropar ouro
+[19:13:08] rM.awp | null!: so q inves de dropar money
+[19:13:10] rM.awp | null!: dropar
+[19:13:15] rM.awp | null!: snow
+[19:13:21] rM.awp | null!: granadas
+[19:13:23] rM.awp | null!: de gas
+[19:13:29] rM.awp | null!: em quantidades
+[19:13:38] U.S.G.N.: Serverlist entry updated
+[19:13:43] Sagos: s é o que eu falei
+[19:13:43] U.S.G.N.: Ping/State 'playing'
+[19:13:44] Sagos: tipo
+[19:13:46] rM.awp | null!: Tipo clicka em dropar municao
+[19:13:50] rM.awp | null!: ai abre outro menu
+[19:13:54] Sagos: !rifle 50
+[19:13:59] Sagos: ai aparece aki onde eu to
+[19:14:03] Sagos: 50 munição de rifle
+[19:14:05] rM.awp | null!: Tenta ai
+[19:14:11] rM.awp | null!: tem como trocar os nomer
+[19:14:13] rM.awp | null!: nomes
+[19:14:17] rM.awp | null!: qnd passa o mouse em cima ?
+[19:14:23] Sagos: n
+[19:14:23] U.S.G.N.: Serverlist entry updated
+[19:14:44] [Info] Espaço insuficiente para carregar mais itens
+[19:14:44] "  (2x)
+[19:14:49] U.S.G.N.: Ping/State 'playing'
+[19:14:56] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[19:15:03] [Info] Você já tem Famas no inventário
+[19:15:09] U.S.G.N.: Serverlist entry updated
+[19:15:21] rM.awp | null!: ja usou shaders no seu minecraft /
+[19:15:22] rM.awp | null!: ?
+[19:15:22] [Info] Sem balas de SMG, sua TMP foi guardada no inventário
+[19:15:22] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[19:15:25] Sagos: ja
+[19:15:49] U.S.G.N.: Ping/State 'playing'
+[19:15:54] U.S.G.N.: Serverlist entry updated
+[19:15:59] rM.awp | null!: Top e a Seus v11
+[19:16:01] rM.awp | null!: kkkk
+[19:16:03] generating stats...
+[19:16:03] stats generated in 1 ms!
+[19:16:06] rM.awp | null!: Ela é monster
+[19:16:31] Sagos: foi ela msm q coloquei
+[19:16:40] U.S.G.N.: Serverlist entry updated
+[19:16:40] rM.awp | null!: A mais top
+[19:16:44] rM.awp | null!: rodo a qnts frame/
+[19:16:50] U.S.G.N.: Ping/State 'playing'
+[19:16:51] Sagos: 60
+[19:16:57] rM.awp | null!: na gtx 550 ti rodou a 30
+[19:17:08] Sagos: a minha é gtx 750 ti
+[19:17:12] rM.awp | null!: 60 pq deve q tava ativado o Vertical Sicronização
+[19:17:25] U.S.G.N.: Serverlist entry updated
+[19:17:33] rM.awp | null!: gt 1030 bate de frente com a gtx 750 ti
+[19:17:50] U.S.G.N.: Ping/State 'playing'
+[19:18:10] U.S.G.N.: Serverlist entry updated
+[19:18:51] U.S.G.N.: Ping/State 'playing'
+[19:18:56] U.S.G.N.: Serverlist entry updated
+[19:19:35] [Info] Você pegou Analgésico
+[19:19:37] [Info] Aguarde 6 segundos para usar Analgésico
+[19:19:41] U.S.G.N.: Serverlist entry updated
+[19:19:43] [Info] Você usou Analgésico
+[19:19:51] U.S.G.N.: Ping/State 'playing'
+[19:20:25] Sagos: ja volto
+[19:20:26] U.S.G.N.: Serverlist entry updated
+[19:20:31] rM.awp | null!: ok
+[19:20:52] U.S.G.N.: Ping/State 'playing'
+[19:21:03] generating stats...
+[19:21:03] stats generated in 2 ms!
+[19:21:12] U.S.G.N.: Serverlist entry updated
+[19:21:52] U.S.G.N.: Ping/State 'playing'
+[19:21:57] U.S.G.N.: Serverlist entry updated
+[19:22:42] "  (1x)
+[19:22:53] U.S.G.N.: Ping/State 'playing'
+[19:23:28] U.S.G.N.: Serverlist entry updated
+[19:23:53] U.S.G.N.: Ping/State 'playing'
+[19:24:13] U.S.G.N.: Serverlist entry updated
+[19:24:53] U.S.G.N.: Ping/State 'playing'
+[19:24:59] U.S.G.N.: Serverlist entry updated
+[19:25:44] "  (1x)
+[19:25:54] U.S.G.N.: Ping/State 'playing'
+[19:25:58] rM.awp | null!: To sem audio
+[19:26:01] rM.awp | null!: calma ai
+[19:26:03] generating stats...
+[19:26:03] stats generated in 1 ms!
+[19:26:04] rM.awp | null!: vou pegar o fone
+[19:26:29] U.S.G.N.: Serverlist entry updated
+[19:26:49] rM.awp | null!: Pronto
+[19:26:54] U.S.G.N.: Ping/State 'playing'
+[19:27:15] U.S.G.N.: Serverlist entry updated
+[19:27:24] 3
+[19:27:24] [Info] Você já possui um colete igual ou melhor
+[19:27:24] 3
+[19:27:24] [Info] Você já possui um colete igual ou melhor
+[19:27:25] 3
+[19:27:25] [Info] Você já possui um colete igual ou melhor
+[19:27:25] 3
+[19:27:25] [Info] Você já possui um colete igual ou melhor
+[19:27:25] 3
+[19:27:25] [Info] Você já possui um colete igual ou melhor
+[19:27:37] rM.awp | null!: dsakid
+[19:27:55] U.S.G.N.: Ping/State 'playing'
+[19:28:00] U.S.G.N.: Serverlist entry updated
+[19:28:45] "  (1x)
+[19:28:49] [Info] Você pegou Analgésico
+[19:28:49] [Info] Você pegou Energético
+[19:28:55] U.S.G.N.: Ping/State 'playing'
+[19:28:58] [Info] Você já tem Deagle no inventário
+[19:29:01] [Info] Você pegou 15 Balas de Pistola
+[19:29:04] "  (1x)
+[19:29:16] Sagos killed rM.awp | null! with Deagle
+[19:29:18] rM.awp | null!: asdoiasdk
+[19:29:26] rM.awp | null!: Uai
+[19:29:31] U.S.G.N.: Serverlist entry updated
+[19:29:33] rM.awp | null!: a ta certo
+[19:29:34] Sagos: ?
+[19:29:40] [Info] Aguarde 4 segundos para usar Energético
+[19:29:43] [Info] Você usou Energético
+[19:29:56] U.S.G.N.: Ping/State 'playing'
+[19:30:04] [Info] Você pegou Analgésico
+[19:30:06] [Info] Você pegou Energético
+[19:30:09] [Info] Aguarde 6 segundos para usar Analgésico
+[19:30:15] [Info] Você usou Analgésico
+[19:30:16] U.S.G.N.: Serverlist entry updated
+[19:30:16] [Info] Você pegou Kit Médico
+[19:30:21] [Info] Você pegou Analgésico
+[19:30:22] [Info] Você pegou Energético
+[19:30:56] U.S.G.N.: Ping/State 'playing'
+[19:31:01] U.S.G.N.: Serverlist entry updated
+[19:31:03] generating stats...
+[19:31:03] stats generated in 1 ms!
+[19:31:12] Sagos: kk
+[19:31:22] rM.awp | null!: O drop de munição vai ser com comando ?
+[19:31:24] rM.awp | null!: ou menu ?
+[19:31:42] Sagos: o melhor é comando
+[19:31:46] rM.awp | null!: Ok
+[19:31:47] U.S.G.N.: Serverlist entry updated
+[19:31:48] Sagos: mas to sem idéia de como fazer
+[19:31:57] U.S.G.N.: Ping/State 'playing'
+[19:32:26] Sagos: vou fazer por menu
+[19:32:32] rM.awp | null!: ok
+[19:32:32] U.S.G.N.: Serverlist entry updated
+[19:32:43] rM.awp | null!: Dps vamo partir para o folego
+[19:32:47] rM.awp | null!: ai so vai ter o aviao
+[19:32:52] Sagos: e o gas
+[19:32:56] rM.awp | null!: o mapa
+[19:32:57] U.S.G.N.: Ping/State 'playing'
+[19:32:58] rM.awp | null!: e os carros
+[19:33:04] rM.awp | null!: os mais hard
+[19:33:14] rM.awp | null!: ai dps termina fazendo o mapa
+[19:33:18] U.S.G.N.: Serverlist entry updated
+[19:33:24] [Info] Aguarde 4 segundos para usar Energético
+[19:33:27] [Info] Você usou Energético
+[19:33:29] [Info] Aguarde 6 segundos para usar Analgésico
+[19:33:35] [Info] Você usou Analgésico
+[19:33:58] U.S.G.N.: Ping/State 'playing'
+[19:34:03] U.S.G.N.: Serverlist entry updated
+[19:34:48] "  (1x)
+[19:34:58] U.S.G.N.: Ping/State 'playing'
+[19:35:34] U.S.G.N.: Serverlist entry updated
+[19:35:59] U.S.G.N.: Ping/State 'playing'
+[19:36:03] generating stats...
+[19:36:03] stats generated in 1 ms!
+[19:36:16] [Info] Você pegou 30 Balas de Rifle
+[19:36:29] rM.awp | null!: ja sabe como vai fazer qnd morre dropar os itens
+[19:36:32] rM.awp | null!: q o player tem
+[19:36:59] U.S.G.N.: Ping/State 'playing'
+[19:37:04] U.S.G.N.: Serverlist entry updated
+[19:37:50] "  (1x)
+[19:38:00] U.S.G.N.: Ping/State 'playing'
+[19:38:35] U.S.G.N.: Serverlist entry updated
+[19:39:00] U.S.G.N.: Ping/State 'playing'
+[19:39:20] U.S.G.N.: Serverlist entry updated
+[19:39:34] [Info] Você pegou 10 Balas de Shotgun
+[19:40:01] U.S.G.N.: Ping/State 'playing'
+[19:40:06] U.S.G.N.: Serverlist entry updated
+[19:40:51] "  (1x)
+[19:41:01] U.S.G.N.: Ping/State 'playing'
+[19:41:03] generating stats...
+[19:41:03] stats generated in 1 ms!
+[19:41:36] U.S.G.N.: Serverlist entry updated
+[19:42:02] U.S.G.N.: Ping/State 'playing'
+[19:42:22] U.S.G.N.: Serverlist entry updated
+[19:42:50] rM.awp | null! killed Sagos with M3
+[19:42:53] rM.awp | null!: Meee
+[19:42:55] rM.awp | null!: kkk
+[19:43:02] U.S.G.N.: Ping/State 'playing'
+[19:43:07] U.S.G.N.: Serverlist entry updated
+[19:43:53] "  (1x)
+[19:44:03] U.S.G.N.: Ping/State 'playing'
+[19:44:38] U.S.G.N.: Serverlist entry updated
+[19:45:03] U.S.G.N.: Ping/State 'playing'
+[19:45:23] U.S.G.N.: Serverlist entry updated
+[19:46:03] generating stats...
+[19:46:03] stats generated in 1 ms!
+[19:46:04] U.S.G.N.: Ping/State 'playing'
+[19:46:09] U.S.G.N.: Serverlist entry updated
+[19:46:54] "  (1x)
+[19:47:04] U.S.G.N.: Ping/State 'playing'
+[19:47:39] U.S.G.N.: Serverlist entry updated
+[19:48:05] U.S.G.N.: Ping/State 'playing'
+[19:48:25] U.S.G.N.: Serverlist entry updated
+[19:49:05] U.S.G.N.: Ping/State 'playing'
+[19:49:10] U.S.G.N.: Serverlist entry updated
+[19:50:05] U.S.G.N.: Ping/State 'playing'
+[19:50:41] U.S.G.N.: Serverlist entry updated
+[19:51:03] generating stats...
+[19:51:03] stats generated in 2 ms!
+[19:51:06] U.S.G.N.: Ping/State 'playing'
+[19:52:06] "  (1x)
+[19:52:11] U.S.G.N.: Serverlist entry updated
+[19:52:57] "  (1x)
+[19:53:07] U.S.G.N.: Ping/State 'playing'
+[19:53:42] U.S.G.N.: Serverlist entry updated
+[19:54:07] U.S.G.N.: Ping/State 'playing'
+[19:54:28] U.S.G.N.: Serverlist entry updated
+[19:55:08] U.S.G.N.: Ping/State 'playing'
+[19:55:13] U.S.G.N.: Serverlist entry updated
+[19:55:58] "  (1x)
+[19:56:03] generating stats...
+[19:56:03] stats generated in 2 ms!
+[19:56:08] U.S.G.N.: Ping/State 'playing'
+[19:56:44] U.S.G.N.: Serverlist entry updated
+[19:57:09] U.S.G.N.: Ping/State 'playing'
+[19:57:29] U.S.G.N.: Serverlist entry updated
+[19:58:09] U.S.G.N.: Ping/State 'playing'
+[19:58:14] U.S.G.N.: Serverlist entry updated
+[19:59:00] "  (1x)
+[19:59:10] U.S.G.N.: Ping/State 'playing'
+[19:59:45] U.S.G.N.: Serverlist entry updated
+[20:00:10] U.S.G.N.: Ping/State 'playing'
+[20:00:30] U.S.G.N.: Serverlist entry updated
+[20:01:03] generating stats...
+[20:01:03] stats generated in 2 ms!
+[20:01:11] U.S.G.N.: Ping/State 'playing'
+[20:01:16] U.S.G.N.: Serverlist entry updated
+[20:02:01] "  (1x)
+[20:02:12] U.S.G.N.: Ping/State 'playing'
+[20:02:47] U.S.G.N.: Serverlist entry updated
+[20:03:12] U.S.G.N.: Ping/State 'playing'
+[20:03:32] U.S.G.N.: Serverlist entry updated
+[20:04:22] U.S.G.N.: Ping/State 'playing'
+[20:05:03] U.S.G.N.: Serverlist entry updated
+[20:05:23] U.S.G.N.: Ping/State 'playing'
+[20:05:48] U.S.G.N.: Serverlist entry updated
+[20:06:03] generating stats...
+[20:06:03] stats generated in 1 ms!
+[20:06:33] U.S.G.N.: Serverlist entry updated
+[20:06:33] U.S.G.N.: Ping/State 'playing'
+[20:07:19] U.S.G.N.: Serverlist entry updated
+[20:07:34] U.S.G.N.: Ping/State 'playing'
+[20:08:04] U.S.G.N.: Serverlist entry updated
+[20:08:35] U.S.G.N.: Ping/State 'playing'
+[20:08:50] U.S.G.N.: Serverlist entry updated
+[20:09:35] U.S.G.N.: Ping/State 'playing'
+[20:09:35] U.S.G.N.: Serverlist entry updated
+[20:10:20] "  (1x)
+[20:10:35] U.S.G.N.: Ping/State 'playing'
+[20:11:03] generating stats...
+[20:11:03] stats generated in 1 ms!
+[20:11:36] U.S.G.N.: Ping/State 'playing'
+[20:12:20] [Info] Espaço insuficiente para carregar mais itens
+[20:12:26] [Info] Você pegou 30 Balas de SMG
+[20:12:29] rM.awp | null! killed Sagos with M3
+[20:12:36] U.S.G.N.: Serverlist entry updated
+[20:12:36] U.S.G.N.: Ping/State 'playing'
+[20:13:22] U.S.G.N.: Serverlist entry updated
+[20:13:37] U.S.G.N.: Ping/State 'playing'
+[20:14:42] "  (1x)
+[20:14:52] U.S.G.N.: Serverlist entry updated
+[20:15:38] "  (1x)
+[20:15:43] U.S.G.N.: Ping/State 'playing'
+[20:16:03] generating stats...
+[20:16:03] stats generated in 2 ms!
+[20:16:23] U.S.G.N.: Serverlist entry updated
+[20:16:43] U.S.G.N.: Ping/State 'playing'
+[20:17:09] U.S.G.N.: Serverlist entry updated
+[20:17:44] U.S.G.N.: Ping/State 'playing'
+[20:17:54] U.S.G.N.: Serverlist entry updated
+[20:18:39] "  (1x)
+[20:18:49] U.S.G.N.: Ping/State 'playing'
+[20:19:24] U.S.G.N.: Serverlist entry updated
+[20:19:50] U.S.G.N.: Ping/State 'playing'
+[20:20:10] U.S.G.N.: Serverlist entry updated
+[20:20:50] U.S.G.N.: Ping/State 'playing'
+[20:20:56] U.S.G.N.: Serverlist entry updated
+[20:21:03] generating stats...
+[20:21:03] stats generated in 1 ms!
+[20:21:41] U.S.G.N.: Serverlist entry updated
+[20:21:51] U.S.G.N.: Ping/State 'playing'
+[20:22:26] U.S.G.N.: Serverlist entry updated
+[20:22:51] U.S.G.N.: Ping/State 'playing'
+[20:23:11] U.S.G.N.: Serverlist entry updated
+[20:23:52] U.S.G.N.: Ping/State 'playing'
+[20:23:57] U.S.G.N.: Serverlist entry updated
+[20:24:42] "  (1x)
+[20:24:52] U.S.G.N.: Ping/State 'playing'
+[20:25:27] U.S.G.N.: Serverlist entry updated
+[20:25:53] U.S.G.N.: Ping/State 'playing'
+[20:26:03] generating stats...
+[20:26:03] stats generated in 1 ms!
+[20:26:13] U.S.G.N.: Serverlist entry updated
+[20:26:53] U.S.G.N.: Ping/State 'playing'
+[20:26:58] U.S.G.N.: Serverlist entry updated
+[20:27:44] "  (1x)
+[20:27:54] U.S.G.N.: Ping/State 'playing'
+[20:27:55] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[20:27:56] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[20:27:56] rM.awp | null! conectou-se
+[20:27:56] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[20:27:56] JOIN FAILURE: rM.awp | null! (177.185.53.199:64504) can't join (map differs)
+[20:27:57] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[20:27:58] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[20:27:58] rM.awp | null! conectou-se
+[20:27:58] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[20:28:00] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[20:28:29] U.S.G.N.: Serverlist entry updated
+[20:28:54] U.S.G.N.: Ping/State 'playing'
+[20:29:14] U.S.G.N.: Serverlist entry updated
+[20:29:54] U.S.G.N.: Ping/State 'playing'
+[20:30:00] U.S.G.N.: Serverlist entry updated
+[20:30:45] "  (1x)
+[20:30:55] U.S.G.N.: Ping/State 'playing'
+[20:31:03] generating stats...
+[20:31:03] stats generated in 1 ms!
+[20:31:30] U.S.G.N.: Serverlist entry updated
+[20:31:55] U.S.G.N.: Ping/State 'playing'
+[20:32:16] U.S.G.N.: Serverlist entry updated
+[20:32:56] U.S.G.N.: Ping/State 'playing'
+[20:33:01] U.S.G.N.: Serverlist entry updated
+[20:33:47] "  (1x)
+[20:33:57] U.S.G.N.: Ping/State 'playing'
+[20:34:32] U.S.G.N.: Serverlist entry updated
+[20:35:07] U.S.G.N.: Ping/State 'playing'
+[20:35:17] U.S.G.N.: Serverlist entry updated
+[20:36:02] "  (1x)
+[20:36:03] generating stats...
+[20:36:03] stats generated in 2 ms!
+[20:36:07] U.S.G.N.: Ping/State 'playing'
+[20:36:48] U.S.G.N.: Serverlist entry updated
+[20:37:08] U.S.G.N.: Ping/State 'playing'
+[20:37:20] ----- Mapchange -----
+[20:37:20] Starting server...
+[20:37:20] load map 'Battle Royale'
+[20:37:20] ----- Server started -----
+[20:37:20] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:684: 'then' expected near '='
+[20:37:21] U.S.G.N.: Ping/State 'playing'
+[20:37:21] U.S.G.N.: Serverlist entry updated
+[20:37:22] Sagos juntou-se a Countra-Terrorista Forças
+[20:37:30] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[20:37:32] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[20:37:32] rM.awp | null! conectou-se
+[20:37:32] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[20:37:34] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[20:37:40] ----- Mapchange -----
+[20:37:40] Starting server...
+[20:37:40] load map 'Battle Royale'
+[20:37:40] ----- Server started -----
+[20:37:40] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:1529: 'end' expected (to close 'function' at line 152) near '<eof>'
+[20:37:41] U.S.G.N.: Serverlist entry updated
+[20:37:41] U.S.G.N.: Ping/State 'playing'
+[20:37:42] Sagos juntou-se a Countra-Terrorista Forças
+[20:37:51] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[20:37:51] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[20:37:51] rM.awp | null! conectou-se
+[20:37:51] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[20:37:53] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[20:38:27] U.S.G.N.: Serverlist entry updated
+[20:38:42] U.S.G.N.: Ping/State 'playing'
+[20:39:11] ----- Mapchange -----
+[20:39:11] Starting server...
+[20:39:11] load map 'Battle Royale'
+[20:39:11] ----- Server started -----
+[20:39:11] Lua: Adding function 'falar' to hook 'say'
+[20:39:11] Lua: Adding function 'segundos' to hook 'second'
+[20:39:11] Lua: Adding function 'coletar' to hook 'walkover'
+[20:39:11] Lua: Adding function 'atacar' to hook 'attack'
+[20:39:11] Lua: Adding function 'atacar2' to hook 'attack2'
+[20:39:11] Lua: Adding function 'teclas' to hook 'serveraction'
+[20:39:11] Lua: Adding function 'mymenu' to hook 'menu'
+[20:39:11] Lua: Adding function 'ataque' to hook 'hit'
+[20:39:11] Lua: Adding function 'dropar' to hook 'drop'
+[20:39:11] Lua: Adding function 'mover' to hook 'movetile'
+[20:39:12] Sagos juntou-se a Countra-Terrorista Forças
+[20:39:12] U.S.G.N.: Serverlist entry updated
+[20:39:17] U.S.G.N.: Ping/State 'playing'
+[20:39:21] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[20:39:22] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[20:39:22] rM.awp | null! conectou-se
+[20:39:22] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[20:39:22] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[20:39:25] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[20:39:27] [Info] Você pegou 10 Balas de Shotgun
+[20:39:29] [Info] Você pegou 30 Balas de Rifle
+[20:39:32] [Info] Espaço insuficiente para carregar mais itens
+[20:39:41] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:500: attempt to concatenate global 'menuBala5' (a table value)
+[20:39:41]  -> sys/lua/SagosWins/Battle Royale.lua:500: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:39:41]  -> in Lua hook 'menu', params: 1, 'Escolha a Arma', 1
+[20:39:53] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:470: attempt to compare number with table
+[20:39:53]  -> sys/lua/SagosWins/Battle Royale.lua:470: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:39:53]  -> in Lua hook 'menu', params: 2, 'Escolha a Arma', 1
+[20:39:57] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:538: attempt to compare number with table
+[20:39:57]  -> sys/lua/SagosWins/Battle Royale.lua:538: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:39:57]  -> in Lua hook 'menu', params: 2, 'Escolha a Arma', 3
+[20:40:17] U.S.G.N.: Ping/State 'playing'
+[20:40:43] U.S.G.N.: Serverlist entry updated
+[20:41:03] generating stats...
+[20:41:03] stats generated in 1 ms!
+[20:41:18] U.S.G.N.: Ping/State 'playing'
+[20:41:23] ----- Mapchange -----
+[20:41:23] Starting server...
+[20:41:23] load map 'Battle Royale'
+[20:41:23] ----- Server started -----
+[20:41:23] Lua: Adding function 'falar' to hook 'say'
+[20:41:23] Lua: Adding function 'segundos' to hook 'second'
+[20:41:23] Lua: Adding function 'coletar' to hook 'walkover'
+[20:41:23] Lua: Adding function 'atacar' to hook 'attack'
+[20:41:23] Lua: Adding function 'atacar2' to hook 'attack2'
+[20:41:23] Lua: Adding function 'teclas' to hook 'serveraction'
+[20:41:23] Lua: Adding function 'mymenu' to hook 'menu'
+[20:41:23] Lua: Adding function 'ataque' to hook 'hit'
+[20:41:23] Lua: Adding function 'dropar' to hook 'drop'
+[20:41:23] Lua: Adding function 'mover' to hook 'movetile'
+[20:41:24] U.S.G.N.: Serverlist entry updated
+[20:41:24] U.S.G.N.: Ping/State 'playing'
+[20:41:24] Sagos juntou-se a Countra-Terrorista Forças
+[20:41:29] [Info] Você equipou Colete 1
+[20:41:32] [Info] Você pegou 30 Balas de Rifle
+[20:41:33] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[20:41:34] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[20:41:34] rM.awp | null! conectou-se
+[20:41:34] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[20:41:35] [Info] Você pegou 30 Balas de Rifle
+[20:41:38] "  (1x)
+[20:41:39] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[20:41:42] [Info] Espaço insuficiente para carregar mais itens
+[20:41:43] rM.awp | null!: Oq foi adc ?
+[20:41:56] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:739: attempt to compare number with table
+[20:41:56]  -> sys/lua/SagosWins/Battle Royale.lua:739: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:41:56]  -> in Lua hook 'menu', params: 1, 'Rifle', 3
+[20:42:09] Sagos: to fazendo pra dropa as bala do rifle
+[20:42:09] U.S.G.N.: Serverlist entry updated
+[20:42:24] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:739: attempt to compare number with table
+[20:42:24]  -> sys/lua/SagosWins/Battle Royale.lua:739: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:42:24]  -> in Lua hook 'menu', params: 2, 'Rifle', 3
+[20:42:24] U.S.G.N.: Ping/State 'playing'
+[20:42:42] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:538: attempt to compare number with table
+[20:42:42]  -> sys/lua/SagosWins/Battle Royale.lua:538: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:42:42]  -> in Lua hook 'menu', params: 2, 'Escolha a Arma', 3
+[20:42:45] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:470: attempt to compare number with table
+[20:42:45]  -> sys/lua/SagosWins/Battle Royale.lua:470: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:42:45]  -> in Lua hook 'menu', params: 2, 'Escolha a Arma', 1
+[20:42:48] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:504: attempt to compare number with table
+[20:42:48]  -> sys/lua/SagosWins/Battle Royale.lua:504: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:42:48]  -> in Lua hook 'menu', params: 2, 'Escolha a Arma', 2
+[20:42:55] U.S.G.N.: Serverlist entry updated
+[20:42:56] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:739: attempt to compare number with table
+[20:42:56]  -> sys/lua/SagosWins/Battle Royale.lua:739: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:42:56]  -> in Lua hook 'menu', params: 2, 'Rifle', 3
+[20:43:25] U.S.G.N.: Ping/State 'playing'
+[20:43:29] ----- Mapchange -----
+[20:43:29] Starting server...
+[20:43:29] load map 'Battle Royale'
+[20:43:29] ----- Server started -----
+[20:43:29] Lua: Adding function 'falar' to hook 'say'
+[20:43:29] Lua: Adding function 'segundos' to hook 'second'
+[20:43:29] Lua: Adding function 'coletar' to hook 'walkover'
+[20:43:29] Lua: Adding function 'atacar' to hook 'attack'
+[20:43:29] Lua: Adding function 'atacar2' to hook 'attack2'
+[20:43:29] Lua: Adding function 'teclas' to hook 'serveraction'
+[20:43:29] Lua: Adding function 'mymenu' to hook 'menu'
+[20:43:29] Lua: Adding function 'ataque' to hook 'hit'
+[20:43:29] Lua: Adding function 'dropar' to hook 'drop'
+[20:43:29] Lua: Adding function 'mover' to hook 'movetile'
+[20:43:29] U.S.G.N.: Ping/State 'playing'
+[20:43:29] U.S.G.N.: Serverlist entry updated
+[20:43:30] Sagos juntou-se a Countra-Terrorista Forças
+[20:43:34] [Info] Você pegou 30 Balas de Rifle
+[20:43:37] [Info] Espaço insuficiente para carregar mais itens
+[20:43:39] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[20:43:41] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[20:43:41] rM.awp | null! conectou-se
+[20:43:41] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[20:43:43] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[20:43:43] [Info] Você equipou Colete 3
+[20:43:45] [Info] Você pegou 30 Balas de Rifle
+[20:43:48] "  (1x)
+[20:43:59] "  (1x)
+[20:44:09] "  (3x)
+[20:44:09] "  (2x)
+[20:44:14] U.S.G.N.: Serverlist entry updated
+[20:44:25] [Info] Você pegou 30 Balas de Rifle
+[20:44:26] "  (2x)
+[20:44:30] U.S.G.N.: Ping/State 'playing'
+[20:44:48] rM.awp | null!: FUNFO PfT
+[20:44:54] rM.awp | null!: N tem bug
+[20:45:01] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[20:45:01] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[20:45:02] [Info] Você pegou 30 Balas de Rifle
+[20:45:02] "  (1x)
+[20:45:16] Sagos: mas tem 1 problema
+[20:45:19] rM.awp | null!: ?
+[20:45:24] Sagos: quantas bala de rifle vc tem?
+[20:45:28] rM.awp | null!: nada
+[20:45:33] Sagos: pega 30
+[20:45:35] U.S.G.N.: Ping/State 'playing'
+[20:45:37] Sagos: da 1 tiro
+[20:45:42] Sagos: agr tenta drop
+[20:45:45] rM.awp | null!: a e msm
+[20:45:46] rM.awp | null!: kkk
+[20:45:56] Sagos: se eu colocasse pra dropar
+[20:46:00] Sagos: ia multiplicar as bala
+[20:46:03] generating stats...
+[20:46:03] stats generated in 1 ms!
+[20:46:05] Sagos: =/
+[20:46:12] rM.awp | null!: Deixa assim por enquanto
+[20:46:19] rM.awp | null!: Mais pra frente noix estuda mais sobre
+[20:46:22] Sagos: ok ent vou fazer o resto das bala
+[20:46:23] rM.awp | null!: ai noix ve
+[20:46:25] rM.awp | null!: Ok
+[20:48:01] U.S.G.N.: Serverlist entry updated
+[20:48:01] U.S.G.N.: Ping/State 'playing'
+[20:49:02] "  (1x)
+[20:49:06] ----- Mapchange -----
+[20:49:06] Starting server...
+[20:49:06] load map 'Battle Royale'
+[20:49:06] ----- Server started -----
+[20:49:06] Lua: Adding function 'falar' to hook 'say'
+[20:49:06] Lua: Adding function 'segundos' to hook 'second'
+[20:49:06] Lua: Adding function 'coletar' to hook 'walkover'
+[20:49:06] Lua: Adding function 'atacar' to hook 'attack'
+[20:49:06] Lua: Adding function 'atacar2' to hook 'attack2'
+[20:49:06] Lua: Adding function 'teclas' to hook 'serveraction'
+[20:49:06] Lua: Adding function 'mymenu' to hook 'menu'
+[20:49:06] Lua: Adding function 'ataque' to hook 'hit'
+[20:49:06] Lua: Adding function 'dropar' to hook 'drop'
+[20:49:06] Lua: Adding function 'mover' to hook 'movetile'
+[20:49:07] U.S.G.N.: Serverlist entry updated
+[20:49:07] U.S.G.N.: Ping/State 'playing'
+[20:49:08] Sagos juntou-se a Countra-Terrorista Forças
+[20:49:14] [Info] Você pegou 30 Balas de Rifle
+[20:49:16] [Info] Você pegou 10 Balas de Shotgun
+[20:49:16] [Info] Espaço insuficiente para carregar mais itens
+[20:49:17] "  (1x)
+[20:49:17] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[20:49:18] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[20:49:18] rM.awp | null! conectou-se
+[20:49:18] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[20:49:20] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[20:49:20] [Info] Você equipou Colete 3
+[20:49:22] [Info] Você pegou 30 Balas de SMG
+[20:49:23] [Info] Você pegou 15 Balas de Pistola
+[20:49:27] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:430: attempt to concatenate global 'balaPistola' (a table value)
+[20:49:27]  -> sys/lua/SagosWins/Battle Royale.lua:430: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:49:27]  -> in Lua hook 'menu', params: 1, 'Dropar Itens', 2
+[20:49:34] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:430: attempt to concatenate global 'balaPistola' (a table value)
+[20:49:34]  -> sys/lua/SagosWins/Battle Royale.lua:430: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:49:34]  -> in Lua hook 'menu', params: 2, 'Dropar Itens', 2
+[20:49:37] LUA ERROR: sys/lua/SagosWins/Battle Royale.lua:430: attempt to concatenate global 'balaPistola' (a table value)
+[20:49:37]  -> sys/lua/SagosWins/Battle Royale.lua:430: in function <sys/lua/SagosWins/Battle Royale.lua:152>
+[20:49:37]  -> in Lua hook 'menu', params: 2, 'Dropar Itens', 2
+[20:49:46] rM.awp | null!: pra mim n ta abrindo o menu
+[20:49:52] U.S.G.N.: Serverlist entry updated
+[20:49:52] rM.awp | null!: de drop munição
+[20:50:02] ----- Mapchange -----
+[20:50:02] Starting server...
+[20:50:02] load map 'Battle Royale'
+[20:50:02] ----- Server started -----
+[20:50:02] Lua: Adding function 'falar' to hook 'say'
+[20:50:02] Lua: Adding function 'segundos' to hook 'second'
+[20:50:02] Lua: Adding function 'coletar' to hook 'walkover'
+[20:50:02] Lua: Adding function 'atacar' to hook 'attack'
+[20:50:02] Lua: Adding function 'atacar2' to hook 'attack2'
+[20:50:02] Lua: Adding function 'teclas' to hook 'serveraction'
+[20:50:02] Lua: Adding function 'mymenu' to hook 'menu'
+[20:50:02] Lua: Adding function 'ataque' to hook 'hit'
+[20:50:02] Lua: Adding function 'dropar' to hook 'drop'
+[20:50:02] Lua: Adding function 'mover' to hook 'movetile'
+[20:50:03] U.S.G.N.: Ping/State 'playing'
+[20:50:03] U.S.G.N.: Serverlist entry updated
+[20:50:03] Sagos juntou-se a Countra-Terrorista Forças
+[20:50:07] [Info] Você equipou Colete 3
+[20:50:10] [Info] Você pegou 30 Balas de Rifle
+[20:50:10] [Info] Você pegou 10 Balas de Shotgun
+[20:50:11] [Info] Você pegou 30 Balas de SMG
+[20:50:11] [Info] Você pegou 15 Balas de Pistola
+[20:50:13] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[20:50:13] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[20:50:13] rM.awp | null! conectou-se
+[20:50:13] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[20:50:23] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[20:50:38] rM.awp | null!: hm
+[20:50:44] rM.awp | null!: agr aparece a quantia
+[20:50:47] Sagos: ss
+[20:50:49] U.S.G.N.: Serverlist entry updated
+[20:51:03] generating stats...
+[20:51:03] stats generated in 1 ms!
+[20:51:04] U.S.G.N.: Ping/State 'playing'
+[20:51:34] U.S.G.N.: Serverlist entry updated
+[20:52:04] U.S.G.N.: Ping/State 'playing'
+[20:52:19] U.S.G.N.: Serverlist entry updated
+[20:53:05] U.S.G.N.: Ping/State 'playing'
+[20:53:05] U.S.G.N.: Serverlist entry updated
+[20:53:50] "  (1x)
+[20:54:05] U.S.G.N.: Ping/State 'playing'
+[20:54:35] U.S.G.N.: Serverlist entry updated
+[20:55:06] U.S.G.N.: Ping/State 'playing'
+[20:55:21] U.S.G.N.: Serverlist entry updated
+[20:56:03] generating stats...
+[20:56:03] stats generated in 2 ms!
+[20:56:06] U.S.G.N.: Serverlist entry updated
+[20:56:06] U.S.G.N.: Ping/State 'playing'
+[20:56:51] U.S.G.N.: Serverlist entry updated
+[20:57:07] U.S.G.N.: Ping/State 'playing'
+[20:58:07] "  (1x)
+[20:58:22] U.S.G.N.: Serverlist entry updated
+[20:59:07] "  (1x)
+[20:59:07] U.S.G.N.: Ping/State 'playing'
+[20:59:53] U.S.G.N.: Serverlist entry updated
+[21:00:33] U.S.G.N.: Ping/State 'playing'
+[21:00:38] U.S.G.N.: Serverlist entry updated
+[21:01:03] generating stats...
+[21:01:03] stats generated in 1 ms!
+[21:01:24] U.S.G.N.: Serverlist entry updated
+[21:01:39] U.S.G.N.: Ping/State 'playing'
+[21:02:39] "  (1x)
+[21:02:54] U.S.G.N.: Serverlist entry updated
+[21:03:40] "  (1x)
+[21:03:40] U.S.G.N.: Ping/State 'playing'
+[21:04:40] "  (1x)
+[21:05:56] U.S.G.N.: Serverlist entry updated
+[21:05:56] U.S.G.N.: Ping/State 'playing'
+[21:06:03] generating stats...
+[21:06:03] stats generated in 2 ms!
+[21:06:41] U.S.G.N.: Serverlist entry updated
+[21:06:56] U.S.G.N.: Ping/State 'playing'
+[21:07:27] U.S.G.N.: Serverlist entry updated
+[21:07:57] U.S.G.N.: Ping/State 'playing'
+[21:08:12] U.S.G.N.: Serverlist entry updated
+[21:08:57] U.S.G.N.: Ping/State 'playing'
+[21:08:57] U.S.G.N.: Serverlist entry updated
+[21:09:43] "  (1x)
+[21:09:58] U.S.G.N.: Ping/State 'playing'
+[21:10:28] U.S.G.N.: Serverlist entry updated
+[21:10:58] U.S.G.N.: Ping/State 'playing'
+[21:11:03] generating stats...
+[21:11:03] stats generated in 1 ms!
+[21:11:13] U.S.G.N.: Serverlist entry updated
+[21:11:59] "  (1x)
+[21:11:59] U.S.G.N.: Ping/State 'playing'
+[21:12:44] U.S.G.N.: Serverlist entry updated
+[21:12:59] U.S.G.N.: Ping/State 'playing'
+[21:13:29] U.S.G.N.: Serverlist entry updated
+[21:14:05] U.S.G.N.: Ping/State 'playing'
+[21:14:15] U.S.G.N.: Serverlist entry updated
+[21:15:00] "  (1x)
+[21:15:05] U.S.G.N.: Ping/State 'playing'
+[21:15:45] U.S.G.N.: Serverlist entry updated
+[21:16:03] generating stats...
+[21:16:03] stats generated in 1 ms!
+[21:16:06] U.S.G.N.: Ping/State 'playing'
+[21:16:31] U.S.G.N.: Serverlist entry updated
+[21:17:06] U.S.G.N.: Ping/State 'playing'
+[21:17:16] U.S.G.N.: Serverlist entry updated
+[21:18:02] "  (1x)
+[21:18:07] U.S.G.N.: Ping/State 'playing'
+[21:18:47] U.S.G.N.: Serverlist entry updated
+[21:19:07] U.S.G.N.: Ping/State 'playing'
+[21:19:32] U.S.G.N.: Serverlist entry updated
+[21:20:08] U.S.G.N.: Ping/State 'playing'
+[21:20:18] U.S.G.N.: Serverlist entry updated
+[21:21:03] generating stats...
+[21:21:03] stats generated in 1 ms!
+[21:21:03] U.S.G.N.: Serverlist entry updated
+[21:21:08] U.S.G.N.: Ping/State 'playing'
+[21:21:48] U.S.G.N.: Serverlist entry updated
+[21:22:09] U.S.G.N.: Ping/State 'playing'
+[21:23:14] "  (1x)
+[21:23:19] U.S.G.N.: Serverlist entry updated
+[21:24:04] "  (1x)
+[21:24:20] U.S.G.N.: Ping/State 'playing'
+[21:24:50] U.S.G.N.: Serverlist entry updated
+[21:25:25] U.S.G.N.: Ping/State 'playing'
+[21:25:36] U.S.G.N.: Serverlist entry updated
+[21:26:03] generating stats...
+[21:26:03] stats generated in 1 ms!
+[21:26:21] U.S.G.N.: Serverlist entry updated
+[21:26:26] U.S.G.N.: Ping/State 'playing'
+[21:27:06] U.S.G.N.: Serverlist entry updated
+[21:27:26] U.S.G.N.: Ping/State 'playing'
+[21:27:51] U.S.G.N.: Serverlist entry updated
+[21:28:27] U.S.G.N.: Ping/State 'playing'
+[21:28:37] U.S.G.N.: Serverlist entry updated
+[21:29:22] "  (1x)
+[21:29:27] U.S.G.N.: Ping/State 'playing'
+[21:30:28] "  (1x)
+[21:30:53] U.S.G.N.: Serverlist entry updated
+[21:31:03] generating stats...
+[21:31:03] stats generated in 2 ms!
+[21:31:28] U.S.G.N.: Ping/State 'playing'
+[21:31:38] U.S.G.N.: Serverlist entry updated
+[21:32:24] "  (1x)
+[21:32:29] U.S.G.N.: Ping/State 'playing'
+[21:33:09] U.S.G.N.: Serverlist entry updated
+[21:33:29] U.S.G.N.: Ping/State 'playing'
+[21:33:54] U.S.G.N.: Serverlist entry updated
+[21:34:30] U.S.G.N.: Ping/State 'playing'
+[21:34:40] U.S.G.N.: Serverlist entry updated
+[21:35:25] "  (1x)
+[21:35:35] U.S.G.N.: Ping/State 'playing'
+[21:36:03] generating stats...
+[21:36:03] stats generated in 2 ms!
+[21:36:10] U.S.G.N.: Serverlist entry updated
+[21:36:35] U.S.G.N.: Ping/State 'playing'
+[21:36:56] U.S.G.N.: Serverlist entry updated
+[21:37:36] U.S.G.N.: Ping/State 'playing'
+[21:37:41] U.S.G.N.: Serverlist entry updated
+[21:38:26] "  (1x)
+[21:38:37] U.S.G.N.: Ping/State 'playing'
+[21:39:37] "  (1x)
+[21:39:57] U.S.G.N.: Serverlist entry updated
+[21:40:37] U.S.G.N.: Ping/State 'playing'
+[21:40:42] U.S.G.N.: Serverlist entry updated
+[21:41:03] generating stats...
+[21:41:03] stats generated in 2 ms!
+[21:41:28] U.S.G.N.: Serverlist entry updated
+[21:41:43] U.S.G.N.: Ping/State 'playing'
+[21:42:13] U.S.G.N.: Serverlist entry updated
+[21:42:43] U.S.G.N.: Ping/State 'playing'
+[21:42:59] U.S.G.N.: Serverlist entry updated
+[21:43:44] "  (1x)
+[21:43:44] U.S.G.N.: Ping/State 'playing'
+[21:44:29] U.S.G.N.: Serverlist entry updated
+[21:44:44] U.S.G.N.: Ping/State 'playing'
+[21:45:15] U.S.G.N.: Serverlist entry updated
+[21:45:45] U.S.G.N.: Ping/State 'playing'
+[21:46:00] U.S.G.N.: Serverlist entry updated
+[21:46:03] generating stats...
+[21:46:03] stats generated in 1 ms!
+[21:46:45] U.S.G.N.: Ping/State 'playing'
+[21:46:45] U.S.G.N.: Serverlist entry updated
+[21:47:31] "  (1x)
+[21:47:46] U.S.G.N.: Ping/State 'playing'
+[21:48:16] U.S.G.N.: Serverlist entry updated
+[21:48:46] U.S.G.N.: Ping/State 'playing'
+[21:49:47] U.S.G.N.: Serverlist entry updated
+[21:49:47] U.S.G.N.: Ping/State 'playing'
+[21:50:32] U.S.G.N.: Serverlist entry updated
+[21:50:47] U.S.G.N.: Ping/State 'playing'
+[21:51:03] generating stats...
+[21:51:03] stats generated in 1 ms!
+[21:51:17] U.S.G.N.: Serverlist entry updated
+[21:51:48] U.S.G.N.: Ping/State 'playing'
+[21:52:48] "  (1x)
+[21:52:48] U.S.G.N.: Serverlist entry updated
+[21:53:33] "  (1x)
+[21:53:49] U.S.G.N.: Ping/State 'playing'
+[21:54:16] JOIN FAILURE: AVA GINA (186.221.129.187:55349) can't join (wrong password)
+[21:54:18] "  (1x)
+[21:54:19] U.S.G.N.: Serverlist entry updated
+[21:54:21] JOIN FAILURE: AVA GINA (186.221.129.187:55349) can't join (wrong password)
+[21:54:49] U.S.G.N.: Ping/State 'playing'
+[21:55:04] U.S.G.N.: Serverlist entry updated
+[21:55:50] U.S.G.N.: Ping/State 'playing'
+[21:55:50] U.S.G.N.: Serverlist entry updated
+[21:56:03] generating stats...
+[21:56:03] stats generated in 2 ms!
+[21:56:35] U.S.G.N.: Serverlist entry updated
+[21:56:50] U.S.G.N.: Ping/State 'playing'
+[21:57:56] "  (1x)
+[21:58:06] U.S.G.N.: Serverlist entry updated
+[21:58:51] "  (1x)
+[21:58:56] U.S.G.N.: Ping/State 'playing'
+[21:59:36] U.S.G.N.: Serverlist entry updated
+[21:59:57] U.S.G.N.: Ping/State 'playing'
+[22:00:22] U.S.G.N.: Serverlist entry updated
+[22:00:57] U.S.G.N.: Ping/State 'playing'
+[22:01:03] generating stats...
+[22:01:03] stats generated in 1 ms!
+[22:01:07] U.S.G.N.: Serverlist entry updated
+[22:01:52] "  (1x)
+[22:01:57] U.S.G.N.: Ping/State 'playing'
+[22:02:38] U.S.G.N.: Serverlist entry updated
+[22:02:58] U.S.G.N.: Ping/State 'playing'
+[22:03:24] U.S.G.N.: Serverlist entry updated
+[22:03:58] U.S.G.N.: Ping/State 'playing'
+[22:04:10] U.S.G.N.: Serverlist entry updated
+[22:04:55] "  (1x)
+[22:04:59] U.S.G.N.: Ping/State 'playing'
+[22:05:40] U.S.G.N.: Serverlist entry updated
+[22:06:00] U.S.G.N.: Ping/State 'playing'
+[22:06:03] generating stats...
+[22:06:03] stats generated in 1 ms!
+[22:06:26] U.S.G.N.: Serverlist entry updated
+[22:07:00] U.S.G.N.: Ping/State 'playing'
+[22:07:11] U.S.G.N.: Serverlist entry updated
+[22:07:56] "  (1x)
+[22:08:00] U.S.G.N.: Ping/State 'playing'
+[22:08:42] U.S.G.N.: Serverlist entry updated
+[22:09:01] U.S.G.N.: Ping/State 'playing'
+[22:09:27] U.S.G.N.: Serverlist entry updated
+[22:10:01] U.S.G.N.: Ping/State 'playing'
+[22:10:58] U.S.G.N.: Serverlist entry updated
+[22:11:02] U.S.G.N.: Ping/State 'playing'
+[22:11:03] generating stats...
+[22:11:03] stats generated in 2 ms!
+[22:11:43] U.S.G.N.: Serverlist entry updated
+[22:12:02] U.S.G.N.: Ping/State 'playing'
+[22:12:29] U.S.G.N.: Serverlist entry updated
+[22:13:03] U.S.G.N.: Ping/State 'playing'
+[22:13:14] U.S.G.N.: Serverlist entry updated
+[22:13:59] "  (1x)
+[22:14:03] U.S.G.N.: Ping/State 'playing'
+[22:14:45] U.S.G.N.: Serverlist entry updated
+[22:15:04] U.S.G.N.: Ping/State 'playing'
+[22:15:30] U.S.G.N.: Serverlist entry updated
+[22:16:03] generating stats...
+[22:16:03] stats generated in 2 ms!
+[22:16:04] U.S.G.N.: Ping/State 'playing'
+[22:16:15] U.S.G.N.: Serverlist entry updated
+[22:17:01] "  (1x)
+[22:17:05] U.S.G.N.: Ping/State 'playing'
+[22:17:46] U.S.G.N.: Serverlist entry updated
+[22:18:05] U.S.G.N.: Ping/State 'playing'
+[22:18:31] U.S.G.N.: Serverlist entry updated
+[22:19:06] U.S.G.N.: Ping/State 'playing'
+[22:20:02] U.S.G.N.: Serverlist entry updated
+[22:20:06] U.S.G.N.: Ping/State 'playing'
+[22:20:47] U.S.G.N.: Serverlist entry updated
+[22:21:03] generating stats...
+[22:21:03] stats generated in 2 ms!
+[22:21:07] U.S.G.N.: Ping/State 'playing'
+[22:21:33] U.S.G.N.: Serverlist entry updated
+[22:22:07] U.S.G.N.: Ping/State 'playing'
+[22:22:18] U.S.G.N.: Serverlist entry updated
+[22:23:04] "  (1x)
+[22:23:08] U.S.G.N.: Ping/State 'playing'
+[22:23:49] U.S.G.N.: Serverlist entry updated
+[22:24:13] U.S.G.N.: Ping/State 'playing'
+[22:24:34] U.S.G.N.: Serverlist entry updated
+[22:25:14] U.S.G.N.: Ping/State 'playing'
+[22:25:20] U.S.G.N.: Serverlist entry updated
+[22:26:03] generating stats...
+[22:26:03] stats generated in 2 ms!
+[22:26:05] U.S.G.N.: Serverlist entry updated
+[22:26:14] U.S.G.N.: Ping/State 'playing'
+[22:26:50] U.S.G.N.: Serverlist entry updated
+[22:27:15] U.S.G.N.: Ping/State 'playing'
+[22:27:36] U.S.G.N.: Serverlist entry updated
+[22:28:15] U.S.G.N.: Ping/State 'playing'
+[22:28:22] U.S.G.N.: Serverlist entry updated
+[22:29:06] "  (1x)
+[22:29:15] U.S.G.N.: Ping/State 'playing'
+[22:29:52] U.S.G.N.: Serverlist entry updated
+[22:30:16] U.S.G.N.: Ping/State 'playing'
+[22:30:37] U.S.G.N.: Serverlist entry updated
+[22:31:03] generating stats...
+[22:31:03] stats generated in 1 ms!
+[22:31:16] U.S.G.N.: Ping/State 'playing'
+[22:31:23] U.S.G.N.: Serverlist entry updated
+[22:32:08] "  (1x)
+[22:32:17] U.S.G.N.: Ping/State 'playing'
+[22:32:54] U.S.G.N.: Serverlist entry updated
+[22:33:18] U.S.G.N.: Ping/State 'playing'
+[22:33:39] U.S.G.N.: Serverlist entry updated
+[22:34:18] U.S.G.N.: Ping/State 'playing'
+[22:34:24] U.S.G.N.: Serverlist entry updated
+[22:35:10] "  (1x)
+[22:35:18] U.S.G.N.: Ping/State 'playing'
+[22:35:55] U.S.G.N.: Serverlist entry updated
+[22:36:03] generating stats...
+[22:36:03] stats generated in 1 ms!
+[22:36:19] U.S.G.N.: Ping/State 'playing'
+[22:36:40] U.S.G.N.: Serverlist entry updated
+[22:37:19] U.S.G.N.: Ping/State 'playing'
+[22:37:26] U.S.G.N.: Serverlist entry updated
+[22:38:11] "  (1x)
+[22:38:20] U.S.G.N.: Ping/State 'playing'
+[22:38:56] U.S.G.N.: Serverlist entry updated
+[22:39:20] U.S.G.N.: Ping/State 'playing'
+[22:39:42] U.S.G.N.: Serverlist entry updated
+[22:40:21] U.S.G.N.: Ping/State 'playing'
+[22:40:27] U.S.G.N.: Serverlist entry updated
+[22:41:03] generating stats...
+[22:41:03] stats generated in 1 ms!
+[22:41:27] U.S.G.N.: Ping/State 'playing'
+[22:43:12] "  (1x)
+[22:43:28] U.S.G.N.: Serverlist entry updated
+[22:44:13] U.S.G.N.: Ping/State 'playing'
+[22:44:59] U.S.G.N.: Serverlist entry updated
+[22:45:13] U.S.G.N.: Ping/State 'playing'
+[22:45:45] U.S.G.N.: Serverlist entry updated
+[22:46:03] generating stats...
+[22:46:03] stats generated in 2 ms!
+[22:46:14] U.S.G.N.: Ping/State 'playing'
+[22:46:30] U.S.G.N.: Serverlist entry updated
+[22:47:14] U.S.G.N.: Ping/State 'playing'
+[22:47:15] U.S.G.N.: Serverlist entry updated
+[22:48:00] "  (1x)
+[22:48:15] U.S.G.N.: Ping/State 'playing'
+[22:48:46] U.S.G.N.: Serverlist entry updated
+[22:49:15] U.S.G.N.: Ping/State 'playing'
+[22:49:31] U.S.G.N.: Serverlist entry updated
+[22:50:15] U.S.G.N.: Ping/State 'playing'
+[22:50:17] U.S.G.N.: Serverlist entry updated
+[22:51:02] "  (1x)
+[22:51:03] generating stats...
+[22:51:03] stats generated in 1 ms!
+[22:51:16] U.S.G.N.: Ping/State 'playing'
+[22:51:47] U.S.G.N.: Serverlist entry updated
+[22:52:16] U.S.G.N.: Ping/State 'playing'
+[22:52:33] U.S.G.N.: Serverlist entry updated
+[22:53:17] U.S.G.N.: Ping/State 'playing'
+[22:53:18] U.S.G.N.: Serverlist entry updated
+[22:54:03] "  (1x)
+[22:54:17] U.S.G.N.: Ping/State 'playing'
+[22:54:49] U.S.G.N.: Serverlist entry updated
+[22:55:18] U.S.G.N.: Ping/State 'playing'
+[22:55:34] U.S.G.N.: Serverlist entry updated
+[22:56:03] generating stats...
+[22:56:03] stats generated in 2 ms!
+[22:56:18] U.S.G.N.: Ping/State 'playing'
+[22:56:19] U.S.G.N.: Serverlist entry updated
+[22:57:05] "  (1x)
+[22:57:19] U.S.G.N.: Ping/State 'playing'
+[22:57:50] U.S.G.N.: Serverlist entry updated
+[22:58:19] U.S.G.N.: Ping/State 'playing'
+[22:58:35] U.S.G.N.: Serverlist entry updated
+[22:59:20] U.S.G.N.: Ping/State 'playing'
+[22:59:21] U.S.G.N.: Serverlist entry updated
+[23:00:06] "  (1x)
+[23:00:20] U.S.G.N.: Ping/State 'playing'
+[23:00:52] U.S.G.N.: Serverlist entry updated
+[23:01:03] generating stats...
+[23:01:03] stats generated in 2 ms!
+[23:01:21] U.S.G.N.: Ping/State 'playing'
+[23:01:37] U.S.G.N.: Serverlist entry updated
+[23:02:05] JOIN FAILURE: Player (189.14.63.146:29456) can't join (wrong password)
+[23:02:13] "  (1x)
+[23:02:19] "  (1x)
+[23:02:21] U.S.G.N.: Ping/State 'playing'
+[23:02:22] U.S.G.N.: Serverlist entry updated
+[23:02:27] JOIN FAILURE: Player (189.14.63.146:29456) can't join (wrong password)
+[23:03:08] U.S.G.N.: Serverlist entry updated
+[23:03:22] U.S.G.N.: Ping/State 'playing'
+[23:03:53] U.S.G.N.: Serverlist entry updated
+[23:04:22] U.S.G.N.: Ping/State 'playing'
+[23:04:38] U.S.G.N.: Serverlist entry updated
+[23:05:23] U.S.G.N.: Ping/State 'playing'
+[23:05:24] U.S.G.N.: Serverlist entry updated
+[23:06:03] generating stats...
+[23:06:03] stats generated in 1 ms!
+[23:06:09] U.S.G.N.: Serverlist entry updated
+[23:06:28] U.S.G.N.: Ping/State 'playing'
+[23:06:54] U.S.G.N.: Serverlist entry updated
+[23:07:29] U.S.G.N.: Ping/State 'playing'
+[23:07:40] U.S.G.N.: Serverlist entry updated
+[23:08:25] "  (1x)
+[23:08:29] U.S.G.N.: Ping/State 'playing'
+[23:09:11] U.S.G.N.: Serverlist entry updated
+[23:09:30] U.S.G.N.: Ping/State 'playing'
+[23:09:56] U.S.G.N.: Serverlist entry updated
+[23:10:30] U.S.G.N.: Ping/State 'playing'
+[23:10:41] U.S.G.N.: Serverlist entry updated
+[23:11:03] generating stats...
+[23:11:03] stats generated in 1 ms!
+[23:11:27] U.S.G.N.: Serverlist entry updated
+[23:11:31] U.S.G.N.: Ping/State 'playing'
+[23:12:12] U.S.G.N.: Serverlist entry updated
+[23:12:31] U.S.G.N.: Ping/State 'playing'
+[23:12:57] U.S.G.N.: Serverlist entry updated
+[23:13:32] U.S.G.N.: Ping/State 'playing'
+[23:13:43] U.S.G.N.: Serverlist entry updated
+[23:14:52] U.S.G.N.: Ping/State 'playing'
+[23:15:13] U.S.G.N.: Serverlist entry updated
+[23:16:03] generating stats...
+[23:16:03] stats generated in 2 ms!
+[23:21:03] generating stats...
+[23:21:03] stats generated in 2 ms!
+[23:22:47] U.S.G.N.: Ping/State 'playing'
+[23:24:17] "  (1x)
+[23:25:27] "  (1x)
+[23:25:48] U.S.G.N.: Serverlist entry updated
+[23:26:03] generating stats...
+[23:26:03] stats generated in 2 ms!
+[23:26:28] U.S.G.N.: Ping/State 'playing'
+[23:26:34] U.S.G.N.: Serverlist entry updated
+[23:27:19] "  (1x)
+[23:27:43] U.S.G.N.: Ping/State 'playing'
+[23:29:36] "  (1x)
+[23:31:03] generating stats...
+[23:31:03] stats generated in 1 ms!
+[23:31:27] U.S.G.N.: Ping/State 'playing'
+[23:33:23] "  (1x)
+[23:34:29] "  (1x)
+[23:35:29] "  (1x)
+[23:35:36] rM.awp | null! deixou o jogo
+[23:36:03] generating stats...
+[23:36:03] stats generated in 1 ms!
+[23:36:24] U.S.G.N.: Serverlist entry updated
+[23:36:55] U.S.G.N.: Ping/State 'playing'
+[23:37:09] U.S.G.N.: Serverlist entry updated
+[23:37:54] "  (1x)
+[23:37:55] U.S.G.N.: Ping/State 'playing'
+[23:38:56] "  (1x)
+[23:39:25] U.S.G.N.: Serverlist entry updated
+[23:39:56] U.S.G.N.: Ping/State 'playing'
+[23:40:10] U.S.G.N.: Serverlist entry updated
+[23:41:02] U.S.G.N.: Ping/State 'playing'
+[23:41:03] generating stats...
+[23:41:03] stats generated in 1 ms!
+[23:41:38] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[23:41:39] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[23:41:39] rM.awp | null! conectou-se
+[23:41:39] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[23:41:39] JOIN FAILURE: rM.awp | null! (177.185.53.199:64504) can't join (map differs)
+[23:41:40] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[23:41:41] U.S.G.N.: Serverlist entry updated
+[23:41:41] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[23:41:41] rM.awp | null! conectou-se
+[23:41:41] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[23:41:43] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[23:41:59] Sagos: vou terminar as outras armas
+[23:42:01] rM.awp | null!: Cara eu tó aqui desde as 20h 21h sla
+[23:42:02] U.S.G.N.: Ping/State 'playing'
+[23:42:04] rM.awp | null!: kkkkk
+[23:42:07] rM.awp | null!: Sai agr pra jogar
+[23:42:11] Sagos: kkk
+[23:42:13] [Info] Você pegou Analgésico
+[23:42:14] [Info] Espaço insuficiente para carregar mais itens
+[23:42:26] U.S.G.N.: Serverlist entry updated
+[23:42:36] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[23:42:41] [Info] Você pegou 30 Balas de Rifle
+[23:42:41] [Info] Espaço insuficiente para carregar mais itens
+[23:42:43] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[23:42:44] [Info] Espaço insuficiente para carregar mais itens
+[23:42:49] [Info] Você pegou 30 Balas de Rifle
+[23:42:56] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[23:43:03] U.S.G.N.: Ping/State 'playing'
+[23:43:12] U.S.G.N.: Serverlist entry updated
+[23:43:17] rM.awp | null!: Vou chamar
+[23:43:18] Sagos killed rM.awp | null! with M3
+[23:43:18] rM.awp | null! *Morto*: mais
+[23:43:20] rM.awp | null! *Morto*: 1
+[23:43:22] rM.awp | null! *Morto*: o fr1
+[23:43:25] rM.awp | null! *Morto*: sabe quem e /
+[23:43:26] Sagos: n
+[23:43:26] rM.awp | null! *Morto*: ?
+[23:43:30] Sagos: ele vai testa tbm?
+[23:43:30] rM.awp | null! *Morto*: Ferrari
+[23:43:30] [Info] Sem balas de shotgun, sua M3 foi guardada no inventário
+[23:43:35] [Info] Você já tem M3 no inventário
+[23:43:43] rM.awp | null! *Morto*: Eu vou chamar ele agr pra ver se com 2
+[23:43:45] rM.awp | null! *Morto*: players
+[23:43:48] rM.awp | null! *Morto*: alguma coisa buga
+[23:43:51] Sagos: ok
+[23:43:53] rM.awp | null! deixou o jogo
+[23:43:57] U.S.G.N.: Serverlist entry updated
+[23:43:59] [Info] Sem balas de SMG, sua TMP foi guardada no inventário
+[23:44:03] U.S.G.N.: Ping/State 'playing'
+[23:44:07] [Info] Aguarde 6 segundos para usar Analgésico
+[23:44:13] [Info] Você usou Analgésico
+[23:44:16] [Info] Você já possui um colete igual ou melhor
+[23:44:23] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[23:44:34] [Info] Você já possui um colete igual ou melhor
+[23:44:35] "  (2x)
+[23:44:42] U.S.G.N.: Serverlist entry updated
+[23:44:44] JOIN FAILURE: Ferrari! (189.68.249.48:43427) can't join (wrong password)
+[23:44:45] "  (1x)
+[23:44:47] "  (1x)
+[23:45:04] U.S.G.N.: Ping/State 'playing'
+[23:45:28] U.S.G.N.: Serverlist entry updated
+[23:45:42] [Info] Você pegou 15 Balas de Pistola
+[23:45:53] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[23:45:57] [Info] Você pegou 15 Balas de Pistola
+[23:46:00] "  (1x)
+[23:46:03] generating stats...
+[23:46:03] stats generated in 1 ms!
+[23:46:04] U.S.G.N.: Ping/State 'playing'
+[23:46:13] U.S.G.N.: Serverlist entry updated
+[23:46:20] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[23:46:24] [Info] Você pegou 15 Balas de Pistola
+[23:46:27] [Info] Você pegou 30 Balas de Rifle
+[23:46:31] [Info] Você já tem Deagle no inventário
+[23:46:41] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[23:46:52] [Info] Você pegou 30 Balas de Rifle
+[23:46:59] U.S.G.N.: Serverlist entry updated
+[23:47:05] U.S.G.N.: Ping/State 'playing'
+[23:47:05] [Info] Sem balas de rifle, sua Famas foi guardada no inventário
+[23:47:09] [Info] Sem balas de pistola, sua Deagle foi guardada no inventário
+[23:47:44] U.S.G.N.: Serverlist entry updated
+[23:47:53] U.S.G.N.: Ferrari! (189.68.249.48) joining with U.S.G.N. ID #13584 - verifying...
+[23:47:54] U.S.G.N.: 189.68.249.48 is using U.S.G.N. ID #13584
+[23:47:54] Ferrari! conectou-se
+[23:47:54] Ferrari! is using IP 189.68.249.48:43427 and U.S.G.N. ID #13584
+[23:47:54] Starting transfer to Ferrari! (files: 2) ...
+[23:47:54] Ferrari! needs 2 files. Starting to send files...
+[23:47:54] Sending 'gfx/tiles/besto2.bmp' to Ferrari!...
+[23:48:05] U.S.G.N.: Ping/State 'playing'
+[23:48:12] Sending 'maps/Battle Royale.map' to Ferrari!...
+[23:48:17] Ferrari! juntou-se a Terrorista Forças
+[23:48:20] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[23:48:21] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[23:48:21] rM.awp | null! conectou-se
+[23:48:21] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[23:48:21] JOIN FAILURE: rM.awp | null! (177.185.53.199:64504) can't join (map differs)
+[23:48:23] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[23:48:23] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[23:48:23] rM.awp | null! conectou-se
+[23:48:23] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[23:48:26] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[23:48:29] U.S.G.N.: Serverlist entry updated
+[23:48:43] rM.awp | null! killed Ferrari! with Knife
+[23:48:48] rM.awp | null!: calma 
+[23:48:49] rM.awp | null!: kkkkk
+[23:48:54] rM.awp | null!: testa as parada
+[23:48:57] rM.awp | null!: tenta bugar
+[23:49:00] rM.awp | null!: de alguma forma
+[23:49:06] U.S.G.N.: Ping/State 'playing'
+[23:49:09] Ferrari!: achei bem bosta
+[23:49:12] Ferrari!: vocês estão out
+[23:49:13] Ferrari!: os 2
+[23:49:14] Ferrari!: zoera kkkk
+[23:49:15] U.S.G.N.: Serverlist entry updated
+[23:49:16] Ferrari!: maneiro
+[23:49:19] rM.awp | null!: VAI FI
+[23:49:25] rM.awp | null!: ja jogou pubg?
+[23:49:27] Ferrari!: n
+[23:49:30] Ferrari!: mas esse menu
+[23:49:31] rM.awp | null!: Battlegrounds
+[23:49:32] Ferrari!: é mt complicado
+[23:49:34] Ferrari!: sou jogador d grey
+[23:49:41] Ferrari!: quero apertar 1 botão só
+[23:49:45] Ferrari!: e dar multikill
+[23:49:48] Sagos: kkk
+[23:49:50] rM.awp | null!: kk
+[23:49:50] Ferrari! killed Sagos with Knife
+[23:49:53] Ferrari! killed rM.awp | null! with Knife
+[23:49:56] rM.awp | null!: q
+[23:49:57] Sagos *Morto*: jogador de grey vir joga isso é complicado msm
+[23:50:00] U.S.G.N.: Serverlist entry updated
+[23:50:04] Ferrari!: e o mapa
+[23:50:06] U.S.G.N.: Ping/State 'playing'
+[23:50:06] Ferrari!: qm vai fazer?
+[23:50:13] Sagos: eu =/
+[23:50:19] Sagos: n queria mas fazer o q
+[23:50:20] Ferrari!: pq vc?
+[23:50:26] Ferrari!: n tem mapper?
+[23:50:28] Sagos: pq n tem ngm pra fazer
+[23:50:30] Sagos: n
+[23:50:37] Ferrari!: tiração vc em 
+[23:50:38] Ferrari!: sagos
+[23:50:44] Ferrari!: null
+[23:50:45] U.S.G.N.: Serverlist entry updated
+[23:50:45] rM.awp | null!: ?
+[23:50:46] Ferrari!: o sagos
+[23:50:47] Sagos: '-'
+[23:50:47] Ferrari!: está me tirandow
+[23:50:51] rM.awp | null!: uai
+[23:50:51] Ferrari!: sagos ta me tirando null
+[23:50:52] Sagos: vc é mapper?
+[23:50:55] Ferrari!: vc me chamou aqui pro sagos me tirar?
+[23:51:00] rM.awp | null!: Clbc
+[23:51:03] generating stats...
+[23:51:03] stats generated in 1 ms!
+[23:51:04] rM.awp | null!: vc faz mapa ?
+[23:51:07] U.S.G.N.: Ping/State 'playing'
+[23:51:07] Error: player Ferrari! (#2) tries to select weapon which he does not own (wpn id 21)
+[23:51:10] Ferrari!: NÃO NÃO
+[23:51:13] rM.awp | null!: '-'
+[23:51:14] Ferrari!: EU COMPRO NA DEEPWEB
+[23:51:15] Ferrari!: E UPO AQ
+[23:51:17] Sagos: kkkkkkkkk ent ajuda a gente
+[23:51:19] rM.awp | null!: kkkkk
+[23:51:26] rM.awp | null!: FAZ LA FDP
+[23:51:29] rM.awp | null!: com esse TILE
+[23:51:31] U.S.G.N.: Serverlist entry updated
+[23:51:39] Sagos: quer que eu tire print do mapa do PUBG pra vc ter
+[23:51:41] Ferrari!: É PRA USAR
+[23:51:41] Sagos: uma idéia?
+[23:51:43] Ferrari!: ESSES TILE?
+[23:51:45] Sagos: não
+[23:51:45] rM.awp | null!: S
+[23:51:46] Ferrari!: passa uma foto do mapa
+[23:51:47] Ferrari!: original
+[23:51:49] Ferrari!: q transformo
+[23:51:52] Ferrari!: em 2d
+[23:51:54] rM.awp | null!: KKKKKK
+[23:51:56] Sagos: esse tile é mt zuado
+[23:52:00] rM.awp | null!: E nada
+[23:52:03] rM.awp | null!: e estilo pub
+[23:52:04] Ferrari!: kkkkk
+[23:52:07] U.S.G.N.: Ping/State 'playing'
+[23:52:07] Ferrari!: eu acho bonito
+[23:52:09] Ferrari!: esse aq
+[23:52:10] rM.awp | null!: eu tbm
+[23:52:16] U.S.G.N.: Serverlist entry updated
+[23:52:19] Sagos: eu vou la tirar uma print
+[23:52:19] rM.awp | null! killed Ferrari! with Knife
+[23:52:25] Ferrari! killed rM.awp | null! with Glock
+[23:52:25] Sagos: tem discord ferrari?
+[23:52:40] Ferrari! killed rM.awp | null! with Glock
+[23:52:40] Error: player Ferrari! (#2) tries to select weapon which he does not own (wpn id 21)
+[23:52:42] [Info] Sem balas de pistola, sua USP foi guardada no inventário
+[23:52:44] Ferrari!: sagos
+[23:52:46] rM.awp | null! killed Ferrari! with USP
+[23:52:46] [Info] Você pegou 15 Balas de Pistola
+[23:52:53] Sagos killed Ferrari! with USP
+[23:52:54] Ferrari! *Morto*: acessa eu no discord ta
+[23:52:59] Ferrari!: eu to no grupo da sv love
+[23:53:01] Sagos killed rM.awp | null! with USP
+[23:53:01] U.S.G.N.: Serverlist entry updated
+[23:53:02] Ferrari!: entra nele
+[23:53:04] rM.awp | null! killed Sagos with USP
+[23:53:04] Ferrari!: e me add por la
+[23:53:07] Ferrari!: ai monta um grupo
+[23:53:07] U.S.G.N.: Ping/State 'playing'
+[23:53:10] Ferrari!: com nois 3
+[23:53:12] Ferrari!: ou sei laz
+[23:53:19] Ferrari!: mas por lá nois resolve as fita da fita
+[23:53:20] Ferrari!: q fica
+[23:53:22] Ferrari!: ok?
+[23:53:23] Sagos: eu tenho 1 server
+[23:53:26] rM.awp | null! killed Ferrari! with USP
+[23:53:26] rM.awp | null! killed Sagos with USP
+[23:53:28] rM.awp | null!: ai
+[23:53:33] Sagos *Morto*: q sv love é esse?
+[23:53:37] Sagos: manda link
+[23:53:38] Ferrari!: null
+[23:53:40] Ferrari!: explica pra ele
+[23:53:42] Ferrari!: ?
+[23:53:43] Ferrari!: obg
+[23:53:46] Ferrari!: vc é mt benevolente
+[23:53:47] U.S.G.N.: Serverlist entry updated
+[23:53:48] Ferrari!: te amo sagos
+[23:53:52] Ferrari!: manda la q faço o map p vc
+[23:53:55] Ferrari! deixou o jogo
+[23:54:03] rM.awp | null!: Vc ta no gp do sv love ?
+[23:54:06] Sagos: n
+[23:54:08] U.S.G.N.: Ping/State 'playing'
+[23:54:13] rM.awp | null!: Pera q eu mando msg pra ele 
+[23:54:19] rM.awp | null!: ai mando id dele pra vc
+[23:54:32] U.S.G.N.: Serverlist entry updated
+[23:55:08] U.S.G.N.: Ping/State 'playing'
+[23:55:18] U.S.G.N.: Serverlist entry updated
+[23:55:31] Sagos: https://discord.gg/aE4PucQ
+[23:55:32] "  (1x)
+[23:55:34] ----- Mapchange -----
+[23:55:34] Starting server...
+[23:55:34] load map 'Battle Royale'
+[23:55:34] ----- Server started -----
+[23:55:34] Lua: Adding function 'falar' to hook 'say'
+[23:55:34] Lua: Adding function 'segundos' to hook 'second'
+[23:55:34] Lua: Adding function 'coletar' to hook 'walkover'
+[23:55:34] Lua: Adding function 'atacar' to hook 'attack'
+[23:55:34] Lua: Adding function 'atacar2' to hook 'attack2'
+[23:55:34] Lua: Adding function 'teclas' to hook 'serveraction'
+[23:55:34] Lua: Adding function 'mymenu' to hook 'menu'
+[23:55:34] Lua: Adding function 'ataque' to hook 'hit'
+[23:55:34] Lua: Adding function 'dropar' to hook 'drop'
+[23:55:34] Lua: Adding function 'mover' to hook 'movetile'
+[23:55:36] Sagos juntou-se a Countra-Terrorista Forças
+[23:55:40] U.S.G.N.: Ping/State 'playing'
+[23:55:44] U.S.G.N.: rM.awp | null! (177.185.53.199) joining with U.S.G.N. ID #14465 - verifying...
+[23:55:45] U.S.G.N.: Serverlist entry updated
+[23:55:45] U.S.G.N.: 177.185.53.199 is using U.S.G.N. ID #14465
+[23:55:45] rM.awp | null! conectou-se
+[23:55:45] rM.awp | null! is using IP 177.185.53.199:64504 and U.S.G.N. ID #14465
+[23:55:48] rM.awp | null! juntou-se a Countra-Terrorista Forças
+[23:55:54] rM.awp | null!: pra q esse link q mandou ai ?
+[23:56:03] generating stats...
+[23:56:03] stats generated in 1 ms!
+[23:56:26] Sagos: é do meu sv no discord
+[23:56:30] U.S.G.N.: Serverlist entry updated
+[23:56:31] Sagos: https://discord.gg/aE4PucQ
+[23:56:32] "  (1x)
+[23:56:34] "  (1x)
+[23:56:40] U.S.G.N.: Ping/State 'playing'
+[23:56:52] rM.awp | null!: Eu ja to
+[23:56:55] Sagos: ata
+[23:56:57] rM.awp | null!: Games Oline ?
+[23:56:59] rM.awp | null!: Online
+[23:57:00] Sagos: ss
+[23:57:02] rM.awp | null!: Eu ja to
+[23:57:03] Sagos: ent manda pro Ferrari
+[23:57:08] rM.awp | null!: ok perai
+[23:57:15] U.S.G.N.: Serverlist entry updated
+[23:57:26] rM.awp | null!: Eu n to achando ele vou mandar la no serveer
+[23:57:28] rM.awp | null!: calma ai
+[23:57:29] Sagos: vou abrir o PUBG e tirar uma print do mapa
+[23:57:33] rM.awp | null!: Ok
+[23:57:39] rM.awp | null! deixou o jogo
+[23:57:41] U.S.G.N.: Ping/State 'playing'
+[23:58:01] U.S.G.N.: Serverlist entry updated
+[23:58:47] U.S.G.N.: Ping/State 'playing'
+[23:59:32] U.S.G.N.: Serverlist entry updated
+[23:59:47] U.S.G.N.: Ping/State 'playing'

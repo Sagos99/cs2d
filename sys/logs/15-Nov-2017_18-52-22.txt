@@ -1,0 +1,1535 @@
+CS2D 1.0.0.5 Logfile - 15 Nov 2017, 18:52:22
+
+[18:52:22] UDP socket initialized using port 53630
+[18:52:22] U.S.G.N.: Your game version is up to date!
+[18:52:25] U.S.G.N.: Received serverlist (servers: 131)
+[18:52:26] U.S.G.N.: Logged in as 'sagoswins' (ID 15431)
+[18:52:26] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:52:26] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:52:26] "  (1x)
+[18:52:27] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[18:52:27] Checking 'maps/awp_grey SagosWins.lua': Already exists.
+[18:52:27] Checking 'gfx/SagosWins/Jogo da Velha.bmp': Already exists.
+[18:52:27] Checking 'gfx/sagoswins/x.bmp': Already exists.
+[18:52:27] Checking 'gfx/sagoswins/bola.bmp': Already exists.
+[18:52:27] Checking 'gfx/sagoswins/jogo da velha.bmp': Already exists.
+[18:52:27] Checking 'gfx/sagoswins/bomba.png': Already exists.
+[18:52:27] Checking 'gfx/SagosWins/x.bmp': Already exists.
+[18:52:27] Checking 'gfx/SagosWins/bola.bmp': Already exists.
+[18:52:27] Requesting 0 files from server...
+[18:52:27] load map 'awp_grey SagosWins'
+[18:52:27] ----- Server joined -----
+[18:52:28] U.S.G.N.: Ping/State 'playing'
+[18:52:30] TSocket: 'api.steampowered.com' Time Out (stage: -1)
+[18:52:30] Steam: Failed to login steam with user #76561198077078199 (stage: 1)
+[18:52:32] Golden killed PULLBEAR with AWP
+[18:52:35] Kawan G.O.K.U killed ::MsH::AsSasIng with AWP
+[18:52:35] PULLBEAR deixou o jogo
+[18:52:37] BigSteve conectou-se
+[18:52:38] Player juntou-se a Terrorista Forças
+[18:52:38] GhosT: nem ta todo mundo  lagado ne
+[18:52:42] Valentina  Moon killed LA. monge with AWP
+[18:52:45] Cerbex killed GhosT with Knife
+[18:52:46] LA. monge *Morto*: krl
+[18:52:46] Zabio conectou-se
+[18:52:47] Golden killed Valentina  Moon with AWP
+[18:52:48] LA. monge *Morto*: q lag
+[18:52:55] ::MsH::AsSasIng deixou o jogo
+[18:53:02] Zabio juntou-se a Countra-Terrorista Forças
+[18:53:05] Player 2 conectou-se
+[18:53:05] Golden: aperta E
+[18:53:06] Vencedor do Jogo-da-Velha: Whiteout
+[18:53:06] Kawan G.O.K.U killed by Jogo-da-velha
+[18:53:06] BigSteve juntou-se a Countra-Terrorista Forças
+[18:53:06] Golden: porra
+[18:53:10] Cerbex killed Whiteout with AWP
+[18:53:13] Sagos juntou-se a Countra-Terrorista Forças
+[18:53:14] Golden: toma no cu rapa
+[18:53:15] Cerbex: eu não tenho cu, logo eu não dou o cu
+[18:53:17] Whiteout: faca krl
+[18:53:17] Kawan G.O.K.U: n sei mt jogo da veia kk
+[18:53:19] Sagos: vou atualizar o sv
+[18:53:22] Golden: '-'
+[18:53:24] LA. monge: blz
+[18:53:26] Cerbex killed BigSteve with AWP
+[18:53:28] Player 2 juntou-se a Terrorista Forças
+[18:53:28] Cerbex killed Valentina  Moon with AWP
+[18:53:28] U.S.G.N.: Ping/State 'playing'
+[18:53:28] Golden: nuke
+[18:53:29] BigSteve deixou o jogo
+[18:53:32] Kawan G.O.K.U killed Whiteout with Knife
+[18:53:32] Vencedor do Jogo-da-Velha: Kawan G.O.K.U
+[18:53:36] Kawan G.O.K.U: mals
+[18:53:37] GhosT: nuna vi tanto lag
+[18:53:37] rcon password set! use 'rcon' to execute commands!
+[18:53:46] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:53:46] "  (1x)
+[18:53:49] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[18:53:49] U.S.G.N.: Ping/State 'idle' (256 ms)
+[18:53:49] U.S.G.N.: Ping/State 'idle' (272 ms)
+[18:53:50] Checking 'gfx/tiles/fruitpapje1.bmp': Already exists.
+[18:53:50] Checking 'maps/awp_grey SagosWins.lua': Already exists.
+[18:53:50] Checking 'gfx/SagosWins/Jogo da Velha.bmp': Already exists.
+[18:53:50] Checking 'gfx/sagoswins/x.bmp': Already exists.
+[18:53:50] Checking 'gfx/sagoswins/bola.bmp': Already exists.
+[18:53:50] Checking 'gfx/sagoswins/jogo da velha.bmp': Already exists.
+[18:53:50] Checking 'gfx/sagoswins/bomba.png': Already exists.
+[18:53:50] Requesting 0 files from server...
+[18:53:50] load map 'awp_grey SagosWins'
+[18:53:50] ----- Server joined -----
+[18:53:50] [Servidor] Você fez Login em »Host«
+[18:53:51] Kawan G.O.K.U juntou-se a Countra-Terrorista Forças
+[18:53:51] U.S.G.N.: Ping/State 'playing'
+[18:53:51] Whiteout conectou-se
+[18:53:52] LA. monge juntou-se a Terrorista Forças
+[18:53:53] Sagos juntou-se a Countra-Terrorista Forças
+[18:53:56] Golden juntou-se a Terrorista Forças
+[18:53:56] GhosT juntou-se a Terrorista Forças
+[18:53:57] rcon password set! use 'rcon' to execute commands!
+[18:53:58] Whiteout juntou-se a Countra-Terrorista Forças
+[18:53:58] Player juntou-se a Countra-Terrorista Forças
+[18:53:59] rcon password set! use 'rcon' to execute commands!
+[18:54:00] Valentina  Moon juntou-se a Countra-Terrorista Forças
+[18:54:00] Valentina  Moon juntou-se a Terrorista Forças
+[18:54:06] Kawan G.O.K.U killed GhosT with AWP
+[18:54:08] Golden killed Kawan G.O.K.U with AWP
+[18:54:09] »Host« Sagos: mee
+[18:54:10] Player killed Valentina  Moon with Knife
+[18:54:11] LA. monge killed Sagos with Knife
+[18:54:11] k¦LA. monge¦100¦100
+[18:54:11] Golden killed Player with AWP
+[18:54:13] »Host« Sagos: n lembro como usa nd
+[18:54:13] Player 2 conectou-se
+[18:54:15] LA. monge killed Whiteout with AWP
+[18:54:17] »Host« Sagos: #ajuda
+[18:54:17] Player 2 juntou-se a Terrorista Forças
+[18:54:18] »Host« Sagos: !ajuda
+[18:54:18] Vencedor do Jogo-da-Velha: LA. monge
+[18:54:19] Golden: iae gokuzao
+[18:54:21] Player deixou o jogo
+[18:54:22] LA. monge: KK
+[18:54:22] Kawan G.O.K.U: sagos quem e?
+[18:54:22] Whiteout: cuzão
+[18:54:24] Kawan G.O.K.U: eae
+[18:54:26] »Host« Sagos: eae
+[18:54:28] Sagos died
+[18:54:28] Sagos juntou-se aos espectadores
+[18:54:33] LA. monge killed Whiteout with AWP
+[18:54:33] Kawan G.O.K.U killed Valentina  Moon with AWP
+[18:54:33] Kawan G.O.K.U killed Golden with AWP
+[18:54:35] Mozilla conectou-se
+[18:54:36] PL ' RennaN* conectou-se
+[18:54:38] Golden votos para kickar Valentina  Moon
+[18:54:39] Valentina  Moon *Morto*: QUE LAG DO INFERNOO
+[18:54:39] »Host« Sagos: #help
+[18:54:40] Whiteout *Morto*: vem veia putão
+[18:54:40] Kauatop_YT conectou-se
+[18:54:43] Kawan G.O.K.U killed LA. monge with AWP
+[18:54:45] LA. monge *Morto*: ??
+[18:54:46] Golden *Morto*: lixo do caralho
+[18:54:46] LA. monge *Morto*: qlag mds
+[18:54:48] PL ' RennaN* deixou o jogo
+[18:54:49] Golden *Morto*: vai se fude 
+[18:54:50] Golden *Morto*: kkkkkkkkkk
+[18:54:51] Kawan G.O.K.U killed GhosT with AWP
+[18:54:51] Kawan G.O.K.U killed Player 2 with AWP
+[18:54:52] U.S.G.N.: Ping/State 'playing'
+[18:54:52] LA. monge *Morto*: cala boca
+[18:54:53] Mozilla deixou o jogo
+[18:54:53] GhosT *Morto*: :v
+[18:54:54] LA. monge *Morto*: lago tudo
+[18:54:54] Para Ser um Homem-Bomba Digite !kamikaze
+[18:54:55] Kauatop_YT juntou-se a Countra-Terrorista Forças
+[18:54:55] Player 2 deixou o jogo
+[18:54:55] LA. monge *Morto*: slc
+[18:54:57] Golden: aeee gokuzao
+[18:54:59] LA. monge Virou um Homem-Bomba!
+[18:54:59] LA. monge: !kamikaze
+[18:55:01] Kawan G.O.K.U: '-'
+[18:55:02] LA. monge killed by Kamikaze
+[18:55:05] Golden: q lag
+[18:55:15] DimaXexe conectou-se
+[18:55:16] Whiteout killed GhosT with AWP
+[18:55:22] Whiteout killed Valentina  Moon with AWP
+[18:55:23] DimaXexe juntou-se a Countra-Terrorista Forças
+[18:55:27] Kawan G.O.K.U killed Golden with AWP
+[18:55:27] GhosT *Morto*: mds
+[18:55:29] Golden *Morto*: '-'
+[18:55:31] Golden *Morto*: eta
+[18:55:33] GhosT: esse time merda
+[18:55:36] GhosT: mentira
+[18:55:38] LA. monge Virou um Homem-Bomba!
+[18:55:38] LA. monge: !kamikaze
+[18:55:40] Kawan G.O.K.U killed LA. monge with AWP
+[18:55:42] Golden killed Kauatop_YT with AWP
+[18:55:44] LA. monge *Morto*: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[18:55:45] Kawan G.O.K.U: sai deu
+[18:55:52] Kauatop_YT *Morto*: oloiro
+[18:55:52] U.S.G.N.: Ping/State 'playing'
+[18:55:52] GhosT: lagg
+[18:55:53] Whiteout killed Valentina  Moon with AWP
+[18:55:54] Golden killed Kawan G.O.K.U with AWP
+[18:55:56] DimaXexe killed Golden with AWP
+[18:55:58] Golden *Morto*: eta
+[18:55:59] GhosT killed DimaXexe with AWP
+[18:56:00] Golden *Morto*: nem vi janela
+[18:56:03] LA. monge *Morto*: pse
+[18:56:05] GhosT killed Whiteout with AWP
+[18:56:06] Golden *Morto*: mato
+[18:56:07] [Servidor] @swap - quem é TR vira CT e vice-versa
+[18:56:07] [Servidor] @kick - expulsa um jogador do servidor
+[18:56:07] [Servidor] @ban - expulsa um jogador por 8 dias
+[18:56:07] [Servidor] @kill - mata um jogador
+[18:56:07] [Servidor] @maket - Coloca um jogador em Terrorista
+[18:56:07] [Servidor] @makect - Coloca um jogador em Contra-Terrorista
+[18:56:07] [Servidor] @makespec - Coloca um jogador em Espectador
+[18:56:07] [Servidor] @freezeall - Congela todos os Jogadores
+[18:56:07] [Servidor] @unfreezeall - Descongela todos os Jogadores
+[18:56:07] [Servidor] @setcolor - escolha uma cor para seu nome, cargo e fala
+[18:56:07] [Servidor] !usgn <jogador> - ver a USGN de um jogador
+[18:56:07] [Servidor] !rs - Reseta seus Score e suas Deaths
+[18:56:08] LA. monge *Morto*: tem uns hack ja
+[18:56:11] LA. monge: pra banir
+[18:56:18] »Host« Sagos: qm é hack?
+[18:56:18] Kawan G.O.K.U: diga logo eu -.-
+[18:56:20] Kawan G.O.K.U: kk
+[18:56:24] DimaXexe killed Golden with AWP
+[18:56:26] Kawan G.O.K.U: eu so n
+[18:56:26] Golden *Morto*: '-'
+[18:56:28] PatinhoPirata conectou-se
+[18:56:29] [Servidor] @swap - quem é TR vira CT e vice-versa
+[18:56:29] [Servidor] @kick - expulsa um jogador do servidor
+[18:56:29] [Servidor] @ban - expulsa um jogador por 8 dias
+[18:56:29] [Servidor] @kill - mata um jogador
+[18:56:29] [Servidor] @maket - Coloca um jogador em Terrorista
+[18:56:29] [Servidor] @makect - Coloca um jogador em Contra-Terrorista
+[18:56:29] [Servidor] @makespec - Coloca um jogador em Espectador
+[18:56:29] [Servidor] @freezeall - Congela todos os Jogadores
+[18:56:29] [Servidor] @unfreezeall - Descongela todos os Jogadores
+[18:56:29] [Servidor] @setcolor - escolha uma cor para seu nome, cargo e fala
+[18:56:29] [Servidor] !usgn <jogador> - ver a USGN de um jogador
+[18:56:29] [Servidor] !rs - Reseta seus Score e suas Deaths
+[18:56:29] LA. monge killed DimaXexe with AWP
+[18:56:29] Golden *Morto*: sv ta lagando
+[18:56:31] ocarabugado conectou-se
+[18:56:31] LA. monge: sagos
+[18:56:32] Golden *Morto*: laaag
+[18:56:34] DimaXexe deixou o jogo
+[18:56:35] LA. monge: voice chat
+[18:56:35] »Host« Sagos: ?
+[18:56:38] Golden *Morto*: laaaaaaag
+[18:56:40] Whiteout killed Valentina  Moon with AWP
+[18:56:40] Kawan G.O.K.U: lalglglglg
+[18:56:40] LA. monge: ta lagand
+[18:56:42] LA. monge: sv
+[18:56:44] »Host« Sagos: ok vou tirar
+[18:56:45] Golden *Morto*: 4k de ping
+[18:56:47] Kawan G.O.K.U killed LA. monge with AWP
+[18:56:50] GhosT: lag
+[18:56:51] PatinhoPirata juntou-se a Countra-Terrorista Forças
+[18:56:51] ocarabugado *Morto*: salve
+[18:56:53] U.S.G.N.: Ping/State 'playing'
+[18:56:54] Para Ser um Homem-Bomba Digite !kamikaze
+[18:56:56] LA. monge *Morto*: salvado
+[18:56:58] GhosT: nss
+[18:57:00] PatinhoPirata *Morto*: gokuuu
+[18:57:02] Golden *Morto*: olha o lag
+[18:57:03] Kawan G.O.K.U killed GhosT with AWP
+[18:57:03] ocarabugado juntou-se a Terrorista Forças
+[18:57:05] GhosT *Morto*: credo
+[18:57:07] LA. monge juntou-se a Terrorista Forças
+[18:57:10] [Servidor] @swap - quem é TR vira CT e vice-versa
+[18:57:10] [Servidor] @kick - expulsa um jogador do servidor
+[18:57:10] [Servidor] @ban - expulsa um jogador por 8 dias
+[18:57:10] [Servidor] @kill - mata um jogador
+[18:57:10] [Servidor] @maket - Coloca um jogador em Terrorista
+[18:57:10] [Servidor] @makect - Coloca um jogador em Contra-Terrorista
+[18:57:10] [Servidor] @makespec - Coloca um jogador em Espectador
+[18:57:10] [Servidor] @freezeall - Congela todos os Jogadores
+[18:57:10] [Servidor] @unfreezeall - Descongela todos os Jogadores
+[18:57:10] [Servidor] @setcolor - escolha uma cor para seu nome, cargo e fala
+[18:57:10] [Servidor] !usgn <jogador> - ver a USGN de um jogador
+[18:57:10] [Servidor] !rs - Reseta seus Score e suas Deaths
+[18:57:11] LA. monge: se ngm usa voice
+[18:57:13] LA. monge: mas esses nb
+[18:57:20] [Servidor] Sagos usou "@setcolor"
+[18:57:24] GhosT: nuuuu
+[18:57:26] PatinhoPirata killed ocarabugado with AWP
+[18:57:26] GhosT deixou o jogo
+[18:57:28] LA. monge killed Kauatop_YT with AWP
+[18:57:31] PatinhoPirata: laggg
+[18:57:32] Whiteout: VEIA
+[18:57:32] [Servidor] Cor do cargo mudado para »Ciano Escuro«
+[18:57:33] LA. monge killed PatinhoPirata with AWP
+[18:57:39] LA. monge: ala
+[18:57:41] [Servidor] Cor do cargo mudado para »Azul Claro«
+[18:57:42] Golden killed Kawan G.O.K.U with AWP
+[18:57:42] LA. monge killed Whiteout with AWP
+[18:57:45] Vencedor do Jogo-da-Velha: Valentina  Moon
+[18:57:46] Kauatop_YT deixou o jogo
+[18:57:50] Kawan G.O.K.U: e esse lag
+[18:57:53] U.S.G.N.: Ping/State 'playing'
+[18:58:02] [Servidor] Sagos usou "@setcolor"
+[18:58:04] LA. monge killed Kawan G.O.K.U with AWP
+[18:58:04] Golden killed Whiteout with AWP
+[18:58:05] Valentina  Moon killed PatinhoPirata with AWP
+[18:58:13] ocarabugado: baixei o jogo mo felizao
+[18:58:14] Kawan G.O.K.U killed LA. monge with AWP
+[18:58:17] LA. monge *Morto*: KKKKKKKKKKKK
+[18:58:18] Whiteout died
+[18:58:18] Whiteout juntou-se aos espectadores
+[18:58:19] [Servidor] Cor do cargo mudado para »Azul Escuro«
+[18:58:24] Kawan G.O.K.U killed ocarabugado with AWP
+[18:58:29] LA. monge *Morto*: baixou o jogo felizao
+[18:58:30] Golden killed Kawan G.O.K.U with AWP
+[18:58:31] LA. monge *Morto*: ai chego aqui
+[18:58:32] Kawan G.O.K.U *Morto*: eta
+[18:58:33] LA. monge *Morto*: viu essa merda
+[18:58:34] Golden: vacilo
+[18:58:35] LA. monge *Morto*: e falou
+[18:58:36] [Servidor] Cor do cargo mudado para »Verde Claro«
+[18:58:39] LA. monge *Morto*: pq eu baixei iss
+[18:58:40] LA. monge *Morto*: '-'w
+[18:58:42] H.A.S.H. conectou-se
+[18:58:44] PatinhoPirata killed Golden with AWP
+[18:58:45] Golden *Morto*: '-'
+[18:58:46] [Servidor] Cor da fala mudado para »Verde Claro«
+[18:58:47] ocarabugado *Morto*: s
+[18:58:47] PatinhoPirata killed Valentina  Moon with AWP
+[18:58:48] Golden *Morto*: como assim mano
+[18:58:48] LA. monge *Morto*: OKPSAPOEASE
+[18:58:50] Golden *Morto*: kkkkkkkkkkkkkk
+[18:58:50] H.A.S.H. juntou-se a Countra-Terrorista Forças
+[18:58:51] LA. monge *Morto*: falei
+[18:58:52] Golden: kkkkkkkkkkkk
+[18:58:53] »Host« Sagos: @help 2
+[18:58:54] U.S.G.N.: Ping/State 'playing'
+[18:58:54] Para Ser um Homem-Bomba Digite !kamikaze
+[18:58:55] [Servidor] @swap - quem é TR vira CT e vice-versa
+[18:58:55] [Servidor] @kick - expulsa um jogador do servidor
+[18:58:55] [Servidor] @ban - expulsa um jogador por 8 dias
+[18:58:55] [Servidor] @kill - mata um jogador
+[18:58:55] [Servidor] @maket - Coloca um jogador em Terrorista
+[18:58:55] [Servidor] @makect - Coloca um jogador em Contra-Terrorista
+[18:58:55] [Servidor] @makespec - Coloca um jogador em Espectador
+[18:58:55] [Servidor] @freezeall - Congela todos os Jogadores
+[18:58:55] [Servidor] @unfreezeall - Descongela todos os Jogadores
+[18:58:55] [Servidor] @setcolor - escolha uma cor para seu nome, cargo e fala
+[18:58:55] [Servidor] !usgn <jogador> - ver a USGN de um jogador
+[18:58:55] [Servidor] !rs - Reseta seus Score e suas Deaths
+[18:58:56] Kawan G.O.K.U killed Valentina  Moon with AWP
+[18:58:56] PatinhoPirata: KKK
+[18:58:59] LA. monge Virou um Homem-Bomba!
+[18:58:59] LA. monge: !kamikaze
+[18:59:02] LA. monge killed by Kamikaze
+[18:59:02] LA. monge killed Kawan G.O.K.U with Explosão
+[18:59:05] Golden: kkkkkkkkkkkkkkkkkk
+[18:59:06] LA. monge *Morto*: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[18:59:06] Golden killed H.A.S.H. with AWP
+[18:59:07] Player conectou-se
+[18:59:12] Kawan G.O.K.U *Morto*: tetoroso
+[18:59:14] ocarabugado: como fala no voip ?
+[18:59:18] Player *Morto*: cszin
+[18:59:19] LA. monge *Morto*: VOIP
+[18:59:21] Player *Morto*: na steam
+[18:59:22] LA. monge *Morto*: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[18:59:25] Player juntou-se a Countra-Terrorista Forças
+[18:59:30] LA. monge *Morto*: Golden killed H.A.S.H. with AWP
+[18:59:33] ocarabugado killed PatinhoPirata with Knife
+[18:59:36] LA. monge *Morto*: Golden killed H.A.S.H. with AWP
+[18:59:37] ocarabugado: kkk
+[18:59:42] LA. monge: q voip?
+[18:59:45] LA. monge: telefonia por IP?
+[18:59:46] Golden killed Player with AWP
+[18:59:48] LA. monge: nao é aqui nao
+[18:59:48] Player deixou o jogo
+[18:59:51] Golden: kkkkk
+[18:59:52] LA. monge: aqui é voice msm
+[18:59:53] PatinhoPirata: LAGGG
+[18:59:54] U.S.G.N.: Ping/State 'playing'
+[18:59:59] Whiteout *Morto*: VOIP é outro nome dado pra voice mesmo
+[19:00:00] Kawan G.O.K.U killed Golden with AWP
+[19:00:01] Golden *Morto*: mds
+[19:00:04] ocarabugado: q jogo cagao
+[19:00:06] Golden *Morto*: monge
+[19:00:08] LA. monge killed PatinhoPirata with AWP
+[19:00:09] Golden *Morto*: da o cover
+[19:00:09] ocarabugado: cagado*
+[19:00:12] PatinhoPirata *Morto*: LAGG
+[19:00:13] Golden *Morto*: pelo amor de deus
+[19:00:14] Kawan G.O.K.U killed LA. monge with AWP
+[19:00:17] Kawan G.O.K.U killed Valentina  Moon with Knife
+[19:00:18] LA. monge *Morto*: krl q  lag
+[19:00:20] Golden *Morto*: sem cover n da monge
+[19:00:20] ocarabugado killed H.A.S.H. with AWP
+[19:00:23] H.A.S.H. deixou o jogo
+[19:00:24] LA. monge *Morto*: lagando
+[19:00:25] LA. monge *Morto*: vo quita
+[19:00:27] LA. monge *Morto*: mds
+[19:00:28] Kawan G.O.K.U killed ocarabugado with AWP
+[19:00:29] Golden *Morto*: ala
+[19:00:33] LA. monge *Morto*: muy legad
+[19:00:33] Golden juntou-se a Countra-Terrorista Forças
+[19:00:35] EL LOCO SARA conectou-se
+[19:00:36] LA. monge killed Golden with AWP
+[19:00:38] Kawan G.O.K.U killed LA. monge with AWP
+[19:00:38] Golden deixou o jogo
+[19:00:40] LA. monge *Morto*: xD
+[19:00:42] LA. monge *Morto*: ja deita
+[19:00:42] EL LOCO SARA juntou-se a Countra-Terrorista Forças
+[19:00:47] »Host« Sagos: entendi o pq do lag pera ae
+[19:00:47] Kawan G.O.K.U killed Valentina  Moon with AWP
+[19:00:50] Kawan G.O.K.U killed ocarabugado with AWP
+[19:00:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:00:55] U.S.G.N.: Ping/State 'playing'
+[19:00:58] LA. monge Virou um Homem-Bomba!
+[19:00:58] LA. monge: !kamikaze
+[19:01:01] LA. monge killed by Kamikaze
+[19:01:03] Kawan G.O.K.U: k
+[19:01:04] LA. monge *Morto*: poKOASEK
+[19:01:05] Whiteout *Morto*: kkk
+[19:01:07] Kawan G.O.K.U killed Valentina  Moon with AWP
+[19:01:08] ocarabugado: ia criar um server
+[19:01:10] Kawan G.O.K.U killed ocarabugado with AWP
+[19:01:15] LA. monge: rank
+[19:01:15] r¦LA. monge¦5 of 23¦43,64,35,1.82,36 m 1 s
+[19:01:17] ocarabugado: mas a porra do roteaor n ta indo
+[19:01:19] Kawan G.O.K.U: rank
+[19:01:19] Kawan G.O.K.U is unranked (no U.S.G.N. login)
+[19:01:21] LA. monge killed PatinhoPirata with AWP
+[19:01:21] ocarabugado: wifi da vizinha
+[19:01:27] LA. monge killed Kawan G.O.K.U with Knife
+[19:01:28] »Host« Sagos: vou reiniciar sv dnv
+[19:01:34] EL LOCO SARA killed LA. monge with AWP
+[19:01:35] Valentina  Moon killed EL LOCO SARA with AWP
+[19:01:36] LA. monge *Morto*: xDDDD
+[19:01:44] U.S.G.N.: Ping/State 'idle' (428 ms)
+[19:01:45] U.S.G.N.: Ping/State 'idle' (972 ms)
+[19:01:47] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[19:01:47] U.S.G.N.: Ping/State 'idle' (272 ms)
+[19:01:47] "  (1x)
+[19:01:48] load map 'awp_grey SagosWins'
+[19:01:48] ----- Server joined -----
+[19:01:48] [Servidor] Você fez Login em »Host«
+[19:01:49] U.S.G.N.: Ping/State 'playing'
+[19:01:49] Kawan G.O.K.U juntou-se a Countra-Terrorista Forças
+[19:01:50] LA. monge juntou-se a Terrorista Forças
+[19:01:51] PatinhoPirata juntou-se a Countra-Terrorista Forças
+[19:01:52] EL LOCO SARA juntou-se a Countra-Terrorista Forças
+[19:01:54] ocarabugado juntou-se a Terrorista Forças
+[19:01:55] Valentina  Moon juntou-se a Terrorista Forças
+[19:01:56] PatinhoPirata: ae
+[19:02:01] [Servidor] Sagos usou "@setcolor"
+[19:02:02] ocarabugado votos pro mapa cs_office
+[19:02:03] Kawan G.O.K.U killed Player with AWP
+[19:02:06] [Servidor] Cor do cargo mudado para »Verde Claro«
+[19:02:06] Kawan G.O.K.U killed Valentina  Moon with AWP
+[19:02:09] [Servidor] Cor da fala mudado para »Verde Claro«
+[19:02:10] PatinhoPirata killed LA. monge with AWP
+[19:02:13] »Host« Sagos: ve agr c tem lag
+[19:02:17] Valentina  Moon deixou o jogo
+[19:02:17] PatinhoPirata: NAO
+[19:02:17] Kawan G.O.K.U killed ocarabugado with AWP
+[19:02:20] LA. monge *Morto*: mds 
+[19:02:23] Player Alterou seu nome para jglord
+[19:02:24] ocarabugado: nosa men
+[19:02:24] LA. monge: q q era '-'?
+[19:02:24] Kawan G.O.K.U: agr s
+[19:02:25] AVA GINA conectou-se
+[19:02:27] LA. monge killed PatinhoPirata with AWP
+[19:02:33] Whiteout juntou-se a Terrorista Forças
+[19:02:33] LA. monge Virou um Homem-Bomba!
+[19:02:33] LA. monge: !kamikaze
+[19:02:35] Kawan G.O.K.U killed LA. monge with AWP
+[19:02:37] LA. monge *Morto*: ah viad
+[19:02:37] »Host« Sagos: era o jogo da velha
+[19:02:37] AVA GINA juntou-se a Countra-Terrorista Forças
+[19:02:41] LA. monge *Morto*: KKKKKKKKKKKKKKKKKKKKKKK
+[19:02:44] PatinhoPirata *Morto*: nossa
+[19:02:44] AVA GINA *Morto*: wtf
+[19:02:45] naski conectou-se
+[19:02:46] Kawan G.O.K.U killed jglord with AWP
+[19:02:47] naski juntou-se a Terrorista Forças
+[19:02:49] U.S.G.N.: Ping/State 'playing'
+[19:02:53] Kawan G.O.K.U killed ocarabugado with AWP
+[19:02:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:02:56] LA. monge juntou-se a Terrorista Forças
+[19:02:57] AVA GINA *Morto*: ai host coloca a gente pra joga 
+[19:02:58] PatinhoPirata: nao era a net da velha kkk
+[19:02:59] AVA GINA: jogo da velha
+[19:03:01] ocarabugado: !kamikasze
+[19:03:03] LA. monge killed PatinhoPirata with AWP
+[19:03:07] ocarabugado Virou um Homem-Bomba!
+[19:03:07] ocarabugado: !kamikaze
+[19:03:10] ocarabugado killed by Kamikaze
+[19:03:11] AVA GINA: ue
+[19:03:11] PatinhoPirata *Morto*: oxi
+[19:03:13] EL LOCO SARA killed jglord with AWP
+[19:03:13] AVA GINA: krl
+[19:03:14] »Host« Sagos: se eu colocar jogo da velha vai da lah
+[19:03:15] LA. monge killed EL LOCO SARA with AWP
+[19:03:18] »Host« Sagos: lag*
+[19:03:18] Whiteout killed Kawan G.O.K.U with AWP
+[19:03:20] EL LOCO SARA deixou o jogo
+[19:03:23] Vencedor do Jogo-da-Velha: LA. monge
+[19:03:23] AVA GINA: ._.
+[19:03:26] LA. monge: '-'
+[19:03:31] LA. monge killed AVA GINA with AWP
+[19:03:34] AVA GINA *Morto*: q lag
+[19:03:36] ocarabugado *Morto*: Nah
+[19:03:36] * Auto Teambalance *
+[19:03:36] naski juntou-se a Countra-Terrorista Forças
+[19:03:47] LA. monge killed AVA GINA with AWP
+[19:03:49] Kawan G.O.K.U killed jglord with Knife
+[19:03:49] Kawan G.O.K.U killed ocarabugado with AWP
+[19:03:49] U.S.G.N.: Ping/State 'playing'
+[19:03:52] Whiteout killed Kawan G.O.K.U with AWP
+[19:03:52] naski killed Whiteout with AWP
+[19:03:53] jglord deixou o jogo
+[19:03:55] naski killed LA. monge with AWP
+[19:03:56] LA. monge *Morto*: KK
+[19:03:57] LA. monge juntou-se a Terrorista Forças
+[19:04:09] ocarabugado: cm qbra parede ?
+[19:04:10] Kawan G.O.K.U killed Whiteout with AWP
+[19:04:11] LA. monge killed PatinhoPirata with AWP
+[19:04:13] Kawan G.O.K.U killed ocarabugado with AWP
+[19:04:18] AVA GINA: com a mao
+[19:04:19] naski killed LA. monge with AWP
+[19:04:20] naski: k
+[19:04:21] LA. monge *Morto*: KK
+[19:04:21] LA. monge juntou-se a Terrorista Forças
+[19:04:22] Kawan G.O.K.U: monge 
+[19:04:23] AVA GINA: ou com o martelo
+[19:04:24] LA. monge: eu
+[19:04:25] Kawan G.O.K.U: se ja era
+[19:04:26] »Host« Sagos: vou atualizar dnv kk
+[19:04:27] Kawan G.O.K.U: calma '-'
+[19:04:29] »Host« Sagos: prometo ultima vez
+[19:04:29] LA. monge: to jogando com o pé
+[19:04:31] LA. monge killed PatinhoPirata with AWP
+[19:04:32] naski: KKKKKKKKKKKKKKK
+[19:04:37] Kawan G.O.K.U killed LA. monge with AWP
+[19:04:39] AVA GINA: mano que lag
+[19:04:41] LA. monge juntou-se a Terrorista Forças
+[19:04:41] Kawan G.O.K.U killed ocarabugado with AWP
+[19:04:42] naski killed by RPG Launcher
+[19:04:43] AVA GINA killed by RPG Launcher
+[19:04:43] AVA GINA killed Whiteout with RPG Launcher
+[19:04:44] AVA GINA *Morto*: ue
+[19:04:45] LA. monge *Morto*: POKAOSEOAPSEOAEKOS
+[19:04:46] Kawan G.O.K.U: kkkkkkkkkkkkkkkk
+[19:04:47] Whiteout *Morto*: SLK
+[19:04:48] AVA GINA *Morto*: KKKKKK
+[19:04:48] naski: MDS KKKKKKKKKKKKKKKKKKK
+[19:04:49] ocarabugado: who can say
+[19:04:50] PatinhoPirata: MAN ESSE LA MONGEE CAGADO
+[19:04:50] U.S.G.N.: Ping/State 'playing'
+[19:04:50] LA. monge Alterou seu nome para LA. krakN
+[19:04:53] Kroniik conectou-se
+[19:04:53] LA. krakN: koAKSEO
+[19:04:54] ERROR: No rcon password set! Use 'rcon_password' to set it before you use 'rcon'!
+[19:04:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:04:55] rcon password set! use 'rcon' to execute commands!
+[19:05:03] U.S.G.N.: Ping/State 'idle' (266 ms)
+[19:05:03] "  (1x)
+[19:05:06] Connecting to 192.168.1.31:36963 (using U.S.G.N. ID #15431) ...
+[19:05:06] U.S.G.N.: Ping/State 'idle' (288 ms)
+[19:05:06] "  (1x)
+[19:05:07] load map 'awp_grey SagosWins'
+[19:05:07] ----- Server joined -----
+[19:05:07] »ADM« Sagos Entrou no servidor!
+[19:05:08] LA. krakN juntou-se a Terrorista Forças
+[19:05:08] Kawan G.O.K.U juntou-se a Countra-Terrorista Forças
+[19:05:08] U.S.G.N.: Ping/State 'playing'
+[19:05:09] AVA GINA juntou-se a Countra-Terrorista Forças
+[19:05:10] naski conectou-se
+[19:05:11] PatinhoPirata juntou-se a Countra-Terrorista Forças
+[19:05:11] PatinhoPirata juntou-se a Terrorista Forças
+[19:05:12] ocarabugado juntou-se a Terrorista Forças
+[19:05:12] Kroniik juntou-se a Terrorista Forças
+[19:05:12] Kroniik juntou-se a Countra-Terrorista Forças
+[19:05:13] naski juntou-se a Terrorista Forças
+[19:05:13] LA. krakN: se eu joga serio
+[19:05:15] Kawan G.O.K.U killed ocarabugado with AWP
+[19:05:16] LA. krakN: os nb começa a quita
+[19:05:19] LA. krakN: melhor deixa cheio kk
+[19:05:20] »ADM« Sagos: agr s
+[19:05:21] AVA GINA Virou um Homem-Bomba!
+[19:05:21] AVA GINA: !kamikaze
+[19:05:22] Whiteout Seu Ping Esta 614 Feche Todos os Programas Ou Sera Kikado!
+[19:05:24] AVA GINA killed by Kamikaze
+[19:05:25] PatinhoPirata: KKKK
+[19:05:27] Kawan G.O.K.U killed PatinhoPirata with AWP
+[19:05:27] Kawan G.O.K.U killed naski with AWP
+[19:05:28] LA. krakN killed Kroniik with AWP
+[19:05:29] naski *Morto*: NAO ANDA
+[19:05:30] naski *Morto*: JUNTO
+[19:05:32] naski *Morto*: MANO
+[19:05:35] LA. krakN killed by RPG Launcher
+[19:05:37] LA. krakN *Morto*: wtf
+[19:05:38] Kawan G.O.K.U: mt bem
+[19:05:38] naski *Morto*: KKKKKKKKKKKKKKKK
+[19:05:40] LA. krakN: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[19:05:42] LA. krakN: ue
+[19:05:44] Kawan G.O.K.U: kkkkkkkkkkkkkkkk
+[19:05:45] naski: meo deos
+[19:05:45] LA. krakN killed Kroniik with AWP
+[19:05:47] Kawan G.O.K.U killed LA. krakN with AWP
+[19:05:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:05:57] naski killed AVA GINA with AWP
+[19:05:57] Kawan G.O.K.U killed PatinhoPirata with AWP
+[19:06:00] AVA GINA *Morto*: mds que alfg
+[19:06:00] LA. krakN juntou-se a Terrorista Forças
+[19:06:01] naski killed Kawan G.O.K.U with AWP
+[19:06:02] AVA GINA *Morto*: lag*
+[19:06:04] Kawan G.O.K.U *Morto*: ala
+[19:06:04] ocarabugado killed by RPG Launcher
+[19:06:06] LA. krakN *Morto*: KPOASOESKOPESEK
+[19:06:06] AVA GINA Resetou o Score!
+[19:06:06] AVA GINA: !rs
+[19:06:07] ocarabugado: oche
+[19:06:08] U.S.G.N.: Ping/State 'playing'
+[19:06:18] Se Suas Mortes For Maior Que Seu Score Então é Resetado!
+[19:06:19] LA. krakN killed Kawan G.O.K.U with AWP
+[19:06:19] AVA GINA: da ate raiva
+[19:06:21] Kroniik killed PatinhoPirata with AWP
+[19:06:22] naski: pse
+[19:06:25] LA. krakN killed AVA GINA with AWP
+[19:06:26] Kawan G.O.K.U Resetou o Score!
+[19:06:26] Kawan G.O.K.U *Morto*: !rs
+[19:06:30] AVA GINA Resetou o Score!
+[19:06:30] AVA GINA *Morto*: !rs
+[19:06:34] LA. krakN killed Kroniik with AWP
+[19:06:35] naski: k
+[19:06:38] ocarabugado Seu Ping Esta 868 Feche Todos os Programas Ou Sera Kikado!
+[19:06:39] LA. krakN: izi
+[19:06:47] LA. krakN killed Kawan G.O.K.U with AWP
+[19:06:50] Kawan G.O.K.U Resetou o Score!
+[19:06:50] Kawan G.O.K.U *Morto*: !rs
+[19:06:54] LA. krakN killed Kroniik with Knife
+[19:06:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:06:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:06:58] LA. krakN killed AVA GINA with AWP
+[19:07:00] AVA GINA *Morto*: krl nem vi
+[19:07:04] LA. krakN: K
+[19:07:07] LA. krakN killed Kroniik with AWP
+[19:07:08] U.S.G.N.: Ping/State 'playing'
+[19:07:09] AVA GINA Virou um Homem-Bomba!
+[19:07:09] AVA GINA: !kamikaze
+[19:07:10] naski killed AVA GINA with AWP
+[19:07:10] Quanto é 2 + 7 x 11 - 0 = ???
+[19:07:10] 10
+[19:07:11] 9
+[19:07:12] 8
+[19:07:13] 7
+[19:07:14] 6
+[19:07:15] 5
+[19:07:16] LA. krakN killed Kawan G.O.K.U with AWP
+[19:07:16] 4
+[19:07:17] 3
+[19:07:18] Kawan G.O.K.U Resetou o Score!
+[19:07:18] Kawan G.O.K.U *Morto*: !rs
+[19:07:18] 2
+[19:07:19] 1
+[19:07:19] 0
+[19:07:19] ocarabugado killed by O Tempo Acabou
+[19:07:19] O Resultado era 99
+[19:07:22] AVA GINA: 99
+[19:07:25] naski killed Kawan G.O.K.U with AWP
+[19:07:26] PatinhoPirata: KKK
+[19:07:27] ocarabugado Seu Ping Esta 2975 Feche Todos os Programas Ou Sera Kikado!
+[19:07:28] Kawan G.O.K.U Resetou o Score!
+[19:07:28] Kawan G.O.K.U *Morto*: !rs
+[19:07:29] ocarabugado: fui tapeado
+[19:07:32] Kroniik killed naski with AWP
+[19:07:36] PatinhoPirata killed Kroniik with AWP
+[19:07:36] -------------------------COMANDOS--------------------------
+[19:07:36] #Knife on/off                    #atualizar                    #pw on/off
+[19:07:36] #rr                                  #kick <id>                   #ban <id>
+[19:07:36] #spec all                        #ct <id>                      #tr <id>
+[19:07:36] #spec <id>                     #fora <id>                   #fora all
+[19:07:36] #dentro <id>                   #dentro all                   #virar
+[19:07:36] #dano <dano>                #botct                         #bottr
+[19:07:36] #kill <id>                        #arma                         #reviver <id>
+[19:07:36] #cor                               #cor aleatório               #maxplayer <máximo de jogadores>
+[19:07:36] #arma <id da arma>      #sv_auto on/off             #invu on/off
+[19:07:36] #anti-hack on/off             #anti-lagger on/off        #minhoca on/off
+[19:07:36] #laser on
+[19:07:36] ----------------------------------------------------------------
+[19:07:43] Quanto é 3 - 4 x 6 + 0 = ???
+[19:07:44] 10
+[19:07:44] AVA GINA killed LA. krakN with AWP
+[19:07:45] 9
+[19:07:46] 8
+[19:07:47] 7
+[19:07:48] 6
+[19:07:48] LA. krakN *Morto*: ah espertinho
+[19:07:48] »ADM« Sagos: kkkkkkk vou ativar a minhoca de fogo
+[19:07:49] 5
+[19:07:50] 4
+[19:07:51] PatinhoPirata killed by RPG Launcher
+[19:07:51] 3
+[19:07:51] AVA GINA killed by RPG Launcher
+[19:07:51] Whiteout *Morto*: 6
+[19:07:52] 2
+[19:07:53] ocarabugado killed by Errou a Conta
+[19:07:53] O Resultado Não é 50 e Sim -6
+[19:07:53] ocarabugado *Morto*: 50
+[19:07:53] LA. krakN *Morto*: n ativa n
+[19:07:53] AVA GINA *Morto*: KKK
+[19:07:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:07:55] LA. krakN *Morto*: KKKKKKKKKKKKKK
+[19:07:56] PatinhoPirata *Morto*: OXI
+[19:07:56] »ADM« Sagos: #minhoca on
+[19:08:00] LA. krakN: #minhoca on
+[19:08:04] »ADM« Sagos: ela bugo
+[19:08:04] AVA GINA Virou um Homem-Bomba!
+[19:08:04] AVA GINA: !kamikaze
+[19:08:06] ocarabugado Virou um Homem-Bomba!
+[19:08:06] ocarabugado: !kamikaze
+[19:08:07] PatinhoPirata killed AVA GINA with AWP
+[19:08:07] AVA GINA killed PatinhoPirata with Explosão
+[19:08:07] AVA GINA killed LA. krakN with Explosão
+[19:08:09] U.S.G.N.: Ping/State 'playing'
+[19:08:09] ocarabugado killed by Kamikaze
+[19:08:09] LA. krakN *Morto*: krl
+[19:08:11] AVA GINA *Morto*: toma safada
+[19:08:14] AVA GINA *Morto*: krl
+[19:08:14] »ADM« Sagos: #minhoca off
+[19:08:14] LA. krakN *Morto*: KKKKKKKKKKKKKKKKKKKKKK
+[19:08:16] AVA GINA *Morto*: jogo da velha
+[19:08:20] PatinhoPirata *Morto*: CHUREI QUE ATIREI
+[19:08:23] ocarabugado *Morto*: que jogo depressivo
+[19:08:26] Whiteout *Morto*: kkkk vai come teu cu
+[19:08:28] ocarabugado *Morto*: so 2 conquista
+[19:08:32] Vencedor do Jogo-da-Velha: Kroniik
+[19:08:32] naski killed by Jogo-da-velha
+[19:08:35] AVA GINA Resetou o  Score Automaticamente!
+[19:08:42] LA. krakN killed Kawan G.O.K.U with AWP
+[19:08:42] -------------------------COMANDOS--------------------------
+[19:08:42] #Knife on/off                    #atualizar                    #pw on/off
+[19:08:42] #rr                                  #kick <id>                   #ban <id>
+[19:08:42] #spec all                        #ct <id>                      #tr <id>
+[19:08:42] #spec <id>                     #fora <id>                   #fora all
+[19:08:42] #dentro <id>                   #dentro all                   #virar
+[19:08:42] #dano <dano>                #botct                         #bottr
+[19:08:42] #kill <id>                        #arma                         #reviver <id>
+[19:08:42] #cor                               #cor aleatório               #maxplayer <máximo de jogadores>
+[19:08:42] #arma <id da arma>      #sv_auto on/off             #invu on/off
+[19:08:42] #anti-hack on/off             #anti-lagger on/off        #minhoca on/off
+[19:08:42] #laser on
+[19:08:42] ----------------------------------------------------------------
+[19:08:44] Kawan G.O.K.U Resetou o Score!
+[19:08:44] Kawan G.O.K.U *Morto*: !rs
+[19:08:48] ocarabugado killed Kroniik with AWP
+[19:08:49] LA. krakN killed AVA GINA with AWP
+[19:08:49] AVA GINA Resetou o  Score Automaticamente!
+[19:08:53] [Aviso] O Modo Apenas Knife Foi Ativado!
+[19:08:53] »ADM« Sagos: #knife on
+[19:08:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:08:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:08:54] Kroniik Seu Ping Esta 3061 Feche Todos os Programas Ou Sera Kikado!
+[19:08:54] ocarabugado died
+[19:08:54] Vencedor do Jogo-da-Velha: naski
+[19:09:03] AVA GINA Virou um Homem-Bomba!
+[19:09:03] AVA GINA: !kamikaze
+[19:09:06] Kroniik killed LA. krakN with Knife
+[19:09:06] AVA GINA killed by Kamikaze
+[19:09:06] AVA GINA killed naski with Explosão
+[19:09:09] AVA GINA *Morto*: KKK
+[19:09:10] [Aviso] O Modo Apenas Knife Foi Desativado!
+[19:09:10] »ADM« Sagos: #knife off
+[19:09:10] Kawan G.O.K.U Virou um Homem-Bomba!
+[19:09:10] Kawan G.O.K.U: !kamikaze
+[19:09:11] LA. krakN juntou-se a Terrorista Forças
+[19:09:12] Player conectou-se
+[19:09:14] naski *Morto*: ????????????????????????????????????????
+[19:09:14] Kawan G.O.K.U killed by Kamikaze
+[19:09:14] U.S.G.N.: Ping/State 'playing'
+[19:09:17] LA. krakN *Morto*: KKKKKKKKKK
+[19:09:18] AVA GINA *Morto*: KKKKKKKKKKKKKKK
+[19:09:18] LA. krakN *Morto*: morreu alone
+[19:09:20] Kawan G.O.K.U Resetou o Score!
+[19:09:20] Kawan G.O.K.U *Morto*: !rs
+[19:09:21] Kroniik killed PatinhoPirata with AWP
+[19:09:21] Kroniik killed ocarabugado with AWP
+[19:09:21] naski *Morto*: QUE ISSO
+[19:09:23] AVA GINA *Morto*: O CARA MORREU SOZINHO
+[19:09:23] Player juntou-se a Terrorista Forças
+[19:09:24] AVA GINA *Morto*: KKKKKKKKKKK
+[19:09:26] * Auto Teambalance *
+[19:09:26] Player juntou-se a Countra-Terrorista Forças
+[19:09:26] ocarabugado: leviosa
+[19:09:26] AVA GINA Seu Ping Esta 1530 Feche Todos os Programas Ou Sera Kikado!
+[19:09:33] AVA GINA killed PatinhoPirata with AWP
+[19:09:33] naski Virou um Homem-Bomba!
+[19:09:33] naski: !kamikaze
+[19:09:33] Kawan G.O.K.U killed LA. krakN with AWP
+[19:09:34] Kroniik killed by Explosão
+[19:09:34] AVA GINA killed by Explosão
+[19:09:34] ocarabugado killed by Explosão
+[19:09:34] Player killed by Explosão
+[19:09:34] Kawan G.O.K.U killed by Explosão
+[19:09:35] naski killed by Explosão
+[19:09:37] ocarabugado Seu Ping Esta 1589 Feche Todos os Programas Ou Sera Kikado!
+[19:09:37] PatinhoPirata Seu Ping Esta 1222 Feche Todos os Programas Ou Sera Kikado!
+[19:09:37] Whiteout Seu Ping Esta 1126 Feche Todos os Programas Ou Sera Kikado!
+[19:09:37] naski Seu Ping Esta 1414 Feche Todos os Programas Ou Sera Kikado!
+[19:09:38] ocarabugado Foi Kikado, Pois Seu Ping Esta 152
+[19:09:38] ocarabugado deixou o jogo (kikado: O Sistema Anti-Lagger do ServeR ControL Kikou Você Por Seu Ping Estar Maior do Que 600)
+[19:09:38] Kawan G.O.K.U *Morto*: ?
+[19:09:39] PatinhoPirata *Morto*: kkkkk
+[19:09:39] AVA GINA: KKKKKKKKK
+[19:09:40] LA. krakN: KASOEKAPOSKEOSEK
+[19:09:41] naski: k
+[19:09:42] »ADM« Sagos: foi mal '-'
+[19:09:45] »ADM« Sagos: apertei botão errado
+[19:09:45] Whiteout *Morto*: kkkkk
+[19:09:47] AVA GINA Virou um Homem-Bomba!
+[19:09:47] AVA GINA: !kamikaze
+[19:09:48] Kroniik killed PatinhoPirata with AWP
+[19:09:48] Kawan G.O.K.U killed naski with AWP
+[19:09:51] AVA GINA killed by Kamikaze
+[19:09:51] AVA GINA killed LA. krakN with Explosão
+[19:09:52] Whiteout *Morto*: q destruição
+[19:09:53] AVA GINA *Morto*: KKKKK
+[19:09:54] LA. krakN *Morto*: mlk legado
+[19:09:54] ocarabugado conectou-se
+[19:09:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:09:58] -------------------------COMANDOS--------------------------
+[19:09:58] #Knife on/off                    #atualizar                    #pw on/off
+[19:09:58] #rr                                  #kick <id>                   #ban <id>
+[19:09:58] #spec all                        #ct <id>                      #tr <id>
+[19:09:58] #spec <id>                     #fora <id>                   #fora all
+[19:09:58] #dentro <id>                   #dentro all                   #virar
+[19:09:58] #dano <dano>                #botct                         #bottr
+[19:09:58] #kill <id>                        #arma                         #reviver <id>
+[19:09:58] #cor                               #cor aleatório               #maxplayer <máximo de jogadores>
+[19:09:58] #arma <id da arma>      #sv_auto on/off             #invu on/off
+[19:09:58] #anti-hack on/off             #anti-lagger on/off        #minhoca on/off
+[19:09:58] #laser on
+[19:09:58] ----------------------------------------------------------------
+[19:10:00] AVA GINA Virou um Homem-Bomba!
+[19:10:00] AVA GINA: !kamikaze
+[19:10:00] LA. krakN killed AVA GINA with AWP
+[19:10:00] AVA GINA Resetou o  Score Automaticamente!
+[19:10:00] ocarabugado juntou-se a Terrorista Forças
+[19:10:03] ocarabugado *Morto*: fui kikado
+[19:10:03] LA. krakN killed Player with AWP
+[19:10:05] Kawan G.O.K.U Virou um Homem-Bomba!
+[19:10:05] Kawan G.O.K.U: !kamikaze
+[19:10:06] AVA GINA Resetou o Score!
+[19:10:06] AVA GINA *Morto*: !rs
+[19:10:07] LA. krakN Seu Ping Esta 1529 Feche Todos os Programas Ou Sera Kikado!
+[19:10:07] naski: ?
+[19:10:08] Whiteout Seu Ping Esta 611 Feche Todos os Programas Ou Sera Kikado!
+[19:10:08] naski Seu Ping Esta 901 Feche Todos os Programas Ou Sera Kikado!
+[19:10:09] Kawan G.O.K.U killed by Kamikaze
+[19:10:09] ocarabugado Seu Ping Esta 1580 Feche Todos os Programas Ou Sera Kikado!
+[19:10:09] Whiteout Foi Kikado, Pois Seu Ping Esta 611
+[19:10:09] Whiteout deixou o jogo (kikado: O Sistema Anti-Lagger do ServeR ControL Kikou Você Por Seu Ping Estar Maior do Que 600)
+[19:10:10] O Sistema Anti-Lagger Esta Desativado!
+[19:10:10] »ADM« Sagos: #anti-lagger off
+[19:10:10] ocarabugado *Morto*: com ping lc
+[19:10:12] AVA GINA *Morto*: MDS QUE SRV LAGADO
+[19:10:13] Kroniik killed PatinhoPirata with AWP
+[19:10:13] naski: KKKKKKKKKKKK
+[19:10:15] U.S.G.N.: Ping/State 'playing'
+[19:10:17] Kroniik killed LA. krakN with AWP
+[19:10:18] ocarabugado *Morto*: dlc
+[19:10:20] LA. krakN *Morto*: xd
+[19:10:20] LA. krakN deixou o jogo
+[19:10:21] -------------------------COMANDOS--------------------------
+[19:10:21] #Knife on/off                    #atualizar                    #pw on/off
+[19:10:21] #rr                                  #kick <id>                   #ban <id>
+[19:10:21] #spec all                        #ct <id>                      #tr <id>
+[19:10:21] #spec <id>                     #fora <id>                   #fora all
+[19:10:21] #dentro <id>                   #dentro all                   #virar
+[19:10:21] #dano <dano>                #botct                         #bottr
+[19:10:21] #kill <id>                        #arma                         #reviver <id>
+[19:10:21] #cor                               #cor aleatório               #maxplayer <máximo de jogadores>
+[19:10:21] #arma <id da arma>      #sv_auto on/off             #invu on/off
+[19:10:21] #anti-hack on/off             #anti-lagger on/off        #minhoca on/off
+[19:10:21] #laser on
+[19:10:21] ----------------------------------------------------------------
+[19:10:22] ikiblack999 conectou-se
+[19:10:29] [Aviso] Balas Infinitas Ativado!
+[19:10:32] ikiblack999 juntou-se a Terrorista Forças
+[19:10:44] Vencedor do Jogo-da-Velha: naski
+[19:10:44] Kroniik killed by Jogo-da-velha
+[19:10:46] AVA GINA *Morto*: KKKK
+[19:10:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:10:54] Script By SagosWins
+[19:10:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:11:00] AVA GINA killed PatinhoPirata with M4A1
+[19:11:01] naski killed Kawan G.O.K.U with P228
+[19:11:02] AVA GINA: so bora
+[19:11:04] PatinhoPirata *Morto*: oxi
+[19:11:04] naski killed Player with P228
+[19:11:07] naski killed Kroniik with P228
+[19:11:10] AVA GINA killed naski with M4A1
+[19:11:13] Player deixou o jogo
+[19:11:14] Kawan G.O.K.U *Morto*: assim e ruim vei or 
+[19:11:15] Quem é o Criador Deste Script???
+[19:11:15] U.S.G.N.: Ping/State 'playing'
+[19:11:15] 10
+[19:11:16] 9
+[19:11:17] 8
+[19:11:18] AVA GINA: eu
+[19:11:18] 7
+[19:11:19] naski *Morto*: sla
+[19:11:19] ocarabugado killed by Errou a Conta
+[19:11:19] O Resultado Não é suamae e Sim sagoswins
+[19:11:19] ocarabugado *Morto*: suamae
+[19:11:22] Kawan G.O.K.U *Morto*: presta n sago
+[19:11:24] ocarabugado *Morto*: ata
+[19:11:28] LuFiSaFer conectou-se
+[19:11:30] AVA GINA killed ikiblack999 with M4A1
+[19:11:31] »ADM« Sagos: '-'
+[19:11:32] LuFiSaFer juntou-se a Countra-Terrorista Forças
+[19:11:35] Kawan G.O.K.U: tira essas armas
+[19:11:40] »ADM« Sagos: tirei
+[19:11:44] AVA GINA: ;-;
+[19:11:45] Kawan G.O.K.U killed naski with AWP
+[19:11:48] PatinhoPirata killed Kawan G.O.K.U with AWP
+[19:11:49] AVA GINA killed ikiblack999 with AWP
+[19:11:51] -------------------------COMANDOS--------------------------
+[19:11:51] #Knife on/off                    #atualizar                    #pw on/off
+[19:11:51] #rr                                  #kick <id>                   #ban <id>
+[19:11:51] #spec all                        #ct <id>                      #tr <id>
+[19:11:51] #spec <id>                     #fora <id>                   #fora all
+[19:11:51] #dentro <id>                   #dentro all                   #virar
+[19:11:51] #dano <dano>                #botct                         #bottr
+[19:11:51] #kill <id>                        #arma                         #reviver <id>
+[19:11:51] #cor                               #cor aleatório               #maxplayer <máximo de jogadores>
+[19:11:51] #arma <id da arma>      #sv_auto on/off             #invu on/off
+[19:11:51] #anti-hack on/off             #anti-lagger on/off        #minhoca on/off
+[19:11:51] #laser on
+[19:11:51] ----------------------------------------------------------------
+[19:11:51] Kawan G.O.K.U *Morto*: ala
+[19:11:53] Kawan G.O.K.U *Morto*: ei sagos
+[19:11:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:12:00] AVA GINA killed by RPG Launcher
+[19:12:01] AVA GINA *Morto*: aff
+[19:12:02] -------------------------COMANDOS--------------------------
+[19:12:02] #Knife on/off                    #atualizar                    #pw on/off
+[19:12:02] #rr                                  #kick <id>                   #ban <id>
+[19:12:02] #spec all                        #ct <id>                      #tr <id>
+[19:12:02] #spec <id>                     #fora <id>                   #fora all
+[19:12:02] #dentro <id>                   #dentro all                   #virar
+[19:12:02] #dano <dano>                #botct                         #bottr
+[19:12:02] #kill <id>                        #arma                         #reviver <id>
+[19:12:02] #cor                               #cor aleatório               #maxplayer <máximo de jogadores>
+[19:12:02] #arma <id da arma>      #sv_auto on/off             #invu on/off
+[19:12:02] #anti-hack on/off             #anti-lagger on/off        #minhoca on/off
+[19:12:02] #laser on
+[19:12:02] ----------------------------------------------------------------
+[19:12:03] Kawan G.O.K.U *Morto*: so falta o clan ne k
+[19:12:04] naski deixou o jogo
+[19:12:12] PatinhoPirata killed Kroniik with AWP
+[19:12:13] AVA GINA *Morto*: achei que ia sair o laser
+[19:12:15] Player conectou-se
+[19:12:15] U.S.G.N.: Ping/State 'playing'
+[19:12:18] AVA GINA *Morto*: ai sai um tiro
+[19:12:19] Player 2 conectou-se
+[19:12:20] AVA GINA *Morto*: de bazuka
+[19:12:24] -------------------------COMANDOS--------------------------
+[19:12:24] #Knife on/off                    #atualizar                    #pw on/off
+[19:12:24] #rr                                  #kick <id>                   #ban <id>
+[19:12:24] #spec all                        #ct <id>                      #tr <id>
+[19:12:24] #spec <id>                     #fora <id>                   #fora all
+[19:12:24] #dentro <id>                   #dentro all                   #virar
+[19:12:24] #dano <dano>                #botct                         #bottr
+[19:12:24] #kill <id>                        #arma                         #reviver <id>
+[19:12:24] #cor                               #cor aleatório               #maxplayer <máximo de jogadores>
+[19:12:24] #arma <id da arma>      #sv_auto on/off             #invu on/off
+[19:12:24] #anti-hack on/off             #anti-lagger on/off        #minhoca on/off
+[19:12:24] #laser on
+[19:12:24] ----------------------------------------------------------------
+[19:12:26] Kroniik juntou-se aos espectadores
+[19:12:31] PatinhoPirata killed LuFiSaFer with AWP
+[19:12:32] AVA GINA *Morto*: vai logo vei
+[19:12:34] Kroniik deixou o jogo
+[19:12:34] ocarabugado: a
+[19:12:35] AVA GINA deixou o jogo
+[19:12:37] »ADM« Sagos: #minhoca on
+[19:12:45] Kawan G.O.K.U deixou o jogo
+[19:12:46] »ADM« Sagos: #minhoca off
+[19:12:49] »ADM« Sagos: af ta mt bugado
+[19:12:49] AVA GINA conectou-se
+[19:12:52] AVA GINA juntou-se a Countra-Terrorista Forças
+[19:12:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:12:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:12:55] ocarabugado: lagada
+[19:12:56] Kawan G.O.K.U conectou-se
+[19:12:58] Kawan G.O.K.U juntou-se a Countra-Terrorista Forças
+[19:12:59] ocarabugado deixou o jogo
+[19:13:05] AVA GINA: srv tinha dado uma explodida
+[19:13:09] Kawan G.O.K.U killed PatinhoPirata with AWP
+[19:13:12] Player 2 juntou-se a Terrorista Forças
+[19:13:16] U.S.G.N.: Ping/State 'playing'
+[19:13:17] Omega conectou-se
+[19:13:17] Player deixou o jogo
+[19:13:17] AVA GINA: ;-;
+[19:13:21] Omega juntou-se a Countra-Terrorista Forças
+[19:13:24] Kawan G.O.K.U killed ikiblack999 with AWP
+[19:13:25] Quanto é 3 - 6 x 4 + 5 = ???
+[19:13:25] 10
+[19:13:26] LuFiSaFer deixou o jogo
+[19:13:26] 9
+[19:13:27] PatinhoPirata deixou o jogo
+[19:13:27] 8
+[19:13:28] M a t t W e s t conectou-se
+[19:13:28] 7
+[19:13:29] AVA GINA: 50
+[19:13:30] ikiblack999 deixou o jogo
+[19:13:32] Kawan G.O.K.U: 40
+[19:13:36] Kroniik conectou-se
+[19:13:39] M a t t W e s t juntou-se a Terrorista Forças
+[19:13:40] Quanto é 0 - 11 + 7 x 2 = ???
+[19:13:40] Kroniik juntou-se a Terrorista Forças
+[19:13:41] 10
+[19:13:42] 9
+[19:13:43] 8
+[19:13:43] AVA GINA killed by Errou a Conta
+[19:13:43] O Resultado Não é 50 e Sim 3
+[19:13:43] AVA GINA *Morto*: 50
+[19:13:45] Kawan G.O.K.U killed Player 2 with AWP
+[19:13:45] Kawan G.O.K.U killed M a t t W e s t with AWP
+[19:13:45] piny conectou-se
+[19:13:46] AVA GINA *Morto*: ai
+[19:13:49] Darwin132 conectou-se
+[19:13:50] Omega killed Kroniik with AWP
+[19:13:52] Kroniik *Morto*: ???
+[19:13:53] piny juntou-se a Terrorista Forças
+[19:13:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:13:57] Darwin132 juntou-se a Countra-Terrorista Forças
+[19:14:00] »ADM« Sagos: fiz uma coisa aki vms ver se o lag para
+[19:14:04] Omega killed M a t t W e s t with AWP
+[19:14:05] AVA GINA: blz
+[19:14:07] Omega killed piny with AWP
+[19:14:07] Omega killed Player 2 with AWP
+[19:14:09] M a t t W e s t deixou o jogo
+[19:14:12] Kroniik killed Darwin132 with AWP
+[19:14:13] Kawan G.O.K.U killed Kroniik with AWP
+[19:14:14] AVA GINA: aff
+[19:14:15] Omega deixou o jogo
+[19:14:17] U.S.G.N.: Ping/State 'playing'
+[19:14:17] MC90PL conectou-se
+[19:14:17] Sagos juntou-se a Terrorista Forças
+[19:14:18] AVA GINA: eu so quero jogar jogo da velha
+[19:14:20] Kawan G.O.K.U: como bota cs 2d steam?
+[19:14:26] AVA GINA: tenha steam
+[19:14:29] MC90PL juntou-se a Terrorista Forças
+[19:14:29] MC90PL juntou-se a Countra-Terrorista Forças
+[19:14:29] Kawan G.O.K.U: tengo
+[19:14:30] Kroniik killed Darwin132 with AWP
+[19:14:32] Omega conectou-se
+[19:14:33] Omega juntou-se a Countra-Terrorista Forças
+[19:14:36] Kawan G.O.K.U: da veia
+[19:14:37] Kroniik killed MC90PL with AWP
+[19:14:44] AVA GINA: entao tenha uma usgn
+[19:14:44] Kroniik: kkkk
+[19:14:49] Davidz conectou-se
+[19:14:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:14:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:14:56] Vencedor do Jogo-da-Velha: Kawan G.O.K.U
+[19:14:56] AVA GINA killed by Jogo-da-velha
+[19:14:57] Sagos killed Kawan G.O.K.U with AWP
+[19:14:58] Davidz juntou-se a Terrorista Forças
+[19:15:03] [Aviso] Balas Infinitas Desativado!
+[19:15:04] Davidz: dfrgthytgrf
+[19:15:08] G1n conectou-se
+[19:15:13] Player 2: a
+[19:15:13] AVA GINA Virou um Homem-Bomba!
+[19:15:13] AVA GINA: !kamikaze
+[19:15:15] Player 2: a
+[19:15:16] Omega killed Kroniik with AWP
+[19:15:16] AVA GINA killed by Kamikaze
+[19:15:16] AVA GINA killed Player 2 with Explosão
+[19:15:16] AVA GINA killed Davidz with Explosão
+[19:15:16] AVA GINA deixou o jogo
+[19:15:17] U.S.G.N.: Ping/State 'playing'
+[19:15:20] Omega killed piny with AWP
+[19:15:24] Sagos killed Kawan G.O.K.U with Knife
+[19:15:25] Quanto é 11 x 4 + 5 - 7 = ???
+[19:15:25] 10
+[19:15:26] 9
+[19:15:27] 8
+[19:15:29] 7
+[19:15:29] 6
+[19:15:30] 5
+[19:15:31] Correto o Resultado é 42
+[19:15:31] »ADM« Sagos: 42
+[19:15:35] G1n juntou-se a Countra-Terrorista Forças
+[19:15:35] AVA GINA conectou-se
+[19:15:35] Sagos killed Darwin132 with RPG Launcher
+[19:15:35] Sagos killed Omega with RPG Launcher
+[19:15:38] Sagos killed MC90PL with RPG Launcher
+[19:15:39] AVA GINA juntou-se a Countra-Terrorista Forças
+[19:15:43] G1n: é igual cs kkk
+[19:15:50] Sagos killed MC90PL with AWP
+[19:15:51] Davidz deixou o jogo
+[19:15:52] Player 2: a
+[19:15:53] Sagos killed Kawan G.O.K.U with Knife
+[19:15:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:15:55] Sagos killed Darwin132 with Knife
+[19:15:57] Omega killed piny with AWP
+[19:15:57] Kroniik died
+[19:15:57] Kroniik juntou-se aos espectadores
+[19:15:59] Darwin132 deixou o jogo
+[19:15:59] piny deixou o jogo
+[19:16:01] Kroniik deixou o jogo
+[19:16:01] AVA GINA: MDS
+[19:16:02] GhosT conectou-se
+[19:16:04] Sagos killed AVA GINA with Knife
+[19:16:08] MC90PL deixou o jogo
+[19:16:09] p conectou-se
+[19:16:10] Omega killed Sagos with AWP
+[19:16:10] k¦Omega¦100¦100
+[19:16:10] Kawan G.O.K.U deixou o jogo
+[19:16:12] p juntou-se a Terrorista Forças
+[19:16:17] GhosT juntou-se a Countra-Terrorista Forças
+[19:16:18] U.S.G.N.: Ping/State 'playing'
+[19:16:18] Player 2: n da pra mim usa as 
+[19:16:19] Omega killed Player 2 with AWP
+[19:16:25] Player 2: arma
+[19:16:28] -------------------------COMANDOS--------------------------
+[19:16:28] #Knife on/off                    #atualizar                    #pw on/off
+[19:16:28] #rr                                  #kick <id>                   #ban <id>
+[19:16:28] #spec all                        #ct <id>                      #tr <id>
+[19:16:28] #spec <id>                     #fora <id>                   #fora all
+[19:16:28] #dentro <id>                   #dentro all                   #virar
+[19:16:28] #dano <dano>                #botct                         #bottr
+[19:16:28] #kill <id>                        #arma                         #reviver <id>
+[19:16:28] #cor                               #cor aleatório               #maxplayer <máximo de jogadores>
+[19:16:28] #arma <id da arma>      #sv_auto on/off             #invu on/off
+[19:16:28] #anti-hack on/off             #anti-lagger on/off        #minhoca on/off
+[19:16:28] #laser on
+[19:16:28] ----------------------------------------------------------------
+[19:16:30] AVA GINA: e pq voce e feio
+[19:16:33] Omega killed p with AWP
+[19:16:36] GhosT killed Player 2 with AWP
+[19:16:41] Sagos killed Omega with AWP
+[19:16:44] G1n killed Sagos with AWP
+[19:16:44] k¦G1n¦100¦100
+[19:16:46] AVA GINA: toma
+[19:16:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:16:54] Script By SagosWins
+[19:16:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:16:55] »ADM« Sagos: vou te mata gina
+[19:16:56] G1n killed p with AWP
+[19:16:56] Player 2: como uso arma
+[19:16:58] Omega killed Sagos with AWP
+[19:16:58] k¦Omega¦100¦100
+[19:16:58] AVA GINA: ?
+[19:17:00] p Resetou o Score!
+[19:17:00] p *Morto*: !rs
+[19:17:02] Omega killed Player 2 with Knife
+[19:17:06] AVA GINA: pq
+[19:17:06] Player 2 *Morto*: comprei mas n consigo
+[19:17:14] p: aqui nao se compra
+[19:17:14] Omega killed Sagos with AWP
+[19:17:14] k¦Omega¦100¦100
+[19:17:16] p: so pega  no chao
+[19:17:17] Player 2: comprei mas n consigo usa
+[19:17:17] Omega killed p with AWP
+[19:17:18] U.S.G.N.: Ping/State 'playing'
+[19:17:21] AVA GINA killed Player 2 with AWP
+[19:17:23] »ADM« Sagos: a arma ta ali no chão man
+[19:17:25] AVA GINA: nao e pra compra
+[19:17:25] G1n: n é mapa de comprar mano
+[19:17:26] p: só awp esse map..
+[19:17:26] »ADM« Sagos: só pode awp nesse mapa
+[19:17:28] AVA GINA: genio
+[19:17:32] Omega killed Sagos with AWP
+[19:17:32] k¦Omega¦100¦100
+[19:17:33] AVA GINA Virou um Homem-Bomba!
+[19:17:33] AVA GINA: !kamikaze
+[19:17:35] Player 2: a ata
+[19:17:36] AVA GINA killed by Kamikaze
+[19:17:36] AVA GINA killed p with Explosão
+[19:17:37] Omega killed Player 2 with AWP
+[19:17:39] AVA GINA *Morto*: :3
+[19:17:41] Player 2 *Morto*: n sabia obg
+[19:17:43] p: hacker....!!
+[19:17:44] AVA GINA: denada
+[19:17:44] p: kick
+[19:17:46] Omega killed p with AWP
+[19:17:48] p Resetou o Score!
+[19:17:49] Omega killed Player 2 with AWP
+[19:17:52] AVA GINA Virou um Homem-Bomba!
+[19:17:52] AVA GINA: !kamikaze
+[19:17:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:17:55] AVA GINA killed by Kamikaze
+[19:18:01] G1n killed Sagos with Knife
+[19:18:01] k¦G1n¦100¦100
+[19:18:03] AVA GINA *Morto*: mano vo so usar kamikaze
+[19:18:09] Omega killed p with AWP
+[19:18:13] Omega killed Sagos with AWP
+[19:18:13] k¦Omega¦100¦100
+[19:18:14] AVA GINA Virou um Homem-Bomba!
+[19:18:14] AVA GINA: !kamikaze
+[19:18:16] Omega killed Player 2 with AWP
+[19:18:18] AVA GINA killed by Kamikaze
+[19:18:19] U.S.G.N.: Ping/State 'playing'
+[19:18:24] AVA GINA Virou um Homem-Bomba!
+[19:18:24] AVA GINA: !kamikaze
+[19:18:25] p killed AVA GINA with AWP
+[19:18:31] Omega killed Sagos with AWP
+[19:18:31] k¦Omega¦100¦100
+[19:18:39] Blau conectou-se
+[19:18:39] »ADM« Sagos: credo to ruim
+[19:18:43] AVA GINA *Morto*: vdd
+[19:18:44] Blau juntou-se a Terrorista Forças
+[19:18:47] AVA GINA *Morto*: :3
+[19:18:48] Sagos Ativou Explosões Aleatórias!
+[19:18:48] G1n: omega ta de cheat kk
+[19:18:48] Omega killed by Explosão
+[19:18:49] Sagos Desativou Explosões Aleatórias!
+[19:18:50] G1n: nesse jogo
+[19:18:51] AVA GINA *Morto*: EITA POHA
+[19:18:52] G1n: LOL
+[19:18:52] »ADM« Sagos: sorry
+[19:18:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:18:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:18:55] GhosT killed Player 2 with AWP
+[19:19:10] p killed G1n with AWP
+[19:19:12] Omega *Morto*: esses nb ja comecaram a chamar de hack..
+[19:19:19] U.S.G.N.: Ping/State 'playing'
+[19:19:20] pL. r4dc~* Cloud9 conectou-se
+[19:19:23] AVA GINA *Morto*: ne
+[19:19:25] Kawan G.O.K.U conectou-se
+[19:19:27] Kawan G.O.K.U juntou-se a Countra-Terrorista Forças
+[19:19:28] pL. r4dc~* Cloud9 *Morto*: mds
+[19:19:29] GhosT killed by Criatura
+[19:19:29] Player 2 *Morto*: jogo dahora mano
+[19:19:31] AVA GINA *Morto*: KKKKKKKKKKKK
+[19:19:32] pL. r4dc~* Cloud9 *Morto*: cade a awp de verdade
+[19:19:33] »ADM« Sagos: kkkkkkkkk
+[19:19:33] p: qq porra é essa
+[19:19:39] p: q awp nada hvaer
+[19:19:41] AVA GINA Virou um Homem-Bomba!
+[19:19:41] AVA GINA: !kamikaze
+[19:19:42] Player 2: n tenho dim dim pra cs
+[19:19:44] AVA GINA killed by Kamikaze
+[19:19:49] p killed Kawan G.O.K.U with AWP
+[19:19:51] Sagos killed G1n with AWP
+[19:19:53] Kawan G.O.K.U Resetou o Score!
+[19:19:54] G1n deixou o jogo
+[19:19:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:19:54] Omega: lag
+[19:19:56] Omega killed Sagos with AWP
+[19:19:56] k¦Omega¦100¦100
+[19:19:56] Omega killed Blau with AWP
+[19:19:59] GhosT: não entendi
+[19:20:00] Player conectou-se
+[19:20:00] Omega killed Player 2 with AWP
+[19:20:01] AVA GINA *Morto*: mano pq ta lagando tanto
+[19:20:02] GhosT: jk
+[19:20:03] Point conectou-se
+[19:20:04] pL. r4dc~* Cloud9 deixou o jogo
+[19:20:05] p killed GhosT with AWP
+[19:20:06] Kawan G.O.K.U deixou o jogo
+[19:20:07] Point juntou-se a Countra-Terrorista Forças
+[19:20:11] Omega killed p with AWP
+[19:20:14] Player deixou o jogo
+[19:20:16] Sagos died
+[19:20:16] Sagos juntou-se aos espectadores
+[19:20:20] U.S.G.N.: Ping/State 'playing'
+[19:20:22] AVA GINA Virou um Homem-Bomba!
+[19:20:22] AVA GINA: !kamikaze
+[19:20:23] Player 2: tem como corre?
+[19:20:25] p killed AVA GINA with AWP
+[19:20:25] Omega killed Blau with AWP
+[19:20:29] Omega killed Player 2 with AWP
+[19:20:29] AVA GINA *Morto*: pq nao explode
+[19:20:36] p killed Point with AWP
+[19:20:36] AVA GINA *Morto*: pqp
+[19:20:40] Point deixou o jogo
+[19:20:42] Omega killed p with AWP
+[19:20:48] »ADM« Sagos: se vc morrer antes de explodir
+[19:20:52] »ADM« Sagos: vc n explode
+[19:20:54] Omega killed p with AWP
+[19:20:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:20:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:20:57] AVA GINA: todo sentido
+[19:20:57] Omega killed Player 2 with AWP
+[19:20:58] AVA GINA Virou um Homem-Bomba!
+[19:20:58] AVA GINA: !kamikaze
+[19:21:00] Omega killed Blau with AWP
+[19:21:02] AVA GINA: fdp
+[19:21:02] AVA GINA killed by Kamikaze
+[19:21:04] »ADM« Sagos: kkkkkkkk
+[19:21:10] AVA GINA Virou um Homem-Bomba!
+[19:21:10] AVA GINA: !kamikaze
+[19:21:12] Omega killed Player 2 with AWP
+[19:21:13] p killed AVA GINA with AWP
+[19:21:18] Omega killed p with AWP
+[19:21:20] AVA GINA Resetou o Score!
+[19:21:20] AVA GINA *Morto*: !rs
+[19:21:20] U.S.G.N.: Ping/State 'playing'
+[19:21:29] AVA GINA Virou um Homem-Bomba!
+[19:21:29] AVA GINA: !kamikaze
+[19:21:32] AVA GINA killed by Kamikaze
+[19:21:32] AVA GINA killed Player 2 with Explosão
+[19:21:38] GhosT: ????????????????????
+[19:21:43] p killed GhosT with AWP
+[19:21:46] GhosT *Morto*: qqqqqqqqqq
+[19:21:49] AVA GINA *Morto*: para de coloca esses alien de vagina ae
+[19:21:51] Omega killed p with AWP
+[19:21:53] Omega killed by Criatura
+[19:21:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:21:56] AVA GINA *Morto*: KKK
+[19:21:56] Tapioka*#&% conectou-se
+[19:21:58] Tapioka*#&% juntou-se a Terrorista Forças
+[19:22:00] mckg conectou-se
+[19:22:00] AVA GINA Virou um Homem-Bomba!
+[19:22:00] AVA GINA: !kamikaze
+[19:22:03] AVA GINA killed by Kamikaze
+[19:22:03] AVA GINA Resetou o  Score Automaticamente!
+[19:22:05] mckg juntou-se a Terrorista Forças
+[19:22:06] SK TacO conectou-se
+[19:22:08] Tapioka*#&% killed GhosT with AWP
+[19:22:09] SK TacO juntou-se a Countra-Terrorista Forças
+[19:22:10] Omega killed Tapioka*#&% with AWP
+[19:22:13] Omega killed p with AWP
+[19:22:17] Tapioka*#&% *Morto*: rank
+[19:22:17] r¦Tapioka*#&%¦17 of 30¦1,1,1,1.00,19 s
+[19:22:19] Tapioka*#&% deixou o jogo
+[19:22:21] p *Morto*: rank
+[19:22:21] r¦p¦25 of 30¦8,8,12,0.66,6 m 6 s
+[19:22:21] U.S.G.N.: Ping/State 'playing'
+[19:22:24] Omega killed Player 2 with Knife
+[19:22:25] »ADM« Sagos: proximo roud vou lota o chão de armas
+[19:22:27] »ADM« Sagos: round*
+[19:22:37] SK TacO killed Player 2 with AWP
+[19:22:47] Omega killed p with SG552
+[19:22:48] Omega killed mckg with SG552
+[19:22:51] mckg *Morto*: fffffffffffffffff
+[19:22:51] GhosT: q merda 
+[19:22:51] AVA GINA: aeee
+[19:22:52] GhosT: kkkkkkkkkkkkkkk
+[19:22:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:22:54] Script By SagosWins
+[19:22:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:23:00] mckg killed AVA GINA with AWP
+[19:23:00] AVA GINA Resetou o  Score Automaticamente!
+[19:23:01] SK TacO killed mckg with AWP
+[19:23:03] mckg *Morto*: f
+[19:23:04] mckg deixou o jogo
+[19:23:04] p killed Omega with AWP
+[19:23:07] GhosT killed Player 2 with AWP
+[19:23:09] Omega deixou o jogo
+[19:23:16] AVA GINA *Morto*: mano so nao to matando normalmente
+[19:23:16] SK TacO killed p with AWP
+[19:23:19] AVA GINA *Morto*: pq ta um cu esse lag
+[19:23:21] U.S.G.N.: Ping/State 'playing'
+[19:23:22] »ADM« Sagos: #fora all
+[19:23:27] AVA GINA: aff
+[19:23:29] GhosT: qqqqqq
+[19:23:33] »ADM« Sagos: #dentro all
+[19:23:33] Player conectou-se
+[19:23:33] SK TacO: para ai
+[19:23:40] Player juntou-se a Terrorista Forças
+[19:23:44] GhosT killed p with AWP
+[19:23:47] p deixou o jogo
+[19:23:47] GhosT: Xd
+[19:23:50] Quanto é 1 x 5 - 1 + 7 = ???
+[19:23:50] 10
+[19:23:51] 9
+[19:23:52] SK TacO: tira essas armas
+[19:23:53] 8
+[19:23:54] 7
+[19:23:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:23:55] 6
+[19:23:56] 5
+[19:23:57] 4
+[19:23:57] AVA GINA killed Player with Snowball
+[19:23:58] 3
+[19:23:58] »ADM« Sagos: 11
+[19:23:59] 2
+[19:24:00] 1
+[19:24:00] 0
+[19:24:00] Player 2 killed by O Tempo Acabou
+[19:24:00] O Resultado era 11
+[19:24:02] AVA GINA: KKKKKK
+[19:24:11] Quanto é 0 + 3 x 11 - 10 = ???
+[19:24:12] 10
+[19:24:13] 9
+[19:24:14] 8
+[19:24:14] »ADM« Sagos: 23
+[19:24:15] 7
+[19:24:15] GhosT killed Player 2 with AWP
+[19:24:16] 6
+[19:24:17] 5
+[19:24:18] 4
+[19:24:18] AVA GINA: 23
+[19:24:19] 3
+[19:24:20] 2
+[19:24:21] 1
+[19:24:21] 0
+[19:24:21] Player killed by O Tempo Acabou
+[19:24:21] O Resultado era 23
+[19:24:22] U.S.G.N.: Ping/State 'playing'
+[19:24:24] SK TacO died
+[19:24:24] SK TacO juntou-se a Terrorista Forças
+[19:24:25] AVA GINA: fala 23 seu infeliz
+[19:24:26] GhosT: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[19:24:38] SK TacO killed GhosT with AWP
+[19:24:39] AVA GINA killed by RPG Launcher
+[19:24:41] AVA GINA *Morto*: ui
+[19:24:42] »ADM« Sagos: nice kk
+[19:24:43] AVA GINA Resetou o Score!
+[19:24:43] AVA GINA *Morto*: !rs
+[19:24:43] Sagos juntou-se a Terrorista Forças
+[19:24:44] * Auto Teambalance *
+[19:24:44] Player juntou-se a Countra-Terrorista Forças
+[19:24:46] »ADM« Sagos: agr eu te mato
+[19:24:48] AVA GINA Virou um Homem-Bomba!
+[19:24:48] AVA GINA: !kamikaze
+[19:24:51] AVA GINA killed SK TacO with Knife
+[19:24:51] AVA GINA killed by Kamikaze
+[19:24:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:24:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:24:57] Player 3 conectou-se
+[19:24:59] Sagos killed Player with AWP
+[19:25:05] Player deixou o jogo
+[19:25:11] Sagos killed GhosT with AWP
+[19:25:11] Player 3 juntou-se a Terrorista Forças
+[19:25:16] * Auto Teambalance *
+[19:25:16] Player 3 juntou-se a Countra-Terrorista Forças
+[19:25:17] SK TacO died
+[19:25:17] SK TacO juntou-se a Countra-Terrorista Forças
+[19:25:19] SK TacO Resetou o Score!
+[19:25:20] »ADM« Sagos: #rr
+[19:25:20] * Auto Teambalance *
+[19:25:20] Player 3 juntou-se a Terrorista Forças
+[19:25:22] U.S.G.N.: Ping/State 'playing'
+[19:25:27] AVA GINA killed Player 3 with AWP
+[19:25:30] Quanto é 0 x 0 + 2 - 10 = ???
+[19:25:31] 10
+[19:25:32] 9
+[19:25:33] 8
+[19:25:34] 7
+[19:25:34] AVA GINA killed by Errou a Conta
+[19:25:34] O Resultado Não é 8 e Sim -8
+[19:25:36] Kawan G.O.K.U conectou-se
+[19:25:39] »ADM« Sagos: kkkkkkkkkkkkkk
+[19:25:39] Kawan G.O.K.U juntou-se a Countra-Terrorista Forças
+[19:25:40] »ADM« Sagos: genio
+[19:25:48] GhosT killed Player 2 with Knife
+[19:25:51] Kawan G.O.K.U deixou o jogo
+[19:25:53] Sagos killed SK TacO with Knife
+[19:25:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:25:55] Sagos killed GhosT with Knife
+[19:25:58] r¦SK TacO¦25 of 31¦0,4,5,0.80,5 m 27 s
+[19:26:00] GhosT: RANK
+[19:26:00] r¦GhosT¦29 of 31¦15,15,22,0.68,21 m 21 s
+[19:26:03] AVA GINA: sagos tu ta com chrome aberto?
+[19:26:08] »ADM« Sagos: meu pai sim
+[19:26:13] Quanto é 0 - 10 + 0 x 11 = ???
+[19:26:14] 10
+[19:26:15] 9
+[19:26:15] SK TacO killed Player 3 with AWP
+[19:26:16] 8
+[19:26:17] 7
+[19:26:18] 6
+[19:26:19] 5
+[19:26:19] Player 2: 0
+[19:26:19] SK TacO killed Player 2 with AWP
+[19:26:20] 4
+[19:26:20] AVA GINA: mds
+[19:26:21] 3
+[19:26:22] 2
+[19:26:23] Correto o Resultado é -10
+[19:26:23] »ADM« Sagos: -10
+[19:26:23] U.S.G.N.: Ping/State 'playing'
+[19:26:26] AVA GINA: ???
+[19:26:29] Sagos killed SK TacO with Knife
+[19:26:30] AVA GINA killed Sagos with AWP
+[19:26:30] k¦AVA GINA¦100¦100
+[19:26:32] SK TacO *Morto*: mds
+[19:26:32] »ADM« Sagos: mds
+[19:26:33] AVA GINA: blz ne
+[19:26:33] GhosT: rsrrs
+[19:26:35] AVA GINA: o cara fala dps
+[19:26:42] SK TacO: coloca o mapa normal
+[19:26:49] GhosT killed Player 2 with Knife
+[19:26:50] Quanto é 3 + 0 x 1 - 0 = ???
+[19:26:51] 10
+[19:26:52] 9
+[19:26:53] 8
+[19:26:54] GhosT: qqqqqqq
+[19:26:54] 7
+[19:26:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:26:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:26:55] »ADM« Sagos: 3
+[19:26:55] 6
+[19:26:55] Correto o Resultado é 3
+[19:26:55] AVA GINA: 3
+[19:26:56] Player 2 deixou o jogo
+[19:26:58] Player 3 killed GhosT with Knife
+[19:26:59] AVA GINA killed Player 3 with RPG Launcher
+[19:27:00] GhosT deixou o jogo
+[19:27:02] Sagos killed AVA GINA with AWP
+[19:27:07] Sagos killed SK TacO with RPG Launcher
+[19:27:12] AVA GINA: 300 de ping
+[19:27:19] SK TacO killed Player 3 with AWP
+[19:27:22] Sagos killed SK TacO with AWP
+[19:27:24] SK TacO deixou o jogo
+[19:27:24] U.S.G.N.: Ping/State 'playing'
+[19:27:26] Quanto é 4 x 1 + 7 - 4 = ???
+[19:27:26] 10
+[19:27:27] 9
+[19:27:28] 8
+[19:27:29] 7
+[19:27:30] 6
+[19:27:31] 5
+[19:27:32] »ADM« Sagos: 7
+[19:27:32] 4
+[19:27:33] 3
+[19:27:34] 2
+[19:27:35] 1
+[19:27:35] 0
+[19:27:35] AVA GINA killed by O Tempo Acabou
+[19:27:35] O Resultado era 7
+[19:27:38] »ADM« Sagos: '-'
+[19:27:41] AVA GINA: tavo pensando
+[19:27:43] AVA GINA: nao vi o chat
+[19:27:50] Quanto é 7 + 8 x 2 - 0 = ???
+[19:27:50] 10
+[19:27:51] 9
+[19:27:52] Player 3 killed AVA GINA with Knife
+[19:27:52] AVA GINA Resetou o  Score Automaticamente!
+[19:27:52] 8
+[19:27:53] 7
+[19:27:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:27:54] 6
+[19:27:55] AVA GINA deixou o jogo
+[19:27:55] Sagos killed by Errou a Conta
+[19:27:55] O Resultado Não é 25 e Sim 30
+[19:27:55] »ADM« Sagos: 25
+[19:27:57] * Auto Teambalance *
+[19:27:57] Player 3 juntou-se a Countra-Terrorista Forças
+[19:27:57] »ADM« Sagos: qqq
+[19:27:58] »ADM« Sagos: kkkkkkkk
+[19:28:06] Felipebuy conectou-se
+[19:28:09] Sagos killed Player 3 with Knife
+[19:28:25] U.S.G.N.: Ping/State 'playing'
+[19:28:25] Felipebuy juntou-se a Countra-Terrorista Forças
+[19:28:30] Player 3 killed Sagos with AWP
+[19:28:30] k¦Player 3¦100¦100
+[19:28:54] Sagos killed Felipebuy with AWP
+[19:28:54] Para Ser um Homem-Bomba Digite !kamikaze
+[19:28:54] Script By SagosWins
+[19:28:54] Para Ver a USGN de um Jogador Digite !usgn <id>
+[19:28:58] Sagos killed Player 3 with AWP
+[19:29:04] Felipebuy: ping bom d+ em
+[19:29:09] Player 3 deixou o jogo
+[19:29:10] »ADM« Sagos: asuhaushas
+[19:29:10] Felipebuy killed Sagos with AWP
+[19:29:10] k¦Felipebuy¦100¦100
+[19:29:14] Sagos deixou o jogo
+[19:29:14] Disconnect Reason: Client request (Code 0)
+[19:29:14] ----- Disconnected -----
