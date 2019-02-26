@@ -1,9 +1,11 @@
+mp_damagefactor 1000
+
+dofile("sys/lua/SagosWins/awp_grey SagosWins.lua")
 --dofile("sys/lua/SagosWins/Fala3.lua")
 --dofile("sys/lua/SagosWins/Battle Royale.lua")
 --dofile("sys/lua/SagosWins/building.lua")
 --dofile("sys/lua/SagosWins/Flamethrower Realista.lua")
 --dofile("sys/lua/SagosWins/Cerbex.lua")
-dofile("sys/lua/SagosWins/awp_grey SagosWins.lua")
 --dofile("sys/lua/SagosWins/Enderman.lua")
 --dofile("sys/lua/SagosWins/ServeR ControL 4.5.lua")
 --dofile("sys/lua/SagosWins/LoL.lua")
