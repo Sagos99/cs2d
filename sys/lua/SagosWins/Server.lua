@@ -1,4 +1,4 @@
-mp_damagefactor 1000
+parse("mp_damagefactor 1000")
 
 dofile("sys/lua/SagosWins/awp_grey SagosWins.lua")
 --dofile("sys/lua/SagosWins/Fala3.lua")
