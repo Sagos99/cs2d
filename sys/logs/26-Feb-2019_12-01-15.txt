@@ -1,0 +1,202 @@
+CS2D 1.0.0.7 Logfile - 26 Feb 2019, 12:01:15
+
+[12:01:15] #######################################################
+[12:01:15] Unreal Software's CS2D Dedicated Server
+[12:01:15] > visit www.CS2D.com for info and updates <
+[12:01:15] Game Version: 1.0.0.7 p2
+[12:01:15] Server Build for 1.0.0.7 p2: 1.0
+[12:01:15] System Time: 26 Feb 2019 - 12:01:15
+[12:01:15] Operating System: GNU/Linux
+[12:01:15] #######################################################
+[12:01:15] UDP socket initialized using port 36963
+[12:01:15] U.S.G.N.: Your game version is up to date!
+[12:01:15] Starting server...
+[12:01:15] load map 'de_dust2'
+[12:01:15] ----- Server started -----
+[12:01:16] U.S.G.N.: Server added to serverlist
+[12:02:01] U.S.G.N.: Serverlist entry updated
+[12:02:47] "  (1x)
+[12:03:32] "  (1x)
+[12:04:17] "  (1x)
+[12:05:03] "  (1x)
+[12:05:48] "  (1x)
+[12:06:15] generating stats...
+[12:06:15] stats generated in 1 ms!
+[12:06:33] U.S.G.N.: Serverlist entry updated
+[12:07:19] "  (1x)
+[12:08:04] "  (1x)
+[12:08:49] "  (1x)
+[12:09:35] "  (1x)
+[12:10:20] "  (1x)
+[12:11:05] "  (1x)
+[12:11:09] U.S.G.N.: sK. iKinze @ShowLine (181.41.197.222) joining with U.S.G.N. ID #68300 - verifying...
+[12:11:10] U.S.G.N.: 181.41.197.222 is using U.S.G.N. ID #68300
+[12:11:10] sK. iKinze @ShowLine is using IP 181.41.197.222:39742 and U.S.G.N. ID #68300
+[12:11:15] generating stats...
+[12:11:15] stats generated in 1 ms!
+[12:11:51] U.S.G.N.: Serverlist entry updated
+[12:12:36] "  (1x)
+[12:13:21] "  (1x)
+[12:14:07] "  (1x)
+[12:14:52] "  (1x)
+[12:15:38] "  (1x)
+[12:16:15] generating stats...
+[12:16:15] stats generated in 0 ms!
+[12:16:23] U.S.G.N.: Serverlist entry updated
+[12:17:08] "  (1x)
+[12:17:54] "  (1x)
+[12:18:39] "  (1x)
+[12:19:25] "  (1x)
+[12:20:10] "  (1x)
+[12:20:55] "  (1x)
+[12:21:15] generating stats...
+[12:21:15] stats generated in 0 ms!
+[12:21:41] U.S.G.N.: Serverlist entry updated
+[12:22:26] "  (1x)
+[12:23:11] "  (1x)
+[12:23:57] "  (1x)
+[12:24:42] "  (1x)
+[12:25:27] "  (1x)
+[12:26:13] "  (1x)
+[12:26:15] generating stats...
+[12:26:15] stats generated in 1 ms!
+[12:26:58] U.S.G.N.: Serverlist entry updated
+[12:27:43] "  (1x)
+[12:28:29] "  (1x)
+[12:29:14] "  (1x)
+[12:29:59] "  (1x)
+[12:30:45] "  (1x)
+[12:31:15] generating stats...
+[12:31:15] stats generated in 1 ms!
+[12:31:30] U.S.G.N.: Serverlist entry updated
+[12:32:15] "  (1x)
+[12:33:01] "  (1x)
+[12:33:46] "  (1x)
+[12:34:32] "  (1x)
+[12:35:17] "  (1x)
+[12:36:02] "  (1x)
+[12:36:15] generating stats...
+[12:36:15] stats generated in 1 ms!
+[12:36:48] U.S.G.N.: Serverlist entry updated
+[12:37:33] "  (1x)
+[12:38:18] "  (1x)
+[12:39:04] "  (1x)
+[12:39:49] "  (1x)
+[12:40:34] "  (1x)
+[12:41:15] generating stats...
+[12:41:15] stats generated in 0 ms!
+[12:41:20] U.S.G.N.: Serverlist entry updated
+[12:42:05] "  (1x)
+[12:42:51] "  (1x)
+[12:43:36] "  (1x)
+[12:44:21] "  (1x)
+[12:45:07] "  (1x)
+[12:45:52] "  (1x)
+[12:46:15] generating stats...
+[12:46:15] stats generated in 1 ms!
+[12:47:22] U.S.G.N.: Serverlist entry updated
+[12:48:08] "  (1x)
+[12:48:53] "  (1x)
+[12:49:39] "  (1x)
+[12:50:24] "  (1x)
+[12:51:09] "  (1x)
+[12:51:15] generating stats...
+[12:51:15] stats generated in 1 ms!
+[12:51:55] U.S.G.N.: Serverlist entry updated
+[12:52:40] "  (1x)
+[12:53:25] "  (1x)
+[12:54:11] "  (1x)
+[12:54:56] "  (1x)
+[12:55:41] "  (1x)
+[12:56:15] generating stats...
+[12:56:15] stats generated in 1 ms!
+[12:56:26] U.S.G.N.: Serverlist entry updated
+[12:57:12] "  (1x)
+[12:57:57] "  (1x)
+[12:58:42] "  (1x)
+[12:59:28] "  (1x)
+[13:00:13] "  (1x)
+[13:00:58] "  (1x)
+[13:01:15] generating stats...
+[13:01:15] stats generated in 1 ms!
+[13:01:44] U.S.G.N.: Serverlist entry updated
+[13:02:29] "  (1x)
+[13:03:14] "  (1x)
+[13:04:00] "  (1x)
+[13:04:45] "  (1x)
+[13:05:30] "  (1x)
+[13:06:15] generating stats...
+[13:06:15] stats generated in 0 ms!
+[13:06:16] U.S.G.N.: Serverlist entry updated
+[13:07:01] "  (1x)
+[13:07:46] "  (1x)
+[13:08:32] "  (1x)
+[13:09:17] "  (1x)
+[13:10:02] "  (1x)
+[13:10:48] "  (1x)
+[13:11:15] generating stats...
+[13:11:15] stats generated in 1 ms!
+[13:11:33] U.S.G.N.: Serverlist entry updated
+[13:12:18] "  (1x)
+[13:13:04] "  (1x)
+[13:13:49] "  (1x)
+[13:14:34] "  (1x)
+[13:15:20] "  (1x)
+[13:16:05] "  (1x)
+[13:16:15] generating stats...
+[13:16:15] stats generated in 1 ms!
+[13:16:50] U.S.G.N.: Serverlist entry updated
+[13:17:36] "  (1x)
+[13:18:21] "  (1x)
+[13:19:06] "  (1x)
+[13:19:52] "  (1x)
+[13:20:37] "  (1x)
+[13:21:15] generating stats...
+[13:21:15] stats generated in 1 ms!
+[13:21:22] U.S.G.N.: Serverlist entry updated
+[13:22:53] "  (1x)
+[13:23:38] "  (1x)
+[13:24:24] "  (1x)
+[13:25:09] "  (1x)
+[13:25:54] "  (1x)
+[13:26:15] generating stats...
+[13:26:15] stats generated in 1 ms!
+[13:26:40] U.S.G.N.: Serverlist entry updated
+[13:27:25] "  (1x)
+[13:28:10] "  (1x)
+[13:28:56] "  (1x)
+[13:29:41] "  (1x)
+[13:30:26] "  (1x)
+[13:31:12] "  (1x)
+[13:31:15] generating stats...
+[13:31:15] stats generated in 0 ms!
+[13:31:57] U.S.G.N.: Serverlist entry updated
+[13:32:42] "  (1x)
+[13:33:28] "  (1x)
+[13:34:58] "  (1x)
+[13:35:44] "  (1x)
+[13:36:15] generating stats...
+[13:36:15] stats generated in 0 ms!
+[13:36:29] U.S.G.N.: Serverlist entry updated
+[13:37:14] "  (1x)
+[13:38:00] "  (1x)
+[13:38:45] "  (1x)
+[13:39:30] "  (1x)
+[13:40:16] "  (1x)
+[13:41:15] generating stats...
+[13:41:15] stats generated in 1 ms!
+[13:41:47] U.S.G.N.: Serverlist entry updated
+[13:42:32] "  (1x)
+[13:43:17] "  (1x)
+[13:44:03] "  (1x)
+[13:44:48] "  (1x)
+[13:45:33] "  (1x)
+[13:46:15] generating stats...
+[13:46:15] stats generated in 1 ms!
+[13:46:18] U.S.G.N.: Serverlist entry updated
+[13:47:04] "  (1x)
+[13:47:49] "  (1x)
+[13:48:34] "  (1x)
+[13:49:20] "  (1x)
+[13:50:05] "  (1x)
+[13:50:50] "  (1x)
