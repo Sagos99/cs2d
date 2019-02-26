@@ -13,3 +13,7 @@
 //
 // Warning: HTTP downloads might freeze the client for a few seconds if the webserver is slow!
 // Warning: It is recommended to use lower case letters in file names and paths only
+
+gfx/SagosWins/Bola.bmp
+gfx/SagosWins/X.bmp
+gfx/SagosWins/Jogo da Velha.bmp
