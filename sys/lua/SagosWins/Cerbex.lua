@@ -125,40 +125,40 @@ end
 -- Aviso = "esperando"
 -- end
 
-------------------------------------------------------------
+-- ------------------------------------------------------------
 
 
-------------------------------------------------------------
+-- ------------------------------------------------------------
 
-file = io.open("sys/lua/sagoswins/Fala.txt","r")
-ler = file:read("*a")
-sobe = tostring(ler)
-file:close()
+-- file = io.open("sys/lua/sagoswins/Fala.txt","r")
+-- ler = file:read("*a")
+-- sobe = tostring(ler)
+-- file:close()
 
-if sobe ~= "" then
-fala = sobe
-salvar = io.open("sys/lua/sagoswins/Fala.txt","w+")
-salvar:write("")
-salvar:close()
-end
+-- if sobe ~= "" then
+-- fala = sobe
+-- salvar = io.open("sys/lua/sagoswins/Fala.txt","w+")
+-- salvar:write("")
+-- salvar:close()
+-- end
 
-------------------------------------------------------------
+-- ------------------------------------------------------------
 
 
-------------------------------------------------------------
+-- ------------------------------------------------------------
 
-file = io.open("sys/lua/sagoswins/Console.txt","r")
-ler = file:read("*a")
-sobe = tostring(ler)
-file:close()
+-- file = io.open("sys/lua/sagoswins/Console.txt","r")
+-- ler = file:read("*a")
+-- sobe = tostring(ler)
+-- file:close()
 
-if sobe ~= "" then
-parse(sobe)
-salvar = io.open("sys/lua/sagoswins/Console.txt","w+")
-salvar:write("")
-salvar:close()
-end
-end
+-- if sobe ~= "" then
+-- parse(sobe)
+-- salvar = io.open("sys/lua/sagoswins/Console.txt","w+")
+-- salvar:write("")
+-- salvar:close()
+-- end
+-- end
 
 ------------------------------------------------------------
 
