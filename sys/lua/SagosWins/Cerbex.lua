@@ -108,22 +108,22 @@ Aviso = "normal"
 end
 end
 
-addhook("always","teste")
-function teste()
+-- addhook("always","teste")
+-- function teste()
 
-------------------------------------------------------------
+-- ------------------------------------------------------------
 
-file = io.open("sys/lua/sagoswins/Avisar.txt","r")
-lendo = file:read("*a")
-transformando = tostring(lendo)
-file:close()
+-- file = io.open("sys/lua/sagoswins/Avisar.txt","r")
+-- lendo = file:read("*a")
+-- transformando = tostring(lendo)
+-- file:close()
 
-if transformando ~= "" then
-salvar = io.open("sys/lua/sagoswins/Avisar.txt","w+")
-salvar:write("")
-salvar:close()
-Aviso = "esperando"
-end
+-- if transformando ~= "" then
+-- salvar = io.open("sys/lua/sagoswins/Avisar.txt","w+")
+-- salvar:write("")
+-- salvar:close()
+-- Aviso = "esperando"
+-- end
 
 ------------------------------------------------------------
 
