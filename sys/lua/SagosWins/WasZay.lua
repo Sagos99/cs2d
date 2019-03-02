@@ -42,7 +42,7 @@ cargo_lvl=initArray(32)
 usgn = 0
 tempo = 0
 freeze = 32
-mesg = "ï¿½128128128"
+mesg = "©128128128"
 lock = 0
 
 
@@ -55,25 +55,25 @@ vip1[inicial] = 0
 desligar = 40
 iniciar = 0
 
-host_cor_cargo[inicial] = "ï¿½255255255"
-host_cor_nome[inicial] = "ï¿½255255255"
-host_cor_fala[inicial] = "ï¿½255255255"
+host_cor_cargo[inicial] = "©255255255"
+host_cor_nome[inicial] = "©255255255"
+host_cor_fala[inicial] = "©255255255"
 
-admin_cor_cargo[inicial] = "ï¿½255000000"
-admin_cor_nome[inicial] = "ï¿½255000000"
-admin_cor_fala[inicial] = "ï¿½255000000"
+admin_cor_cargo[inicial] = "©255000000"
+admin_cor_nome[inicial] = "©255000000"
+admin_cor_fala[inicial] = "©255000000"
 
-moderador_cor_cargo[inicial] = "ï¿½000255000"
-moderador_cor_nome[inicial] = "ï¿½000255000"
-moderador_cor_fala[inicial] = "ï¿½000255000"
+moderador_cor_cargo[inicial] = "©000255000"
+moderador_cor_nome[inicial] = "©000255000"
+moderador_cor_fala[inicial] = "©000255000"
 
-membro_cor_cargo[inicial] = "ï¿½090070090"
-membro_cor_nome[inicial] = "ï¿½090070090"
-membro_cor_fala[inicial] = "ï¿½090070090"
+membro_cor_cargo[inicial] = "©090070090"
+membro_cor_nome[inicial] = "©090070090"
+membro_cor_fala[inicial] = "©090070090"
 
-vip_cor_cargo[inicial] = "ï¿½080000128"
-vip_cor_nome[inicial] = "ï¿½080000128"
-vip_cor_fala[inicial] = "ï¿½080000128"
+vip_cor_cargo[inicial] = "©080000128"
+vip_cor_nome[inicial] = "©080000128"
+vip_cor_fala[inicial] = "©080000128"
 end
 
 addhook("join","conectar")
@@ -82,7 +82,7 @@ for _, usgn in ipairs(HOST) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 5
 host1[id] = 1
-msg2(id,""..mesg.."[Servidor] Vocï¿½ fez Login em "..host_cor_cargo[id].."ï¿½Hostï¿½")
+msg2(id,""..mesg.."[Servidor] Você fez Login em "..host_cor_cargo[id].."»Host«")
 end
 end
 
@@ -90,7 +90,7 @@ for _, usgn in ipairs(ADMIN) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 4
 admin1[id] = 1
-msg2(id,""..mesg.."[Servidor] Vocï¿½ fez Login em "..admin_cor_cargo[id].."ï¿½Adminï¿½")
+msg2(id,""..mesg.."[Servidor] Você fez Login em "..admin_cor_cargo[id].."»Admin«")
 end
 end
 
@@ -98,7 +98,7 @@ for _, usgn in ipairs(MODERADOR) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 3
 moderador1[id] = 1
-msg2(id,""..mesg.."[Servidor] Vocï¿½ fez Login em "..moderador_cor_cargo[id].."ï¿½Moderadorï¿½")
+msg2(id,""..mesg.."[Servidor] Você fez Login em "..moderador_cor_cargo[id].."»Moderador«")
 end
 end
 
@@ -106,7 +106,7 @@ for _, usgn in ipairs(MEMBRO) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 2
 membro1[id] = 1
-msg2(id,""..mesg.."[Servidor] Vocï¿½ fez Login em "..membro_cor_cargo[id].."ï¿½Membroï¿½")
+msg2(id,""..mesg.."[Servidor] Você fez Login em "..membro_cor_cargo[id].."»Membro«")
 end
 end
 
@@ -114,7 +114,7 @@ for _, usgn in ipairs(VIP) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 1
 vip1[id] = 1
-msg2(id,""..mesg.."[Servidor] Vocï¿½ fez Login em "..vip_cor_cargo[id].."ï¿½Vipï¿½")
+msg2(id,""..mesg.."[Servidor] Você fez Login em "..vip_cor_cargo[id].."»Vip«")
 end
 end
 end
@@ -128,26 +128,26 @@ membro1[id] = 0
 vip1[id] = 0
 cargo_lvl[id] = 0
 
-host_cor_cargo[id] = "ï¿½255255255"
-host_cor_nome[id] = "ï¿½255255255"
-host_cor_fala[id] = "ï¿½255255255"
+host_cor_cargo[id] = "©255255255"
+host_cor_nome[id] = "©255255255"
+host_cor_fala[id] = "©255255255"
 
-admin_cor_cargo[id] = "ï¿½255000000"
-admin_cor_nome[id] = "ï¿½255000000"
-admin_cor_fala[id] = "ï¿½255000000"
+admin_cor_cargo[id] = "©255000000"
+admin_cor_nome[id] = "©255000000"
+admin_cor_fala[id] = "©255000000"
 
-moderador_cor_cargo[id] = "ï¿½000255000"
-moderador_cor_nome[id] = "ï¿½000255000"
-moderador_cor_fala[id] = "ï¿½000255000"
+moderador_cor_cargo[id] = "©000255000"
+moderador_cor_nome[id] = "©000255000"
+moderador_cor_fala[id] = "©000255000"
 
-membro_cor_cargo[id] = "ï¿½090070090"
-membro_cor_nome[id] = "ï¿½090070090"
-membro_cor_fala[id] = "ï¿½090070090"
+membro_cor_cargo[id] = "©090070090"
+membro_cor_nome[id] = "©090070090"
+membro_cor_fala[id] = "©090070090"
 
-vip_cor_cargo[id] = "ï¿½080000128"
-vip_cor_nome[id] = "ï¿½080000128"
-vip_cor_fala[id] = "ï¿½080000128"
-msg2(id,""..mesg.."[Server] Vocï¿½ Deslogou.")
+vip_cor_cargo[id] = "©080000128"
+vip_cor_nome[id] = "©080000128"
+vip_cor_fala[id] = "©080000128"
+msg2(id,""..mesg.."[Server] Você Deslogou.")
 end
 
 addhook("say","dizer")
@@ -158,7 +158,7 @@ for _, usgn in ipairs(HOST) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 5
 host1[id] = 1
-msg(""..mesg.."[Servidor] "..player(id,"name").." logou como ï¿½"..host_cor_cargo[id].."Host"..mesg.."ï¿½\"")
+msg(""..mesg.."[Servidor] "..player(id,"name").." logou como »"..host_cor_cargo[id].."Host"..mesg.."«\"")
 end
 end
 
@@ -166,7 +166,7 @@ for _, usgn in ipairs(ADMIN) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 4
 admin1[id] = 1
-msg(""..mesg.."[Servidor] "..player(id,"name").." logou como ï¿½"..admin_cor_cargo[id].."Admin"..mesg.."ï¿½\"")
+msg(""..mesg.."[Servidor] "..player(id,"name").." logou como »"..admin_cor_cargo[id].."Admin"..mesg.."«\"")
 end
 end
 
@@ -174,7 +174,7 @@ for _, usgn in ipairs(MODERADOR) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 3
 moderador1[id] = 1
-msg(""..mesg.."[Servidor] "..player(id,"name").." logou como ï¿½"..moderador_cor_cargo[id].."Moderador"..mesg.."ï¿½\"")
+msg(""..mesg.."[Servidor] "..player(id,"name").." logou como »"..moderador_cor_cargo[id].."Moderador"..mesg.."«\"")
 end
 end
 
@@ -182,7 +182,7 @@ for _, usgn in ipairs(MEMBRO) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 2
 membro1[id] = 1
-msg(""..mesg.."[Servidor] "..player(id,"name").." logou como ï¿½"..membro_cor_cargo[id].."Membro"..mesg.."ï¿½\"")
+msg(""..mesg.."[Servidor] "..player(id,"name").." logou como »"..membro_cor_cargo[id].."Membro"..mesg.."«\"")
 end
 end
 
@@ -190,7 +190,7 @@ for _, usgn in ipairs(VIP) do
 if player(id,"usgn") == usgn then
 cargo_lvl[id] = 1
 vip1[id] = 1
-msg(""..mesg.."[Servidor] "..player(id,"name").." logou como ï¿½"..vip_cor_cargo[id].."Vip"..mesg.."ï¿½\"")
+msg(""..mesg.."[Servidor] "..player(id,"name").." logou como »"..vip_cor_cargo[id].."Vip"..mesg.."«\"")
 end
 end
 
@@ -210,25 +210,25 @@ membro1[id] = 0
 vip1[id] = 0
 cargo_lvl[id] = 0
 
-host_cor_cargo[id] = "ï¿½255255255"
-host_cor_nome[id] = "ï¿½255255255"
-host_cor_fala[id] = "ï¿½255255255"
+host_cor_cargo[id] = "©255255255"
+host_cor_nome[id] = "©255255255"
+host_cor_fala[id] = "©255255255"
 
-admin_cor_cargo[id] = "ï¿½255000000"
-admin_cor_nome[id] = "ï¿½255000000"
-admin_cor_fala[id] = "ï¿½255000000"
+admin_cor_cargo[id] = "©255000000"
+admin_cor_nome[id] = "©255000000"
+admin_cor_fala[id] = "©255000000"
 
-moderador_cor_cargo[id] = "ï¿½000255000"
-moderador_cor_nome[id] = "ï¿½000255000"
-moderador_cor_fala[id] = "ï¿½000255000"
+moderador_cor_cargo[id] = "©000255000"
+moderador_cor_nome[id] = "©000255000"
+moderador_cor_fala[id] = "©000255000"
 
-membro_cor_cargo[id] = "ï¿½090070090"
-membro_cor_nome[id] = "ï¿½090070090"
-membro_cor_fala[id] = "ï¿½090070090"
+membro_cor_cargo[id] = "©090070090"
+membro_cor_nome[id] = "©090070090"
+membro_cor_fala[id] = "©090070090"
 
-vip_cor_cargo[id] = "ï¿½080000128"
-vip_cor_nome[id] = "ï¿½080000128"
-vip_cor_fala[id] = "ï¿½080000128"
+vip_cor_cargo[id] = "©080000128"
+vip_cor_nome[id] = "©080000128"
+vip_cor_fala[id] = "©080000128"
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"!logoff\"")
 return 1
 end
@@ -239,7 +239,7 @@ rs = string.match(rss,"!rs")
 if rs == "!rs" then
 parse("setscore "..id.." 0")
 parse("setdeaths "..id.." 0")
-msg2(id,""..mesg.."[Servidor] Pontuaï¿½ï¿½o Resetada!")
+msg2(id,""..mesg.."[Servidor] Pontuação Resetada!")
 return 1
 end
 ------------------------------------------------------------------
@@ -247,50 +247,50 @@ end
 ------------------------------@Help-------------------------------
 if txt == "@help" then
 if cargo_lvl[id] == 5 then -- HOST
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@swap"..mesg.." - quem ï¿½ TR vira CT e vice-versa")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@kick"..mesg.." - expulsa um jogador do servidor")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@ban"..mesg.." - expulsa um jogador por 8 dias")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@kill"..mesg.." - mata um jogador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@maket"..mesg.." - Coloca um jogador em Terrorista")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@makect"..mesg.." - Coloca um jogador em Contra-Terrorista")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@makespec"..mesg.." - Coloca um jogador em Espectador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@freezeall"..mesg.." - Congela todos os Jogadores")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@unfreezeall"..mesg.." - Descongela todos os Jogadores")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!rs -"..mesg.." Reseta seus Score e suas Deaths")
+msg2(id,""..mesg.."[Servidor] ©255255255@swap"..mesg.." - quem é TR vira CT e vice-versa")
+msg2(id,""..mesg.."[Servidor] ©255255255@kick"..mesg.." - expulsa um jogador do servidor")
+msg2(id,""..mesg.."[Servidor] ©255255255@ban"..mesg.." - expulsa um jogador por 8 dias")
+msg2(id,""..mesg.."[Servidor] ©255255255@kill"..mesg.." - mata um jogador")
+msg2(id,""..mesg.."[Servidor] ©255255255@maket"..mesg.." - Coloca um jogador em Terrorista")
+msg2(id,""..mesg.."[Servidor] ©255255255@makect"..mesg.." - Coloca um jogador em Contra-Terrorista")
+msg2(id,""..mesg.."[Servidor] ©255255255@makespec"..mesg.." - Coloca um jogador em Espectador")
+msg2(id,""..mesg.."[Servidor] ©255255255@freezeall"..mesg.." - Congela todos os Jogadores")
+msg2(id,""..mesg.."[Servidor] ©255255255@unfreezeall"..mesg.." - Descongela todos os Jogadores")
+msg2(id,""..mesg.."[Servidor] ©255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
+msg2(id,""..mesg.."[Servidor] ©255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
+msg2(id,""..mesg.."[Servidor] ©255255255!rs -"..mesg.." Reseta seus Score e suas Deaths")
 elseif cargo_lvl[id] == 4 then -- ADMIN
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@swap"..mesg.." - quem ï¿½ TR vira CT e vice-versa")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@kick"..mesg.." - expulsa um jogador do servidor")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@ban"..mesg.." - expulsa um jogador por 8 dias")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@kill"..mesg.." - mata um jogador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@maket"..mesg.." - Coloca um jogador em Terrorista")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@makect"..mesg.." - Coloca um jogador em Contra-Terrorista")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@makespec"..mesg.." - Coloca um jogador em Espectador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@freezeall"..mesg.." - Congela todos os Jogadores")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@unfreezeall"..mesg.." - Descongela todos os Jogadores")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
+msg2(id,""..mesg.."[Servidor] ©255255255@swap"..mesg.." - quem é TR vira CT e vice-versa")
+msg2(id,""..mesg.."[Servidor] ©255255255@kick"..mesg.." - expulsa um jogador do servidor")
+msg2(id,""..mesg.."[Servidor] ©255255255@ban"..mesg.." - expulsa um jogador por 8 dias")
+msg2(id,""..mesg.."[Servidor] ©255255255@kill"..mesg.." - mata um jogador")
+msg2(id,""..mesg.."[Servidor] ©255255255@maket"..mesg.." - Coloca um jogador em Terrorista")
+msg2(id,""..mesg.."[Servidor] ©255255255@makect"..mesg.." - Coloca um jogador em Contra-Terrorista")
+msg2(id,""..mesg.."[Servidor] ©255255255@makespec"..mesg.." - Coloca um jogador em Espectador")
+msg2(id,""..mesg.."[Servidor] ©255255255@freezeall"..mesg.." - Congela todos os Jogadores")
+msg2(id,""..mesg.."[Servidor] ©255255255@unfreezeall"..mesg.." - Descongela todos os Jogadores")
+msg2(id,""..mesg.."[Servidor] ©255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
+msg2(id,""..mesg.."[Servidor] ©255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
+msg2(id,""..mesg.."[Servidor] ©255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
 elseif cargo_lvl[id] == 3 then -- MODERADOR
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@kick"..mesg.." - expulsa um jogador do servidor")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@kill"..mesg.." - mata um jogador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@freezeall"..mesg.." - Congela todos os Jogadores")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@unfreezeall"..mesg.." - Descongela todos os Jogadores")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
+msg2(id,""..mesg.."[Servidor] ©255255255@kick"..mesg.." - expulsa um jogador do servidor")
+msg2(id,""..mesg.."[Servidor] ©255255255@kill"..mesg.." - mata um jogador")
+msg2(id,""..mesg.."[Servidor] ©255255255@freezeall"..mesg.." - Congela todos os Jogadores")
+msg2(id,""..mesg.."[Servidor] ©255255255@unfreezeall"..mesg.." - Descongela todos os Jogadores")
+msg2(id,""..mesg.."[Servidor] ©255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
+msg2(id,""..mesg.."[Servidor] ©255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
+msg2(id,""..mesg.."[Servidor] ©255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
 elseif cargo_lvl[id] == 2 then -- MEMBRO
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
+msg2(id,""..mesg.."[Servidor] ©255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
+msg2(id,""..mesg.."[Servidor] ©255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
+msg2(id,""..mesg.."[Servidor] ©255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
 elseif cargo_lvl[id] == 1 then -- VIP
-msg2(id,""..mesg.."[Servidor] ï¿½255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
+msg2(id,""..mesg.."[Servidor] ©255255255@setcolor"..mesg.." - escolha uma cor para seu nome, cargo e fala")
+msg2(id,""..mesg.."[Servidor] ©255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
+msg2(id,""..mesg.."[Servidor] ©255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
 elseif cargo_lvl[id] == 0 then -- Jogador Comum
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
-msg2(id,""..mesg.."[Servidor] ï¿½255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
+msg2(id,""..mesg.."[Servidor] ©255255255!usgn <jogador>"..mesg.." - ver a USGN de um jogador")
+msg2(id,""..mesg.."[Servidor] ©255255255!rs"..mesg.." - Reseta seus Score e suas Deaths")
 end
 return 1
 end
@@ -311,13 +311,13 @@ if cargo_lvl[id] >= cargo_lvl[todos] then
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"@kick\" em "..player(todos,"name").."")
 parse("kick "..todos.."")
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o pode kikar alguem com o Cargo maior que o Seu")
+msg2(id,""..mesg.."[Servidor] Você não pode kikar alguem com o Cargo maior que o Seu")
 end
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o pode kikar a si mesmo")
+msg2(id,""..mesg.."[Servidor] Você não pode kikar a si mesmo")
 end
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@kick\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@kick\"")
 end
 return 1
 end
@@ -328,10 +328,10 @@ if cargo_lvl[id] >= cargo_lvl[todos] then
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"@kill\" em "..player(todos,"name").."")
 parse("killplayer "..todos.."")
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o pode matar alguem com o Cargo maior que o Seu")
+msg2(id,""..mesg.."[Servidor] Você não pode matar alguem com o Cargo maior que o Seu")
 end
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@kill\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@kill\"")
 end
 return 1
 end
@@ -341,15 +341,15 @@ if host1[id] == 1 or admin1[id] == 1 then
 if id ~= todos then
 if cargo_lvl[id] >= cargo_lvl[todos] then
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"@ban\" em "..player(todos,"name").."")
-parse("banip "..player(todos,"ip").." 11520 \"Vocï¿½ estï¿½ Banido por 8 dias\"")
+parse("banip "..player(todos,"ip").." 11520 \"Você está Banido por 8 dias\"")
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o pode banir um alguem com o Cargo maior que o Seu")
+msg2(id,""..mesg.."[Servidor] Você não pode banir um alguem com o Cargo maior que o Seu")
 end
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o pode banir a si mesmo")
+msg2(id,""..mesg.."[Servidor] Você não pode banir a si mesmo")
 end
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@ban\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@ban\"")
 end
 return 1
 end
@@ -391,7 +391,7 @@ parse("speedmod 31 -30")
 parse("speedmod 32 -30")
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"@freezeall\"")
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@freezeall\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@freezeall\"")
 end
 return 1
 end
@@ -432,7 +432,7 @@ parse("speedmod 31 0")
 parse("speedmod 32 0")
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"@unfreezeall\"")
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@unfreezeall\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@unfreezeall\"")
 end
 return 1
 end
@@ -442,7 +442,7 @@ if host1[id] == 1 or admin1[id] == 1 then
 iniciar = 1
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"@desligar\"")
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@desligar\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@desligar\"")
 end
 return 1
 end
@@ -453,7 +453,7 @@ desligar = 40
 iniciar = 0
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"@cancelar\"")
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@desligar\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@desligar\"")
 end
 return 1
 end
@@ -464,20 +464,20 @@ if player(id,"health") > 0 then
 parse("restart")
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"@rr\"")
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ precisa estar vivo parar usar \"@rr\"")
+msg2(id,""..mesg.."[Servidor] Você precisa estar vivo parar usar \"@rr\"")
 end
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@rr\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@rr\"")
 end
 return 1
 end
 
 if txt == "@setcolor" then
 if host1[id] == 1 or admin1[id] == 1 or moderador1[id] == 1 or membro1[id] == 1 or vip1[id] == 1 then
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 msg(""..mesg.."[Servidor] "..player(id,"name").." usou \"@setcolor\"")
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@setcolor\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@setcolor\"")
 end
 return 1
 end
@@ -495,7 +495,7 @@ end
 end
 
 else
-msg2(id,""..mesg.."[Servidor] Vocï¿½ nï¿½o tem permissï¿½o parar usar \"@swap\"")
+msg2(id,""..mesg.."[Servidor] Você não tem permissão parar usar \"@swap\"")
 end
 return 1
 end
@@ -508,7 +508,7 @@ end
 
 if host1[id] == 1 then
 if txt ~= "rank" or txt ~= "RANK" then
-msg(host_cor_cargo[id].."ï¿½Hostï¿½ "..host_cor_nome[id]..""..player(id,"name")..": "..host_cor_fala[id]..""..txt.."")
+msg(host_cor_cargo[id].."»Host« "..host_cor_nome[id]..""..player(id,"name")..": "..host_cor_fala[id]..""..txt.."")
 return 1
 else
 return 0
@@ -518,7 +518,7 @@ end
 
 if admin1[id] == 1 then
 if txt ~= "rank" or txt ~= "RANK" then
-msg(admin_cor_cargo[id].."ï¿½Adminï¿½ "..admin_cor_nome[id]..""..player(id,"name")..": "..admin_cor_fala[id]..""..txt.."")
+msg(admin_cor_cargo[id].."»Admin« "..admin_cor_nome[id]..""..player(id,"name")..": "..admin_cor_fala[id]..""..txt.."")
 return 1
 else
 return 0
@@ -528,7 +528,7 @@ end
 
 if moderador1[id] == 1 then
 if txt ~= "rank" or txt ~= "RANK" then
-msg(moderador_cor_cargo[id].."ï¿½Moderadorï¿½ "..moderador_cor_nome[id]..""..player(id,"name")..": "..moderador_cor_fala[id]..""..txt.."")
+msg(moderador_cor_cargo[id].."»Moderador« "..moderador_cor_nome[id]..""..player(id,"name")..": "..moderador_cor_fala[id]..""..txt.."")
 return 1
 else
 return 0
@@ -537,7 +537,7 @@ end
 
 if membro1[id] == 1 then
 if txt ~= "rank" or txt ~= "RANK" then
-msg(membro_cor_cargo[id].."ï¿½Membroï¿½ "..membro_cor_nome[id]..""..player(id,"name")..": "..membro_cor_fala[id]..""..txt.."")
+msg(membro_cor_cargo[id].."»Membro« "..membro_cor_nome[id]..""..player(id,"name")..": "..membro_cor_fala[id]..""..txt.."")
 return 1
 else
 return 0
@@ -546,7 +546,7 @@ end
 
 if vip1[id] == 1 then
 if txt ~= "rank" or txt ~= "RANK" then
-msg(vip_cor_cargo[id].."ï¿½Vipï¿½ "..vip_cor_nome[id]..""..player(id,"name")..": "..vip_cor_fala[id]..""..txt.."")
+msg(vip_cor_cargo[id].."»Vip« "..vip_cor_nome[id]..""..player(id,"name")..": "..vip_cor_fala[id]..""..txt.."")
 return 1
 else
 return 0
@@ -556,7 +556,7 @@ end
 
 addhook("menu","menus")
 function menus(id,title,button)
-if title == "Mudanï¿½a de Cor" then
+if title == "Mudança de Cor" then
 if button == 1 then
 menu(id,"Escolha a cor do Cargo 1/2,Branco,Preto,Cinza|Claro,Cinza|Escuro,Vermelho|Claro,Vermelho|Escuro,Amarelo|Claro,Amarelo|Escuro,Proximo")
 elseif button == 2 then
@@ -568,76 +568,76 @@ end
 
 if title == "Escolha a cor do Cargo 1/2" then
 if button == 1 then
-host_cor_cargo[id] = "ï¿½255255255"
-admin_cor_cargo[id] = "ï¿½255255255"
-moderador_cor_cargo[id] = "ï¿½255255255"
-membro_cor_cargo[id] = "ï¿½255255255"
-vip_cor_cargo[id] = "ï¿½255255255"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½255255255Branco"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©255255255"
+admin_cor_cargo[id] = "©255255255"
+moderador_cor_cargo[id] = "©255255255"
+membro_cor_cargo[id] = "©255255255"
+vip_cor_cargo[id] = "©255255255"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©255255255Branco"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 2 then
-host_cor_cargo[id] = "ï¿½000000000"
-admin_cor_cargo[id] = "ï¿½000000000"
-moderador_cor_cargo[id] = "ï¿½000000000"
-membro_cor_cargo[id] = "ï¿½000000000"
-vip_cor_cargo[id] = "ï¿½000000000"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½000000000Preto"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©000000000"
+admin_cor_cargo[id] = "©000000000"
+moderador_cor_cargo[id] = "©000000000"
+membro_cor_cargo[id] = "©000000000"
+vip_cor_cargo[id] = "©000000000"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©000000000Preto"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 3 then
-host_cor_cargo[id] = "ï¿½192192192"
-admin_cor_cargo[id] = "ï¿½192192192"
-moderador_cor_cargo[id] = "ï¿½192192192"
-membro_cor_cargo[id] = "ï¿½192192192"
-vip_cor_cargo[id] = "ï¿½192192192"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½192192192Cinza Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©192192192"
+admin_cor_cargo[id] = "©192192192"
+moderador_cor_cargo[id] = "©192192192"
+membro_cor_cargo[id] = "©192192192"
+vip_cor_cargo[id] = "©192192192"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©192192192Cinza Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 4 then
-host_cor_cargo[id] = "ï¿½128128128"
-admin_cor_cargo[id] = "ï¿½128128128"
-moderador_cor_cargo[id] = "ï¿½128128128"
-membro_cor_cargo[id] = "ï¿½128128128"
-vip_cor_cargo[id] = "ï¿½128128128"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½128128128Cinza Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©128128128"
+admin_cor_cargo[id] = "©128128128"
+moderador_cor_cargo[id] = "©128128128"
+membro_cor_cargo[id] = "©128128128"
+vip_cor_cargo[id] = "©128128128"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©128128128Cinza Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 5 then
-host_cor_cargo[id] = "ï¿½255000000"
-admin_cor_cargo[id] = "ï¿½255000000"
-moderador_cor_cargo[id] = "ï¿½255000000"
-membro_cor_cargo[id] = "ï¿½255000000"
-vip_cor_cargo[id] = "ï¿½255000000"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½255000000Vermelho Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©255000000"
+admin_cor_cargo[id] = "©255000000"
+moderador_cor_cargo[id] = "©255000000"
+membro_cor_cargo[id] = "©255000000"
+vip_cor_cargo[id] = "©255000000"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©255000000Vermelho Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 6 then
-host_cor_cargo[id] = "ï¿½128000000"
-admin_cor_cargo[id] = "ï¿½128000000"
-moderador_cor_cargo[id] = "ï¿½128000000"
-membro_cor_cargo[id] = "ï¿½128000000"
-vip_cor_cargo[id] = "ï¿½128000000"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½128000000Vermelho Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©128000000"
+admin_cor_cargo[id] = "©128000000"
+moderador_cor_cargo[id] = "©128000000"
+membro_cor_cargo[id] = "©128000000"
+vip_cor_cargo[id] = "©128000000"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©128000000Vermelho Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 7 then
-host_cor_cargo[id] = "ï¿½255255000"
-admin_cor_cargo[id] = "ï¿½255255000"
-moderador_cor_cargo[id] = "ï¿½255255000"
-membro_cor_cargo[id] = "ï¿½255255000"
-vip_cor_cargo[id] = "ï¿½255255000"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½255255000Amarelo Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©255255000"
+admin_cor_cargo[id] = "©255255000"
+moderador_cor_cargo[id] = "©255255000"
+membro_cor_cargo[id] = "©255255000"
+vip_cor_cargo[id] = "©255255000"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©255255000Amarelo Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 8 then
-host_cor_cargo[id] = "ï¿½128128000"
-admin_cor_cargo[id] = "ï¿½128128000"
-moderador_cor_cargo[id] = "ï¿½128128000"
-membro_cor_cargo[id] = "ï¿½128128000"
-vip_cor_cargo[id] = "ï¿½128128000"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½128128000Amarelo Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©128128000"
+admin_cor_cargo[id] = "©128128000"
+moderador_cor_cargo[id] = "©128128000"
+membro_cor_cargo[id] = "©128128000"
+vip_cor_cargo[id] = "©128128000"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©128128000Amarelo Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 9 then
 menu(id,"Escolha a cor do Cargo 2/2,Verde|Claro,Verde|Escuro,Ciano|Escuro,Azul|Claro,Azul|Escuro,Rosa|Claro,Rosa|Escuro,Roxo|Claro,Voltar")
@@ -647,76 +647,76 @@ end
 
 if title == "Escolha a cor do Cargo 2/2" then
 if button == 1 then
-host_cor_cargo[id] = "ï¿½000255000"
-admin_cor_cargo[id] = "ï¿½000255000"
-moderador_cor_cargo[id] = "ï¿½000255000"
-membro_cor_cargo[id] = "ï¿½000255000"
-vip_cor_cargo[id] = "ï¿½000255000"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½000255000Verde Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©000255000"
+admin_cor_cargo[id] = "©000255000"
+moderador_cor_cargo[id] = "©000255000"
+membro_cor_cargo[id] = "©000255000"
+vip_cor_cargo[id] = "©000255000"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©000255000Verde Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 2 then
-host_cor_cargo[id] = "ï¿½000128000"
-admin_cor_cargo[id] = "ï¿½000128000"
-moderador_cor_cargo[id] = "ï¿½000128000"
-membro_cor_cargo[id] = "ï¿½000128000"
-vip_cor_cargo[id] = "ï¿½000128000"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½000128000Verde Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©000128000"
+admin_cor_cargo[id] = "©000128000"
+moderador_cor_cargo[id] = "©000128000"
+membro_cor_cargo[id] = "©000128000"
+vip_cor_cargo[id] = "©000128000"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©000128000Verde Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 3 then
-host_cor_cargo[id] = "ï¿½000128128"
-admin_cor_cargo[id] = "ï¿½000128128"
-moderador_cor_cargo[id] = "ï¿½000128128"
-membro_cor_cargo[id] = "ï¿½000128128"
-vip_cor_cargo[id] = "ï¿½000128128"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½000128128Ciano Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©000128128"
+admin_cor_cargo[id] = "©000128128"
+moderador_cor_cargo[id] = "©000128128"
+membro_cor_cargo[id] = "©000128128"
+vip_cor_cargo[id] = "©000128128"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©000128128Ciano Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 4 then
-host_cor_cargo[id] = "ï¿½000000255"
-admin_cor_cargo[id] = "ï¿½000000255"
-moderador_cor_cargo[id] = "ï¿½000000255"
-membro_cor_cargo[id] = "ï¿½000000255"
-vip_cor_cargo[id] = "ï¿½000000255"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½000000255Azul Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©000000255"
+admin_cor_cargo[id] = "©000000255"
+moderador_cor_cargo[id] = "©000000255"
+membro_cor_cargo[id] = "©000000255"
+vip_cor_cargo[id] = "©000000255"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©000000255Azul Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 5 then
-host_cor_cargo[id] = "ï¿½000000128"
-admin_cor_cargo[id] = "ï¿½000000128"
-moderador_cor_cargo[id] = "ï¿½000000128"
-membro_cor_cargo[id] = "ï¿½000000128"
-vip_cor_cargo[id] = "ï¿½000000128"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½000000128Azul Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©000000128"
+admin_cor_cargo[id] = "©000000128"
+moderador_cor_cargo[id] = "©000000128"
+membro_cor_cargo[id] = "©000000128"
+vip_cor_cargo[id] = "©000000128"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©000000128Azul Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 6 then
-host_cor_cargo[id] = "ï¿½255000255"
-admin_cor_cargo[id] = "ï¿½255000255"
-moderador_cor_cargo[id] = "ï¿½255000255"
-membro_cor_cargo[id] = "ï¿½255000255"
-vip_cor_cargo[id] = "ï¿½255000255"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½255000255Rosa Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©255000255"
+admin_cor_cargo[id] = "©255000255"
+moderador_cor_cargo[id] = "©255000255"
+membro_cor_cargo[id] = "©255000255"
+vip_cor_cargo[id] = "©255000255"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©255000255Rosa Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 7 then
-host_cor_cargo[id] = "ï¿½128000128"
-admin_cor_cargo[id] = "ï¿½128000128"
-moderador_cor_cargo[id] = "ï¿½128000128"
-membro_cor_cargo[id] = "ï¿½128000128"
-vip_cor_cargo[id] = "ï¿½128000128"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½128000128Rosa Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©128000128"
+admin_cor_cargo[id] = "©128000128"
+moderador_cor_cargo[id] = "©128000128"
+membro_cor_cargo[id] = "©128000128"
+vip_cor_cargo[id] = "©128000128"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©128000128Rosa Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 8 then
-host_cor_cargo[id] = "ï¿½080000150"
-admin_cor_cargo[id] = "ï¿½080000150"
-moderador_cor_cargo[id] = "ï¿½080000150"
-membro_cor_cargo[id] = "ï¿½080000150"
-vip_cor_cargo[id] = "ï¿½080000150"
-msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para ï¿½ï¿½080000150Roxo Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_cargo[id] = "©080000150"
+admin_cor_cargo[id] = "©080000150"
+moderador_cor_cargo[id] = "©080000150"
+membro_cor_cargo[id] = "©080000150"
+vip_cor_cargo[id] = "©080000150"
+msg2(id,""..mesg.."[Servidor] Cor do cargo mudado para »©080000150Roxo Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 9 then
 menu(id,"Escolha a cor do Cargo 1/2,Branco,Preto,Cinza|Claro,Cinza|Escuro,Vermelho|Claro,Vermelho|Escuro,Amarelo|Claro,Amarelo|Escuro,Proximo")
@@ -725,76 +725,76 @@ end
 
 if title == "Escolha a cor do Nome 1/2" then
 if button == 1 then
-host_cor_nome[id] = "ï¿½255255255"
-admin_cor_nome[id] = "ï¿½255255255"
-moderador_cor_nome[id] = "ï¿½255255255"
-membro_cor_nome[id] = "ï¿½255255255"
-vip_cor_nome[id] = "ï¿½255255255"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½255255255Branco"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©255255255"
+admin_cor_nome[id] = "©255255255"
+moderador_cor_nome[id] = "©255255255"
+membro_cor_nome[id] = "©255255255"
+vip_cor_nome[id] = "©255255255"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©255255255Branco"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 2 then
-host_cor_nome[id] = "ï¿½000000000"
-admin_cor_nome[id] = "ï¿½000000000"
-moderador_cor_nome[id] = "ï¿½000000000"
-membro_cor_nome[id] = "ï¿½000000000"
-vip_cor_nome[id] = "ï¿½000000000"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½000000000Preto"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©000000000"
+admin_cor_nome[id] = "©000000000"
+moderador_cor_nome[id] = "©000000000"
+membro_cor_nome[id] = "©000000000"
+vip_cor_nome[id] = "©000000000"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©000000000Preto"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 3 then
-host_cor_nome[id] = "ï¿½192192192"
-admin_cor_nome[id] = "ï¿½192192192"
-moderador_cor_nome[id] = "ï¿½192192192"
-membro_cor_nome[id] = "ï¿½192192192"
-vip_cor_nome[id] = "ï¿½192192192"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½192192192Cinza Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©192192192"
+admin_cor_nome[id] = "©192192192"
+moderador_cor_nome[id] = "©192192192"
+membro_cor_nome[id] = "©192192192"
+vip_cor_nome[id] = "©192192192"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©192192192Cinza Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 4 then
-host_cor_nome[id] = "ï¿½128128128"
-admin_cor_nome[id] = "ï¿½128128128"
-moderador_cor_nome[id] = "ï¿½128128128"
-membro_cor_nome[id] = "ï¿½128128128"
-vip_cor_nome[id] = "ï¿½128128128"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½128128128Cinza Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©128128128"
+admin_cor_nome[id] = "©128128128"
+moderador_cor_nome[id] = "©128128128"
+membro_cor_nome[id] = "©128128128"
+vip_cor_nome[id] = "©128128128"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©128128128Cinza Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 5 then
-host_cor_nome[id] = "ï¿½255000000"
-admin_cor_nome[id] = "ï¿½255000000"
-moderador_cor_nome[id] = "ï¿½255000000"
-membro_cor_nome[id] = "ï¿½255000000"
-vip_cor_nome[id] = "ï¿½255000000"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½255000000Vermelho Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©255000000"
+admin_cor_nome[id] = "©255000000"
+moderador_cor_nome[id] = "©255000000"
+membro_cor_nome[id] = "©255000000"
+vip_cor_nome[id] = "©255000000"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©255000000Vermelho Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 6 then
-host_cor_nome[id] = "ï¿½128000000"
-admin_cor_nome[id] = "ï¿½128000000"
-moderador_cor_nome[id] = "ï¿½128000000"
-membro_cor_nome[id] = "ï¿½128000000"
-vip_cor_nome[id] = "ï¿½128000000"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½128000000Vermelho Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©128000000"
+admin_cor_nome[id] = "©128000000"
+moderador_cor_nome[id] = "©128000000"
+membro_cor_nome[id] = "©128000000"
+vip_cor_nome[id] = "©128000000"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©128000000Vermelho Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 7 then
-host_cor_nome[id] = "ï¿½255255000"
-admin_cor_nome[id] = "ï¿½255255000"
-moderador_cor_nome[id] = "ï¿½255255000"
-membro_cor_nome[id] = "ï¿½255255000"
-vip_cor_nome[id] = "ï¿½255255000"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½255255000Amarelo Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©255255000"
+admin_cor_nome[id] = "©255255000"
+moderador_cor_nome[id] = "©255255000"
+membro_cor_nome[id] = "©255255000"
+vip_cor_nome[id] = "©255255000"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©255255000Amarelo Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 8 then
-host_cor_nome[id] = "ï¿½128128000"
-admin_cor_nome[id] = "ï¿½128128000"
-moderador_cor_nome[id] = "ï¿½128128000"
-membro_cor_nome[id] = "ï¿½128128000"
-vip_cor_nome[id] = "ï¿½128128000"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½128128000Amarelo Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©128128000"
+admin_cor_nome[id] = "©128128000"
+moderador_cor_nome[id] = "©128128000"
+membro_cor_nome[id] = "©128128000"
+vip_cor_nome[id] = "©128128000"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©128128000Amarelo Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 9 then
 menu(id,"Escolha a cor do Nome 2/2,Verde|Claro,Verde|Escuro,Ciano|Escuro,Azul|Claro,Azul|Escuro,Rosa|Claro,Rosa|Escuro,Roxo|Claro,Voltar")
@@ -803,76 +803,76 @@ end
 
 if title == "Escolha a cor do Nome 2/2" then
 if button == 1 then
-host_cor_nome[id] = "ï¿½000255000"
-admin_cor_nome[id] = "ï¿½000255000"
-moderador_cor_nome[id] = "ï¿½000255000"
-membro_cor_nome[id] = "ï¿½000255000"
-vip_cor_nome[id] = "ï¿½000255000"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½000255000Verde Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©000255000"
+admin_cor_nome[id] = "©000255000"
+moderador_cor_nome[id] = "©000255000"
+membro_cor_nome[id] = "©000255000"
+vip_cor_nome[id] = "©000255000"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©000255000Verde Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 2 then
-host_cor_nome[id] = "ï¿½000128000"
-admin_cor_nome[id] = "ï¿½000128000"
-moderador_cor_nome[id] = "ï¿½000128000"
-membro_cor_nome[id] = "ï¿½000128000"
-vip_cor_nome[id] = "ï¿½000128000"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½000128000Verde Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©000128000"
+admin_cor_nome[id] = "©000128000"
+moderador_cor_nome[id] = "©000128000"
+membro_cor_nome[id] = "©000128000"
+vip_cor_nome[id] = "©000128000"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©000128000Verde Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 3 then
-host_cor_nome[id] = "ï¿½000128128"
-admin_cor_nome[id] = "ï¿½000128128"
-moderador_cor_nome[id] = "ï¿½000128128"
-membro_cor_nome[id] = "ï¿½000128128"
-vip_cor_nome[id] = "ï¿½000128128"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½000128128Ciano Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©000128128"
+admin_cor_nome[id] = "©000128128"
+moderador_cor_nome[id] = "©000128128"
+membro_cor_nome[id] = "©000128128"
+vip_cor_nome[id] = "©000128128"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©000128128Ciano Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 4 then
-host_cor_nome[id] = "ï¿½000000255"
-admin_cor_nome[id] = "ï¿½000000255"
-moderador_cor_nome[id] = "ï¿½000000255"
-membro_cor_nome[id] = "ï¿½000000255"
-vip_cor_nome[id] = "ï¿½000000255"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½000000255Azul Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©000000255"
+admin_cor_nome[id] = "©000000255"
+moderador_cor_nome[id] = "©000000255"
+membro_cor_nome[id] = "©000000255"
+vip_cor_nome[id] = "©000000255"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©000000255Azul Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 5 then
-host_cor_nome[id] = "ï¿½000000128"
-admin_cor_nome[id] = "ï¿½000000128"
-moderador_cor_nome[id] = "ï¿½000000128"
-membro_cor_nome[id] = "ï¿½000000128"
-vip_cor_nome[id] = "ï¿½000000128"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½000000128Azul Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©000000128"
+admin_cor_nome[id] = "©000000128"
+moderador_cor_nome[id] = "©000000128"
+membro_cor_nome[id] = "©000000128"
+vip_cor_nome[id] = "©000000128"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©000000128Azul Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 6 then
-host_cor_nome[id] = "ï¿½255000255"
-admin_cor_nome[id] = "ï¿½255000255"
-moderador_cor_nome[id] = "ï¿½255000255"
-membro_cor_nome[id] = "ï¿½255000255"
-vip_cor_nome[id] = "ï¿½255000255"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½255000255Rosa Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©255000255"
+admin_cor_nome[id] = "©255000255"
+moderador_cor_nome[id] = "©255000255"
+membro_cor_nome[id] = "©255000255"
+vip_cor_nome[id] = "©255000255"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©255000255Rosa Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 7 then
-host_cor_nome[id] = "ï¿½128000128"
-admin_cor_nome[id] = "ï¿½128000128"
-moderador_cor_nome[id] = "ï¿½128000128"
-membro_cor_nome[id] = "ï¿½128000128"
-vip_cor_nome[id] = "ï¿½128000128"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½128000128Rosa Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©128000128"
+admin_cor_nome[id] = "©128000128"
+moderador_cor_nome[id] = "©128000128"
+membro_cor_nome[id] = "©128000128"
+vip_cor_nome[id] = "©128000128"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©128000128Rosa Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 8 then
-host_cor_nome[id] = "ï¿½080000150"
-admin_cor_nome[id] = "ï¿½080000150"
-moderador_cor_nome[id] = "ï¿½080000150"
-membro_cor_nome[id] = "ï¿½080000150"
-vip_cor_nome[id] = "ï¿½080000150"
-msg2(id,""..mesg.."[Servidor] Cor do nome mudado para ï¿½ï¿½080000150Roxo Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_nome[id] = "©080000150"
+admin_cor_nome[id] = "©080000150"
+moderador_cor_nome[id] = "©080000150"
+membro_cor_nome[id] = "©080000150"
+vip_cor_nome[id] = "©080000150"
+msg2(id,""..mesg.."[Servidor] Cor do nome mudado para »©080000150Roxo Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 9 then
 menu(id,"Escolha a cor do Nome 1/2,Branco,Preto,Cinza|Claro,Cinza|Escuro,Vermelho|Claro,Vermelho|Escuro,Amarelo|Claro,Amarelo|Escuro,Proximo")
@@ -881,76 +881,76 @@ end
 
 if title == "Escolha a cor da Fala 1/2" then
 if button == 1 then
-host_cor_fala[id] = "ï¿½255255255"
-admin_cor_fala[id] = "ï¿½255255255"
-moderador_cor_fala[id] = "ï¿½255255255"
-membro_cor_fala[id] = "ï¿½255255255"
-vip_cor_fala[id] = "ï¿½255255255"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½255255255Branco"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©255255255"
+admin_cor_fala[id] = "©255255255"
+moderador_cor_fala[id] = "©255255255"
+membro_cor_fala[id] = "©255255255"
+vip_cor_fala[id] = "©255255255"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©255255255Branco"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 2 then
-host_cor_fala[id] = "ï¿½000000000"
-admin_cor_fala[id] = "ï¿½000000000"
-moderador_cor_fala[id] = "ï¿½000000000"
-membro_cor_fala[id] = "ï¿½000000000"
-vip_cor_fala[id] = "ï¿½000000000"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½000000000Preto"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©000000000"
+admin_cor_fala[id] = "©000000000"
+moderador_cor_fala[id] = "©000000000"
+membro_cor_fala[id] = "©000000000"
+vip_cor_fala[id] = "©000000000"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©000000000Preto"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 3 then
-host_cor_fala[id] = "ï¿½192192192"
-admin_cor_fala[id] = "ï¿½192192192"
-moderador_cor_fala[id] = "ï¿½192192192"
-membro_cor_fala[id] = "ï¿½192192192"
-vip_cor_fala[id] = "ï¿½192192192"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½192192192Cinza Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©192192192"
+admin_cor_fala[id] = "©192192192"
+moderador_cor_fala[id] = "©192192192"
+membro_cor_fala[id] = "©192192192"
+vip_cor_fala[id] = "©192192192"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©192192192Cinza Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 4 then
-host_cor_fala[id] = "ï¿½128128128"
-admin_cor_fala[id] = "ï¿½128128128"
-moderador_cor_fala[id] = "ï¿½128128128"
-membro_cor_fala[id] = "ï¿½128128128"
-vip_cor_fala[id] = "ï¿½128128128"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½128128128Cinza Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©128128128"
+admin_cor_fala[id] = "©128128128"
+moderador_cor_fala[id] = "©128128128"
+membro_cor_fala[id] = "©128128128"
+vip_cor_fala[id] = "©128128128"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©128128128Cinza Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 5 then
-host_cor_fala[id] = "ï¿½255000000"
-admin_cor_fala[id] = "ï¿½255000000"
-moderador_cor_fala[id] = "ï¿½255000000"
-membro_cor_fala[id] = "ï¿½255000000"
-vip_cor_fala[id] = "ï¿½255000000"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½255000000Vermelho Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©255000000"
+admin_cor_fala[id] = "©255000000"
+moderador_cor_fala[id] = "©255000000"
+membro_cor_fala[id] = "©255000000"
+vip_cor_fala[id] = "©255000000"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©255000000Vermelho Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 6 then
-host_cor_fala[id] = "ï¿½128000000"
-admin_cor_fala[id] = "ï¿½128000000"
-moderador_cor_fala[id] = "ï¿½128000000"
-membro_cor_fala[id] = "ï¿½128000000"
-vip_cor_fala[id] = "ï¿½128000000"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½128000000Vermelho Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©128000000"
+admin_cor_fala[id] = "©128000000"
+moderador_cor_fala[id] = "©128000000"
+membro_cor_fala[id] = "©128000000"
+vip_cor_fala[id] = "©128000000"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©128000000Vermelho Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 7 then
-host_cor_fala[id] = "ï¿½255255000"
-admin_cor_fala[id] = "ï¿½255255000"
-moderador_cor_fala[id] = "ï¿½255255000"
-membro_cor_fala[id] = "ï¿½255255000"
-vip_cor_fala[id] = "ï¿½255255000"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½255255000Amarelo Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©255255000"
+admin_cor_fala[id] = "©255255000"
+moderador_cor_fala[id] = "©255255000"
+membro_cor_fala[id] = "©255255000"
+vip_cor_fala[id] = "©255255000"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©255255000Amarelo Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 8 then
-host_cor_fala[id] = "ï¿½128128000"
-admin_cor_fala[id] = "ï¿½128128000"
-moderador_cor_fala[id] = "ï¿½128128000"
-membro_cor_fala[id] = "ï¿½128128000"
-vip_cor_fala[id] = "ï¿½128128000"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½128128000Amarelo Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©128128000"
+admin_cor_fala[id] = "©128128000"
+moderador_cor_fala[id] = "©128128000"
+membro_cor_fala[id] = "©128128000"
+vip_cor_fala[id] = "©128128000"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©128128000Amarelo Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 9 then
 menu(id,"Escolha a cor da Fala 2/2,Verde|Claro,Verde|Escuro,Ciano|Escuro,Azul|Claro,Azul|Escuro,Rosa|Claro,Rosa|Escuro,Roxo|Claro,Voltar")
@@ -959,76 +959,76 @@ end
 
 if title == "Escolha a cor da Fala 2/2" then
 if button == 1 then
-host_cor_fala[id] = "ï¿½000255000"
-admin_cor_fala[id] = "ï¿½000255000"
-moderador_cor_fala[id] = "ï¿½000255000"
-membro_cor_fala[id] = "ï¿½000255000"
-vip_cor_fala[id] = "ï¿½000255000"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½000255000Verde Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©000255000"
+admin_cor_fala[id] = "©000255000"
+moderador_cor_fala[id] = "©000255000"
+membro_cor_fala[id] = "©000255000"
+vip_cor_fala[id] = "©000255000"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©000255000Verde Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 2 then
-host_cor_fala[id] = "ï¿½000128000"
-admin_cor_fala[id] = "ï¿½000128000"
-moderador_cor_fala[id] = "ï¿½000128000"
-membro_cor_fala[id] = "ï¿½000128000"
-vip_cor_fala[id] = "ï¿½000128000"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½000128000Verde Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©000128000"
+admin_cor_fala[id] = "©000128000"
+moderador_cor_fala[id] = "©000128000"
+membro_cor_fala[id] = "©000128000"
+vip_cor_fala[id] = "©000128000"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©000128000Verde Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 3 then
-host_cor_fala[id] = "ï¿½000128128"
-admin_cor_fala[id] = "ï¿½000128128"
-moderador_cor_fala[id] = "ï¿½000128128"
-membro_cor_fala[id] = "ï¿½000128128"
-vip_cor_fala[id] = "ï¿½000128128"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½000128128Ciano Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©000128128"
+admin_cor_fala[id] = "©000128128"
+moderador_cor_fala[id] = "©000128128"
+membro_cor_fala[id] = "©000128128"
+vip_cor_fala[id] = "©000128128"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©000128128Ciano Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 4 then
-host_cor_fala[id] = "ï¿½000000255"
-admin_cor_fala[id] = "ï¿½000000255"
-moderador_cor_fala[id] = "ï¿½000000255"
-membro_cor_fala[id] = "ï¿½000000255"
-vip_cor_fala[id] = "ï¿½000000255"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½000000255Azul Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©000000255"
+admin_cor_fala[id] = "©000000255"
+moderador_cor_fala[id] = "©000000255"
+membro_cor_fala[id] = "©000000255"
+vip_cor_fala[id] = "©000000255"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©000000255Azul Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 5 then
-host_cor_fala[id] = "ï¿½000000128"
-admin_cor_fala[id] = "ï¿½000000128"
-moderador_cor_fala[id] = "ï¿½000000128"
-membro_cor_fala[id] = "ï¿½000000128"
-vip_cor_fala[id] = "ï¿½000000128"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½000000128Azul Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©000000128"
+admin_cor_fala[id] = "©000000128"
+moderador_cor_fala[id] = "©000000128"
+membro_cor_fala[id] = "©000000128"
+vip_cor_fala[id] = "©000000128"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©000000128Azul Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 6 then
-host_cor_fala[id] = "ï¿½255000255"
-admin_cor_fala[id] = "ï¿½255000255"
-moderador_cor_fala[id] = "ï¿½255000255"
-membro_cor_fala[id] = "ï¿½255000255"
-vip_cor_fala[id] = "ï¿½255000255"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½255000255Rosa Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©255000255"
+admin_cor_fala[id] = "©255000255"
+moderador_cor_fala[id] = "©255000255"
+membro_cor_fala[id] = "©255000255"
+vip_cor_fala[id] = "©255000255"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©255000255Rosa Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 7 then
-host_cor_fala[id] = "ï¿½128000128"
-admin_cor_fala[id] = "ï¿½128000128"
-moderador_cor_fala[id] = "ï¿½128000128"
-membro_cor_fala[id] = "ï¿½128000128"
-vip_cor_fala[id] = "ï¿½128000128"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½128000128Rosa Escuro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©128000128"
+admin_cor_fala[id] = "©128000128"
+moderador_cor_fala[id] = "©128000128"
+membro_cor_fala[id] = "©128000128"
+vip_cor_fala[id] = "©128000128"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©128000128Rosa Escuro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 8 then
-host_cor_fala[id] = "ï¿½080000150"
-admin_cor_fala[id] = "ï¿½080000150"
-moderador_cor_fala[id] = "ï¿½080000150"
-membro_cor_fala[id] = "ï¿½080000150"
-vip_cor_fala[id] = "ï¿½080000150"
-msg2(id,""..mesg.."[Servidor] Cor da fala mudado para ï¿½ï¿½080000150Roxo Claro"..mesg.."ï¿½")
-menu(id,"Mudanï¿½a de Cor,Cargo,Nome,Fala")
+host_cor_fala[id] = "©080000150"
+admin_cor_fala[id] = "©080000150"
+moderador_cor_fala[id] = "©080000150"
+membro_cor_fala[id] = "©080000150"
+vip_cor_fala[id] = "©080000150"
+msg2(id,""..mesg.."[Servidor] Cor da fala mudado para »©080000150Roxo Claro"..mesg.."«")
+menu(id,"Mudança de Cor,Cargo,Nome,Fala")
 
 elseif button == 9 then
 menu(id,"Escolha a cor da Fala 1/2,Branco,Preto,Cinza|Claro,Cinza|Escuro,Vermelho|Claro,Vermelho|Escuro,Amarelo|Claro,Amarelo|Escuro,Proximo")
@@ -1044,7 +1044,7 @@ if usgn ~= 0 and tempo == 0 then
 if player(usgn,"usgn") ~= 0 then
 msg(""..mesg.."[Servidor] USGN do(a) "..player(usgn,"name")..": "..player(usgn,"usgn").."")
 else
-msg(""..mesg.."[Servidor] "..player(usgn,"name").." nï¿½o possuï¿½ USGN")
+msg(""..mesg.."[Servidor] "..player(usgn,"name").." não possuí USGN")
 end
 usgn = 0
 end
