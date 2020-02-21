@@ -1,4 +1,138 @@
-﻿### 1.0.0.7 p2 - 15.04.2018
+﻿### 1.0.1.1 - 16.12.2019
+
+ [FIXED] Grenades/projectiles on ground were sometimes rendered with wrong grenade type image
+ [FIXED] Some melee weapons (chainsaw, machete, ...) were dropped even with mp_deathdrop 4
+ [FIXED] Leaderboard window displayed only 99 players instead of 100
+ [ADDED] XML format support for server info
+ [ADDED] Additional damage paramter for Lua hook "shieldhit"
+ [ADDED] "weaponmode" parameter to Lua player command
+ [ADDED] Command "hudtxtclear" (clears all HUD texts efficiently)
+ [ADDED] Lua hook "hostageuse" (when a hostage is used)
+ [ADDED] Lua hook "hostagedamage" (when a hostage is "damaged" by a player)
+ [ADDED] Lua hook "hostagekill" (when a hostage is killed)
+ [ADDED] Server info request response limit (reduces server vulnerability to some attacks a bit)
+
+
+### 1.0.1.0 p1 - 06.11.2019
+
+ [FIXED] Lua addbind did not work anymore at all after 1.0.1.0 update
+
+
+### 1.0.1.0 - 06.11.2019
+
+ [FIXED] hudtxtalphafade and hudtxtmove did not work with IDs >= 50
+ [FIXED] animation tweens (tween_animate) were not sent correctly to players joining after creation
+ [FIXED] SG552/Aug invoked Lua reload hook with mode 0 instead of 1 when reloading while using scope
+ [FIXED] Rendering issues with old maps containing the deprecated Info_OldRender entity
+ [FIXED] Lag compensation did not work at all on dedicated servers
+ [FIXED] Network shot handling for shot packets which arrived too quickly wasn't working correctly
+ [CHANGED] Lua command addbind is no longer case sensitive (e.g. it now works with "a" and "A")
+ [ADDED] Discord link added to main menu
+ [ADDED] Server log now also shows Steam login info when a new player connects
+ [ADDED] "-" prefix for mp_buymenu to disable the visual buy menu silently
+ [ADDED] Lua command removebind (removes a single Lua key)
+ [ADDED] Lua command removeallbinds (removes all Lua key binds)
+ [ADDED] Additional projectileid paramter for Lua hook "projectile"
+ [ADDED] Lua hook "projectile_impact" (when projectiles hit walls/ground)
+ [FIXED] Lua key binds which were added AFTER players connected did not work for these clients
+ [FIXED] It was possible to add the same Lua key binds multiple times, causing follow up issues
+ [REMOVED] Physics checkbox removed from server settings (not enough space, too broken)
+
+
+### 1.0.0.9 - 07.09.2019
+
+ [FIXED] Steam bans were not saved properly & USGN bans were also saved as Steam bans
+ [FIXED] English map voting localization said "sever" instead of "server"
+ [FIXED] Starting a server via commandline set the map to "" when no map was specified in arguments
+ [FIXED] Crash when using Lua "tween_frame" on dedicated servers
+ [FIXED] Crash when using "killplayer" command with no or bad player ID parameter
+ [FIXED] Issues when exceeding string length limit of 255 chars in some commands (new limit: 400 chars)
+ [FIXED] Lua command "tween_rotateconstantly" did not work properly with very low speed values
+ [ADDED] Lua command "tileproperty" (get the property value for a tile frame in the tileset)
+ [ADDED] Lua command "tween_animate" (constant frame animation for spritesheet images)
+ [ADDED] Lua hook "itemfadeout" (when item is being faded out)
+ [ADDED] "maptimeleft" parameter for Lua game command (returns remaining time on map in seconds)
+ [ADDED] "tilesize" parameter for Lua map command (returns size of tiles in current map: 32 or 64)
+ [ADDED] "alpha" parameter for imageparam and object Lua commands (returns alpha transparency)
+ [CHANGED] "name" Lua hook behavior improved for delayed player name changes
+ [CHANGED] hudtxt/hudtxt2 ID limit raised from 50 to 200 (IDs 0-199)
+ [CHANGED] Updated cursors.lua example to use player command instead of deprecated reqcld approach
+
+
+### 1.0.0.8 p2 - 23.03.2019
+
+ [FIXED] Flags in entities (Info_CTF_Flag, Info_Dom_Point) were invisible since 1.0.0.8
+ [FIXED] Leaderboard scrolled one entry too much
+ [FIXED] Scoreboard mute icon overlapped other icons
+
+
+### 1.0.0.8 p1 - 07.03.2019
+
+ [FIXED] Invisible items when joining a server without physics after playing on a server with physics
+ [FIXED] Possible crash when looking at 99th place in leaderboard
+ [FIXED] "rank" did not display assists and mvps for Steam accounts (server version 3.0)
+ [CHANGED] Server filter window now has a 2 column layout
+ [CHANGED] Updated Chinese translation (simplified & traditional)
+ [ADDED] Changelog.txt can now be opened by clicking version number in main menu
+
+
+### 1.0.0.8 - 28.02.2019
+
+ [FIXED] U.S.G.N avatars were not downloaded
+ [FIXED] Tile FX did not work for 64px tilesets
+ [FIXED] MVP and Assists were not saved properly in stats/rank system
+ [FIXED] Mouse spectation disappeared after killcam transition
+ [FIXED] Quake shake effect was too long when having a low frame rate
+ [FIXED] Bullet shells fade out took too long when having a low frame rate
+ [FIXED] Tween duration was capped at 65535 ms for all tweens (cap removed)
+ [FIXED] Some tweens did not work properly when having a huge number of dynamic objects (over 32k)
+ [FIXED] Lua HTTP request stopped working after first failure
+ [FIXED] Server mod cache did not load properly for clients
+ [FIXED] Lighting issues when dynamic objects were updated near light sources
+ [FIXED] Using the last tile in a tileset with settile command did not work
+ [FIXED] Pasting texts with line breaks in editor broke maps (line breaks and tabs are now sripped when pasting)
+ [FIXED] Lua hook "shieldhit" led to crash when shield was hit by turret which was not built by a player
+ [FIXED] Some Gen_FX / Gen_Weather particles were not visible in map editor anymore
+ [FIXED] Decals on walls and obstacles were invisible
+ [FIXED] Map background image was invisible in most cases
+ [FIXED] Command setbackground did not work properly in most cases
+ [FIXED] Map transfer "Overwrite" option not working correctly for clients who disabled downloads completely
+ [FIXED] Clients were sometimes able to use wrong maps - added a second checksum validation (after loading map)
+ [CHANGED] Join hook is now called AFTER map loading (+ new "connect" hook introduced)
+ [CHANGED] "Quick Play" will now prefer servers with at least 3 human players, lower chance to join empty servers
+ [CHANGED] "Quick Play" will now exclude servers with non-standard mode maps (everything not as/cs/de)
+ [CHANGED] Improved "Quick Play" UI
+ [CHANGED] addbind returns true only when it was added succesfully
+ [CHANGED] addbind prints console error if key does not exist
+ [CHANGED] Entity limit in maps increased from 10k to 100k
+ [CHANGED] When changing sv_specmode the new mode is displayed in center of the screen
+ [ADDED] Server leaderboards (in-game top 100 rank list, accessible via ESC-menu)
+ [ADDED] mwheeldown and mwheelup addbind keys
+ [ADDED] ®path text tag (draws image in chat)
+ [ADDED] Chainsaw particles when hitting walls or obstacles
+ [ADDED] Physics with Lua support
+ [ADDED] Command "damagetile"
+ [ADDED] Lua command "raycast"
+ [ADDED] Lua command "inPhysicsObject"
+ [ADDED] Lua command "closeplayers" (get all players inside a certain radius around a point)
+ [ADDED] Lua command "hascloseplayers" (checks if any player is inside a certain radius around a point)
+ [ADDED] Lua hook "onhit"
+ [ADDED] Lua hook "connect" (when a player STARTS to connect, triggered before "join"-hook)
+ [ADDED] Lua hook "clientsetting" (when a player changes settings)
+ [ADDED] Lua hook "oncollision"
+ [ADDED] Lua hook "oncollisionhit"
+ [ADDED] Lua hook "oncollisionenter"
+ [ADDED] Lua hook "oncollisionleave"
+ [ADDED] "micsupport" parameter for Lua player command (does player have microphone support?)
+ [ADDED] "widescreen" parameter for Lua player command (1 if running in widescreen mode, 0 if 4:3 res)
+ [ADDED] "windowed" parameter for Lua player command (does player run game in window?)
+ [ADDED] "language" parameter for Lua player command (language of the player)
+ [ADDED] "language_iso" parameter for Lua player command (ISO code of the language of the player)
+ [ADDED] "ticks" parameter for Lua game command (server tick/refresh rate)
+ [ADDED] "timeleft" parameter for Lua game command (remaining round time in seconds)
+
+
+### 1.0.0.7 p2 - 15.04.2018
 
  [FIXED] Progress in loading screen sometimes went beyond length of loading bar
  [FIXED] FPS debug was hidden when loading maps
@@ -18,7 +152,7 @@
  [FIXED] "has downloads"-filter did not work
  [FIXED] Error when unloading mods with HD skins
 
- 
+
 ### 1.0.0.7 - 07.04.2018
 
  [FIXED] "-nointro" command line parameter led to crash
@@ -59,6 +193,7 @@
  [ADDED] Command "menu_voxelweapons" to enable/disabled spinning 3D voxel weapons in buy menu
  [ADDED] Command "effect" now supports new particle types "blood" and "sparkles"
  [ADDED] Command "clear" to clear the console output
+ [ADDED] Bullet shell images "gfx/shells.png"
  [ADDED] Lua: better require support (now looks in sys/lua/ and mods/, as well as in mods/<MODNAME>/lua/ when executed from mods/<MODNAME>/lua/main.lua)
  [ADDED] Lua command os.millisecs (gets the number of milliseconds since the game's start)
  [ADDED] Lua command os.info (gets information about the server's OS)
@@ -70,7 +205,7 @@
  [ADDED] Warning message if server info is empty
  [ADDED] Commandline parameter "-nosfx" to disable audio loading (for faster loading on low end systems)
  [REMOVED] Launcher.exe removed from Windows Steam client (did not work properly with Steam)
- 
+
 
 ### 1.0.0.6 - 03.12.2017
 
@@ -141,7 +276,7 @@
  [ADDED] Language flags in language selection combo box
  [ADDED] Language flag in bottom right corner of main menu for easy language switching
 
- 
+
 ### 1.0.0.5 p2 - 18.11.2017
 
  [FIXED] Action messages offset when radar is disabled
@@ -156,7 +291,7 @@
  [ADDED] Lua command steamstats
  [ADDED] Lua image avatar loading when using path "<avatar:id>"
 
- 
+
 ### 1.0.0.5 p1 - 17.11.2017
 
  [FIXED] Flash/scope did not cover entire screen in some resolutions
@@ -168,11 +303,11 @@
  [CHANGED] Servers appear quicker in the server list by using a cached list
  [ADDED] Introducing Steam client patches (visible in main menu version info with "pX")
 
- 
+
 ### 1.0.0.5 - 15.11.2017
- 
+
  [INFO] First release with Steam support (Win client only)
- 
+
  [FIXED] Various voice chat issues and stability problems
  [FIXED] Various visual lighting engine issues
  [FIXED] Various minor visual HUD / tooltip issues
@@ -320,7 +455,7 @@
  [ADDED] logmaxflushrate setting (how frequently in millseconds can logs be flushed = written to drive, default 1000 ms)
  [REMOVED] Info_OldRender hidden from editor entity list because it's deprecated and not working properly anymore
 
- 
+
 ### 1.0.0.3 - 30.04.2017
 
  [FIXED] Main menu music kept playing when game server was started with commandline parameters
@@ -590,7 +725,7 @@
  [ADDED] "hascustomframe" and "originalframe" parameters for Lua tile command
  [ADDED] sys/lua/samples/tilemapper.lua example script
 
- 
+
 ### Beta 0.1.2.3 - 10.12.2013
 
  [FIXED] Reload / weapon switch spam server vulnerability
@@ -630,7 +765,7 @@
  [ADDED] Link button in "more"-tabs (options/server) to open online reference for selected setting
  [ADDED] Shadow background for HUD progress bar (reload/plant/defuse) to increase visibility
 
- 
+
 ### Beta 0.1.2.2 Hotfix - 15.02.2013
 
  [INFO] This is just a hotfix to fix some crucial problems. It is optional. The version number is not changed.
@@ -1169,7 +1304,7 @@
 
 
 ### Beta 0.1.1.5 - 19.06.2009
- 
+
  [WARNING] Hostages can't use portals/teleporters
  [WARNING] Don't use portals/teleporters when playing with bots
 
@@ -1727,7 +1862,7 @@
  [FIXED] Internal serverlist bug
  [CHANGED] New Unreal Software logo
 
- 
+
 ### Beta 0.1.0.3 - 23.01.2007
  
  [CHANGED] U.S.G.N.
@@ -1891,7 +2026,7 @@
 
 
 ### Alpha 0.0.2.8 - 30.05.2004
- 
+
  [FIXED] Fehlerhafte Armor Anzeige / Übertragung
  [FIXED] Parser Bug bei Parametern
  [FIXED] Bestimmte Radio Messages wurden an alle gesendet

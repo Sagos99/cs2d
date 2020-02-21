@@ -720,9 +720,9 @@
 0716=Your last building has not been finished yet
 0717=You are the server! You can't vote!
 0718=Voted player does not exist
-0719=Voted map is not available on this sever
+0719=Voted map is not available on this server
 0720=Kick voting is disabled on this server
-0721=Map voting is disabled on this sever
+0721=Map voting is disabled on this server
 0722=Please wait 15 seconds before voting again
 0723=votes to kick
 0724=Press [$1] to vote!
@@ -962,9 +962,9 @@
 0958=Version
 0959=Off-Screen Damage
 0960=has downloads
-0961=
-0962=
-0963=
+0961=Physics (experimental)
+0962=Leaderboard is unavailable
+0963=Last updated
 0964=
 0965=
 0966=

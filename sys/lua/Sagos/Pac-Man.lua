@@ -1,0 +1,5 @@
+-------------------------------------------------------------
+------------------Script Pac-Man 1.0 By Sagos----------------
+-------------------Criado no dia 13/12/2016------------------ queria criar pelo menos mas sou idiota e não fiz
+------------------------------------------------------------- a Gabe não me merece, ela com certeza merece alguem muito melhor =/
+-- a melhor pessoa do mundo merece o melhor homem do mundo e esse não sou eu

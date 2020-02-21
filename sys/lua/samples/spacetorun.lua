@@ -7,7 +7,7 @@ if sample==nil then sample={} end
 sample.run={}
 
 --------------------------------------
--- MAKE SPACE TO RUN                --
+-- HIT SPACE TO RUN                 --
 --------------------------------------
 addbind("space")
 addhook("key","sample.run.bind")

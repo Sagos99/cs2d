@@ -962,9 +962,9 @@
 0958=Version
 0959=Off-Screen Schaden
 0960=hat Downloads
-0961=
-0962=
-0963=
+0961=Physik (experimentell)
+0962=Rangliste nicht verfügbar
+0963=Letzte Aktualisierung
 0964=
 0965=
 0966=

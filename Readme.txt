@@ -2,7 +2,7 @@ Thank you for downloading CS2D!
 (...and for actually reading a readme file)
 
 CS2D is freeware
-Copyright © 2002-2018 Unreal Software
+Copyright © 2002-2019 Unreal Software
 www.UnrealSoftware.de
 www.CS2D.com
 
@@ -121,7 +121,7 @@ IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS.
 
 Special thanks to:
 
-BlazingEyed - Lights&shadows engine
+Simonas 'SQ' Kuzmickas - code
 DarkShadow - many dropped weapon images
 Heavy - death notice weapon images
 DivineDominion - CS2D guys pyramide image

@@ -1,1 +1,1 @@
-dofile("sys/lua/SagosWins/Server.lua")
+dofile("sys/lua/Sagos/Server.lua")
